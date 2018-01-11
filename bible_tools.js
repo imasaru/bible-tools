@@ -235,7 +235,7 @@ var fetch = function(lang, version, book, chapter, verse){
             bookRegExp += bibleInfo.books[i].synonyms[j].bibleSynonymOptimization() + "|";
         }
         bookRegExp = bookRegExp.customTrim("| ");
-        if (book.match(new RegExp(bookRegExp, "g"))){
+        if (book.match(new RegExp("^"+bookRegExp, "g"))){
             var bibleBook = require("./bibles/" + lang + "/" + version + "/books/" + (i+1).toString().lpad(2));
 
             chapter = chapter.toString().customTrim(" ");

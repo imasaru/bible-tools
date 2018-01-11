@@ -7,7 +7,8 @@ var info = {
 			"numChapters": 50,
 			"synonyms": [
 				"Genèse",
-				"Ge?n"
+				"Ge?n",
+				"Gen"
 			]
 		},
 		{
@@ -15,7 +16,8 @@ var info = {
 			"numChapters": 40,
 			"synonyms": [
 				"Exode",
-				"Ex"
+				"Ex",
+				"Exod"
 			]
 		},
 		{
@@ -23,6 +25,7 @@ var info = {
 			"numChapters": 27,
 			"synonyms": [
 				"Lévitique",
+				"Lev",
 				"Lev"
 			]
 		},
@@ -31,7 +34,8 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"Nombres",
-				"N(b|om)"
+				"N(b|om)",
+				"Num"
 			]
 		},
 		{
@@ -39,6 +43,7 @@ var info = {
 			"numChapters": 34,
 			"synonyms": [
 				"Deutéronome",
+				"Deut",
 				"Deut"
 			]
 		},
@@ -47,7 +52,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"Josué",
-				"Jos"
+				"Jos",
+				"Josh"
 			]
 		},
 		{
@@ -55,7 +61,8 @@ var info = {
 			"numChapters": 21,
 			"synonyms": [
 				"Juges",
-				"Ju?g"
+				"Ju?g",
+				"Judg"
 			]
 		},
 		{
@@ -63,7 +70,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Ruth",
-				"Rt"
+				"Rt",
+				"Ruth"
 			]
 		},
 		{
@@ -71,7 +79,8 @@ var info = {
 			"numChapters": 31,
 			"synonyms": [
 				"1 Samuel",
-				"1 Sam"
+				"1 Sam",
+				"1Sam"
 			]
 		},
 		{
@@ -79,7 +88,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"2 Samuel",
-				"2 Sam"
+				"2 Sam",
+				"2Sam"
 			]
 		},
 		{
@@ -87,7 +97,8 @@ var info = {
 			"numChapters": 22,
 			"synonyms": [
 				"1 Rois",
-				"1 R"
+				"1 R",
+				"1Kgs"
 			]
 		},
 		{
@@ -95,7 +106,8 @@ var info = {
 			"numChapters": 25,
 			"synonyms": [
 				"2 Rois",
-				"2 R"
+				"2 R",
+				"2Kgs"
 			]
 		},
 		{
@@ -103,7 +115,8 @@ var info = {
 			"numChapters": 29,
 			"synonyms": [
 				"1 Chroniques",
-				"1 Ch(ron)?"
+				"1 Ch(ron)?",
+				"1Chr"
 			]
 		},
 		{
@@ -111,7 +124,8 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"2 Chroniques",
-				"2 Ch(ron)?"
+				"2 Ch(ron)?",
+				"2Chr"
 			]
 		},
 		{
@@ -119,7 +133,8 @@ var info = {
 			"numChapters": 10,
 			"synonyms": [
 				"Esdras",
-				"Esd"
+				"Esd",
+				"Ezra"
 			]
 		},
 		{
@@ -127,7 +142,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"Néhémie",
-				"Neh?"
+				"Neh?",
+				"Neh"
 			]
 		},
 		{
@@ -135,7 +151,8 @@ var info = {
 			"numChapters": 10,
 			"synonyms": [
 				"Esther",
-				"Est"
+				"Est",
+				"Esth"
 			]
 		},
 		{
@@ -151,6 +168,7 @@ var info = {
 			"numChapters": 150,
 			"synonyms": [
 				"Psaumes",
+				"Ps",
 				"Ps"
 			]
 		},
@@ -159,7 +177,8 @@ var info = {
 			"numChapters": 31,
 			"synonyms": [
 				"Proverbes",
-				"Pr(ov)?"
+				"Pr(ov)?",
+				"Prov"
 			]
 		},
 		{
@@ -167,7 +186,8 @@ var info = {
 			"numChapters": 12,
 			"synonyms": [
 				"Ecclésiaste",
-				"Ec"
+				"Ec",
+				"Eccl"
 			]
 		},
 		{
@@ -175,7 +195,8 @@ var info = {
 			"numChapters": 8,
 			"synonyms": [
 				"Cantique des Cantiques",
-				"Cant"
+				"Cant",
+				"Song"
 			]
 		},
 		{
@@ -183,7 +204,8 @@ var info = {
 			"numChapters": 66,
 			"synonyms": [
 				"Ésaïe",
-				"(E|I)sa"
+				"(E|I)sa",
+				"Isa"
 			]
 		},
 		{
@@ -191,7 +213,8 @@ var info = {
 			"numChapters": 52,
 			"synonyms": [
 				"Jérémie",
-				"Je?r"
+				"Je?r",
+				"Jer"
 			]
 		},
 		{
@@ -199,7 +222,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"Lamentations",
-				"La"
+				"La",
+				"Lam"
 			]
 		},
 		{
@@ -207,7 +231,8 @@ var info = {
 			"numChapters": 48,
 			"synonyms": [
 				"Ézéchiel",
-				"Ez(dr)?"
+				"Ez(dr)?",
+				"Ezek"
 			]
 		},
 		{
@@ -215,7 +240,8 @@ var info = {
 			"numChapters": 12,
 			"synonyms": [
 				"Daniel",
-				"Dan?"
+				"Dan?",
+				"Dan"
 			]
 		},
 		{
@@ -223,7 +249,8 @@ var info = {
 			"numChapters": 14,
 			"synonyms": [
 				"Osée",
-				"Os"
+				"Os",
+				"Hos"
 			]
 		},
 		{
@@ -231,7 +258,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Joël",
-				"Jl"
+				"Jl",
+				"Joel"
 			]
 		},
 		{
@@ -239,7 +267,8 @@ var info = {
 			"numChapters": 9,
 			"synonyms": [
 				"Amos",
-				"Am"
+				"Am",
+				"Amos"
 			]
 		},
 		{
@@ -247,7 +276,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"Abdias",
-				"Ab"
+				"Ab",
+				"Obad"
 			]
 		},
 		{
@@ -255,7 +285,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Jonas",
-				"Jon"
+				"Jon",
+				"Jonah"
 			]
 		},
 		{
@@ -263,6 +294,7 @@ var info = {
 			"numChapters": 7,
 			"synonyms": [
 				"Michée",
+				"Mic",
 				"Mic"
 			]
 		},
@@ -271,7 +303,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Nahum",
-				"Na"
+				"Na",
+				"Nah"
 			]
 		},
 		{
@@ -287,7 +320,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Sophonie",
-				"So"
+				"So",
+				"Zeph"
 			]
 		},
 		{
@@ -295,7 +329,8 @@ var info = {
 			"numChapters": 2,
 			"synonyms": [
 				"Aggée",
-				"Ag"
+				"Ag",
+				"Hag"
 			]
 		},
 		{
@@ -303,7 +338,8 @@ var info = {
 			"numChapters": 14,
 			"synonyms": [
 				"Zacharie",
-				"Zach"
+				"Zach",
+				"Zech"
 			]
 		},
 		{
@@ -311,7 +347,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Malachie",
-				"Mal?"
+				"Mal?",
+				"Mal"
 			]
 		},
 		{
@@ -319,7 +356,8 @@ var info = {
 			"numChapters": 28,
 			"synonyms": [
 				"Matthieu",
-				"Ma?tt?"
+				"Ma?tt?",
+				"Matt"
 			]
 		},
 		{
@@ -327,7 +365,8 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"Marc",
-				"Mc"
+				"Mc",
+				"Mark"
 			]
 		},
 		{
@@ -335,7 +374,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"Luc",
-				"Lc"
+				"Lc",
+				"Luke"
 			]
 		},
 		{
@@ -343,7 +383,8 @@ var info = {
 			"numChapters": 21,
 			"synonyms": [
 				"Jean",
-				"J(oh)?n"
+				"J(oh)?n",
+				"John"
 			]
 		},
 		{
@@ -351,7 +392,8 @@ var info = {
 			"numChapters": 28,
 			"synonyms": [
 				"Actes",
-				"Ac(ts|t)?"
+				"Ac(ts|t)?",
+				"Acts"
 			]
 		},
 		{
@@ -367,7 +409,8 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"1 Corinthiens",
-				"1 Cor"
+				"1 Cor",
+				"1Cor"
 			]
 		},
 		{
@@ -375,7 +418,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"2 Corinthiens",
-				"2 Cor"
+				"2 Cor",
+				"2Cor"
 			]
 		},
 		{
@@ -383,6 +427,7 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"Galates",
+				"Gal",
 				"Gal"
 			]
 		},
@@ -391,6 +436,7 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"Éphésiens",
+				"Eph",
 				"Eph"
 			]
 		},
@@ -399,7 +445,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Philippiens",
-				"Ph(il)?"
+				"Ph(il)?",
+				"Phil"
 			]
 		},
 		{
@@ -407,6 +454,7 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Colossiens",
+				"Col",
 				"Col"
 			]
 		},
@@ -415,7 +463,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Thessaloniciens",
-				"1 Th(ess)?"
+				"1 Th(ess)?",
+				"1Thess"
 			]
 		},
 		{
@@ -423,7 +472,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"2 Thessaloniciens",
-				"2 Th(ess)?"
+				"2 Th(ess)?",
+				"2Thess"
 			]
 		},
 		{
@@ -431,7 +481,8 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"1 Timothée",
-				"1 Tim"
+				"1 Tim",
+				"1Tim"
 			]
 		},
 		{
@@ -439,7 +490,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"2 Timothée",
-				"2 Tim"
+				"2 Tim",
+				"2Tim"
 			]
 		},
 		{
@@ -447,7 +499,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Tite",
-				"Tt"
+				"Tt",
+				"Titus"
 			]
 		},
 		{
@@ -455,7 +508,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"Philémon",
-				"Phm"
+				"Phm",
+				"Phlm"
 			]
 		},
 		{
@@ -463,7 +517,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"Hébreux",
-				"H(eb|éb?)"
+				"H(eb|éb?)",
+				"Heb"
 			]
 		},
 		{
@@ -471,7 +526,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"Jacques",
-				"Jc"
+				"Jc",
+				"Jas"
 			]
 		},
 		{
@@ -479,7 +535,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Pierre",
-				"1 Pie"
+				"1 Pie",
+				"1Pet"
 			]
 		},
 		{
@@ -487,7 +544,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"2 Pierre",
-				"2 Pie"
+				"2 Pie",
+				"2Pet"
 			]
 		},
 		{
@@ -495,7 +553,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Jean",
-				"1 Jn"
+				"1 Jn",
+				"1John"
 			]
 		},
 		{
@@ -503,7 +562,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"2 Jean",
-				"2 Jn"
+				"2 Jn",
+				"2John"
 			]
 		},
 		{
@@ -511,7 +571,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"3 Jean",
-				"3 Jn"
+				"3 Jn",
+				"3John"
 			]
 		},
 		{
@@ -527,7 +588,8 @@ var info = {
 			"numChapters": 22,
 			"synonyms": [
 				"Apocalypse",
-				"Ap(oc|o)?"
+				"Ap(oc|o)?",
+				"Rev"
 			]
 		}
 	]

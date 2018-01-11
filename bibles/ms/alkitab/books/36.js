@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zefanya",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<span>1 </span> Firman TUHAN yang datang kepada Zefanya bin Kusyi bin Gedalya bin Amarya bin Hizkia dalam zaman Yosia bin Amon, raja Yehuda.",
+			"2": "<span>2 </span> \"Aku akan menyapu bersih segala-galanya dari atas muka bumi, demikianlah firman TUHAN.",
+			"3": "<span>3 </span> Aku akan menyapu manusia dan hewan; Aku akan menyapu burung-burung di udara dan ikan-ikan di laut. Aku akan merebahkan orang-orang fasik dan akan melenyapkan manusia dari atas muka bumi, demikianlah firman TUHAN.",
+			"4": "<span>4 </span> Aku akan mengacungkan tangan-Ku terhadap Yehuda dan terhadap segenap penduduk Yerusalem. Aku akan melenyapkan dari tempat ini sisa-sisa Baal dan nama para imam berhala,",
+			"5": "<span>5 </span> juga mereka yang sujud menyembah di atas sotoh kepada tentara langit dan mereka yang menyembah dengan bersumpah setia kepada TUHAN, namun di samping itu bersumpah demi Dewa Milkom,",
+			"6": "<span>6 </span> serta mereka yang berbalik dari pada TUHAN, yang tidak mencari TUHAN dan tidak menanyakan petunjuk-Nya.\"",
+			"7": "<span>7 </span> Berdiam dirilah di hadapan Tuhan ALLAH! Sebab hari TUHAN sudah dekat. Sungguh TUHAN telah menyediakan perjamuan korban dan telah menguduskan para undangan-Nya.",
+			"8": "<span>8 </span> \"Pada hari perjamuan korban TUHAN itu Aku akan menghukum para pemuka, para anak-anak raja dan semua orang yang memakai pakaian asing.",
+			"9": "<span>9 </span> Aku akan menghukum pada hari itu semua orang yang melompati ambang pintu dan memenuhi istana tuan mereka dengan kekerasan dan penipuan.",
+			"10": "<span>10 </span> Maka pada hari itu, demikianlah firman TUHAN, akan terdengar teriakan dari Pintu Gerbang Ikan dan ratapan dari perkampungan baru dan bunyi keruntuhan hebat dari bukit-bukit.",
+			"11": "<span>11 </span> Merataplah, hai penduduk perkampungan Lumpang! Sebab telah habis segenap kaum pedagang, telah lenyap segenap penimbang perak.",
+			"12": "<span>12 </span> Pada waktu itu Aku akan menggeledah Yerusalem dengan memakai obor dan akan menghukum orang-orang yang telah mengental seperti anggur di atas endapannya dan yang berkata dalam hatinya: TUHAN tidak berbuat baik dan tidak berbuat jahat!",
+			"13": "<span>13 </span> Maka harta kekayaannya akan dirampas dan rumah-rumahnya akan menjadi sunyi sepi. Apabila mereka mendirikan rumah, mereka tidak akan mendiaminya; apabila mereka membuat kebun anggur, mereka tidak akan minum anggurnya.\"",
+			"14": "<span>14 </span> Sudah dekat hari TUHAN yang hebat itu, sudah dekat dan datang dengan cepat sekali! Dengar, hari TUHAN pahit, pahlawanpun akan menangis.",
+			"15": "<span>15 </span> Hari kegemasan hari itu, hari kesusahan dan kesulitan, hari kemusnahan dan pemusnahan, hari kegelapan dan kesuraman, hari berawan dan kelam,",
+			"16": "<span>16 </span> hari peniupan sangkakala dan pekik tempur terhadap kota-kota yang berkubu dan terhadap menara penjuru yang tinggi.",
+			"17": "<span>17 </span> Aku akan menyusahkan manusia, sehingga mereka berjalan seperti orang buta, sebab mereka telah berdosa kepada TUHAN. Darah mereka akan tercurah seperti debu dan usus mereka seperti tahi.",
+			"18": "<span>18 </span> Mereka tidak dapat diselamatkan oleh perak atau emas mereka pada hari kegemasan TUHAN, dan seluruh bumi akan dimakan habis oleh api cemburu-Nya; sebab kebinasaan, malah kebinasaan dahsyat diadakan-Nya terhadap segenap penduduk bumi."
+		},
+		"2": {
+			"1": "<span>1 </span> Bersemangatlah dan berkumpullah, hai bangsa yang acuh tak acuh,",
+			"2": "<span>2 </span> sebelum kamu dihalau seperti sekam yang tertiup, sebelum datang ke atasmu murka TUHAN yang bernyala-nyala itu, sebelum datang ke atasmu hari kemurkaan TUHAN.",
+			"3": "<span>3 </span> Carilah TUHAN, hai semua orang yang rendah hati di negeri, yang melakukan hukum-Nya; carilah keadilan, carilah kerendahan hati; mungkin kamu akan terlindung pada hari kemurkaan TUHAN.",
+			"4": "<span>4 </span> Sebab Gaza akan ditinggalkan orang dan Askelon akan menjadi sunyi; Asdod akan dihalau penduduknya pada rembang tengah hari dan Ekron akan dibongkar-bangkirkan.",
+			"5": "<span>5 </span> Celakalah kamu penduduk Daerah Tepi Laut, kamu bangsa Kreti! Terhadap kamulah firman TUHAN ini: Hai Kanaan, tanah orang Filistin! Aku akan membinasakan engkau, sehingga tidak ada lagi pendudukmu.",
+			"6": "<span>6 </span> Daerah Tepi Laut akan menjadi tempat kediaman bagi gembala-gembala dan kandang berpagar bagi kambing domba.",
+			"7": "<span>7 </span> Daerah Pinggir Laut akan menjadi kepunyaan sisa-sisa kaum Yehuda. Mereka akan merumput di sana dan berbaring di rumah-rumah Askelon pada malam hari; sebab TUHAN, Allah mereka, akan memperhatikan mereka dan akan memulihkan keadaan mereka.",
+			"8": "<span>8 </span> \"Aku telah mendengar pencelaan dari pihak Moab dan kata-kata nista dari pihak bani Amon, bagaimana mereka mencela umat-Ku dan membesarkan dirinya terhadap daerah umat-Ku itu.",
+			"9": "<span>9 </span> Sebab itu, demi Aku yang hidup--demikianlah firman TUHAN semesta alam, Allah Israel--maka Moab akan menjadi seperti Sodom dan bani Amon seperti Gomora, yakni menjadi padang jeruju dan tempat penggalian garam dan tempat sunyi sepi sampai selama-lamanya. Sisa-sisa umat-Ku akan menjarah mereka dan yang masih tinggal dari bangsa-Ku itu akan memiliki mereka sebagai warisan.\"",
+			"10": "<span>10 </span> Inilah yang menjadi bagian mereka sebagai ganti kecongkakan mereka, sebab mereka telah mencela dan membesarkan diri terhadap umat TUHAN semesta alam.",
+			"11": "<span>11 </span> TUHAN akan mendahsyatkan mereka, sebab Ia akan melenyapkan para allah di bumi, dan kepada-Nya akan sujud menyembah setiap bangsa daerah pesisir, masing-masing dari tempatnya.",
+			"12": "<span>12 </span> Kamupun, hai orang Etiopia, akan mati tertikam oleh pedang-Ku.",
+			"13": "<span>13 </span> Ia akan mengacungkan tangan-Nya terhadap Utara, akan membinasakan Asyur, dan akan membuat Niniwe menjadi tempat yang sunyi sepi, kering seperti padang gurun.",
+			"14": "<span>14 </span> Dan di tengah-tengahnya akan berbaring kawanan binatang, yakni segala macam binatang hutan; baik burung undan maupun burung bangau akan bermalam di hulu tiangnya; burung ponggok akan berbunyi di tingkap, burung gagak di ambang pintu: Pemapan dari kayu aras telah tersingkap!",
+			"15": "<span>15 </span> Itulah kota yang beria-ria yang penduduknya begitu tenteram dan yang berkata dalam hatinya: \"Hanya ada aku dan tidak ada yang lain!\" Betapa dia sudah menjadi tempat yang tandus, tempat pembaringan bagi binatang-binatang liar. Setiap orang yang lewat dari padanya akan bersuit dan mengayun-ayunkan tangannya."
+		},
+		"3": {
+			"1": "<span>1 </span> Celakalah si pemberontak dan si cemar, hai kota yang penuh penindasan!",
+			"2": "<span>2 </span> Ia tidak mau mendengarkan teguran siapapun dan tidak mempedulikan kecaman; kepada TUHAN ia tidak percaya dan kepada Allahnya ia tidak menghadap.",
+			"3": "<span>3 </span> Para pemukanya di tengah-tengahnya adalah singa yang mengaum; para hakimnya adalah serigala pada waktu malam yang tidak meninggalkan apapun sampai pagi hari.",
+			"4": "<span>4 </span> Para nabinya adalah orang-orang ceroboh dan pengkhianat; para imamnya menajiskan apa yang kudus, memperkosa hukum Taurat.",
+			"5": "<span>5 </span> Tetapi TUHAN adil di tengah-tengahnya, tidak berbuat kelaliman. Pagi demi pagi Ia memberi hukum-Nya; itu tidak pernah ketinggalan pada waktu fajar. Tetapi orang lalim tidak kenal malu!",
+			"6": "<span>6 </span> \"Aku telah melenyapkan bangsa-bangsa; menara-menara penjuru mereka telah musnah. Aku telah merusakkan jalan-jalannya, sehingga tidak ada orang yang lewat. Kota-kota mereka telah ditanduskan, sehingga tidak ada orang dan tidak ada penduduk.",
+			"7": "<span>7 </span> Aku sangka: Tentulah ia sekarang akan takut kepada-Ku, akan mempedulikan kecaman dan segala yang Kutugaskan kepadanya tidak akan lenyap dari penglihatannya. Tetapi sesungguhnya mereka makin giat menjadikan busuk perbuatan mereka.",
+			"8": "<span>8 </span> Oleh karena itu tunggulah Aku--demikianlah firman TUHAN--pada hari Aku bangkit sebagai saksi. Sebab keputusan-Ku ialah mengumpulkan bangsa-bangsa dan menghimpunkan kerajaan-kerajaan untuk menumpahkan ke atas mereka geram-Ku, yakni segenap murka-Ku yang bernyala-nyala, sebab seluruh bumi akan dimakan habis oleh api cemburu-Ku.\"",
+			"9": "<span>9 </span> \"Tetapi sesudah itu Aku akan memberikan bibir lain kepada bangsa-bangsa, yakni bibir yang bersih, supaya sekaliannya mereka memanggil nama TUHAN, beribadah kepada-Nya dengan bahu-membahu.",
+			"10": "<span>10 </span> Dari seberang sungai-sungai negeri Etiopia orang-orang yang memuja Aku, yang terserak-serak, akan membawa persembahan kepada-Ku.",
+			"11": "<span>11 </span> Pada hari itu engkau tidak akan mendapat malu karena segala perbuatan durhaka yang kaulakukan terhadap Aku, sebab pada waktu itu Aku akan menyingkirkan dari padamu orang-orangmu yang ria congkak, dan engkau tidak akan lagi meninggikan dirimu di gunung-Ku yang kudus.",
+			"12": "<span>12 </span> Di antaramu akan Kubiarkan hidup suatu umat yang rendah hati dan lemah, dan mereka akan mencari perlindungan pada nama TUHAN,",
+			"13": "<span>13 </span> yakni sisa Israel itu. Mereka tidak akan melakukan kelaliman atau berbicara bohong; dalam mulut mereka tidak akan terdapat lidah penipu; ya, mereka akan seperti domba yang makan rumput dan berbaring dengan tidak ada yang mengganggunya.\"",
+			"14": "<span>14 </span> Bersorak-sorailah, hai puteri Sion, bertempik-soraklah, hai Israel! Bersukacitalah dan beria-rialah dengan segenap hati, hai puteri Yerusalem!",
+			"15": "<span>15 </span> TUHAN telah menyingkirkan hukuman yang jatuh atasmu, telah menebas binasa musuhmu. Raja Israel, yakni TUHAN, ada di antaramu; engkau tidak akan takut kepada malapetaka lagi.",
+			"16": "<span>16 </span> Pada hari itu akan dikatakan kepada Yerusalem: \"Janganlah takut, hai Sion! Janganlah tanganmu menjadi lemah lesu.",
+			"17": "<span>17 </span> TUHAN Allahmu ada di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membaharui engkau dalam kasih-Nya, Ia bersorak-sorak karena engkau dengan sorak-sorai,",
+			"18": "<span>18 </span> seperti pada hari pertemuan raya.\" \"Aku akan mengangkat malapetaka dari padamu, sehingga oleh karenanya engkau tidak lagi menanggung cela.",
+			"19": "<span>19 </span> Sesungguhnya pada waktu itu Aku akan bertindak terhadap segala penindasmu, tetapi Aku akan menyelamatkan yang pincang, mengumpulkan yang terpencar dan akan membuat mereka yang mendapat malu menjadi kepujian dan kenamaan di seluruh bumi.",
+			"20": "<span>20 </span> Pada waktu itu Aku akan membawa kamu pulang, yakni pada waktu Aku mengumpulkan kamu, sebab Aku mau membuat kamu menjadi kenamaan dan kepujian di antara segala bangsa di bumi dengan memulihkan keadaanmu di depan mata mereka,\" firman TUHAN."
+		}
+	}
+};
+module.exports = book;

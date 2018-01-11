@@ -1,0 +1,553 @@
+1Chr	Prva Dnevnika
+1Chr	1. Dnevnika
+1Chr	I. Dnevnika
+1Chr	1 Dnevnika
+1Chr	I Dnevnika
+1Chr	Prva Dnev
+1Chr	1. Dnev
+1Chr	I. Dnev
+1Chr	1 Dnev
+1Chr	I Dnev
+1Chr	1Chr
+1Cor	Prva Korincanima
+1Cor	Prva Korinćanima
+1Cor	1. Korincanima
+1Cor	1. Korinćanima
+1Cor	I. Korincanima
+1Cor	I. Korinćanima
+1Cor	1 Korincanima
+1Cor	1 Korinćanima
+1Cor	I Korincanima
+1Cor	I Korinćanima
+1Cor	Prva Kor
+1Cor	1. Kor
+1Cor	I. Kor
+1Cor	1 Kor
+1Cor	I Kor
+1Cor	1Cor
+1Esd	Prva Јездрина
+1Esd	Prva Ездрина
+1Esd	1. Јездрина
+1Esd	I. Јездрина
+1Esd	1 Јездрина
+1Esd	1. Ездрина
+1Esd	I Јездрина
+1Esd	I. Ездрина
+1Esd	1 Ездрина
+1Esd	I Ездрина
+1Esd	1 Јез
+1Esd	1Esd
+1John	Prva Jovanova
+1John	1. Jovanova
+1John	I. Jovanova
+1John	1 Jovanova
+1John	I Jovanova
+1John	Prva Jov
+1John	1. Jov
+1John	I. Jov
+1John	1 Jov
+1John	1John
+1John	I Jov
+1Kgs	Prva O Carevima
+1Kgs	1. O Carevima
+1Kgs	I. O Carevima
+1Kgs	Prva Carevima
+1Kgs	1 O Carevima
+1Kgs	I O Carevima
+1Kgs	1. Carevima
+1Kgs	I. Carevima
+1Kgs	1 Carevima
+1Kgs	I Carevima
+1Kgs	Prva Car
+1Kgs	1. Car
+1Kgs	I. Car
+1Kgs	1 Car
+1Kgs	I Car
+1Kgs	1Kgs
+1Macc	Prva Макабејаца
+1Macc	Prva Макавејска
+1Macc	1. Макабејаца
+1Macc	1. Макавејска
+1Macc	I. Макабејаца
+1Macc	I. Макавејска
+1Macc	Prva Макавеја
+1Macc	1 Макабејаца
+1Macc	1 Макавејска
+1Macc	I Макабејаца
+1Macc	I Макавејска
+1Macc	1. Макавеја
+1Macc	I. Макавеја
+1Macc	1 Макавеја
+1Macc	I Макавеја
+1Macc	1Macc
+1Macc	1 Мк
+1Pet	Prva Petrova
+1Pet	1. Petrova
+1Pet	I. Petrova
+1Pet	1 Petrova
+1Pet	I Petrova
+1Pet	Prva Pet
+1Pet	1. Pet
+1Pet	I. Pet
+1Pet	1 Pet
+1Pet	I Pet
+1Pet	1Pet
+1Sam	Prva Samuilova
+1Sam	1. Samuilova
+1Sam	I. Samuilova
+1Sam	1 Samuilova
+1Sam	I Samuilova
+1Sam	Prva Sam
+1Sam	1. Sam
+1Sam	I. Sam
+1Sam	1 Sam
+1Sam	I Sam
+1Sam	1Sam
+1Thess	Prva Solunjanima
+1Thess	1. Solunjanima
+1Thess	I. Solunjanima
+1Thess	1 Solunjanima
+1Thess	I Solunjanima
+1Thess	Prva Sol
+1Thess	1. Sol
+1Thess	1Thess
+1Thess	I. Sol
+1Thess	1 Sol
+1Thess	I Sol
+1Tim	Prva Timotiju
+1Tim	1. Timotiju
+1Tim	I. Timotiju
+1Tim	1 Timotiju
+1Tim	I Timotiju
+1Tim	Prva Tim
+1Tim	1. Tim
+1Tim	I. Tim
+1Tim	1 Tim
+1Tim	I Tim
+1Tim	1Tim
+2Chr	Druga Dnevnika
+2Chr	II. Dnevnika
+2Chr	2. Dnevnika
+2Chr	II Dnevnika
+2Chr	2 Dnevnika
+2Chr	Druga Dnev
+2Chr	II. Dnev
+2Chr	2. Dnev
+2Chr	II Dnev
+2Chr	2 Dnev
+2Chr	2Chr
+2Cor	Druga Korincanima
+2Cor	Druga Korinćanima
+2Cor	II. Korincanima
+2Cor	II. Korinćanima
+2Cor	2. Korincanima
+2Cor	2. Korinćanima
+2Cor	II Korincanima
+2Cor	II Korinćanima
+2Cor	2 Korincanima
+2Cor	2 Korinćanima
+2Cor	Druga Kor
+2Cor	II. Kor
+2Cor	2. Kor
+2Cor	II Kor
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	Druga Јездрина
+2Esd	Druga Ездрина
+2Esd	II. Јездрина
+2Esd	2. Јездрина
+2Esd	II Јездрина
+2Esd	II. Ездрина
+2Esd	2 Јездрина
+2Esd	2. Ездрина
+2Esd	II Ездрина
+2Esd	2 Ездрина
+2Esd	2 Јез
+2Esd	2Esd
+2John	Druga Jovanova
+2John	II. Jovanova
+2John	2. Jovanova
+2John	II Jovanova
+2John	2 Jovanova
+2John	Druga Jov
+2John	II. Jov
+2John	2. Jov
+2John	II Jov
+2John	2 Jov
+2John	2John
+2Kgs	Druga O Carevima
+2Kgs	Druga Carevima
+2Kgs	II. O Carevima
+2Kgs	2. O Carevima
+2Kgs	II O Carevima
+2Kgs	2 O Carevima
+2Kgs	II. Carevima
+2Kgs	2. Carevima
+2Kgs	II Carevima
+2Kgs	2 Carevima
+2Kgs	Druga Car
+2Kgs	II. Car
+2Kgs	2. Car
+2Kgs	II Car
+2Kgs	2 Car
+2Kgs	2Kgs
+2Macc	Druga Макабејаца
+2Macc	Druga Макавејска
+2Macc	Druga Макавеја
+2Macc	II. Макабејаца
+2Macc	II. Макавејска
+2Macc	2. Макабејаца
+2Macc	2. Макавејска
+2Macc	II Макабејаца
+2Macc	II Макавејска
+2Macc	2 Макабејаца
+2Macc	2 Макавејска
+2Macc	II. Макавеја
+2Macc	2. Макавеја
+2Macc	II Макавеја
+2Macc	2 Макавеја
+2Macc	2Macc
+2Macc	2 Мк
+2Pet	Druga Petrova
+2Pet	II. Petrova
+2Pet	2. Petrova
+2Pet	II Petrova
+2Pet	2 Petrova
+2Pet	Druga Pet
+2Pet	II. Pet
+2Pet	2. Pet
+2Pet	II Pet
+2Pet	2 Pet
+2Pet	2Pet
+2Sam	Druga Samuilova
+2Sam	II. Samuilova
+2Sam	2. Samuilova
+2Sam	II Samuilova
+2Sam	2 Samuilova
+2Sam	Druga Sam
+2Sam	II. Sam
+2Sam	2. Sam
+2Sam	II Sam
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	Druga Solunjanima
+2Thess	II. Solunjanima
+2Thess	2. Solunjanima
+2Thess	II Solunjanima
+2Thess	2 Solunjanima
+2Thess	Druga Sol
+2Thess	II. Sol
+2Thess	2. Sol
+2Thess	2Thess
+2Thess	II Sol
+2Thess	2 Sol
+2Tim	Druga Timotiju
+2Tim	II. Timotiju
+2Tim	2. Timotiju
+2Tim	II Timotiju
+2Tim	2 Timotiju
+2Tim	Druga Tim
+2Tim	II. Tim
+2Tim	2. Tim
+2Tim	II Tim
+2Tim	2 Tim
+2Tim	2Tim
+3John	Treca Jovanova
+3John	Treća Jovanova
+3John	III. Jovanova
+3John	III Jovanova
+3John	3. Jovanova
+3John	3 Jovanova
+3John	Treca Jov
+3John	Treća Jov
+3John	III. Jov
+3John	III Jov
+3John	3. Jov
+3John	3 Jov
+3John	3John
+3Macc	Treca Макабејаца
+3Macc	Treca Макавејска
+3Macc	Treća Макабејаца
+3Macc	Treća Макавејска
+3Macc	III. Макабејаца
+3Macc	III. Макавејска
+3Macc	III Макабејаца
+3Macc	III Макавејска
+3Macc	Treca Макавеја
+3Macc	Treća Макавеја
+3Macc	3. Макабејаца
+3Macc	3. Макавејска
+3Macc	III. Макавеја
+3Macc	3 Макабејаца
+3Macc	3 Макавејска
+3Macc	III Макавеја
+3Macc	3. Макавеја
+3Macc	3 Макавеја
+3Macc	3Macc
+3Macc	3 Мк
+4Macc	Cetvrta Макабејаца
+4Macc	Cetvrta Макавејска
+4Macc	Četvrta Макабејаца
+4Macc	Četvrta Макавејска
+4Macc	Cetvrta Макавеја
+4Macc	Četvrta Макавеја
+4Macc	IV. Макабејаца
+4Macc	IV. Макавејска
+4Macc	4. Макабејаца
+4Macc	4. Макавејска
+4Macc	IV Макабејаца
+4Macc	IV Макавејска
+4Macc	4 Макабејаца
+4Macc	4 Макавејска
+4Macc	IV. Макавеја
+4Macc	4. Макавеја
+4Macc	IV Макавеја
+4Macc	4 Макавеја
+4Macc	4Macc
+4Macc	4 Мк
+Acts	Djela apostolska
+Acts	Acts
+Acts	Dela
+Amos	Amos
+Bar	Барух
+Bar	Варух
+Bar	Bar
+Bar	Вар
+Bel	Bel
+Col	Kolosanima
+Col	Kološanima
+Col	Col
+Col	Kol
+Dan	Danilo
+Dan	Dan
+Deut	Peta Knjiga Mojsijeva
+Deut	5. Knjiga Mojsijeva
+Deut	V. Knjiga Mojsijeva
+Deut	5 Knjiga Mojsijeva
+Deut	V Knjiga Mojsijeva
+Deut	Peta Mojsijeva
+Deut	5. Mojsijeva
+Deut	V. Mojsijeva
+Deut	5 Mojsijeva
+Deut	V Mojsijeva
+Deut	Peta Moj
+Deut	5. Moj
+Deut	V. Moj
+Deut	5 Moj
+Deut	V Moj
+Deut	Deut
+Eccl	Knjiga propovednika
+Eccl	Propovednika
+Eccl	Propovjednik
+Eccl	Eccl
+Eccl	Prop
+EpJer	Посланица Јеремијина
+EpJer	Писма Јеремије
+EpJer	EpJer
+Eph	Efescima
+Eph	Eph
+Eph	Ef
+Esth	Jestira
+Esth	Esth
+Esth	Jest
+Exod	Druga Knjiga Mojsijeva
+Exod	II. Knjiga Mojsijeva
+Exod	2. Knjiga Mojsijeva
+Exod	II Knjiga Mojsijeva
+Exod	2 Knjiga Mojsijeva
+Exod	Druga Mojsijeva
+Exod	II. Mojsijeva
+Exod	2. Mojsijeva
+Exod	II Mojsijeva
+Exod	2 Mojsijeva
+Exod	Druga Moj
+Exod	II. Moj
+Exod	2. Moj
+Exod	II Moj
+Exod	2 Moj
+Exod	Exod
+Ezek	Jezekilj
+Ezek	Jezek
+Ezek	Ezek
+Ezra	Jezdra
+Ezra	Ezra
+Ezra	Jezd
+Gal	Galatima
+Gal	Gal
+Gen	Prva Knjiga Mojsijeva
+Gen	1. Knjiga Mojsijeva
+Gen	I. Knjiga Mojsijeva
+Gen	1 Knjiga Mojsijeva
+Gen	I Knjiga Mojsijeva
+Gen	Prva Mojsijeva
+Gen	1. Mojsijeva
+Gen	I. Mojsijeva
+Gen	1 Mojsijeva
+Gen	I Mojsijeva
+Gen	Prva Moj
+Gen	1. Moj
+Gen	I. Moj
+Gen	1 Moj
+Gen	I Moj
+Gen	Gen
+GkEsth	GkEsth
+Hab	Avakum
+Hab	Avak
+Hab	Hab
+Hag	Agej
+Hag	Hag
+Heb	Jevrejima
+Heb	Jevr
+Heb	Heb
+Hos	Osija
+Hos	Hos
+Hos	Os
+Isa	Isaija
+Isa	Isa
+Jas	Jakov
+Jas	Jak
+Jas	Jas
+Jdt	Књига о Јудити
+Jdt	Јудита
+Jdt	Jdt
+Jdt	Јуд
+Jer	Jeremija
+Jer	Jer
+Job	O Jovu
+Job	Job
+Job	Jov
+Joel	Joilo
+Joel	Joel
+Joel	Joil
+John	Jovan
+John	John
+Jonah	Jonah
+Jonah	Jona
+Josh	Isus Navin
+Josh	Josh
+Josh	Isu
+Jude	Juda
+Jude	Jude
+Judg	Sudije
+Judg	Judg
+Judg	Sud
+Lam	Plac Jeremijin
+Lam	Plač Jeremijin
+Lam	Plac
+Lam	Plač
+Lam	Lam
+Lev	Treca Knjiga Mojsijeva
+Lev	Treća Knjiga Mojsijeva
+Lev	III. Knjiga Mojsijeva
+Lev	III Knjiga Mojsijeva
+Lev	3. Knjiga Mojsijeva
+Lev	3 Knjiga Mojsijeva
+Lev	Treca Mojsijeva
+Lev	Treća Mojsijeva
+Lev	III. Mojsijeva
+Lev	III Mojsijeva
+Lev	3. Mojsijeva
+Lev	3 Mojsijeva
+Lev	Treca Moj
+Lev	Treća Moj
+Lev	III. Moj
+Lev	III Moj
+Lev	3. Moj
+Lev	3 Moj
+Lev	Lev
+Luke	Luka
+Luke	Luke
+Mal	Malahija
+Mal	Mal
+Mark	Marko
+Mark	Mark
+Mark	Mar
+Matt	Matej
+Matt	Matt
+Matt	Mat
+Mic	Mihej
+Mic	Mic
+Mic	Mih
+Nah	Naum
+Nah	Nah
+Neh	Nemija
+Neh	Neh
+Neh	Nem
+Num	Cetvrta Knjiga Mojsijeva
+Num	Četvrta Knjiga Mojsijeva
+Num	IV. Knjiga Mojsijeva
+Num	4. Knjiga Mojsijeva
+Num	IV Knjiga Mojsijeva
+Num	4 Knjiga Mojsijeva
+Num	Cetvrta Mojsijeva
+Num	Četvrta Mojsijeva
+Num	IV. Mojsijeva
+Num	4. Mojsijeva
+Num	IV Mojsijeva
+Num	4 Mojsijeva
+Num	Cetvrta Moj
+Num	Četvrta Moj
+Num	IV. Moj
+Num	4. Moj
+Num	IV Moj
+Num	4 Moj
+Num	Num
+Obad	Avdija
+Obad	Obad
+Obad	Avd
+Phil	Filibljanima
+Phil	Phil
+Phil	Fil
+Phlm	Filimonu
+Phlm	Filim
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	Молитва Манасијина
+PrMan	PrMan
+Prov	Price Solomunove
+Prov	Priče Solomunove
+Prov	Price
+Prov	Priče
+Prov	Prov
+Ps	Psalam
+Ps	Psalmi
+Ps	Psal
+Ps	Ps
+Rev	Otkrivenje
+Rev	Otkr
+Rev	Rev
+Rom	Rimljanima
+Rom	Rim
+Rom	Rom
+Ruth	Ruta
+Ruth	Ruth
+SgThree	SgThree
+Sir	Премудрости Исуса сина Сирахова
+Sir	Еклезијастикус
+Sir	Сирина
+Sir	Sir
+Sir	ИсС
+Sir	Сир
+Song	Pjesma nad pjesmama
+Song	Pesma
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	Titu
+Titus	Tit
+Tob	Књига Товијина
+Tob	Тобија
+Tob	Товит
+Tob	Tob
+Tob	Тов
+Wis	Премудорсти Соломонове
+Wis	Мудрости Соломонове
+Wis	Мудрости
+Wis	Прем Сол
+Wis	Wis
+Zech	Zaharija
+Zech	Zech
+Zech	Zah
+Zeph	Sofonija
+Zeph	Zeph
+Zeph	Sof

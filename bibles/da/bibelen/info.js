@@ -7,7 +7,8 @@ var info = {
 			"numChapters": 50,
 			"synonyms": [
 				"1 Mosebog",
-				"1 Mos"
+				"1 Mos",
+				"Gen"
 			]
 		},
 		{
@@ -15,7 +16,8 @@ var info = {
 			"numChapters": 40,
 			"synonyms": [
 				"2 Mosebog",
-				"2 Mos"
+				"2 Mos",
+				"Exod"
 			]
 		},
 		{
@@ -23,7 +25,8 @@ var info = {
 			"numChapters": 27,
 			"synonyms": [
 				"3 Mosebog",
-				"3 Mos"
+				"3 Mos",
+				"Lev"
 			]
 		},
 		{
@@ -31,7 +34,8 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"4 Mosebog",
-				"4 Mos"
+				"4 Mos",
+				"Num"
 			]
 		},
 		{
@@ -39,7 +43,8 @@ var info = {
 			"numChapters": 34,
 			"synonyms": [
 				"5 Mosebog",
-				"5 Mos"
+				"5 Mos",
+				"Deut"
 			]
 		},
 		{
@@ -47,7 +52,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"Josua",
-				"Jos"
+				"Jos",
+				"Josh"
 			]
 		},
 		{
@@ -55,7 +61,8 @@ var info = {
 			"numChapters": 21,
 			"synonyms": [
 				"Dommer",
-				"Dom"
+				"Dom",
+				"Judg"
 			]
 		},
 		{
@@ -71,7 +78,8 @@ var info = {
 			"numChapters": 31,
 			"synonyms": [
 				"1 Samuel",
-				"1 Sam"
+				"1 Sam",
+				"1Sam"
 			]
 		},
 		{
@@ -79,7 +87,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"2 Samuel",
-				"2 Sam"
+				"2 Sam",
+				"2Sam"
 			]
 		},
 		{
@@ -87,7 +96,8 @@ var info = {
 			"numChapters": 22,
 			"synonyms": [
 				"Første Kongebog",
-				"1 Kong"
+				"1 Kong",
+				"1Kgs"
 			]
 		},
 		{
@@ -95,7 +105,8 @@ var info = {
 			"numChapters": 25,
 			"synonyms": [
 				"Anden Kongebog",
-				"2 Kong"
+				"2 Kong",
+				"2Kgs"
 			]
 		},
 		{
@@ -103,7 +114,8 @@ var info = {
 			"numChapters": 29,
 			"synonyms": [
 				"Første Krønikebog",
-				"1 Krøn"
+				"1 Krøn",
+				"1Chr"
 			]
 		},
 		{
@@ -111,14 +123,14 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"Anden Krønikebog",
-				"2 Krøn"
+				"2 Krøn",
+				"2Chr"
 			]
 		},
 		{
 			"name": "Ezra",
 			"numChapters": 10,
 			"synonyms": [
-				"Ezra",
 				"Ezra"
 			]
 		},
@@ -135,14 +147,14 @@ var info = {
 			"numChapters": 10,
 			"synonyms": [
 				"Ester",
-				"Est"
+				"Est",
+				"Esth"
 			]
 		},
 		{
 			"name": "Job",
 			"numChapters": 42,
 			"synonyms": [
-				"Job",
 				"Job"
 			]
 		},
@@ -151,7 +163,8 @@ var info = {
 			"numChapters": 150,
 			"synonyms": [
 				"Salme",
-				"Sl"
+				"Sl",
+				"Ps"
 			]
 		},
 		{
@@ -159,7 +172,8 @@ var info = {
 			"numChapters": 31,
 			"synonyms": [
 				"Ordsprogene",
-				"Ordspr"
+				"Ordspr",
+				"Prov"
 			]
 		},
 		{
@@ -167,7 +181,8 @@ var info = {
 			"numChapters": 12,
 			"synonyms": [
 				"Prædikeren",
-				"Præd"
+				"Præd",
+				"Eccl"
 			]
 		},
 		{
@@ -175,7 +190,8 @@ var info = {
 			"numChapters": 8,
 			"synonyms": [
 				"Højsangen",
-				"Højs"
+				"Højs",
+				"Song"
 			]
 		},
 		{
@@ -183,7 +199,8 @@ var info = {
 			"numChapters": 66,
 			"synonyms": [
 				"Esajas",
-				"Es"
+				"Es",
+				"Isa"
 			]
 		},
 		{
@@ -199,7 +216,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"Klagesangene",
-				"Klages"
+				"Klages",
+				"Lam"
 			]
 		},
 		{
@@ -207,7 +225,8 @@ var info = {
 			"numChapters": 48,
 			"synonyms": [
 				"Ezekiel",
-				"Ez"
+				"Ez",
+				"Ezek"
 			]
 		},
 		{
@@ -230,7 +249,6 @@ var info = {
 			"name": "Joel",
 			"numChapters": 3,
 			"synonyms": [
-				"Joel",
 				"Joel"
 			]
 		},
@@ -255,7 +273,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Jonas",
-				"Jon"
+				"Jon",
+				"Jonah"
 			]
 		},
 		{
@@ -263,7 +282,8 @@ var info = {
 			"numChapters": 7,
 			"synonyms": [
 				"Mikas",
-				"Mika"
+				"Mika",
+				"Mic"
 			]
 		},
 		{
@@ -287,7 +307,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Zefanias",
-				"Sef"
+				"Sef",
+				"Zeph"
 			]
 		},
 		{
@@ -295,7 +316,8 @@ var info = {
 			"numChapters": 2,
 			"synonyms": [
 				"Haggaj",
-				"Hagg"
+				"Hagg",
+				"Hag"
 			]
 		},
 		{
@@ -303,7 +325,8 @@ var info = {
 			"numChapters": 14,
 			"synonyms": [
 				"Zakarias",
-				"Zak"
+				"Zak",
+				"Zech"
 			]
 		},
 		{
@@ -311,6 +334,7 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Malakiasi",
+				"Mal",
 				"Mal"
 			]
 		},
@@ -319,6 +343,7 @@ var info = {
 			"numChapters": 28,
 			"synonyms": [
 				"Matthæus",
+				"Matt",
 				"Matt"
 			]
 		},
@@ -327,6 +352,7 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"Markus",
+				"Mark",
 				"Mark"
 			]
 		},
@@ -335,7 +361,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"Lukas",
-				"Luk"
+				"Luk",
+				"Luke"
 			]
 		},
 		{
@@ -343,7 +370,8 @@ var info = {
 			"numChapters": 21,
 			"synonyms": [
 				"Johannes",
-				"Joh"
+				"Joh",
+				"John"
 			]
 		},
 		{
@@ -351,7 +379,8 @@ var info = {
 			"numChapters": 28,
 			"synonyms": [
 				"Apostelenes gerninger",
-				"ApG"
+				"ApG",
+				"Acts"
 			]
 		},
 		{
@@ -359,6 +388,7 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"Romerne",
+				"Rom",
 				"Rom"
 			]
 		},
@@ -367,7 +397,8 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"1 Korinterne",
-				"1 Kor"
+				"1 Kor",
+				"1Cor"
 			]
 		},
 		{
@@ -375,7 +406,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"2 Korinterne",
-				"2 Kor"
+				"2 Kor",
+				"2Cor"
 			]
 		},
 		{
@@ -383,6 +415,7 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"Galaterne",
+				"Gal",
 				"Gal"
 			]
 		},
@@ -391,7 +424,8 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"Efeserne",
-				"Ef"
+				"Ef",
+				"Eph"
 			]
 		},
 		{
@@ -399,7 +433,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Filipperne",
-				"Fil"
+				"Fil",
+				"Phil"
 			]
 		},
 		{
@@ -407,7 +442,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Kolossensern",
-				"Kol"
+				"Kol",
+				"Col"
 			]
 		},
 		{
@@ -415,7 +451,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Tessalonikerne",
-				"1 Thess"
+				"1 Thess",
+				"1Thess"
 			]
 		},
 		{
@@ -423,7 +460,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"2 Tessalonikerne",
-				"2 Thess"
+				"2 Thess",
+				"2Thess"
 			]
 		},
 		{
@@ -431,7 +469,8 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"1 Timoteus",
-				"1 Tim"
+				"1 Tim",
+				"1Tim"
 			]
 		},
 		{
@@ -439,7 +478,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"2 Timoteus",
-				"2 Tim"
+				"2 Tim",
+				"2Tim"
 			]
 		},
 		{
@@ -447,7 +487,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Titus",
-				"Tit"
+				"Tit",
+				"Titus"
 			]
 		},
 		{
@@ -455,7 +496,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"Filemon",
-				"Filem"
+				"Filem",
+				"Phlm"
 			]
 		},
 		{
@@ -463,7 +505,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"Hebræerne",
-				"Hebr"
+				"Hebr",
+				"Heb"
 			]
 		},
 		{
@@ -471,7 +514,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"Jakob",
-				"Jak"
+				"Jak",
+				"Jas"
 			]
 		},
 		{
@@ -479,7 +523,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Peter",
-				"1 Pet"
+				"1 Pet",
+				"1Pet"
 			]
 		},
 		{
@@ -487,7 +532,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"2 Peter",
-				"2 Pet"
+				"2 Pet",
+				"2Pet"
 			]
 		},
 		{
@@ -495,7 +541,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Johannes",
-				"1 Joh"
+				"1 Joh",
+				"1John"
 			]
 		},
 		{
@@ -503,7 +550,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"2 Johannes",
-				"2 Joh"
+				"2 Joh",
+				"2John"
 			]
 		},
 		{
@@ -511,7 +559,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"3 Johannes",
-				"3 Joh"
+				"3 Joh",
+				"3John"
 			]
 		},
 		{
@@ -519,7 +568,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"Judas",
-				"Jud"
+				"Jud",
+				"Jude"
 			]
 		},
 		{
@@ -527,7 +577,8 @@ var info = {
 			"numChapters": 22,
 			"synonyms": [
 				"Aabenbaringen",
-				"Åb"
+				"Åb",
+				"Rev"
 			]
 		}
 	]

@@ -1,0 +1,186 @@
+$FIRST	1	I
+$SECOND	2	II
+$THIRD	3	III
+$FOURTH	4	IV
+$FIFTH	5	V
+$AB	[a-e]
+$AND	&
+$CHAPTER	bab
+$FF	ff
+$TITLE	title
+$TRANS	ALKITAB
+$TO	melalui
+# Google Translate, confirmed by Google search
+$VERSE	ayat
+$UNICODE_BLOCK	Latin
+
+Gen	Kejadian	Kej
+Exod	Keluaran	Kel
+Lev	Imamat	Im
+Num	Bilangan	Bil
+Deut	Ulangan	Ul
+Josh	Yosua	Yos
+Judg	Hakim del hakim	Hak
+Ruth	Rut	Ruth
+1Sam	$FIRST Samuel	$FIRST Sam
+2Sam	$SECOND Samuel	$SECOND Sam
+1Kgs	$FIRST Raja-raja	$FIRST Raj
+2Kgs	$SECOND Raja-raja	$SECOND Raj
+1Chr	$FIRST Tawarikh	$FIRST Taw
+2Chr	$SECOND Tawarikh	$SECOND Taw
+Ezra	Ezra	Ezr
+Neh	Nehemia	Neh
+Esth	Ester	Est
+Job	Ayub	Ayb
+Ps	Mazmur	Mzm
+Prov	Amsal	Ams
+Eccl	Pengkhutbah	Pkh
+Song	Kidung Agung	Kid
+Isa	Yesaya	Yes
+Jer	Yeremia	Yer
+Lam	Ratapan	Rat
+Ezek	Yehezkiel	Yeh
+Dan	Daniel	Dan
+Hos	Hosea	Hos
+Joel	Yoel	Yl
+Amos	Amos	Am
+Obad	Obaja	Ob
+Jonah	Yunus	Yun
+Mic	Mikha	Mi
+Nah	Nahum	Nah
+Hab	Habakuk	Hab
+Zeph	Zefanya	Zef
+Hag	Hagai	Hag
+Zech	Zakharia	Za
+Mal	Maleakhi	Mal
+Matt	Matius	Mat
+Mark	Markus	Mrk
+Luke	Lukas	Luk
+John	Yohanes	Yoh
+Acts	Kisah Rasul-rasul	Kisah Para Rasul	Kis
+Rom	Roma	Rm
+1Cor	$FIRST Korintus	$FIRST Kor
+2Cor	$SECOND Korintus	$SECOND Kor
+Gal	Galatia	Gal
+Eph	Efesus	Eph
+Phil	Filipi	Flp	Phil
+Col	Kolose	Kol
+1Thess	$FIRST Tesalonika	$FIRST Tes
+2Thess	$SECOND Tesalonika	$SECOND Tes
+1Tim	$FIRST Timotius	$FIRST Tim
+2Tim	$SECOND Timotius	$SECOND Tim
+Titus	Titus	Tit
+Phlm	Filemon	Flm
+Heb	Ibrani	Ibr
+Jas	Yakobus	Yak
+1Pet	$FIRST Petrus	$FIRST Ptr	$FIRST Pet
+2Pet	$SECOND Petrus	$SECOND Ptr	$SECOND Pet
+1John	$FIRST Yohanes	$FIRST Yoh
+2John	$SECOND Yohanes	$SECOND Yoh
+3John	$THIRD Yohanes	$THIRD Yoh
+Jude	Yudas	Yud
+Rev	Wahyu	Why
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Amos
+=Hos
+=Joel
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Job
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus

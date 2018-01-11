@@ -17,7 +17,8 @@ var info = {
             "synonyms": [
                 "2\.? Mo(se)?",
                 "Exodus",
-                "Ex"
+                "Ex",
+                "Exod"
             ]
         },
         {
@@ -44,7 +45,8 @@ var info = {
             "synonyms": [
                 "5\.? Mo(se)?",
                 "Deuteronomium",
-                "Dtn"
+                "Dtn",
+                "Deut"
             ]
         },
         {
@@ -52,7 +54,8 @@ var info = {
             "numChapters": 24,
             "synonyms": [
                 "Josua",
-                "Jos"
+                "Jos",
+                "Josh"
             ]
         },
         {
@@ -60,7 +63,8 @@ var info = {
             "numChapters": 21,
             "synonyms": [
                 "Richter",
-                "Ri"
+                "Ri",
+                "Judg"
             ]
         },
         {
@@ -75,14 +79,16 @@ var info = {
             "name": "1 Samuel",
             "numChapters": 31,
             "synonyms": [
-                "1\.? Samu(el)?"
+                "1\.? Samu(el)?",
+                "1 Sam"
             ]
         },
         {
             "name": "2 Samuel",
             "numChapters": 24,
             "synonyms": [
-                "2\.? Samu(el)?"
+                "2\.? Samu(el)?",
+                "2 Sam"
             ]
         },
         {
@@ -90,7 +96,8 @@ var info = {
             "numChapters": 22,
             "synonyms": [
                 "1\.? Koen(ige)?",
-                "1\.? Kön(ige)?"
+                "1\.? Kön(ige)?",
+                "1 Kgs"
             ]
         },
         {
@@ -98,21 +105,24 @@ var info = {
             "numChapters": 25,
             "synonyms": [
                 "2\.? Koen(ige)?",
-                "2\.? Kön(ige)?"
+                "2\.? Kön(ige)?",
+                "2 Kgs"
             ]
         },
         {
             "name": "1 Chronik",
             "numChapters": 29,
             "synonyms": [
-                "1\.? Chr(onik)"
+                "1\.? Chr(onik)",
+                "1 Chr"
             ]
         },
         {
             "name": "2 Chronik",
             "numChapters": 36,
             "synonyms": [
-                "2\.? Chr(onik)"
+                "2\.? Chr(onik)",
+                "2 Chr"
             ]
         },
         {
@@ -120,7 +130,8 @@ var info = {
             "numChapters": 10,
             "synonyms": [
                 "Esra",
-                "Esr"
+                "Esr",
+                "Ezra"
             ]
         },
         {
@@ -136,7 +147,8 @@ var info = {
             "numChapters": 10,
             "synonyms": [
                 "Ester",
-                "Est"
+                "Est",
+                "Esth"
             ]
         },
         {
@@ -145,7 +157,8 @@ var info = {
             "synonyms": [
                 "Hiob",
                 "Ijob",
-                "Hi"
+                "Hi",
+                "Job"
             ]
         },
         {
@@ -166,7 +179,8 @@ var info = {
                 "Sprichwoerter",
                 "Sprichwörter",
                 "Sprueche",
-                "Spr"
+                "Spr",
+                "Prov"
             ]
         },
         {
@@ -174,7 +188,8 @@ var info = {
             "numChapters": 12,
             "synonyms": [
                 "Prediger",
-                "Pred"
+                "Pred",
+                "Eccl"
             ]
         },
         {
@@ -185,7 +200,8 @@ var info = {
                 "Hoheslied",
                 "Hohelied",
                 "Koh",
-                "Hld"
+                "Hld",
+                "Song"
             ]
         },
         {
@@ -193,7 +209,8 @@ var info = {
             "numChapters": 66,
             "synonyms": [
                 "Jesaja",
-                "Jes"
+                "Jes",
+                "Isa"
             ]
         },
         {
@@ -209,7 +226,8 @@ var info = {
             "numChapters": 5,
             "synonyms": [
                 "Klagelieder",
-                "Klgl"
+                "Klgl",
+                "Lam"
             ]
         },
         {
@@ -219,7 +237,8 @@ var info = {
                 "Ezechiel",
                 "Hesekiel",
                 "Hes",
-                "Ez"
+                "Ez",
+                "Ezek"
             ]
         },
         {
@@ -259,7 +278,8 @@ var info = {
             "numChapters": 1,
             "synonyms": [
                 "Obadja",
-                "Obd"
+                "Obd",
+                "Obad"
             ]
         },
         {
@@ -267,7 +287,8 @@ var info = {
             "numChapters": 4,
             "synonyms": [
                 "Jona",
-                "Jon"
+                "Jon",
+                "Jonah"
             ]
         },
         {
@@ -276,7 +297,8 @@ var info = {
             "synonyms": [
                 "Micha",
                 "Mica",
-                "Mi"
+                "Mi",
+                "Mic"
             ]
         },
         {
@@ -300,7 +322,8 @@ var info = {
             "numChapters": 3,
             "synonyms": [
                 "Zephanja",
-                "Zef"
+                "Zef",
+                "Zeph"
             ]
         },
         {
@@ -316,7 +339,8 @@ var info = {
             "numChapters": 14,
             "synonyms": [
                 "Sacharja",
-                "Sach"
+                "Sach",
+                "Zech"
             ]
         },
         {
@@ -333,7 +357,8 @@ var info = {
             "synonyms": [
                 "Matthäus",
                 "Matthaeus",
-                "Mt"
+                "Mt",
+                "Matt"
             ]
         },
         {
@@ -341,7 +366,8 @@ var info = {
             "numChapters": 16,
             "synonyms": [
                 "Markus",
-                "Mk"
+                "Mk",
+                "Mark"
             ]
         },
         {
@@ -349,7 +375,8 @@ var info = {
             "numChapters": 24,
             "synonyms": [
                 "Lukas",
-                "Lk"
+                "Lk",
+                "Luke"
             ]
         },
         {
@@ -357,7 +384,8 @@ var info = {
             "numChapters": 21,
             "synonyms": [
                 "Johannes",
-                "Joh"
+                "Joh",
+                "John"
             ]
         },
         {
@@ -365,7 +393,8 @@ var info = {
             "numChapters": 28,
             "synonyms": [
                 "Apostelgeschichte",
-                "Apg"
+                "Apg",
+                "Acts"
             ]
         },
         {
@@ -375,21 +404,24 @@ var info = {
                 "Römer",
                 "Roemer",
                 "Roem",
-                "Röm"
+                "Röm",
+                "Rom"
             ]
         },
         {
             "name": "1 Korinther",
             "numChapters": 16,
             "synonyms": [
-                "1\.? Kor(inther)?"
+                "1\.? Kor(inther)?",
+                "1 Cor"
             ]
         },
         {
             "name": "2 Korinther",
             "numChapters": 13,
             "synonyms": [
-                "2 Kor(inther)?"
+                "2 Kor(inther)?",
+                "2 Cor"
             ]
         },
         {
@@ -421,7 +453,8 @@ var info = {
             "numChapters": 4,
             "synonyms": [
                 "Kolosser",
-                "Kil"
+                "Kil",
+                "Col"
             ]
         },
         {
@@ -429,7 +462,8 @@ var info = {
             "numChapters": 5,
             "synonyms": [
                 "1\.? Thess(alonicher)?",
-                "1\.? Ths"
+                "1\.? Ths",
+                "1 Thess"
             ]
         },
         {
@@ -437,21 +471,24 @@ var info = {
             "numChapters": 3,
             "synonyms": [
                 "2\.? Thess(alonicher)?",
-                "2\.? Ths"
+                "2\.? Ths",
+                "2 Thess"
             ]
         },
         {
             "name": "1 Timotheus",
             "numChapters": 6,
             "synonyms": [
-                "1\.? Tim(otheus)?"
+                "1\.? Tim(otheus)?",
+                "1 Tim"
             ]
         },
         {
             "name": "2 Timotheus",
             "numChapters": 4,
             "synonyms": [
-                "2\.? Tim(otheus)?"
+                "2\.? Tim(otheus)?",
+                "2 Tim"
             ]
         },
         {
@@ -477,7 +514,8 @@ var info = {
                 "Hebraeer",
                 "Hebräer",
                 "Hebr",
-                "Hbr"
+                "Hbr",
+                "Heb"
             ]
         },
         {
@@ -485,42 +523,48 @@ var info = {
             "numChapters": 5,
             "synonyms": [
                 "Jakobus",
-                "Jak"
+                "Jak",
+                "Jas"
             ]
         },
         {
             "name": "1 Petrus",
             "numChapters": 5,
             "synonyms": [
-                "1\.? Petr(us)?"
+                "1\.? Petr(us)?",
+                "1 Pet"
             ]
         },
         {
             "name": "2 Petrus",
             "numChapters": 3,
             "synonyms": [
-                "2\.? Petr(us)?"
+                "2\.? Petr(us)?",
+                "2 Pet"
             ]
         },
         {
             "name": "1 Johannes",
             "numChapters": 5,
             "synonyms": [
-                "1\.? Joh(annes)?"
+                "1\.? Joh(annes)?",
+                "1 John"
             ]
         },
         {
             "name": "2 Johannes",
             "numChapters": 1,
             "synonyms": [
-                "2\.? Joh(annes)?"
+                "2\.? Joh(annes)?",
+                "2 John"
             ]
         },
         {
             "name": "3 Johannes",
             "numChapters": 1,
             "synonyms": [
-                "3\.? Joh(annes)?"
+                "3\.? Joh(annes)?",
+                "3 John"
             ]
         },
         {
@@ -528,7 +572,8 @@ var info = {
             "numChapters": 1,
             "synonyms": [
                 "Judas",
-                "Jud"
+                "Jud",
+                "Jude"
             ]
         },
         {
@@ -536,7 +581,8 @@ var info = {
             "numChapters": 22,
             "synonyms": [
                 "Offenbarung",
-                "Offb"
+                "Offb",
+                "Rev"
             ]
         }
     ]

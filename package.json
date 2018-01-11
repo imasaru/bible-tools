@@ -11,6 +11,7 @@
     "firebase": "3.5.0",
     "fs-extra": "^0.30.0",
     "meta-marked": "^0.4.2",
+    "mocha": "^4.0.1",
     "moment": "^2.15.1",
     "redis": "^2.6.2",
     "request": "^2.76.0",
@@ -18,10 +19,13 @@
     "yamljs": "^0.2.7"
   },
   "devDependencies": {
-    "optimist": "^0.6.1"
+    "chai": "^4.1.2",
+    "expect": "^21.2.1",
+    "optimist": "^0.6.1",
+    "regexgen": "^1.3.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",

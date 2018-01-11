@@ -7,7 +7,8 @@ var info = {
 			"numChapters": 50,
 			"synonyms": [
 				"Буття",
-				"Бут"
+				"Бут",
+				"Gen"
 			]
 		},
 		{
@@ -15,7 +16,8 @@ var info = {
 			"numChapters": 40,
 			"synonyms": [
 				"Вихід",
-				"Вих"
+				"Вих",
+				"Exod"
 			]
 		},
 		{
@@ -23,7 +25,8 @@ var info = {
 			"numChapters": 27,
 			"synonyms": [
 				"Левит",
-				"Лев"
+				"Лев",
+				"Lev"
 			]
 		},
 		{
@@ -31,7 +34,8 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"Числа",
-				"Числ?"
+				"Числ?",
+				"Num"
 			]
 		},
 		{
@@ -39,7 +43,8 @@ var info = {
 			"numChapters": 34,
 			"synonyms": [
 				"Повторення Закону",
-				"П\.? Зак"
+				"П.? Зак",
+				"Deut"
 			]
 		},
 		{
@@ -47,7 +52,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"Ісус Навин",
-				"Нав"
+				"Нав",
+				"Josh"
 			]
 		},
 		{
@@ -55,14 +61,16 @@ var info = {
 			"numChapters": 21,
 			"synonyms": [
 				"Книга Суддів",
-				"Суд"
+				"Суд",
+				"Judg"
 			]
 		},
 		{
 			"name": "Рут",
 			"numChapters": 4,
 			"synonyms": [
-				"Рут"
+				"Рут",
+				"Ruth"
 			]
 		},
 		{
@@ -70,7 +78,8 @@ var info = {
 			"numChapters": 31,
 			"synonyms": [
 				"1 Самуїлова",
-				"1 Сам"
+				"1 Сам",
+				"1Sam"
 			]
 		},
 		{
@@ -78,7 +87,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"2 Самуїлова",
-				"2 Сам"
+				"2 Сам",
+				"2Sam"
 			]
 		},
 		{
@@ -86,7 +96,8 @@ var info = {
 			"numChapters": 22,
 			"synonyms": [
 				"1 царів",
-				"1 Цар"
+				"1 Цар",
+				"1Kgs"
 			]
 		},
 		{
@@ -94,7 +105,8 @@ var info = {
 			"numChapters": 25,
 			"synonyms": [
 				"2 царів",
-				"2 Цар"
+				"2 Цар",
+				"2Kgs"
 			]
 		},
 		{
@@ -102,7 +114,8 @@ var info = {
 			"numChapters": 29,
 			"synonyms": [
 				"1 хроніки",
-				"1 Хр"
+				"1 Хр",
+				"1Chr"
 			]
 		},
 		{
@@ -110,7 +123,8 @@ var info = {
 			"numChapters": 36,
 			"synonyms": [
 				"2 хроніки",
-				"2 Хр"
+				"2 Хр",
+				"2Chr"
 			]
 		},
 		{
@@ -118,7 +132,8 @@ var info = {
 			"numChapters": 10,
 			"synonyms": [
 				"Ездра",
-                "Ездр?"
+				"Ездр?",
+				"Ezra"
 			]
 		},
 		{
@@ -126,7 +141,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"Неемія",
-				"Неєм"
+				"Неєм",
+				"Neh"
 			]
 		},
 		{
@@ -134,7 +150,8 @@ var info = {
 			"numChapters": 10,
 			"synonyms": [
 				"Естер",
-				"Ест"
+				"Ест",
+				"Esth"
 			]
 		},
 		{
@@ -142,7 +159,8 @@ var info = {
 			"numChapters": 42,
 			"synonyms": [
 				"Йова",
-				"Йов"
+				"Йов",
+				"Job"
 			]
 		},
 		{
@@ -151,7 +169,8 @@ var info = {
 			"synonyms": [
 				"Псалми",
 				"Псал",
-				"Пс"
+				"Пс",
+				"Ps"
 			]
 		},
 		{
@@ -160,7 +179,8 @@ var info = {
 			"synonyms": [
 				"Приповісті",
 				"Прип",
-				"Пр"
+				"Пр",
+				"Prov"
 			]
 		},
 		{
@@ -168,7 +188,8 @@ var info = {
 			"numChapters": 12,
 			"synonyms": [
 				"Екклезіяст",
-				"Екл"
+				"Екл",
+				"Eccl"
 			]
 		},
 		{
@@ -176,7 +197,8 @@ var info = {
 			"numChapters": 8,
 			"synonyms": [
 				"Пісня над піснями",
-				"Пісн"
+				"Пісн",
+				"Song"
 			]
 		},
 		{
@@ -184,7 +206,8 @@ var info = {
 			"numChapters": 66,
 			"synonyms": [
 				"Ісая",
-				"Ісаї"
+				"Ісаї",
+				"Isa"
 			]
 		},
 		{
@@ -192,7 +215,8 @@ var info = {
 			"numChapters": 52,
 			"synonyms": [
 				"Єремія",
-				"Єрем"
+				"Єрем",
+				"Jer"
 			]
 		},
 		{
@@ -200,7 +224,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"Плач Єремії",
-				"Плач"
+				"Плач",
+				"Lam"
 			]
 		},
 		{
@@ -209,7 +234,8 @@ var info = {
 			"synonyms": [
 				"Єзекіїль",
 				"Єзек",
-				"Єз"
+				"Єз",
+				"Ezek"
 			]
 		},
 		{
@@ -217,14 +243,16 @@ var info = {
 			"numChapters": 12,
 			"synonyms": [
 				"Даниїл",
-				"Дан"
+				"Дан",
+				"Dan"
 			]
 		},
 		{
 			"name": "Осія",
 			"numChapters": 14,
 			"synonyms": [
-				"Осія"
+				"Осія",
+				"Hos"
 			]
 		},
 		{
@@ -233,7 +261,8 @@ var info = {
 			"synonyms": [
 				"Йоїла",
 				"Йоїл",
-				"Йоіл"
+				"Йоіл",
+				"Joel"
 			]
 		},
 		{
@@ -241,7 +270,8 @@ var info = {
 			"numChapters": 9,
 			"synonyms": [
 				"Амоса",
-                "Амос"
+				"Амос",
+				"Amos"
 			]
 		},
 		{
@@ -249,7 +279,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"Овдій",
-				"Авд"
+				"Авд",
+				"Obad"
 			]
 		},
 		{
@@ -258,7 +289,8 @@ var info = {
 			"synonyms": [
 				"Йона",
 				"Йони",
-				"Йон"
+				"Йон",
+				"Jonah"
 			]
 		},
 		{
@@ -266,21 +298,24 @@ var info = {
 			"numChapters": 7,
 			"synonyms": [
 				"Михей",
-				"Мих"
+				"Мих",
+				"Mic"
 			]
 		},
 		{
 			"name": "Наум",
 			"numChapters": 3,
 			"synonyms": [
-				"Наум"
+				"Наум",
+				"Nah"
 			]
 		},
 		{
 			"name": "Авакум",
 			"numChapters": 3,
 			"synonyms": [
-				"Авакум"
+				"Авакум",
+				"Hab"
 			]
 		},
 		{
@@ -288,7 +323,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"Софонія",
-				"Соф"
+				"Соф",
+				"Zeph"
 			]
 		},
 		{
@@ -296,7 +332,8 @@ var info = {
 			"numChapters": 2,
 			"synonyms": [
 				"Огій",
-				"Аг"
+				"Аг",
+				"Hag"
 			]
 		},
 		{
@@ -304,7 +341,8 @@ var info = {
 			"numChapters": 14,
 			"synonyms": [
 				"Захарія",
-				"Зах"
+				"Зах",
+				"Zech"
 			]
 		},
 		{
@@ -312,7 +350,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"Малахії",
-				"Мал"
+				"Мал",
+				"Mal"
 			]
 		},
 		{
@@ -320,7 +359,8 @@ var info = {
 			"numChapters": 28,
 			"synonyms": [
 				"Від Матвія",
-				"Матв"
+				"Матв",
+				"Matt"
 			]
 		},
 		{
@@ -328,7 +368,8 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"Від Марка",
-				"Марка"
+				"Марка",
+				"Mark"
 			]
 		},
 		{
@@ -336,7 +377,8 @@ var info = {
 			"numChapters": 24,
 			"synonyms": [
 				"Від Луки",
-				"Луки"
+				"Луки",
+				"Luke"
 			]
 		},
 		{
@@ -344,14 +386,16 @@ var info = {
 			"numChapters": 21,
 			"synonyms": [
 				"Від Івана",
-				"Івана"
+				"Івана",
+				"John"
 			]
 		},
 		{
 			"name": "Дії",
 			"numChapters": 28,
 			"synonyms": [
-				"Дії"
+				"Дії",
+				"Acts"
 			]
 		},
 		{
@@ -359,7 +403,8 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"До римлян",
-				"Римл?"
+				"Римл?",
+				"Rom"
 			]
 		},
 		{
@@ -367,7 +412,8 @@ var info = {
 			"numChapters": 16,
 			"synonyms": [
 				"1 до коринтян",
-				"1 Кор"
+				"1 Кор",
+				"1Cor"
 			]
 		},
 		{
@@ -375,7 +421,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"2 до коринтян",
-				"2 Кор"
+				"2 Кор",
+				"2Cor"
 			]
 		},
 		{
@@ -383,7 +430,8 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"До галатів",
-				"Гал"
+				"Гал",
+				"Gal"
 			]
 		},
 		{
@@ -391,7 +439,8 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"До ефесян",
-				"Ефес"
+				"Ефес",
+				"Eph"
 			]
 		},
 		{
@@ -400,7 +449,8 @@ var info = {
 			"synonyms": [
 				"До филип('|’)?ян",
 				"Филп",
-				"Флп"
+				"Флп",
+				"Phil"
 			]
 		},
 		{
@@ -409,7 +459,8 @@ var info = {
 			"synonyms": [
 				"До колоссян",
 				"Колос",
-				"Кол"
+				"Кол",
+				"Col"
 			]
 		},
 		{
@@ -417,7 +468,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 до солунян",
-				"1 Сол"
+				"1 Сол",
+				"1Thess"
 			]
 		},
 		{
@@ -425,7 +477,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"2 до солунян",
-				"2 Сол"
+				"2 Сол",
+				"2Thess"
 			]
 		},
 		{
@@ -433,7 +486,8 @@ var info = {
 			"numChapters": 6,
 			"synonyms": [
 				"1 Тимофію",
-				"1 Тим"
+				"1 Тим",
+				"1Tim"
 			]
 		},
 		{
@@ -441,7 +495,8 @@ var info = {
 			"numChapters": 4,
 			"synonyms": [
 				"2 Тимофію",
-				"2 Тим"
+				"2 Тим",
+				"2Tim"
 			]
 		},
 		{
@@ -449,7 +504,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"До Тита",
-				"Тит"
+				"Тит",
+				"Titus"
 			]
 		},
 		{
@@ -457,7 +513,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"До Филимона",
-				"Флм"
+				"Флм",
+				"Phlm"
 			]
 		},
 		{
@@ -465,7 +522,8 @@ var info = {
 			"numChapters": 13,
 			"synonyms": [
 				"До євреїв",
-				"Євр"
+				"Євр",
+				"Heb"
 			]
 		},
 		{
@@ -473,7 +531,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"Якова",
-				"Яков"
+				"Яков",
+				"Jas"
 			]
 		},
 		{
@@ -481,7 +540,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Петра",
-				"1 Пт"
+				"1 Пт",
+				"1Pet"
 			]
 		},
 		{
@@ -489,7 +549,8 @@ var info = {
 			"numChapters": 3,
 			"synonyms": [
 				"2 Петра",
-				"2 Пт"
+				"2 Пт",
+				"2Pet"
 			]
 		},
 		{
@@ -497,7 +558,8 @@ var info = {
 			"numChapters": 5,
 			"synonyms": [
 				"1 Івана",
-				"1 Ів"
+				"1 Ів",
+				"1John"
 			]
 		},
 		{
@@ -505,7 +567,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"2 Івана",
-				"2 Ів"
+				"2 Ів",
+				"2John"
 			]
 		},
 		{
@@ -513,7 +576,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"3 Івана",
-				"3 Ів"
+				"3 Ів",
+				"3John"
 			]
 		},
 		{
@@ -521,7 +585,8 @@ var info = {
 			"numChapters": 1,
 			"synonyms": [
 				"Юда",
-				"Юд"
+				"Юд",
+				"Jude"
 			]
 		},
 		{
@@ -529,7 +594,8 @@ var info = {
 			"numChapters": 22,
 			"synonyms": [
 				"Об('|’)?явлення",
-				"Об('|’)?явл"
+				"Об('|’)?явл",
+				"Rev"
 			]
 		}
 	]

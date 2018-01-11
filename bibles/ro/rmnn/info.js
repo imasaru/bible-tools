@@ -6,7 +6,8 @@ var info = {
 			"name": "Geneza",
 			"numChapters": 50,
 			"synonyms": [
-				"Geneza"
+				"Geneza",
+				"Gen"
 			]
 		},
 		{
@@ -20,90 +21,103 @@ var info = {
 			"name": "Levitic",
 			"numChapters": 27,
 			"synonyms": [
-				"Levitic"
+				"Levitic",
+				"Lev"
 			]
 		},
 		{
 			"name": "Numeri",
 			"numChapters": 36,
 			"synonyms": [
-				"Numeri"
+				"Numeri",
+				"Num"
 			]
 		},
 		{
 			"name": "Deuteronom",
 			"numChapters": 34,
 			"synonyms": [
-				"Deuteronom"
+				"Deuteronom",
+				"Deut"
 			]
 		},
 		{
 			"name": "Iosua",
 			"numChapters": 24,
 			"synonyms": [
-				"Iosua"
+				"Iosua",
+				"Josh"
 			]
 		},
 		{
 			"name": "Judecatori",
 			"numChapters": 21,
 			"synonyms": [
-				"Judecatori"
+				"Judecatori",
+				"Judg"
 			]
 		},
 		{
 			"name": "Rut",
 			"numChapters": 4,
 			"synonyms": [
-				"Rut"
+				"Rut",
+				"Ruth"
 			]
 		},
 		{
 			"name": "1 Samuel",
 			"numChapters": 31,
 			"synonyms": [
-				"1 Samuel"
+				"1 Samuel",
+				"1Sam"
 			]
 		},
 		{
 			"name": "2 Samuel",
 			"numChapters": 24,
 			"synonyms": [
-				"2 Samuel"
+				"2 Samuel",
+				"2Sam"
 			]
 		},
 		{
 			"name": "1 Împăraţilor",
 			"numChapters": 22,
 			"synonyms": [
-				"1 Împăraţilor"
+				"1 Împăraţilor",
+				"1Kgs"
 			]
 		},
 		{
 			"name": "2 Împăraţilor",
 			"numChapters": 25,
 			"synonyms": [
-				"2 Împăraţilor"
+				"2 Împăraţilor",
+				"2Kgs"
 			]
 		},
 		{
 			"name": "1 Cronici",
 			"numChapters": 29,
 			"synonyms": [
-				"1 Cronici"
+				"1 Cronici",
+				"1Chr"
 			]
 		},
 		{
 			"name": "2 Cronici",
 			"numChapters": 36,
 			"synonyms": [
-				"2 Cronici"
+				"2 Cronici",
+				"2Chr"
 			]
 		},
 		{
 			"name": "Ezra",
 			"numChapters": 10,
 			"synonyms": [
+				"Ezra",
 				"Ezra"
 			]
 		},
@@ -111,104 +125,119 @@ var info = {
 			"name": "Neemia",
 			"numChapters": 13,
 			"synonyms": [
-				"Neemia"
+				"Neemia",
+				"Neh"
 			]
 		},
 		{
 			"name": "Estera",
 			"numChapters": 10,
 			"synonyms": [
-				"Estera"
+				"Estera",
+				"Esth"
 			]
 		},
 		{
 			"name": "Iov",
 			"numChapters": 42,
 			"synonyms": [
-				"Iov"
+				"Iov",
+				"Job"
 			]
 		},
 		{
 			"name": "Psalmi",
 			"numChapters": 150,
 			"synonyms": [
-				"Psalmi"
+				"Psalmi",
+				"Ps"
 			]
 		},
 		{
 			"name": "Proverbele",
 			"numChapters": 31,
 			"synonyms": [
-				"Proverbele"
+				"Proverbele",
+				"Prov"
 			]
 		},
 		{
 			"name": "Ecclesiast",
 			"numChapters": 12,
 			"synonyms": [
-				"Ecclesiast"
+				"Ecclesiast",
+				"Eccl"
 			]
 		},
 		{
 			"name": "Cantarea Cantarilor",
 			"numChapters": 8,
 			"synonyms": [
-				"Cantarea Cantarilor"
+				"Cantarea Cantarilor",
+				"Song"
 			]
 		},
 		{
 			"name": "Isaia",
 			"numChapters": 66,
 			"synonyms": [
-				"Isaia"
+				"Isaia",
+				"Isa"
 			]
 		},
 		{
 			"name": "Ieremia",
 			"numChapters": 52,
 			"synonyms": [
-				"Ieremia"
+				"Ieremia",
+				"Jer"
 			]
 		},
 		{
 			"name": "Plângerile",
 			"numChapters": 5,
 			"synonyms": [
-				"Plângerile"
+				"Plângerile",
+				"Lam"
 			]
 		},
 		{
 			"name": "Ezechiel",
 			"numChapters": 48,
 			"synonyms": [
-				"Ezechiel"
+				"Ezechiel",
+				"Ezek"
 			]
 		},
 		{
 			"name": "Daniel",
 			"numChapters": 12,
 			"synonyms": [
-				"Daniel"
+				"Daniel",
+				"Dan"
 			]
 		},
 		{
 			"name": "Osea",
 			"numChapters": 14,
 			"synonyms": [
-				"Osea"
+				"Osea",
+				"Hos"
 			]
 		},
 		{
 			"name": "Ioel",
 			"numChapters": 3,
 			"synonyms": [
-				"Ioel"
+				"Ioel",
+				"Joel"
 			]
 		},
 		{
 			"name": "Amos",
 			"numChapters": 9,
 			"synonyms": [
+				"Amos",
 				"Amos"
 			]
 		},
@@ -216,91 +245,104 @@ var info = {
 			"name": "Obadia",
 			"numChapters": 1,
 			"synonyms": [
-				"Obadia"
+				"Obadia",
+				"Obad"
 			]
 		},
 		{
 			"name": "Iona",
 			"numChapters": 4,
 			"synonyms": [
-				"Iona"
+				"Iona",
+				"Jonah"
 			]
 		},
 		{
 			"name": "Mica",
 			"numChapters": 7,
 			"synonyms": [
-				"Mica"
+				"Mica",
+				"Mic"
 			]
 		},
 		{
 			"name": "Naum",
 			"numChapters": 3,
 			"synonyms": [
-				"Naum"
+				"Naum",
+				"Nah"
 			]
 		},
 		{
 			"name": "Habacuc",
 			"numChapters": 3,
 			"synonyms": [
-				"Habacuc"
+				"Habacuc",
+				"Hab"
 			]
 		},
 		{
 			"name": "Tefania",
 			"numChapters": 3,
 			"synonyms": [
-				"Tefania"
+				"Tefania",
+				"Zeph"
 			]
 		},
 		{
 			"name": "Hagai",
 			"numChapters": 2,
 			"synonyms": [
-				"Hagai"
+				"Hagai",
+				"Hag"
 			]
 		},
 		{
 			"name": "Zaharia",
 			"numChapters": 14,
 			"synonyms": [
-				"Zaharia"
+				"Zaharia",
+				"Zech"
 			]
 		},
 		{
 			"name": "Maleahi",
 			"numChapters": 4,
 			"synonyms": [
-				"Maleahi"
+				"Maleahi",
+				"Mal"
 			]
 		},
 		{
 			"name": "Matei",
 			"numChapters": 28,
 			"synonyms": [
-				"Matei"
+				"Matei",
+				"Matt"
 			]
 		},
 		{
 			"name": "Marcu",
 			"numChapters": 16,
 			"synonyms": [
-				"Marcu"
+				"Marcu",
+				"Mark"
 			]
 		},
 		{
 			"name": "Luca",
 			"numChapters": 24,
 			"synonyms": [
-				"Luca"
+				"Luca",
+				"Luke"
 			]
 		},
 		{
 			"name": "Ioan",
 			"numChapters": 21,
 			"synonyms": [
-				"Ioan"
+				"Ioan",
+				"John"
 			]
 		},
 		{
@@ -308,161 +350,184 @@ var info = {
 			"numChapters": 28,
 			"synonyms": [
 				"Faptele Apostolilor",
-				"Faptele"
+				"Faptele",
+				"Acts"
 			]
 		},
 		{
 			"name": "Romani",
 			"numChapters": 16,
 			"synonyms": [
-				"Romani"
+				"Romani",
+				"Rom"
 			]
 		},
 		{
 			"name": "1 Corinteni",
 			"numChapters": 16,
 			"synonyms": [
-				"1 Corinteni"
+				"1 Corinteni",
+				"1Cor"
 			]
 		},
 		{
 			"name": "2 Corinteni",
 			"numChapters": 13,
 			"synonyms": [
-				"2 Corinteni"
+				"2 Corinteni",
+				"2Cor"
 			]
 		},
 		{
 			"name": "Galateni",
 			"numChapters": 6,
 			"synonyms": [
-				"Galateni"
+				"Galateni",
+				"Gal"
 			]
 		},
 		{
 			"name": "Efeseni",
 			"numChapters": 6,
 			"synonyms": [
-				"Efeseni"
+				"Efeseni",
+				"Eph"
 			]
 		},
 		{
 			"name": "Filipeni",
 			"numChapters": 4,
 			"synonyms": [
-				"Filipeni"
+				"Filipeni",
+				"Phil"
 			]
 		},
 		{
 			"name": "Coloseni",
 			"numChapters": 4,
 			"synonyms": [
-				"Coloseni"
+				"Coloseni",
+				"Col"
 			]
 		},
 		{
 			"name": "1 Tesaloniceni",
 			"numChapters": 5,
 			"synonyms": [
-				"1 Tesaloniceni"
+				"1 Tesaloniceni",
+				"1Thess"
 			]
 		},
 		{
 			"name": "2 Tesaloniceni",
 			"numChapters": 3,
 			"synonyms": [
-				"2 Tesaloniceni"
+				"2 Tesaloniceni",
+				"2Thess"
 			]
 		},
 		{
 			"name": "1 Timotei",
 			"numChapters": 6,
 			"synonyms": [
-				"1 Timotei"
+				"1 Timotei",
+				"1Tim"
 			]
 		},
 		{
 			"name": "2 Timotei",
 			"numChapters": 4,
 			"synonyms": [
-				"2 Timotei"
+				"2 Timotei",
+				"2Tim"
 			]
 		},
 		{
 			"name": "Tit",
 			"numChapters": 3,
 			"synonyms": [
-				"Tit"
+				"Tit",
+				"Titus"
 			]
 		},
 		{
 			"name": "Filimon",
 			"numChapters": 1,
 			"synonyms": [
-				"Filimon"
+				"Filimon",
+				"Phlm"
 			]
 		},
 		{
 			"name": "Evrei",
 			"numChapters": 13,
 			"synonyms": [
-				"Evrei"
+				"Evrei",
+				"Heb"
 			]
 		},
 		{
 			"name": "Iacob",
 			"numChapters": 5,
 			"synonyms": [
-				"Iacob"
+				"Iacob",
+				"Jas"
 			]
 		},
 		{
 			"name": "1 Petru",
 			"numChapters": 5,
 			"synonyms": [
-				"1 Petru"
+				"1 Petru",
+				"1Pet"
 			]
 		},
 		{
 			"name": "2 Petru",
 			"numChapters": 3,
 			"synonyms": [
-				"2 Petru"
+				"2 Petru",
+				"2Pet"
 			]
 		},
 		{
 			"name": "1 Ioan",
 			"numChapters": 5,
 			"synonyms": [
-				"1 Ioan"
+				"1 Ioan",
+				"1John"
 			]
 		},
 		{
 			"name": "2 Ioan",
 			"numChapters": 1,
 			"synonyms": [
-				"2 Ioan"
+				"2 Ioan",
+				"2John"
 			]
 		},
 		{
 			"name": "3 Ioan",
 			"numChapters": 1,
 			"synonyms": [
-				"3 Ioan"
+				"3 Ioan",
+				"3John"
 			]
 		},
 		{
 			"name": "Iuda",
 			"numChapters": 1,
 			"synonyms": [
-				"Iuda"
+				"Iuda",
+				"Jude"
 			]
 		},
 		{
 			"name": "Apocalipsa",
 			"numChapters": 22,
 			"synonyms": [
-				"Apocalipsa"
+				"Apocalipsa",
+				"Rev"
 			]
 		}
 	]
