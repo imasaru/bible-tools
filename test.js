@@ -300,10 +300,10 @@ var argv = require("optimist")
     "v": "Version of Bible in lowercase, e.g. nasb",
     "n": "Full name of Bible w/ caps abbreviation as defined in BibleGateway, e.g. New-American-Standard-Bible-NASB"
   })
-  .demand(["v", "l", "n"])
+  .demand(["l", "v", "n"])
   .argv;
 
-scrapeBibleInfo(argv.l, argv.n, argv.p);
+scrapeBibleInfo(argv.l, argv.v, argv.n);
 console.log(argv.v + " info scraping completed.")
 
 scrapeBible(argv.l, argv.v);
