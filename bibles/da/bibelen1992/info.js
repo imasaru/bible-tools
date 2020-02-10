@@ -1,6 +1,6 @@
 var info = {
 	"lang": "da",
-	"version": "bibelen",
+	"version": "bibelen1992",
 	"books": [
 		{
 			"name": "Første Mosebog",
