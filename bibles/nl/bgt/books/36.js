@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanja",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Sefanja Sefanja was een profeet. Hij was een zoon van Kusi en een kleinzoon van Gedalja. Gedalja was een zoon van Amarja, en dat was weer een zoon van Hizkia. De Heer sprak tegen Sefanja toen Josia, de zoon van Amon, koning van Juda was. Hier volgen de woorden van de Heer en van Sefanja.",
+			"2": "<sup>2</sup> De Heer zegt: ‘Ik ga alles op aarde vernietigen!",
+			"3": "<sup>3</sup> Ik zal alle mensen en dieren doden, ook de vogels en de vissen. Want de mensen zijn slecht. Daarom zal er niemand op aarde in leven blijven.",
+			"4": "<sup>4</sup> Ik zal ook de mensen in Jeruzalem en Juda straffen. Daar zal ik de priesters van de god Ba&auml;l doden, en iedereen die hem vereert.",
+			"5": "<sup>5</sup> En iedereen die op het dak van zijn huis bidt tot de sterren. Er zijn ook mensen die tot mij bidden en zeggen dat ze mij dienen. Maar tegelijk dienen ze de god Milkom. Die mensen zal ik ook doden.",
+			"6": "<sup>6</sup> En ook de mensen die niets meer van me willen weten, en mij niet om raad vragen. Ik zal alles en iedereen vernietigen.’",
+			"7": "<sup>7</sup> Wees stil, volk van Juda! Want de Heer komt. De dag dat hij komt, is dichtbij! Dan zal hij een feestmaal geven voor zijn gasten, maar jullie zullen daar niet bij zijn.",
+			"8": "<sup>8</sup> De Heer zegt: ‘Op die dag zal ik de zonen van de koning en alle hoge ambtenaren straffen. En ook iedereen die de gewoontes van andere volken overneemt,",
+			"9": "<sup>9</sup> en iedereen die rekening houdt met andere goden. Ik straf ook iedereen die steelt en moordt voor de koning. Ik straf hen allemaal op de dag dat ik kom.’",
+			"10": "<sup>10</sup> De Heer zegt: ‘Je zult mensen horen schreeuwen in de Vispoort. Je zult mensen horen huilen in de nieuwe wijken. Ook buiten Jeruzalem zal iedereen wanhopig zijn.",
+			"11": "<sup>11</sup> Huil maar, als je in de Vijzelbuurt woont! Er zal niets meer te koop zijn, en er zal geen geld meer zijn om mee te betalen.",
+			"12": "<sup>12</sup> Ik kijk overal in Jeruzalem rond. Ik straf alle mensen die alleen maar leven voor hun eigen plezier. Ze denken zeker dat ik hen met rust zal laten,",
+			"13": "<sup>13</sup> maar ze raken alles kwijt. Hun huizen worden verwoest. Als ze een nieuw huis bouwen, zullen ze er niet in wonen. Als ze een wijngaard planten, krijgen ze de wijn niet te drinken.’",
+			"14": "<sup>14</sup> Het duurt niet lang meer tot de Heer komt. Dat zal een verschrikkelijke dag zijn. Nog maar even en het is zover. Je zult het wel horen! Ook de dapperste mensen zullen dan schreeuwen van angst.",
+			"15": "<sup>15</sup> De woede van de Heer is groot. De dag dat hij komt, zal een dag zijn van angst en ellende. Het zal een dag zijn van storm en verwoesting, een donkere dag zonder licht, een dag van zwarte wolken.",
+			"16": "<sup>16</sup> Dan waarschuwt het alarm voor gevaar: het is oorlog! Sterke steden worden verwoest, de torens op de muren storten in.",
+			"17": "<sup>17</sup> Dan zullen de mensen bang zijn voor de Heer. Want ze hebben dingen gedaan die de Heer verboden heeft. Ze zullen rondlopen zonder doel, alsof ze blind zijn. Ze gaan dood, hun bloed stroomt over de straat. Hun lichaam ligt te verrotten.",
+			"18": "<sup>18</sup> Ze hebben niets aan hun geld, dat kan hen niet redden als de Heer woedend is. Want dan zal het hele land in brand staan, en iedereen sterft een vreselijke dood."
+		},
+		"2": {
+			"1": "<sup>1</sup> Volk van Juda, wat zijn jullie slecht! Denk toch na en begrijp hoe erg het is.",
+			"2": "<sup>2</sup> Doe dat voordat de Heer zijn plannen uitvoert. Want de tijd gaat snel. Doe het voordat de Heer jullie zijn woede laat voelen. Voordat hij jullie straft, voordat de dag van de Heer begint.",
+			"3": "<sup>3</sup> Maar sommigen van jullie zijn trouw aan de Heer en leven volgens zijn wetten. Zij moeten zich alleen op hem richten, en goed en eenvoudig proberen te leven. Misschien zullen ze dan veilig zijn op de dag van de Heer.",
+			"4": "<sup>4</sup> In de stad Gaza zal niemand meer wonen. Askelon wordt een kale vlakte. Uit Asdod wordt iedereen weggejaagd op het heetst van de dag. En de stad Ekron zal verdwijnen.",
+			"5": "<sup>5</sup> Luister, Filistijnen! Jullie zijn uit Kreta gekomen, jullie wonen nu in Kana&auml;n, in de buurt van de zee. Maar het zal slecht met jullie aflopen. De Heer zal zorgen dat daar niemand van jullie meer blijft wonen.",
+			"6": "<sup>6-7</sup> In het land van de Filistijnen groeit dan alleen nog maar gras. Hun land is dan voor de mensen uit Juda die nog in leven zijn. Die laten er hun dieren eten, en er staan schuren voor de schapen en de geiten. En zelf zullen ze ’s avonds gaan slapen in de huizen van Askelon. Want de Heer zal medelijden hebben met de mensen uit Juda. En hij zal zorgen dat er een nieuwe tijd voor hen komt.",
+			"7": "<sup>6-7</sup> In het land van de Filistijnen groeit dan alleen nog maar gras. Hun land is dan voor de mensen uit Juda die nog in leven zijn. Die laten er hun dieren eten, en er staan schuren voor de schapen en de geiten. En zelf zullen ze ’s avonds gaan slapen in de huizen van Askelon. Want de Heer zal medelijden hebben met de mensen uit Juda. En hij zal zorgen dat er een nieuwe tijd voor hen komt.",
+			"8": "<sup>8-9</sup> De machtige Heer, de God van Isra&euml;l, zegt: ‘Ik heb gehoord hoe de Moabieten lachen om mijn volk. En hoe de Ammonieten mijn volk beledigen. Ze zeggen dat het land Juda niets voorstelt. Daarom zal er met het land van die volken hetzelfde gebeuren als met de steden Sodom en Gomorra: hun land wordt voor altijd een kale vlakte waar niets meer wil groeien. De mensen uit Juda die nog in leven zijn, zullen alles uit de huizen van de Moabieten en de Ammonieten stelen. En ze zullen hun land in bezit nemen.’",
+			"9": "<sup>8-9</sup> De machtige Heer, de God van Isra&euml;l, zegt: ‘Ik heb gehoord hoe de Moabieten lachen om mijn volk. En hoe de Ammonieten mijn volk beledigen. Ze zeggen dat het land Juda niets voorstelt. Daarom zal er met het land van die volken hetzelfde gebeuren als met de steden Sodom en Gomorra: hun land wordt voor altijd een kale vlakte waar niets meer wil groeien. De mensen uit Juda die nog in leven zijn, zullen alles uit de huizen van de Moabieten en de Ammonieten stelen. En ze zullen hun land in bezit nemen.’",
+			"10": "<sup>10</sup> Zo zal de machtige Heer die volken straffen. Want ze vinden zichzelf geweldig, en ze lachen om het volk van de Heer.",
+			"11": "<sup>11</sup> Maar ze zullen bang worden voor de Heer. Want hij zal de goden van de hele wereld vernietigen. Dan zullen alle mensen hem gaan dienen, overal op aarde.",
+			"12": "<sup>12</sup> De Heer zal naar het zuiden gaan. Hij zal zorgen dat het volk van Nubi&euml; sterft in een oorlog.",
+			"13": "<sup>13</sup> De Heer zal ook naar het noorden gaan. Hij zal Assyri&euml; straffen, hij zal dat land verwoesten. Er zal niemand meer wonen in Nineve. Die stad wordt een plaats waar niets meer wil groeien.",
+			"14": "<sup>14</sup> Er komen alleen maar wilde dieren. Die vinden er een plek om te rusten. Uilen en kraaien slapen er tussen het puin. De wind blaast door de gaten in de muren. De deuren zijn kapot, de stukken hout liggen op de grond.",
+			"15": "<sup>15</sup> Dat blijft er over van die stad, die nu nog vrolijk is. Nu denken de mensen nog dat ze daar veilig zijn. Ze zeggen: ‘Er is maar &eacute;&eacute;n Nineve!’ Maar ach, die stad wordt een verlaten vlakte. Wilde dieren vinden er een plek om te rusten. Iedereen die er komt, slaat van schrik zijn hand voor zijn mond."
+		},
+		"3": {
+			"1": "<sup>1</sup> Het gaat niet goed met Jeruzalem! Er is veel geweld in de stad. De mensen zijn er slecht, en ze verzetten zich tegen God.",
+			"2": "<sup>2</sup> Ze willen niet luisteren, ze willen niet horen hoe het beter kan. Ze vertrouwen niet op de Heer en vragen hem niet om hulp.",
+			"3": "<sup>3</sup> De bestuurders van de stad zijn net brullende leeuwen. De rechters zijn net hongerige wolven. Die vangen ’s avonds iets, en ’s ochtends is er geen stukje vlees meer over.",
+			"4": "<sup>4</sup> De profeten zijn opscheppers en bedriegers. De priesters hebben geen respect voor de tempel en trekken zich niets aan van Gods wetten.",
+			"5": "<sup>5</sup> Toch woont de Heer nog in de stad. Hij is rechtvaardig, hij doet geen onrecht. Elke dag spreekt hij recht, elke ochtend weer. Maar dat maakt geen indruk op slechte mensen.",
+			"6": "<sup>6</sup> De Heer zegt tegen Jeruzalem: ‘Ik heb hele volken vernietigd. De muren van hun steden heb ik verwoest, in de straten ligt alleen nog maar puin. Er komt niemand meer. De steden zijn verdwenen, en ook de mensen die er woonden.",
+			"7": "<sup>7</sup> Ik dacht dat jullie in Jeruzalem daar iets van zouden leren. En dat jullie eerbied voor mij zouden krijgen. Dan zou ik jullie niet gaan straffen en jullie huizen niet gaan verwoesten. Maar jullie hebben alles juist nog erger gemaakt.’",
+			"8": "<sup>8</sup> De Heer zegt: ‘Wacht maar! Wacht op de dag dat ik mijn besluit ga uitvoeren. Ik ga alle volken bij elkaar halen. Ik ga de hele wereld mijn woede laten voelen. De hele aarde zal in brand staan.",
+			"9": "<sup>9</sup> Daarna zal ik alle volken een nieuwe taal geven. Een zuivere taal, waarmee ze mij als God zullen vereren. Allemaal samen zullen ze mij dienen.",
+			"10": "<sup>10</sup> Ook in verre landen leven mensen die mij vereren. Ik heb hen daar zelf heen gestuurd. Maar ze zullen terugkeren naar Jeruzalem, en mij daar weer offers brengen.",
+			"11": "<sup>11</sup> Jeruzalem, jij bent tegen mij in opstand gekomen. Dat is verschrikkelijk. Maar alles zal anders worden. Er zullen geen trotse mensen meer zijn op de berg waar mijn tempel staat. Niemand denkt meer dat hij zonder mij kan.",
+			"12": "<sup>12</sup> Er zullen alleen nog maar arme en eenvoudige mensen zijn. Zij zullen veilig zijn bij mij. Daar zal ik voor zorgen.",
+			"13": "<sup>13</sup> De Isra&euml;lieten die er nog zijn, zullen geen misdaden meer plegen. Ze zullen niet meer liegen en bedriegen. Ze zullen rustig leven op de plek waar ze wonen. Ze hoeven voor niemand meer bang te zijn.’",
+			"14": "<sup>14</sup> Juich van vreugde, inwoners van Sion! Laat horen dat jullie blij zijn, mensen van Jeruzalem! Heel Isra&euml;l moet juichen!",
+			"15": "<sup>15</sup> De Heer zal jullie niet langer straffen. Hij jaagt jullie vijanden weg. Jullie hoeven nergens meer bang voor te zijn. De Heer is de koning van Isra&euml;l, hij is bij jullie.",
+			"16": "<sup>16</sup> Iedereen zal tegen jullie zeggen dat je niet bang hoeft te zijn en geen angst hoeft te voelen.",
+			"17": "<sup>17</sup> De Heer, jullie God, zal bij jullie zijn. Hij is machtig, hij zal jullie bevrijden. Hij houdt van jullie en zal jullie vergeven. Hij zal blij zijn over jullie, en juichen van vreugde.",
+			"18": "<sup>18-19</sup> De Heer zegt tegen zijn volk: ‘Sommigen van jullie hebben veel verdriet. Want zij leven ver weg, en ze kunnen niet naar de tempel komen om feest te vieren. Dat is verschrikkelijk voor Jeruzalem. Maar ik zal die mensen terugbrengen! En ik zal de volken straffen die hen gevangen houden. Ik zal iedereen terughalen, ook de allerzwaksten van hen. Nu heeft niemand respect voor hen. Maar dan zal de hele wereld weten wie ze zijn.",
+			"19": "<sup>18-19</sup> De Heer zegt tegen zijn volk: ‘Sommigen van jullie hebben veel verdriet. Want zij leven ver weg, en ze kunnen niet naar de tempel komen om feest te vieren. Dat is verschrikkelijk voor Jeruzalem. Maar ik zal die mensen terugbrengen! En ik zal de volken straffen die hen gevangen houden. Ik zal iedereen terughalen, ook de allerzwaksten van hen. Nu heeft niemand respect voor hen. Maar dan zal de hele wereld weten wie ze zijn.",
+			"20": "<sup>20</sup> In die tijd breng ik hen allemaal hierheen terug. Alle volken op aarde zullen dat weten. En jullie zullen zien dat het weer goed met jullie gaat. Daar zal ik voor zorgen.’ Dat is wat de Heer gezegd heeft."
+		}
+	}
+};
+module.exports = book;

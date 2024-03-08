@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonies",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Paraula del Senyor comunicada a Sofonies, fill de Cuixí, fill de Guedalià, fill d’Amarià, fill d’Hizquià, en temps de Josies, fill d’Amon, rei de Judà.",
+			"2": "<sup>2</sup> «Faré una gran collita de tot el que hi ha sobre la terra. Ho dic jo, el Senyor.",
+			"3": "<sup>3</sup> Recolliré homes i bèsties, els ocells del cel i els peixos del mar, i, juntament amb els malvats, tot el que és ocasió d’escàndol. No deixaré ningú en tota la terra. Ho dic jo, el Senyor.",
+			"4": "<sup>4</sup> »Aixecaré la mà contra la gent de Judà i contra els habitants de Jerusalem. Esborraré d’aquest lloc el que resti del culte de Baal: el nom dels seus servents i sacerdots,",
+			"5": "<sup>5</sup> els qui es prosternen dalt als terrats per adorar l’estol dels astres, els qui m’adoren i juren pel meu nom però també juren pel nom del déu Milcom,",
+			"6": "<sup>6</sup> els qui s’allunyen de mi, el Senyor, i no vénen a consultar els meus oracles.»",
+			"7": "<sup>7</sup> Silenci davant el Senyor Déu! El dia del Senyor és a prop. El Senyor té preparada una matança, ja ha triat els convidats.",
+			"8": "<sup>8</sup> «El dia de la meva matança vindré contra els governants, contra els fills del rei i contra tots els qui es vesteixen com els estrangers.",
+			"9": "<sup>9</sup> Aquell dia vindré contra els qui entren al meu llindar a l’estil estranger, i contra els qui omplen la casa del seu Senyor amb el fruit de robatoris i d’estafes.",
+			"10": "<sup>10</sup> Aquell dia, a Jerusalem s’alçarà un clam des de la porta dels Peixos; un plany s’aixecarà del Barri Nou, de la Ciutat Alta, una gran lamentació.",
+			"11": "<sup>11</sup> Planyeu-vos, habitants de la Ciutat Baixa, perquè tots els mercaders s’han esvaït i els qui acaparen plata s’han esfumat.",
+			"12": "<sup>12</sup> I s’esdevindrà en aquell moment que escorcollaré Jerusalem, amb llums a la mà, per demanar comptes als qui estan quiets com el vi sobre el solatge i que es diuen dintre seu: “El Senyor no fa res, ni en bé, ni en mal.”",
+			"13": "<sup>13</sup> Les riqueses els seran saquejades, i assolades les seves cases; les construiran però no hi habitaran, plantaran vinyes però no en beuran el vi.»",
+			"14": "<sup>14</sup> El gran dia del Senyor s’acosta, ve molt de pressa, ja és a prop. Escolteu el clam que s’aixeca el dia del Senyor, quan fins i tot els valents cridaran amargament.",
+			"15": "<sup>15</sup> Aquell dia serà d’indignació, dia de tràngol i d’angoixa, dia de destrucció i de ruïna. Serà un dia de fosca i de tenebra, un dia de negres nuvolades.",
+			"16": "<sup>16</sup> Aquell dia se sentiran tocs de corn i crits de guerra contra les ciutats fortificades i les seves torres inexpugnables.",
+			"17": "<sup>17</sup> «Faré caure sobre els homes un desastre, i es mouran a les palpentes com els cecs, perquè han pecat contra mi, el Senyor. La seva sang serà escampada com la pols, i les seves carronyes, com els fems.»",
+			"18": "<sup>18</sup> Ni el seu or ni la seva plata no els podran salvar el dia que s’indigni el Senyor. El foc del seu zel consumirà tot el país: farà un extermini terrible de tots els seus habitants."
+		},
+		"2": {
+			"1": "<sup>1</sup> Examineu-vos a fons,",
+			"2": "<sup>2</sup> abans no es compleixi el decret, abans no passi el dia i us escampin com la palla, abans no caigui damunt vostre l’enuig ardent del Senyor, abans no caigui damunt vostre el dia de la seva indignació.",
+			"3": "<sup>3</sup> Cerqueu el Senyor, vosaltres, tots els humils del país, que compliu els seus preceptes. Cerqueu la bondat, cerqueu la humilitat. Potser així quedareu protegits el dia de l’enuig del Senyor.",
+			"4": "<sup>4</sup> Gaza quedarà desolada, i Ascaló, devastada. En ple dia seran expulsats els d’Asdod, i els d’Ecron seran arrencats.",
+			"5": "<sup>5</sup> Ai de vosaltres, els quereteus, que viviu a la regió de vora el mar. El Senyor ha parlat així contra vosaltres: «Canaan, país dels filisteus, jo t’arrasaré, no hi quedarà ningú.",
+			"6": "<sup>6</sup> La regió de vora el mar serà terra de pasturatges, amb pous per als pastors i pletes per als ramats.»",
+			"7": "<sup>7</sup> Els supervivents de Judà ocuparan aquesta regió; hi portaran els ramats a pasturar, i al vespre els ajauran a les cases d’Ascaló. Perquè el Senyor, el seu Déu, els serà favorable i renovarà la seva vida.",
+			"8": "<sup>8</sup> «Jo, el Senyor, he sentit les burles de Moab i els menyspreus dels ammonites. S’han burlat del meu poble i s’han engrandit a costa del seu territori.",
+			"9": "<sup>9</sup> Ara, doncs, declaro, tan cert com visc, que Moab i els ammonites acabaran com Sodoma i Gomorra, terres de males herbes d’on es treu la sal, terres desolades per sempre. Ho dic jo, el Senyor de l’univers, Déu d’Israel. Seran saquejats pels supervivents del meu poble, la resta de la meva gent els posseirà.»",
+			"10": "<sup>10</sup> Així pagaran la seva arrogància, ja que es burlaven del poble del Senyor de l’univers i s’engrandien a costa d’ell.",
+			"11": "<sup>11</sup> El Senyor es mostrarà temible davant d’ells, destituirà tots els déus d’aquells països. Llavors l’adoraran les nacions més llunyanes, cada una en la pròpia terra.",
+			"12": "<sup>12</sup> «També a vosaltres, els etíops, jo, el Senyor, us faré morir a la guerra.»",
+			"13": "<sup>13</sup> El Senyor també aixecarà la mà cap al nord per fer desaparèixer els assiris, i convertirà Nínive en una devastació, en un lloc eixut com el desert.",
+			"14": "<sup>14</sup> S’hi ajauran els ramats, tot el bestiar dels seus veïns. El mussol i l’eriçó faran nit dalt dels seus capitells, i se’n sentiran els esgarips a les finestres. Des dels llindars es veuran les ruïnes, perquè l’embigat de cedre quedarà al descobert.",
+			"15": "<sup>15</sup> Així acabarà la ciutat altiva que vivia confiada i pensava dintre seu: Sóc jo sola i ningú més. Com s’ha convertit en solitud, en refugi de les bèsties! Tothom qui hi passi se’n riurà, alçarà la mà amb aires de mofa."
+		},
+		"3": {
+			"1": "<sup>1</sup> Ai de Jerusalem, ciutat rebel, impura i opressora!",
+			"2": "<sup>2</sup> No ha escoltat la crida, no s’ha deixat corregir, no ha confiat en el Senyor, no s’ha acostat al seu Déu.",
+			"3": "<sup>3</sup> Els seus governants són lleons que rugeixen; els seus jutges, llops del capvespre a qui al matí no queda res per rosegar.",
+			"4": "<sup>4</sup> Els seus profetes són uns desvergonyits, gent traïdora. Els seus sacerdots profanen allò que és sagrat, donen respostes injustes.",
+			"5": "<sup>5</sup> Però, enmig de la ciutat, el Senyor és just: fer el mal no és cosa seva. Un matí rere un altre dóna la seva sentència; quan despunta el dia, no falta mai. En canvi, l’home malvat no coneix la vergonya.",
+			"6": "<sup>6</sup> «Jo, el Senyor, he esborrat nacions senceres, les seves torres estan enderrocades; he devastat els seus carrers, no hi passa ningú; les seves ciutats han quedat desolades, sense ningú que les habiti.",
+			"7": "<sup>7</sup> Jo m’havia dit: “Almenys Jerusalem em respectarà; es deixarà corregir, i no destruiré els seus habitatges ni la castigaré, tal com havia decidit.” Però, així que es lleven, es desencaminen i posen en pràctica tots els seus mals propòsits.",
+			"8": "<sup>8</sup> Ara, doncs, espereu-me! Ho dic jo, el Senyor. Espereu el dia que m’aixecaré per acusar-vos. He decidit de reunir nacions, d’aplegar reialmes, per abocar damunt d’ells el meu enuig, tot el foc del meu rigor. Tota la terra serà devorada pel foc de la meva gelosia.»",
+			"9": "<sup>9</sup> «Llavors jo, el Senyor, canviaré els llavis dels pobles: els donaré uns llavis purs perquè tots invoquin el meu nom i tots plegats se’m sotmetin.",
+			"10": "<sup>10</sup> De més enllà dels rius d’Etiòpia, els qui jo havia dispersat i ara em supliquen em portaran la seva ofrena.",
+			"11": "<sup>11</sup> Aquell dia, ciutat meva, no t’hauràs d’avergonyir de les males accions amb què fins ara m’eres infidel, perquè trauré de dintre teu els qui es glorien de la teva altivesa i tu deixaràs de fer l’arrogant en la meva muntanya santa.",
+			"12": "<sup>12</sup> Jo faré que resti dintre teu un poble humil i pobre que cercarà refugi en el meu nom.",
+			"13": "<sup>13</sup> La resta d’Israel no farà res de mal ni mentirà, no tindrà als llavis paraules enganyoses. Podrà pasturar i reposar sense que ningú l’esveri.»",
+			"14": "<sup>14</sup> Crida de goig, ciutat de Sió! Clameu ben fort, gent d’Israel! Alegra’t i celebra-ho de tot cor, Jerusalem!",
+			"15": "<sup>15</sup> El Senyor ha revocat la teva condemna, ha allunyat els teus enemics. El Senyor, rei d’Israel, és dintre teu: mai més no hauràs de témer cap mal.",
+			"16": "<sup>16</sup> Aquell dia, diran a Jerusalem: «No tinguis por, Sió, que les teves mans no defalleixin!",
+			"17": "<sup>17</sup> El Senyor, el teu Déu, el tens a dins. Ell és poderós i et salva. Per tu se sent joiós i alegre; per l’amor que et té, no et vol blasmar; per tu està content i crida de goig.»",
+			"18": "<sup>18</sup> «Jo, el Senyor, aplegaré els qui estaven lluny de tu, privats de festes i entristits. Aquest era l’oprobi que pesava sobre la ciutat!",
+			"19": "<sup>19</sup> En aquell temps faré sentir el meu poder contra tots els teus opressors. Salvaré les ovelles coixes, aplegaré les disperses i els donaré glòria i renom per tots els països on ara les menyspreen.",
+			"20": "<sup>20</sup> En aquell temps, jo us conduiré, llavors us aplegaré. Vosaltres mateixos veureu com renovaré la vostra vida i us donaré glòria i renom per tots els pobles de la terra. Sóc jo, el Senyor, qui ho ha dit.»"
+		}
+	}
+};
+module.exports = book;

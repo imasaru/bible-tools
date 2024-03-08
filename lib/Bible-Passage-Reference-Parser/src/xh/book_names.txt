@@ -1,0 +1,3168 @@
+1Chr	1. KwabaseKumkani
+1Chr	I. KwabaseKumkani
+1Chr	1 KwabaseKumkani
+1Chr	1. KwabasKumkani
+1Chr	I KwabaseKumkani
+1Chr	I. KwabasKumkani
+1Chr	KwabaseKronike 1
+1Chr	KwabaseKronike I
+1Chr	1 KwabasKumkani
+1Chr	I KwabasKumkani
+1Chr	KwabasKronike 1
+1Chr	KwabasKronike I
+1Chr	1. KumaKumkani
+1Chr	1. YeziKumkani
+1Chr	I. KumaKumkani
+1Chr	I. YeziKumkani
+1Chr	1 KumaKumkani
+1Chr	1 YeziKumkani
+1Chr	1. AbaKumkani
+1Chr	1. EkaKumkani
+1Chr	1. ImiKumkani
+1Chr	1. IsiKumkani
+1Chr	1. IziKumkani
+1Chr	1. KumKumkani
+1Chr	1. YezKumkani
+1Chr	1. YooKumkani
+1Chr	I KumaKumkani
+1Chr	I YeziKumkani
+1Chr	I. AbaKumkani
+1Chr	I. EkaKumkani
+1Chr	I. ImiKumkani
+1Chr	I. IsiKumkani
+1Chr	I. IziKumkani
+1Chr	I. KumKumkani
+1Chr	I. YezKumkani
+1Chr	I. YooKumkani
+1Chr	KumaKronike 1
+1Chr	KumaKronike I
+1Chr	YeziKronike 1
+1Chr	YeziKronike I
+1Chr	1 AbaKumkani
+1Chr	1 EkaKumkani
+1Chr	1 ImiKumkani
+1Chr	1 IsiKumkani
+1Chr	1 IziKumkani
+1Chr	1 KumKumkani
+1Chr	1 YezKumkani
+1Chr	1 YooKumkani
+1Chr	1. AbKumkani
+1Chr	1. EkKumkani
+1Chr	1. IiKumkani
+1Chr	1. ImKumkani
+1Chr	1. IsKumkani
+1Chr	1. IzKumkani
+1Chr	1. KaKumkani
+1Chr	1. KuKumkani
+1Chr	1. OoKumkani
+1Chr	1. YoKumkani
+1Chr	AbaKronike 1
+1Chr	AbaKronike I
+1Chr	EkaKronike 1
+1Chr	EkaKronike I
+1Chr	I AbaKumkani
+1Chr	I EkaKumkani
+1Chr	I ImiKumkani
+1Chr	I IsiKumkani
+1Chr	I IziKumkani
+1Chr	I KumKumkani
+1Chr	I YezKumkani
+1Chr	I YooKumkani
+1Chr	I. AbKumkani
+1Chr	I. EkKumkani
+1Chr	I. IiKumkani
+1Chr	I. ImKumkani
+1Chr	I. IsKumkani
+1Chr	I. IzKumkani
+1Chr	I. KaKumkani
+1Chr	I. KuKumkani
+1Chr	I. OoKumkani
+1Chr	I. YoKumkani
+1Chr	ImiKronike 1
+1Chr	ImiKronike I
+1Chr	IsiKronike 1
+1Chr	IsiKronike I
+1Chr	IziKronike 1
+1Chr	IziKronike I
+1Chr	KumKronike 1
+1Chr	KumKronike I
+1Chr	YezKronike 1
+1Chr	YezKronike I
+1Chr	YooKronike 1
+1Chr	YooKronike I
+1Chr	1 AbKumkani
+1Chr	1 EkKumkani
+1Chr	1 IiKumkani
+1Chr	1 ImKumkani
+1Chr	1 IsKumkani
+1Chr	1 IzKumkani
+1Chr	1 KaKumkani
+1Chr	1 KuKumkani
+1Chr	1 OoKumkani
+1Chr	1 YoKumkani
+1Chr	1. IKumkani
+1Chr	1. KKumkani
+1Chr	1. OKumkani
+1Chr	1. UKumkani
+1Chr	AbKronike 1
+1Chr	AbKronike I
+1Chr	EkKronike 1
+1Chr	EkKronike I
+1Chr	I AbKumkani
+1Chr	I EkKumkani
+1Chr	I IiKumkani
+1Chr	I ImKumkani
+1Chr	I IsKumkani
+1Chr	I IzKumkani
+1Chr	I KaKumkani
+1Chr	I KuKumkani
+1Chr	I OoKumkani
+1Chr	I YoKumkani
+1Chr	I. IKumkani
+1Chr	I. KKumkani
+1Chr	I. OKumkani
+1Chr	I. UKumkani
+1Chr	IiKronike 1
+1Chr	IiKronike I
+1Chr	ImKronike 1
+1Chr	ImKronike I
+1Chr	IsKronike 1
+1Chr	IsKronike I
+1Chr	IzKronike 1
+1Chr	IzKronike I
+1Chr	KaKronike 1
+1Chr	KaKronike I
+1Chr	KuKronike 1
+1Chr	KuKronike I
+1Chr	OoKronike 1
+1Chr	OoKronike I
+1Chr	YoKronike 1
+1Chr	YoKronike I
+1Chr	1 IKumkani
+1Chr	1 KKumkani
+1Chr	1 OKumkani
+1Chr	1 UKumkani
+1Chr	1. Kumkani
+1Chr	I IKumkani
+1Chr	I KKumkani
+1Chr	I OKumkani
+1Chr	I UKumkani
+1Chr	I. Kumkani
+1Chr	IKronike 1
+1Chr	IKronike I
+1Chr	KKronike 1
+1Chr	KKronike I
+1Chr	OKronike 1
+1Chr	OKronike I
+1Chr	UKronike 1
+1Chr	UKronike I
+1Chr	1 Kumkani
+1Chr	I Kumkani
+1Chr	Kronike 1
+1Chr	Kronike I
+1Chr	1Chr
+1Cor	KwabaseKorinte 1
+1Cor	KwabaseKorinte I
+1Cor	KwabasKorinte 1
+1Cor	KwabasKorinte I
+1Cor	KumaKorinte 1
+1Cor	KumaKorinte I
+1Cor	YeziKorinte 1
+1Cor	YeziKorinte I
+1Cor	AbaKorinte 1
+1Cor	AbaKorinte I
+1Cor	EkaKorinte 1
+1Cor	EkaKorinte I
+1Cor	ImiKorinte 1
+1Cor	ImiKorinte I
+1Cor	IsiKorinte 1
+1Cor	IsiKorinte I
+1Cor	IziKorinte 1
+1Cor	IziKorinte I
+1Cor	KumKorinte 1
+1Cor	KumKorinte I
+1Cor	YezKorinte 1
+1Cor	YezKorinte I
+1Cor	YooKorinte 1
+1Cor	YooKorinte I
+1Cor	AbKorinte 1
+1Cor	AbKorinte I
+1Cor	EkKorinte 1
+1Cor	EkKorinte I
+1Cor	IiKorinte 1
+1Cor	IiKorinte I
+1Cor	ImKorinte 1
+1Cor	ImKorinte I
+1Cor	IsKorinte 1
+1Cor	IsKorinte I
+1Cor	IzKorinte 1
+1Cor	IzKorinte I
+1Cor	KaKorinte 1
+1Cor	KaKorinte I
+1Cor	KuKorinte 1
+1Cor	KuKorinte I
+1Cor	OoKorinte 1
+1Cor	OoKorinte I
+1Cor	YoKorinte 1
+1Cor	YoKorinte I
+1Cor	IKorinte 1
+1Cor	IKorinte I
+1Cor	KKorinte 1
+1Cor	KKorinte I
+1Cor	OKorinte 1
+1Cor	OKorinte I
+1Cor	UKorinte 1
+1Cor	UKorinte I
+1Cor	Korinte 1
+1Cor	Korinte I
+1Cor	1. Kor
+1Cor	I. Kor
+1Cor	1 Kor
+1Cor	I Kor
+1Cor	1Cor
+1Esd	1Esd
+1John	KwabaseYohane 1
+1John	KwabaseYohane I
+1John	KwabasYohane 1
+1John	KwabasYohane I
+1John	KumaYohane 1
+1John	KumaYohane I
+1John	YeziYohane 1
+1John	YeziYohane I
+1John	AbaYohane 1
+1John	AbaYohane I
+1John	EkaYohane 1
+1John	EkaYohane I
+1John	ImiYohane 1
+1John	ImiYohane I
+1John	IsiYohane 1
+1John	IsiYohane I
+1John	IziYohane 1
+1John	IziYohane I
+1John	KumYohane 1
+1John	KumYohane I
+1John	YezYohane 1
+1John	YezYohane I
+1John	YooYohane 1
+1John	YooYohane I
+1John	AbYohane 1
+1John	AbYohane I
+1John	EkYohane 1
+1John	EkYohane I
+1John	IiYohane 1
+1John	IiYohane I
+1John	ImYohane 1
+1John	ImYohane I
+1John	IsYohane 1
+1John	IsYohane I
+1John	IzYohane 1
+1John	IzYohane I
+1John	KaYohane 1
+1John	KaYohane I
+1John	KuYohane 1
+1John	KuYohane I
+1John	OoYohane 1
+1John	OoYohane I
+1John	YoYohane 1
+1John	YoYohane I
+1John	1. Yohane
+1John	I. Yohane
+1John	IYohane 1
+1John	IYohane I
+1John	KYohane 1
+1John	KYohane I
+1John	OYohane 1
+1John	OYohane I
+1John	UYohane 1
+1John	UYohane I
+1John	1 Yohane
+1John	I Yohane
+1John	Yohane 1
+1John	Yohane I
+1John	1. Yoh
+1John	I. Yoh
+1John	1 Yoh
+1John	1. Yh
+1John	1John
+1John	I Yoh
+1John	I. Yh
+1John	1 Yh
+1John	I Yh
+1Kgs	1. KwabaseKumkani
+1Kgs	I. KwabaseKumkani
+1Kgs	1 KwabaseKumkani
+1Kgs	1. KwabasKumkani
+1Kgs	I KwabaseKumkani
+1Kgs	I. KwabasKumkani
+1Kgs	KwabaseKumkani 1
+1Kgs	KwabaseKumkani I
+1Kgs	1 KwabasKumkani
+1Kgs	I KwabasKumkani
+1Kgs	KwabasKumkani 1
+1Kgs	KwabasKumkani I
+1Kgs	1. KumaKumkani
+1Kgs	1. YeziKumkani
+1Kgs	I. KumaKumkani
+1Kgs	I. YeziKumkani
+1Kgs	1 KumaKumkani
+1Kgs	1 YeziKumkani
+1Kgs	1. AbaKumkani
+1Kgs	1. EkaKumkani
+1Kgs	1. ImiKumkani
+1Kgs	1. IsiKumkani
+1Kgs	1. IziKumkani
+1Kgs	1. KumKumkani
+1Kgs	1. YezKumkani
+1Kgs	1. YooKumkani
+1Kgs	I KumaKumkani
+1Kgs	I YeziKumkani
+1Kgs	I. AbaKumkani
+1Kgs	I. EkaKumkani
+1Kgs	I. ImiKumkani
+1Kgs	I. IsiKumkani
+1Kgs	I. IziKumkani
+1Kgs	I. KumKumkani
+1Kgs	I. YezKumkani
+1Kgs	I. YooKumkani
+1Kgs	KumaKumkani 1
+1Kgs	KumaKumkani I
+1Kgs	YeziKumkani 1
+1Kgs	YeziKumkani I
+1Kgs	1 AbaKumkani
+1Kgs	1 EkaKumkani
+1Kgs	1 ImiKumkani
+1Kgs	1 IsiKumkani
+1Kgs	1 IziKumkani
+1Kgs	1 KumKumkani
+1Kgs	1 YezKumkani
+1Kgs	1 YooKumkani
+1Kgs	1. AbKumkani
+1Kgs	1. EkKumkani
+1Kgs	1. IiKumkani
+1Kgs	1. ImKumkani
+1Kgs	1. IsKumkani
+1Kgs	1. IzKumkani
+1Kgs	1. KaKumkani
+1Kgs	1. KuKumkani
+1Kgs	1. OoKumkani
+1Kgs	1. YoKumkani
+1Kgs	AbaKumkani 1
+1Kgs	AbaKumkani I
+1Kgs	EkaKumkani 1
+1Kgs	EkaKumkani I
+1Kgs	I AbaKumkani
+1Kgs	I EkaKumkani
+1Kgs	I ImiKumkani
+1Kgs	I IsiKumkani
+1Kgs	I IziKumkani
+1Kgs	I KumKumkani
+1Kgs	I YezKumkani
+1Kgs	I YooKumkani
+1Kgs	I. AbKumkani
+1Kgs	I. EkKumkani
+1Kgs	I. IiKumkani
+1Kgs	I. ImKumkani
+1Kgs	I. IsKumkani
+1Kgs	I. IzKumkani
+1Kgs	I. KaKumkani
+1Kgs	I. KuKumkani
+1Kgs	I. OoKumkani
+1Kgs	I. YoKumkani
+1Kgs	ImiKumkani 1
+1Kgs	ImiKumkani I
+1Kgs	IsiKumkani 1
+1Kgs	IsiKumkani I
+1Kgs	IziKumkani 1
+1Kgs	IziKumkani I
+1Kgs	KumKumkani 1
+1Kgs	KumKumkani I
+1Kgs	YezKumkani 1
+1Kgs	YezKumkani I
+1Kgs	YooKumkani 1
+1Kgs	YooKumkani I
+1Kgs	1 AbKumkani
+1Kgs	1 EkKumkani
+1Kgs	1 IiKumkani
+1Kgs	1 ImKumkani
+1Kgs	1 IsKumkani
+1Kgs	1 IzKumkani
+1Kgs	1 KaKumkani
+1Kgs	1 KuKumkani
+1Kgs	1 OoKumkani
+1Kgs	1 YoKumkani
+1Kgs	1. IKumkani
+1Kgs	1. KKumkani
+1Kgs	1. OKumkani
+1Kgs	1. UKumkani
+1Kgs	AbKumkani 1
+1Kgs	AbKumkani I
+1Kgs	EkKumkani 1
+1Kgs	EkKumkani I
+1Kgs	I AbKumkani
+1Kgs	I EkKumkani
+1Kgs	I IiKumkani
+1Kgs	I ImKumkani
+1Kgs	I IsKumkani
+1Kgs	I IzKumkani
+1Kgs	I KaKumkani
+1Kgs	I KuKumkani
+1Kgs	I OoKumkani
+1Kgs	I YoKumkani
+1Kgs	I. IKumkani
+1Kgs	I. KKumkani
+1Kgs	I. OKumkani
+1Kgs	I. UKumkani
+1Kgs	IiKumkani 1
+1Kgs	IiKumkani I
+1Kgs	ImKumkani 1
+1Kgs	ImKumkani I
+1Kgs	IsKumkani 1
+1Kgs	IsKumkani I
+1Kgs	IzKumkani 1
+1Kgs	IzKumkani I
+1Kgs	KaKumkani 1
+1Kgs	KaKumkani I
+1Kgs	KuKumkani 1
+1Kgs	KuKumkani I
+1Kgs	OoKumkani 1
+1Kgs	OoKumkani I
+1Kgs	YoKumkani 1
+1Kgs	YoKumkani I
+1Kgs	1 IKumkani
+1Kgs	1 KKumkani
+1Kgs	1 OKumkani
+1Kgs	1 UKumkani
+1Kgs	1. Kumkani
+1Kgs	I IKumkani
+1Kgs	I KKumkani
+1Kgs	I OKumkani
+1Kgs	I UKumkani
+1Kgs	I. Kumkani
+1Kgs	IKumkani 1
+1Kgs	IKumkani I
+1Kgs	KKumkani 1
+1Kgs	KKumkani I
+1Kgs	OKumkani 1
+1Kgs	OKumkani I
+1Kgs	UKumkani 1
+1Kgs	UKumkani I
+1Kgs	1 Kumkani
+1Kgs	I Kumkani
+1Kgs	Kumkani 1
+1Kgs	Kumkani I
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	KwabasePetros 1
+1Pet	KwabasePetros I
+1Pet	KwabasPetros 1
+1Pet	KwabasPetros I
+1Pet	KumaPetros 1
+1Pet	KumaPetros I
+1Pet	YeziPetros 1
+1Pet	YeziPetros I
+1Pet	AbaPetros 1
+1Pet	AbaPetros I
+1Pet	EkaPetros 1
+1Pet	EkaPetros I
+1Pet	ImiPetros 1
+1Pet	ImiPetros I
+1Pet	IsiPetros 1
+1Pet	IsiPetros I
+1Pet	IziPetros 1
+1Pet	IziPetros I
+1Pet	KumPetros 1
+1Pet	KumPetros I
+1Pet	YezPetros 1
+1Pet	YezPetros I
+1Pet	YooPetros 1
+1Pet	YooPetros I
+1Pet	AbPetros 1
+1Pet	AbPetros I
+1Pet	EkPetros 1
+1Pet	EkPetros I
+1Pet	IiPetros 1
+1Pet	IiPetros I
+1Pet	ImPetros 1
+1Pet	ImPetros I
+1Pet	IsPetros 1
+1Pet	IsPetros I
+1Pet	IzPetros 1
+1Pet	IzPetros I
+1Pet	KaPetros 1
+1Pet	KaPetros I
+1Pet	KuPetros 1
+1Pet	KuPetros I
+1Pet	OoPetros 1
+1Pet	OoPetros I
+1Pet	YoPetros 1
+1Pet	YoPetros I
+1Pet	IPetros 1
+1Pet	IPetros I
+1Pet	KPetros 1
+1Pet	KPetros I
+1Pet	OPetros 1
+1Pet	OPetros I
+1Pet	UPetros 1
+1Pet	UPetros I
+1Pet	Petros 1
+1Pet	Petros I
+1Pet	1. Petr
+1Pet	I. Petr
+1Pet	1 Petr
+1Pet	1. Pet
+1Pet	1. Ptr
+1Pet	I Petr
+1Pet	I. Pet
+1Pet	I. Ptr
+1Pet	1 Pet
+1Pet	1 Ptr
+1Pet	1. Pt
+1Pet	I Pet
+1Pet	I Ptr
+1Pet	I. Pt
+1Pet	1 Pt
+1Pet	1Pet
+1Pet	I Pt
+1Sam	1. KwabaseSamuweli
+1Sam	I. KwabaseSamuweli
+1Sam	1 KwabaseSamuweli
+1Sam	1. KwabasSamuweli
+1Sam	I KwabaseSamuweli
+1Sam	I. KwabasSamuweli
+1Sam	KwabaseSamuweli 1
+1Sam	KwabaseSamuweli I
+1Sam	1 KwabasSamuweli
+1Sam	I KwabasSamuweli
+1Sam	KwabasSamuweli 1
+1Sam	KwabasSamuweli I
+1Sam	1. KumaSamuweli
+1Sam	1. YeziSamuweli
+1Sam	I. KumaSamuweli
+1Sam	I. YeziSamuweli
+1Sam	1 KumaSamuweli
+1Sam	1 YeziSamuweli
+1Sam	1. AbaSamuweli
+1Sam	1. EkaSamuweli
+1Sam	1. ImiSamuweli
+1Sam	1. IsiSamuweli
+1Sam	1. IziSamuweli
+1Sam	1. KumSamuweli
+1Sam	1. YezSamuweli
+1Sam	1. YooSamuweli
+1Sam	I KumaSamuweli
+1Sam	I YeziSamuweli
+1Sam	I. AbaSamuweli
+1Sam	I. EkaSamuweli
+1Sam	I. ImiSamuweli
+1Sam	I. IsiSamuweli
+1Sam	I. IziSamuweli
+1Sam	I. KumSamuweli
+1Sam	I. YezSamuweli
+1Sam	I. YooSamuweli
+1Sam	KumaSamuweli 1
+1Sam	KumaSamuweli I
+1Sam	YeziSamuweli 1
+1Sam	YeziSamuweli I
+1Sam	1 AbaSamuweli
+1Sam	1 EkaSamuweli
+1Sam	1 ImiSamuweli
+1Sam	1 IsiSamuweli
+1Sam	1 IziSamuweli
+1Sam	1 KumSamuweli
+1Sam	1 YezSamuweli
+1Sam	1 YooSamuweli
+1Sam	1. AbSamuweli
+1Sam	1. EkSamuweli
+1Sam	1. IiSamuweli
+1Sam	1. ImSamuweli
+1Sam	1. IsSamuweli
+1Sam	1. IzSamuweli
+1Sam	1. KaSamuweli
+1Sam	1. KuSamuweli
+1Sam	1. OoSamuweli
+1Sam	1. YoSamuweli
+1Sam	AbaSamuweli 1
+1Sam	AbaSamuweli I
+1Sam	EkaSamuweli 1
+1Sam	EkaSamuweli I
+1Sam	I AbaSamuweli
+1Sam	I EkaSamuweli
+1Sam	I ImiSamuweli
+1Sam	I IsiSamuweli
+1Sam	I IziSamuweli
+1Sam	I KumSamuweli
+1Sam	I YezSamuweli
+1Sam	I YooSamuweli
+1Sam	I. AbSamuweli
+1Sam	I. EkSamuweli
+1Sam	I. IiSamuweli
+1Sam	I. ImSamuweli
+1Sam	I. IsSamuweli
+1Sam	I. IzSamuweli
+1Sam	I. KaSamuweli
+1Sam	I. KuSamuweli
+1Sam	I. OoSamuweli
+1Sam	I. YoSamuweli
+1Sam	ImiSamuweli 1
+1Sam	ImiSamuweli I
+1Sam	IsiSamuweli 1
+1Sam	IsiSamuweli I
+1Sam	IziSamuweli 1
+1Sam	IziSamuweli I
+1Sam	KumSamuweli 1
+1Sam	KumSamuweli I
+1Sam	YezSamuweli 1
+1Sam	YezSamuweli I
+1Sam	YooSamuweli 1
+1Sam	YooSamuweli I
+1Sam	1 AbSamuweli
+1Sam	1 EkSamuweli
+1Sam	1 IiSamuweli
+1Sam	1 ImSamuweli
+1Sam	1 IsSamuweli
+1Sam	1 IzSamuweli
+1Sam	1 KaSamuweli
+1Sam	1 KuSamuweli
+1Sam	1 OoSamuweli
+1Sam	1 YoSamuweli
+1Sam	1. ISamuweli
+1Sam	1. KSamuweli
+1Sam	1. OSamuweli
+1Sam	1. USamuweli
+1Sam	AbSamuweli 1
+1Sam	AbSamuweli I
+1Sam	EkSamuweli 1
+1Sam	EkSamuweli I
+1Sam	I AbSamuweli
+1Sam	I EkSamuweli
+1Sam	I IiSamuweli
+1Sam	I ImSamuweli
+1Sam	I IsSamuweli
+1Sam	I IzSamuweli
+1Sam	I KaSamuweli
+1Sam	I KuSamuweli
+1Sam	I OoSamuweli
+1Sam	I YoSamuweli
+1Sam	I. ISamuweli
+1Sam	I. KSamuweli
+1Sam	I. OSamuweli
+1Sam	I. USamuweli
+1Sam	IiSamuweli 1
+1Sam	IiSamuweli I
+1Sam	ImSamuweli 1
+1Sam	ImSamuweli I
+1Sam	IsSamuweli 1
+1Sam	IsSamuweli I
+1Sam	IzSamuweli 1
+1Sam	IzSamuweli I
+1Sam	KaSamuweli 1
+1Sam	KaSamuweli I
+1Sam	KuSamuweli 1
+1Sam	KuSamuweli I
+1Sam	OoSamuweli 1
+1Sam	OoSamuweli I
+1Sam	YoSamuweli 1
+1Sam	YoSamuweli I
+1Sam	1 ISamuweli
+1Sam	1 KSamuweli
+1Sam	1 OSamuweli
+1Sam	1 USamuweli
+1Sam	1. Samuweli
+1Sam	I ISamuweli
+1Sam	I KSamuweli
+1Sam	I OSamuweli
+1Sam	I USamuweli
+1Sam	I. Samuweli
+1Sam	ISamuweli 1
+1Sam	ISamuweli I
+1Sam	KSamuweli 1
+1Sam	KSamuweli I
+1Sam	OSamuweli 1
+1Sam	OSamuweli I
+1Sam	USamuweli 1
+1Sam	USamuweli I
+1Sam	1 Samuweli
+1Sam	I Samuweli
+1Sam	Samuweli 1
+1Sam	Samuweli I
+1Sam	1. Samuel
+1Sam	I. Samuel
+1Sam	1 Samuel
+1Sam	I Samuel
+1Sam	1. Sam
+1Sam	I. Sam
+1Sam	1 Sam
+1Sam	I Sam
+1Sam	1Sam
+1Thess	KwabaseTesalonika 1
+1Thess	KwabaseTesalonika I
+1Thess	KwabasTesalonika 1
+1Thess	KwabasTesalonika I
+1Thess	KumaTesalonika 1
+1Thess	KumaTesalonika I
+1Thess	YeziTesalonika 1
+1Thess	YeziTesalonika I
+1Thess	AbaTesalonika 1
+1Thess	AbaTesalonika I
+1Thess	EkaTesalonika 1
+1Thess	EkaTesalonika I
+1Thess	ImiTesalonika 1
+1Thess	ImiTesalonika I
+1Thess	IsiTesalonika 1
+1Thess	IsiTesalonika I
+1Thess	IziTesalonika 1
+1Thess	IziTesalonika I
+1Thess	KumTesalonika 1
+1Thess	KumTesalonika I
+1Thess	YezTesalonika 1
+1Thess	YezTesalonika I
+1Thess	YooTesalonika 1
+1Thess	YooTesalonika I
+1Thess	AbTesalonika 1
+1Thess	AbTesalonika I
+1Thess	EkTesalonika 1
+1Thess	EkTesalonika I
+1Thess	IiTesalonika 1
+1Thess	IiTesalonika I
+1Thess	ImTesalonika 1
+1Thess	ImTesalonika I
+1Thess	IsTesalonika 1
+1Thess	IsTesalonika I
+1Thess	IzTesalonika 1
+1Thess	IzTesalonika I
+1Thess	KaTesalonika 1
+1Thess	KaTesalonika I
+1Thess	KuTesalonika 1
+1Thess	KuTesalonika I
+1Thess	OoTesalonika 1
+1Thess	OoTesalonika I
+1Thess	YoTesalonika 1
+1Thess	YoTesalonika I
+1Thess	1. Tesalonika
+1Thess	I. Tesalonika
+1Thess	ITesalonika 1
+1Thess	ITesalonika I
+1Thess	KTesalonika 1
+1Thess	KTesalonika I
+1Thess	OTesalonika 1
+1Thess	OTesalonika I
+1Thess	UTesalonika 1
+1Thess	UTesalonika I
+1Thess	1 Tesalonika
+1Thess	I Tesalonika
+1Thess	Tesalonika 1
+1Thess	Tesalonika I
+1Thess	1. Tes
+1Thess	1Thess
+1Thess	I. Tes
+1Thess	1 Tes
+1Thess	1. Ts
+1Thess	I Tes
+1Thess	I. Ts
+1Thess	1 Ts
+1Thess	I Ts
+1Tim	KwabaseTimoti 1
+1Tim	KwabaseTimoti I
+1Tim	KwabasTimoti 1
+1Tim	KwabasTimoti I
+1Tim	KumaTimoti 1
+1Tim	KumaTimoti I
+1Tim	YeziTimoti 1
+1Tim	YeziTimoti I
+1Tim	AbaTimoti 1
+1Tim	AbaTimoti I
+1Tim	EkaTimoti 1
+1Tim	EkaTimoti I
+1Tim	ImiTimoti 1
+1Tim	ImiTimoti I
+1Tim	IsiTimoti 1
+1Tim	IsiTimoti I
+1Tim	IziTimoti 1
+1Tim	IziTimoti I
+1Tim	KumTimoti 1
+1Tim	KumTimoti I
+1Tim	YezTimoti 1
+1Tim	YezTimoti I
+1Tim	YooTimoti 1
+1Tim	YooTimoti I
+1Tim	AbTimoti 1
+1Tim	AbTimoti I
+1Tim	EkTimoti 1
+1Tim	EkTimoti I
+1Tim	IiTimoti 1
+1Tim	IiTimoti I
+1Tim	ImTimoti 1
+1Tim	ImTimoti I
+1Tim	IsTimoti 1
+1Tim	IsTimoti I
+1Tim	IzTimoti 1
+1Tim	IzTimoti I
+1Tim	KaTimoti 1
+1Tim	KaTimoti I
+1Tim	KuTimoti 1
+1Tim	KuTimoti I
+1Tim	OoTimoti 1
+1Tim	OoTimoti I
+1Tim	YoTimoti 1
+1Tim	YoTimoti I
+1Tim	ITimoti 1
+1Tim	ITimoti I
+1Tim	KTimoti 1
+1Tim	KTimoti I
+1Tim	OTimoti 1
+1Tim	OTimoti I
+1Tim	UTimoti 1
+1Tim	UTimoti I
+1Tim	Timoti 1
+1Tim	Timoti I
+1Tim	1. Tim
+1Tim	I. Tim
+1Tim	1 Tim
+1Tim	I Tim
+1Tim	1Tim
+2Chr	II. KwabaseKumkani
+2Chr	2. KwabaseKumkani
+2Chr	II KwabaseKumkani
+2Chr	II. KwabasKumkani
+2Chr	KwabaseKronike II
+2Chr	2 KwabaseKumkani
+2Chr	2. KwabasKumkani
+2Chr	II KwabasKumkani
+2Chr	KwabasKronike II
+2Chr	KwabaseKronike 2
+2Chr	2 KwabasKumkani
+2Chr	II. KumaKumkani
+2Chr	II. YeziKumkani
+2Chr	KwabasKronike 2
+2Chr	2. KumaKumkani
+2Chr	2. YeziKumkani
+2Chr	II KumaKumkani
+2Chr	II YeziKumkani
+2Chr	II. AbaKumkani
+2Chr	II. EkaKumkani
+2Chr	II. ImiKumkani
+2Chr	II. IsiKumkani
+2Chr	II. IziKumkani
+2Chr	II. KumKumkani
+2Chr	II. YezKumkani
+2Chr	II. YooKumkani
+2Chr	KumaKronike II
+2Chr	YeziKronike II
+2Chr	2 KumaKumkani
+2Chr	2 YeziKumkani
+2Chr	2. AbaKumkani
+2Chr	2. EkaKumkani
+2Chr	2. ImiKumkani
+2Chr	2. IsiKumkani
+2Chr	2. IziKumkani
+2Chr	2. KumKumkani
+2Chr	2. YezKumkani
+2Chr	2. YooKumkani
+2Chr	AbaKronike II
+2Chr	EkaKronike II
+2Chr	II AbaKumkani
+2Chr	II EkaKumkani
+2Chr	II ImiKumkani
+2Chr	II IsiKumkani
+2Chr	II IziKumkani
+2Chr	II KumKumkani
+2Chr	II YezKumkani
+2Chr	II YooKumkani
+2Chr	II. AbKumkani
+2Chr	II. EkKumkani
+2Chr	II. IiKumkani
+2Chr	II. ImKumkani
+2Chr	II. IsKumkani
+2Chr	II. IzKumkani
+2Chr	II. KaKumkani
+2Chr	II. KuKumkani
+2Chr	II. OoKumkani
+2Chr	II. YoKumkani
+2Chr	ImiKronike II
+2Chr	IsiKronike II
+2Chr	IziKronike II
+2Chr	KumKronike II
+2Chr	KumaKronike 2
+2Chr	YezKronike II
+2Chr	YeziKronike 2
+2Chr	YooKronike II
+2Chr	2 AbaKumkani
+2Chr	2 EkaKumkani
+2Chr	2 ImiKumkani
+2Chr	2 IsiKumkani
+2Chr	2 IziKumkani
+2Chr	2 KumKumkani
+2Chr	2 YezKumkani
+2Chr	2 YooKumkani
+2Chr	2. AbKumkani
+2Chr	2. EkKumkani
+2Chr	2. IiKumkani
+2Chr	2. ImKumkani
+2Chr	2. IsKumkani
+2Chr	2. IzKumkani
+2Chr	2. KaKumkani
+2Chr	2. KuKumkani
+2Chr	2. OoKumkani
+2Chr	2. YoKumkani
+2Chr	AbKronike II
+2Chr	AbaKronike 2
+2Chr	EkKronike II
+2Chr	EkaKronike 2
+2Chr	II AbKumkani
+2Chr	II EkKumkani
+2Chr	II IiKumkani
+2Chr	II ImKumkani
+2Chr	II IsKumkani
+2Chr	II IzKumkani
+2Chr	II KaKumkani
+2Chr	II KuKumkani
+2Chr	II OoKumkani
+2Chr	II YoKumkani
+2Chr	II. IKumkani
+2Chr	II. KKumkani
+2Chr	II. OKumkani
+2Chr	II. UKumkani
+2Chr	IiKronike II
+2Chr	ImKronike II
+2Chr	ImiKronike 2
+2Chr	IsKronike II
+2Chr	IsiKronike 2
+2Chr	IzKronike II
+2Chr	IziKronike 2
+2Chr	KaKronike II
+2Chr	KuKronike II
+2Chr	KumKronike 2
+2Chr	OoKronike II
+2Chr	YezKronike 2
+2Chr	YoKronike II
+2Chr	YooKronike 2
+2Chr	2 AbKumkani
+2Chr	2 EkKumkani
+2Chr	2 IiKumkani
+2Chr	2 ImKumkani
+2Chr	2 IsKumkani
+2Chr	2 IzKumkani
+2Chr	2 KaKumkani
+2Chr	2 KuKumkani
+2Chr	2 OoKumkani
+2Chr	2 YoKumkani
+2Chr	2. IKumkani
+2Chr	2. KKumkani
+2Chr	2. OKumkani
+2Chr	2. UKumkani
+2Chr	AbKronike 2
+2Chr	EkKronike 2
+2Chr	II IKumkani
+2Chr	II KKumkani
+2Chr	II OKumkani
+2Chr	II UKumkani
+2Chr	II. Kumkani
+2Chr	IKronike II
+2Chr	IiKronike 2
+2Chr	ImKronike 2
+2Chr	IsKronike 2
+2Chr	IzKronike 2
+2Chr	KKronike II
+2Chr	KaKronike 2
+2Chr	KuKronike 2
+2Chr	OKronike II
+2Chr	OoKronike 2
+2Chr	UKronike II
+2Chr	YoKronike 2
+2Chr	2 IKumkani
+2Chr	2 KKumkani
+2Chr	2 OKumkani
+2Chr	2 UKumkani
+2Chr	2. Kumkani
+2Chr	II Kumkani
+2Chr	IKronike 2
+2Chr	KKronike 2
+2Chr	Kronike II
+2Chr	OKronike 2
+2Chr	UKronike 2
+2Chr	2 Kumkani
+2Chr	Kronike 2
+2Chr	2Chr
+2Cor	KwabaseKorinte II
+2Cor	KwabasKorinte II
+2Cor	KwabaseKorinte 2
+2Cor	KwabasKorinte 2
+2Cor	KumaKorinte II
+2Cor	YeziKorinte II
+2Cor	AbaKorinte II
+2Cor	EkaKorinte II
+2Cor	ImiKorinte II
+2Cor	IsiKorinte II
+2Cor	IziKorinte II
+2Cor	KumKorinte II
+2Cor	KumaKorinte 2
+2Cor	YezKorinte II
+2Cor	YeziKorinte 2
+2Cor	YooKorinte II
+2Cor	AbKorinte II
+2Cor	AbaKorinte 2
+2Cor	EkKorinte II
+2Cor	EkaKorinte 2
+2Cor	IiKorinte II
+2Cor	ImKorinte II
+2Cor	ImiKorinte 2
+2Cor	IsKorinte II
+2Cor	IsiKorinte 2
+2Cor	IzKorinte II
+2Cor	IziKorinte 2
+2Cor	KaKorinte II
+2Cor	KuKorinte II
+2Cor	KumKorinte 2
+2Cor	OoKorinte II
+2Cor	YezKorinte 2
+2Cor	YoKorinte II
+2Cor	YooKorinte 2
+2Cor	AbKorinte 2
+2Cor	EkKorinte 2
+2Cor	IKorinte II
+2Cor	IiKorinte 2
+2Cor	ImKorinte 2
+2Cor	IsKorinte 2
+2Cor	IzKorinte 2
+2Cor	KKorinte II
+2Cor	KaKorinte 2
+2Cor	KuKorinte 2
+2Cor	OKorinte II
+2Cor	OoKorinte 2
+2Cor	UKorinte II
+2Cor	YoKorinte 2
+2Cor	IKorinte 2
+2Cor	KKorinte 2
+2Cor	Korinte II
+2Cor	OKorinte 2
+2Cor	UKorinte 2
+2Cor	Korinte 2
+2Cor	II. Kor
+2Cor	2. Kor
+2Cor	II Kor
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	2Esd
+2John	KwabaseYohane II
+2John	KwabasYohane II
+2John	KwabaseYohane 2
+2John	KwabasYohane 2
+2John	KumaYohane II
+2John	YeziYohane II
+2John	AbaYohane II
+2John	EkaYohane II
+2John	ImiYohane II
+2John	IsiYohane II
+2John	IziYohane II
+2John	KumYohane II
+2John	KumaYohane 2
+2John	YezYohane II
+2John	YeziYohane 2
+2John	YooYohane II
+2John	AbYohane II
+2John	AbaYohane 2
+2John	EkYohane II
+2John	EkaYohane 2
+2John	IiYohane II
+2John	ImYohane II
+2John	ImiYohane 2
+2John	IsYohane II
+2John	IsiYohane 2
+2John	IzYohane II
+2John	IziYohane 2
+2John	KaYohane II
+2John	KuYohane II
+2John	KumYohane 2
+2John	OoYohane II
+2John	YezYohane 2
+2John	YoYohane II
+2John	YooYohane 2
+2John	AbYohane 2
+2John	EkYohane 2
+2John	II. Yohane
+2John	IYohane II
+2John	IiYohane 2
+2John	ImYohane 2
+2John	IsYohane 2
+2John	IzYohane 2
+2John	KYohane II
+2John	KaYohane 2
+2John	KuYohane 2
+2John	OYohane II
+2John	OoYohane 2
+2John	UYohane II
+2John	YoYohane 2
+2John	2. Yohane
+2John	II Yohane
+2John	IYohane 2
+2John	KYohane 2
+2John	OYohane 2
+2John	UYohane 2
+2John	Yohane II
+2John	2 Yohane
+2John	Yohane 2
+2John	II. Yoh
+2John	2. Yoh
+2John	II Yoh
+2John	II. Yh
+2John	2 Yoh
+2John	2. Yh
+2John	2John
+2John	II Yh
+2John	2 Yh
+2Kgs	II. KwabaseKumkani
+2Kgs	2. KwabaseKumkani
+2Kgs	II KwabaseKumkani
+2Kgs	II. KwabasKumkani
+2Kgs	KwabaseKumkani II
+2Kgs	2 KwabaseKumkani
+2Kgs	2. KwabasKumkani
+2Kgs	II KwabasKumkani
+2Kgs	KwabasKumkani II
+2Kgs	KwabaseKumkani 2
+2Kgs	2 KwabasKumkani
+2Kgs	II. KumaKumkani
+2Kgs	II. YeziKumkani
+2Kgs	KwabasKumkani 2
+2Kgs	2. KumaKumkani
+2Kgs	2. YeziKumkani
+2Kgs	II KumaKumkani
+2Kgs	II YeziKumkani
+2Kgs	II. AbaKumkani
+2Kgs	II. EkaKumkani
+2Kgs	II. ImiKumkani
+2Kgs	II. IsiKumkani
+2Kgs	II. IziKumkani
+2Kgs	II. KumKumkani
+2Kgs	II. YezKumkani
+2Kgs	II. YooKumkani
+2Kgs	KumaKumkani II
+2Kgs	YeziKumkani II
+2Kgs	2 KumaKumkani
+2Kgs	2 YeziKumkani
+2Kgs	2. AbaKumkani
+2Kgs	2. EkaKumkani
+2Kgs	2. ImiKumkani
+2Kgs	2. IsiKumkani
+2Kgs	2. IziKumkani
+2Kgs	2. KumKumkani
+2Kgs	2. YezKumkani
+2Kgs	2. YooKumkani
+2Kgs	AbaKumkani II
+2Kgs	EkaKumkani II
+2Kgs	II AbaKumkani
+2Kgs	II EkaKumkani
+2Kgs	II ImiKumkani
+2Kgs	II IsiKumkani
+2Kgs	II IziKumkani
+2Kgs	II KumKumkani
+2Kgs	II YezKumkani
+2Kgs	II YooKumkani
+2Kgs	II. AbKumkani
+2Kgs	II. EkKumkani
+2Kgs	II. IiKumkani
+2Kgs	II. ImKumkani
+2Kgs	II. IsKumkani
+2Kgs	II. IzKumkani
+2Kgs	II. KaKumkani
+2Kgs	II. KuKumkani
+2Kgs	II. OoKumkani
+2Kgs	II. YoKumkani
+2Kgs	ImiKumkani II
+2Kgs	IsiKumkani II
+2Kgs	IziKumkani II
+2Kgs	KumKumkani II
+2Kgs	KumaKumkani 2
+2Kgs	YezKumkani II
+2Kgs	YeziKumkani 2
+2Kgs	YooKumkani II
+2Kgs	2 AbaKumkani
+2Kgs	2 EkaKumkani
+2Kgs	2 ImiKumkani
+2Kgs	2 IsiKumkani
+2Kgs	2 IziKumkani
+2Kgs	2 KumKumkani
+2Kgs	2 YezKumkani
+2Kgs	2 YooKumkani
+2Kgs	2. AbKumkani
+2Kgs	2. EkKumkani
+2Kgs	2. IiKumkani
+2Kgs	2. ImKumkani
+2Kgs	2. IsKumkani
+2Kgs	2. IzKumkani
+2Kgs	2. KaKumkani
+2Kgs	2. KuKumkani
+2Kgs	2. OoKumkani
+2Kgs	2. YoKumkani
+2Kgs	AbKumkani II
+2Kgs	AbaKumkani 2
+2Kgs	EkKumkani II
+2Kgs	EkaKumkani 2
+2Kgs	II AbKumkani
+2Kgs	II EkKumkani
+2Kgs	II IiKumkani
+2Kgs	II ImKumkani
+2Kgs	II IsKumkani
+2Kgs	II IzKumkani
+2Kgs	II KaKumkani
+2Kgs	II KuKumkani
+2Kgs	II OoKumkani
+2Kgs	II YoKumkani
+2Kgs	II. IKumkani
+2Kgs	II. KKumkani
+2Kgs	II. OKumkani
+2Kgs	II. UKumkani
+2Kgs	IiKumkani II
+2Kgs	ImKumkani II
+2Kgs	ImiKumkani 2
+2Kgs	IsKumkani II
+2Kgs	IsiKumkani 2
+2Kgs	IzKumkani II
+2Kgs	IziKumkani 2
+2Kgs	KaKumkani II
+2Kgs	KuKumkani II
+2Kgs	KumKumkani 2
+2Kgs	OoKumkani II
+2Kgs	YezKumkani 2
+2Kgs	YoKumkani II
+2Kgs	YooKumkani 2
+2Kgs	2 AbKumkani
+2Kgs	2 EkKumkani
+2Kgs	2 IiKumkani
+2Kgs	2 ImKumkani
+2Kgs	2 IsKumkani
+2Kgs	2 IzKumkani
+2Kgs	2 KaKumkani
+2Kgs	2 KuKumkani
+2Kgs	2 OoKumkani
+2Kgs	2 YoKumkani
+2Kgs	2. IKumkani
+2Kgs	2. KKumkani
+2Kgs	2. OKumkani
+2Kgs	2. UKumkani
+2Kgs	AbKumkani 2
+2Kgs	EkKumkani 2
+2Kgs	II IKumkani
+2Kgs	II KKumkani
+2Kgs	II OKumkani
+2Kgs	II UKumkani
+2Kgs	II. Kumkani
+2Kgs	IKumkani II
+2Kgs	IiKumkani 2
+2Kgs	ImKumkani 2
+2Kgs	IsKumkani 2
+2Kgs	IzKumkani 2
+2Kgs	KKumkani II
+2Kgs	KaKumkani 2
+2Kgs	KuKumkani 2
+2Kgs	OKumkani II
+2Kgs	OoKumkani 2
+2Kgs	UKumkani II
+2Kgs	YoKumkani 2
+2Kgs	2 IKumkani
+2Kgs	2 KKumkani
+2Kgs	2 OKumkani
+2Kgs	2 UKumkani
+2Kgs	2. Kumkani
+2Kgs	II Kumkani
+2Kgs	IKumkani 2
+2Kgs	KKumkani 2
+2Kgs	Kumkani II
+2Kgs	OKumkani 2
+2Kgs	UKumkani 2
+2Kgs	2 Kumkani
+2Kgs	Kumkani 2
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	KwabasePetros II
+2Pet	KwabasPetros II
+2Pet	KwabasePetros 2
+2Pet	KwabasPetros 2
+2Pet	KumaPetros II
+2Pet	YeziPetros II
+2Pet	AbaPetros II
+2Pet	EkaPetros II
+2Pet	ImiPetros II
+2Pet	IsiPetros II
+2Pet	IziPetros II
+2Pet	KumPetros II
+2Pet	KumaPetros 2
+2Pet	YezPetros II
+2Pet	YeziPetros 2
+2Pet	YooPetros II
+2Pet	AbPetros II
+2Pet	AbaPetros 2
+2Pet	EkPetros II
+2Pet	EkaPetros 2
+2Pet	IiPetros II
+2Pet	ImPetros II
+2Pet	ImiPetros 2
+2Pet	IsPetros II
+2Pet	IsiPetros 2
+2Pet	IzPetros II
+2Pet	IziPetros 2
+2Pet	KaPetros II
+2Pet	KuPetros II
+2Pet	KumPetros 2
+2Pet	OoPetros II
+2Pet	YezPetros 2
+2Pet	YoPetros II
+2Pet	YooPetros 2
+2Pet	AbPetros 2
+2Pet	EkPetros 2
+2Pet	IPetros II
+2Pet	IiPetros 2
+2Pet	ImPetros 2
+2Pet	IsPetros 2
+2Pet	IzPetros 2
+2Pet	KPetros II
+2Pet	KaPetros 2
+2Pet	KuPetros 2
+2Pet	OPetros II
+2Pet	OoPetros 2
+2Pet	UPetros II
+2Pet	YoPetros 2
+2Pet	IPetros 2
+2Pet	KPetros 2
+2Pet	OPetros 2
+2Pet	Petros II
+2Pet	UPetros 2
+2Pet	II. Petr
+2Pet	Petros 2
+2Pet	2. Petr
+2Pet	II Petr
+2Pet	II. Pet
+2Pet	II. Ptr
+2Pet	2 Petr
+2Pet	2. Pet
+2Pet	2. Ptr
+2Pet	II Pet
+2Pet	II Ptr
+2Pet	II. Pt
+2Pet	2 Pet
+2Pet	2 Ptr
+2Pet	2. Pt
+2Pet	II Pt
+2Pet	2 Pt
+2Pet	2Pet
+2Sam	II. KwabaseSamuweli
+2Sam	2. KwabaseSamuweli
+2Sam	II KwabaseSamuweli
+2Sam	II. KwabasSamuweli
+2Sam	KwabaseSamuweli II
+2Sam	2 KwabaseSamuweli
+2Sam	2. KwabasSamuweli
+2Sam	II KwabasSamuweli
+2Sam	KwabasSamuweli II
+2Sam	KwabaseSamuweli 2
+2Sam	2 KwabasSamuweli
+2Sam	II. KumaSamuweli
+2Sam	II. YeziSamuweli
+2Sam	KwabasSamuweli 2
+2Sam	2. KumaSamuweli
+2Sam	2. YeziSamuweli
+2Sam	II KumaSamuweli
+2Sam	II YeziSamuweli
+2Sam	II. AbaSamuweli
+2Sam	II. EkaSamuweli
+2Sam	II. ImiSamuweli
+2Sam	II. IsiSamuweli
+2Sam	II. IziSamuweli
+2Sam	II. KumSamuweli
+2Sam	II. YezSamuweli
+2Sam	II. YooSamuweli
+2Sam	KumaSamuweli II
+2Sam	YeziSamuweli II
+2Sam	2 KumaSamuweli
+2Sam	2 YeziSamuweli
+2Sam	2. AbaSamuweli
+2Sam	2. EkaSamuweli
+2Sam	2. ImiSamuweli
+2Sam	2. IsiSamuweli
+2Sam	2. IziSamuweli
+2Sam	2. KumSamuweli
+2Sam	2. YezSamuweli
+2Sam	2. YooSamuweli
+2Sam	AbaSamuweli II
+2Sam	EkaSamuweli II
+2Sam	II AbaSamuweli
+2Sam	II EkaSamuweli
+2Sam	II ImiSamuweli
+2Sam	II IsiSamuweli
+2Sam	II IziSamuweli
+2Sam	II KumSamuweli
+2Sam	II YezSamuweli
+2Sam	II YooSamuweli
+2Sam	II. AbSamuweli
+2Sam	II. EkSamuweli
+2Sam	II. IiSamuweli
+2Sam	II. ImSamuweli
+2Sam	II. IsSamuweli
+2Sam	II. IzSamuweli
+2Sam	II. KaSamuweli
+2Sam	II. KuSamuweli
+2Sam	II. OoSamuweli
+2Sam	II. YoSamuweli
+2Sam	ImiSamuweli II
+2Sam	IsiSamuweli II
+2Sam	IziSamuweli II
+2Sam	KumSamuweli II
+2Sam	KumaSamuweli 2
+2Sam	YezSamuweli II
+2Sam	YeziSamuweli 2
+2Sam	YooSamuweli II
+2Sam	2 AbaSamuweli
+2Sam	2 EkaSamuweli
+2Sam	2 ImiSamuweli
+2Sam	2 IsiSamuweli
+2Sam	2 IziSamuweli
+2Sam	2 KumSamuweli
+2Sam	2 YezSamuweli
+2Sam	2 YooSamuweli
+2Sam	2. AbSamuweli
+2Sam	2. EkSamuweli
+2Sam	2. IiSamuweli
+2Sam	2. ImSamuweli
+2Sam	2. IsSamuweli
+2Sam	2. IzSamuweli
+2Sam	2. KaSamuweli
+2Sam	2. KuSamuweli
+2Sam	2. OoSamuweli
+2Sam	2. YoSamuweli
+2Sam	AbSamuweli II
+2Sam	AbaSamuweli 2
+2Sam	EkSamuweli II
+2Sam	EkaSamuweli 2
+2Sam	II AbSamuweli
+2Sam	II EkSamuweli
+2Sam	II IiSamuweli
+2Sam	II ImSamuweli
+2Sam	II IsSamuweli
+2Sam	II IzSamuweli
+2Sam	II KaSamuweli
+2Sam	II KuSamuweli
+2Sam	II OoSamuweli
+2Sam	II YoSamuweli
+2Sam	II. ISamuweli
+2Sam	II. KSamuweli
+2Sam	II. OSamuweli
+2Sam	II. USamuweli
+2Sam	IiSamuweli II
+2Sam	ImSamuweli II
+2Sam	ImiSamuweli 2
+2Sam	IsSamuweli II
+2Sam	IsiSamuweli 2
+2Sam	IzSamuweli II
+2Sam	IziSamuweli 2
+2Sam	KaSamuweli II
+2Sam	KuSamuweli II
+2Sam	KumSamuweli 2
+2Sam	OoSamuweli II
+2Sam	YezSamuweli 2
+2Sam	YoSamuweli II
+2Sam	YooSamuweli 2
+2Sam	2 AbSamuweli
+2Sam	2 EkSamuweli
+2Sam	2 IiSamuweli
+2Sam	2 ImSamuweli
+2Sam	2 IsSamuweli
+2Sam	2 IzSamuweli
+2Sam	2 KaSamuweli
+2Sam	2 KuSamuweli
+2Sam	2 OoSamuweli
+2Sam	2 YoSamuweli
+2Sam	2. ISamuweli
+2Sam	2. KSamuweli
+2Sam	2. OSamuweli
+2Sam	2. USamuweli
+2Sam	AbSamuweli 2
+2Sam	EkSamuweli 2
+2Sam	II ISamuweli
+2Sam	II KSamuweli
+2Sam	II OSamuweli
+2Sam	II USamuweli
+2Sam	II. Samuweli
+2Sam	ISamuweli II
+2Sam	IiSamuweli 2
+2Sam	ImSamuweli 2
+2Sam	IsSamuweli 2
+2Sam	IzSamuweli 2
+2Sam	KSamuweli II
+2Sam	KaSamuweli 2
+2Sam	KuSamuweli 2
+2Sam	OSamuweli II
+2Sam	OoSamuweli 2
+2Sam	USamuweli II
+2Sam	YoSamuweli 2
+2Sam	2 ISamuweli
+2Sam	2 KSamuweli
+2Sam	2 OSamuweli
+2Sam	2 USamuweli
+2Sam	2. Samuweli
+2Sam	II Samuweli
+2Sam	ISamuweli 2
+2Sam	KSamuweli 2
+2Sam	OSamuweli 2
+2Sam	Samuweli II
+2Sam	USamuweli 2
+2Sam	2 Samuweli
+2Sam	II. Samuel
+2Sam	Samuweli 2
+2Sam	2. Samuel
+2Sam	II Samuel
+2Sam	2 Samuel
+2Sam	II. Sam
+2Sam	2. Sam
+2Sam	II Sam
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	KwabaseTesalonika II
+2Thess	KwabasTesalonika II
+2Thess	KwabaseTesalonika 2
+2Thess	KwabasTesalonika 2
+2Thess	KumaTesalonika II
+2Thess	YeziTesalonika II
+2Thess	AbaTesalonika II
+2Thess	EkaTesalonika II
+2Thess	ImiTesalonika II
+2Thess	IsiTesalonika II
+2Thess	IziTesalonika II
+2Thess	KumTesalonika II
+2Thess	KumaTesalonika 2
+2Thess	YezTesalonika II
+2Thess	YeziTesalonika 2
+2Thess	YooTesalonika II
+2Thess	AbTesalonika II
+2Thess	AbaTesalonika 2
+2Thess	EkTesalonika II
+2Thess	EkaTesalonika 2
+2Thess	IiTesalonika II
+2Thess	ImTesalonika II
+2Thess	ImiTesalonika 2
+2Thess	IsTesalonika II
+2Thess	IsiTesalonika 2
+2Thess	IzTesalonika II
+2Thess	IziTesalonika 2
+2Thess	KaTesalonika II
+2Thess	KuTesalonika II
+2Thess	KumTesalonika 2
+2Thess	OoTesalonika II
+2Thess	YezTesalonika 2
+2Thess	YoTesalonika II
+2Thess	YooTesalonika 2
+2Thess	AbTesalonika 2
+2Thess	EkTesalonika 2
+2Thess	II. Tesalonika
+2Thess	ITesalonika II
+2Thess	IiTesalonika 2
+2Thess	ImTesalonika 2
+2Thess	IsTesalonika 2
+2Thess	IzTesalonika 2
+2Thess	KTesalonika II
+2Thess	KaTesalonika 2
+2Thess	KuTesalonika 2
+2Thess	OTesalonika II
+2Thess	OoTesalonika 2
+2Thess	UTesalonika II
+2Thess	YoTesalonika 2
+2Thess	2. Tesalonika
+2Thess	II Tesalonika
+2Thess	ITesalonika 2
+2Thess	KTesalonika 2
+2Thess	OTesalonika 2
+2Thess	Tesalonika II
+2Thess	UTesalonika 2
+2Thess	2 Tesalonika
+2Thess	Tesalonika 2
+2Thess	II. Tes
+2Thess	2. Tes
+2Thess	2Thess
+2Thess	II Tes
+2Thess	II. Ts
+2Thess	2 Tes
+2Thess	2. Ts
+2Thess	II Ts
+2Thess	2 Ts
+2Tim	KwabaseTimoti II
+2Tim	KwabasTimoti II
+2Tim	KwabaseTimoti 2
+2Tim	KwabasTimoti 2
+2Tim	KumaTimoti II
+2Tim	YeziTimoti II
+2Tim	AbaTimoti II
+2Tim	EkaTimoti II
+2Tim	ImiTimoti II
+2Tim	IsiTimoti II
+2Tim	IziTimoti II
+2Tim	KumTimoti II
+2Tim	KumaTimoti 2
+2Tim	YezTimoti II
+2Tim	YeziTimoti 2
+2Tim	YooTimoti II
+2Tim	AbTimoti II
+2Tim	AbaTimoti 2
+2Tim	EkTimoti II
+2Tim	EkaTimoti 2
+2Tim	IiTimoti II
+2Tim	ImTimoti II
+2Tim	ImiTimoti 2
+2Tim	IsTimoti II
+2Tim	IsiTimoti 2
+2Tim	IzTimoti II
+2Tim	IziTimoti 2
+2Tim	KaTimoti II
+2Tim	KuTimoti II
+2Tim	KumTimoti 2
+2Tim	OoTimoti II
+2Tim	YezTimoti 2
+2Tim	YoTimoti II
+2Tim	YooTimoti 2
+2Tim	AbTimoti 2
+2Tim	EkTimoti 2
+2Tim	ITimoti II
+2Tim	IiTimoti 2
+2Tim	ImTimoti 2
+2Tim	IsTimoti 2
+2Tim	IzTimoti 2
+2Tim	KTimoti II
+2Tim	KaTimoti 2
+2Tim	KuTimoti 2
+2Tim	OTimoti II
+2Tim	OoTimoti 2
+2Tim	UTimoti II
+2Tim	YoTimoti 2
+2Tim	ITimoti 2
+2Tim	KTimoti 2
+2Tim	OTimoti 2
+2Tim	Timoti II
+2Tim	UTimoti 2
+2Tim	Timoti 2
+2Tim	II. Tim
+2Tim	2. Tim
+2Tim	II Tim
+2Tim	2 Tim
+2Tim	2Tim
+3John	KwabaseYohane III
+3John	KwabasYohane III
+3John	KwabaseYohane 3
+3John	KumaYohane III
+3John	KwabasYohane 3
+3John	YeziYohane III
+3John	AbaYohane III
+3John	EkaYohane III
+3John	ImiYohane III
+3John	IsiYohane III
+3John	IziYohane III
+3John	KumYohane III
+3John	YezYohane III
+3John	YooYohane III
+3John	AbYohane III
+3John	EkYohane III
+3John	IiYohane III
+3John	ImYohane III
+3John	IsYohane III
+3John	IzYohane III
+3John	KaYohane III
+3John	KuYohane III
+3John	KumaYohane 3
+3John	OoYohane III
+3John	YeziYohane 3
+3John	YoYohane III
+3John	AbaYohane 3
+3John	EkaYohane 3
+3John	III. Yohane
+3John	IYohane III
+3John	ImiYohane 3
+3John	IsiYohane 3
+3John	IziYohane 3
+3John	KYohane III
+3John	KumYohane 3
+3John	OYohane III
+3John	UYohane III
+3John	YezYohane 3
+3John	YooYohane 3
+3John	AbYohane 3
+3John	EkYohane 3
+3John	III Yohane
+3John	IiYohane 3
+3John	ImYohane 3
+3John	IsYohane 3
+3John	IzYohane 3
+3John	KaYohane 3
+3John	KuYohane 3
+3John	OoYohane 3
+3John	YoYohane 3
+3John	Yohane III
+3John	3. Yohane
+3John	IYohane 3
+3John	KYohane 3
+3John	OYohane 3
+3John	UYohane 3
+3John	3 Yohane
+3John	III. Yoh
+3John	Yohane 3
+3John	III Yoh
+3John	III. Yh
+3John	3. Yoh
+3John	III Yh
+3John	3 Yoh
+3John	3. Yh
+3John	3John
+3John	3 Yh
+3Macc	3Macc
+4Macc	4Macc
+Acts	KwabaseZenzo
+Acts	KwabasZenzo
+Acts	KumaZenzo
+Acts	YeziZenzo
+Acts	AbaZenzo
+Acts	EkaZenzo
+Acts	ImiZenzo
+Acts	IsiZenzo
+Acts	IziZenzo
+Acts	KumZenzo
+Acts	YezZenzo
+Acts	YooZenzo
+Acts	AbZenzo
+Acts	EkZenzo
+Acts	IiZenzo
+Acts	ImZenzo
+Acts	IsZenzo
+Acts	IzZenzo
+Acts	KaZenzo
+Acts	KuZenzo
+Acts	OoZenzo
+Acts	YoZenzo
+Acts	IZenzo
+Acts	KZenzo
+Acts	OZenzo
+Acts	UZenzo
+Acts	Zenzo
+Acts	Acts
+Amos	KwabaseAmosi
+Amos	KwabasAmosi
+Amos	KumaAmosi
+Amos	YeziAmosi
+Amos	AbaAmosi
+Amos	EkaAmosi
+Amos	ImiAmosi
+Amos	IsiAmosi
+Amos	IziAmosi
+Amos	KumAmosi
+Amos	YezAmosi
+Amos	YooAmosi
+Amos	AbAmosi
+Amos	EkAmosi
+Amos	IiAmosi
+Amos	ImAmosi
+Amos	IsAmosi
+Amos	IzAmosi
+Amos	KaAmosi
+Amos	KuAmosi
+Amos	OoAmosi
+Amos	YoAmosi
+Amos	IAmosi
+Amos	KAmosi
+Amos	OAmosi
+Amos	UAmosi
+Amos	Amosi
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	KwabaseKolose
+Col	KwabasKolose
+Col	KumaKolose
+Col	YeziKolose
+Col	AbaKolose
+Col	EkaKolose
+Col	ImiKolose
+Col	IsiKolose
+Col	IziKolose
+Col	KumKolose
+Col	YezKolose
+Col	YooKolose
+Col	AbKolose
+Col	EkKolose
+Col	IiKolose
+Col	ImKolose
+Col	IsKolose
+Col	IzKolose
+Col	KaKolose
+Col	KuKolose
+Col	OoKolose
+Col	YoKolose
+Col	IKolose
+Col	KKolose
+Col	OKolose
+Col	UKolose
+Col	Kolose
+Col	Col
+Col	Kol
+Dan	KwabaseDaniyeli
+Dan	KwabasDaniyeli
+Dan	KumaDaniyeli
+Dan	YeziDaniyeli
+Dan	AbaDaniyeli
+Dan	EkaDaniyeli
+Dan	ImiDaniyeli
+Dan	IsiDaniyeli
+Dan	IziDaniyeli
+Dan	KumDaniyeli
+Dan	YezDaniyeli
+Dan	YooDaniyeli
+Dan	AbDaniyeli
+Dan	EkDaniyeli
+Dan	IiDaniyeli
+Dan	ImDaniyeli
+Dan	IsDaniyeli
+Dan	IzDaniyeli
+Dan	KaDaniyeli
+Dan	KuDaniyeli
+Dan	OoDaniyeli
+Dan	YoDaniyeli
+Dan	IDaniyeli
+Dan	KDaniyeli
+Dan	ODaniyeli
+Dan	UDaniyeli
+Dan	Daniyeli
+Dan	Dan
+Deut	KwabaseDuteronomi
+Deut	KwabasDuteronomi
+Deut	KumaDuteronomi
+Deut	YeziDuteronomi
+Deut	AbaDuteronomi
+Deut	EkaDuteronomi
+Deut	ImiDuteronomi
+Deut	IsiDuteronomi
+Deut	IziDuteronomi
+Deut	KumDuteronomi
+Deut	YezDuteronomi
+Deut	YooDuteronomi
+Deut	AbDuteronomi
+Deut	EkDuteronomi
+Deut	IiDuteronomi
+Deut	ImDuteronomi
+Deut	IsDuteronomi
+Deut	IzDuteronomi
+Deut	KaDuteronomi
+Deut	KuDuteronomi
+Deut	OoDuteronomi
+Deut	YoDuteronomi
+Deut	IDuteronomi
+Deut	KDuteronomi
+Deut	ODuteronomi
+Deut	UDuteronomi
+Deut	Duteronomi
+Deut	Deut
+Deut	Dut
+Eccl	KwabaseNtshumayeli
+Eccl	KwabasNtshumayeli
+Eccl	KumaNtshumayeli
+Eccl	YeziNtshumayeli
+Eccl	AbaNtshumayeli
+Eccl	EkaNtshumayeli
+Eccl	ImiNtshumayeli
+Eccl	IsiNtshumayeli
+Eccl	IziNtshumayeli
+Eccl	KumNtshumayeli
+Eccl	YezNtshumayeli
+Eccl	YooNtshumayeli
+Eccl	AbNtshumayeli
+Eccl	EkNtshumayeli
+Eccl	IiNtshumayeli
+Eccl	ImNtshumayeli
+Eccl	IsNtshumayeli
+Eccl	IzNtshumayeli
+Eccl	KaNtshumayeli
+Eccl	KuNtshumayeli
+Eccl	OoNtshumayeli
+Eccl	YoNtshumayeli
+Eccl	INtshumayeli
+Eccl	KNtshumayeli
+Eccl	ONtshumayeli
+Eccl	UNtshumayeli
+Eccl	Ntshumayeli
+Eccl	Intsh
+Eccl	Eccl
+EpJer	EpJer
+Eph	KwabaseEfese
+Eph	KwabasEfese
+Eph	KumaEfese
+Eph	YeziEfese
+Eph	AbaEfese
+Eph	EkaEfese
+Eph	ImiEfese
+Eph	IsiEfese
+Eph	IziEfese
+Eph	KumEfese
+Eph	YezEfese
+Eph	YooEfese
+Eph	AbEfese
+Eph	EkEfese
+Eph	IiEfese
+Eph	ImEfese
+Eph	IsEfese
+Eph	IzEfese
+Eph	KaEfese
+Eph	KuEfese
+Eph	OoEfese
+Eph	YoEfese
+Eph	IEfese
+Eph	KEfese
+Eph	OEfese
+Eph	UEfese
+Eph	Efese
+Eph	Eph
+Esth	KwabaseEstere
+Esth	KwabasEstere
+Esth	KumaEstere
+Esth	YeziEstere
+Esth	AbaEstere
+Esth	EkaEstere
+Esth	ImiEstere
+Esth	IsiEstere
+Esth	IziEstere
+Esth	KumEstere
+Esth	YezEstere
+Esth	YooEstere
+Esth	AbEstere
+Esth	EkEstere
+Esth	IiEstere
+Esth	ImEstere
+Esth	IsEstere
+Esth	IzEstere
+Esth	KaEstere
+Esth	KuEstere
+Esth	OoEstere
+Esth	YoEstere
+Esth	IEstere
+Esth	KEstere
+Esth	OEstere
+Esth	UEstere
+Esth	Estere
+Esth	Esth
+Esth	Est
+Esth	Es
+Exod	KwabaseEksodus
+Exod	KwabasEksodus
+Exod	KumaEksodus
+Exod	YeziEksodus
+Exod	AbaEksodus
+Exod	EkaEksodus
+Exod	ImiEksodus
+Exod	IsiEksodus
+Exod	IziEksodus
+Exod	KumEksodus
+Exod	YezEksodus
+Exod	YooEksodus
+Exod	AbEksodus
+Exod	EkEksodus
+Exod	IiEksodus
+Exod	ImEksodus
+Exod	IsEksodus
+Exod	IzEksodus
+Exod	KaEksodus
+Exod	KuEksodus
+Exod	OoEksodus
+Exod	YoEksodus
+Exod	IEksodus
+Exod	KEksodus
+Exod	OEksodus
+Exod	UEksodus
+Exod	Eksodus
+Exod	Exod
+Exod	Eks
+Ezek	KwabaseHezekile
+Ezek	KwabasHezekile
+Ezek	KumaHezekile
+Ezek	YeziHezekile
+Ezek	AbaHezekile
+Ezek	EkaHezekile
+Ezek	ImiHezekile
+Ezek	IsiHezekile
+Ezek	IziHezekile
+Ezek	KumHezekile
+Ezek	YezHezekile
+Ezek	YooHezekile
+Ezek	AbHezekile
+Ezek	EkHezekile
+Ezek	IiHezekile
+Ezek	ImHezekile
+Ezek	IsHezekile
+Ezek	IzHezekile
+Ezek	KaHezekile
+Ezek	KuHezekile
+Ezek	OoHezekile
+Ezek	YoHezekile
+Ezek	IHezekile
+Ezek	KHezekile
+Ezek	OHezekile
+Ezek	UHezekile
+Ezek	Hezekile
+Ezek	Ezek
+Ezek	Hez
+Ezra	KwabaseEzra
+Ezra	KwabasEzra
+Ezra	KumaEzra
+Ezra	YeziEzra
+Ezra	AbaEzra
+Ezra	EkaEzra
+Ezra	ImiEzra
+Ezra	IsiEzra
+Ezra	IziEzra
+Ezra	KumEzra
+Ezra	YezEzra
+Ezra	YooEzra
+Ezra	AbEzra
+Ezra	EkEzra
+Ezra	IiEzra
+Ezra	ImEzra
+Ezra	IsEzra
+Ezra	IzEzra
+Ezra	KaEzra
+Ezra	KuEzra
+Ezra	OoEzra
+Ezra	YoEzra
+Ezra	IEzra
+Ezra	KEzra
+Ezra	OEzra
+Ezra	UEzra
+Ezra	Ezra
+Ezra	Ezr
+Ezra	Ez
+Gal	KwabaseGalati
+Gal	KwabasGalati
+Gal	KumaGalati
+Gal	YeziGalati
+Gal	AbaGalati
+Gal	EkaGalati
+Gal	ImiGalati
+Gal	IsiGalati
+Gal	IziGalati
+Gal	KumGalati
+Gal	YezGalati
+Gal	YooGalati
+Gal	AbGalati
+Gal	EkGalati
+Gal	IiGalati
+Gal	ImGalati
+Gal	IsGalati
+Gal	IzGalati
+Gal	KaGalati
+Gal	KuGalati
+Gal	OoGalati
+Gal	YoGalati
+Gal	IGalati
+Gal	KGalati
+Gal	OGalati
+Gal	UGalati
+Gal	Galati
+Gal	Gal
+Gen	KwabaseGenesis
+Gen	KwabasGenesis
+Gen	KumaGenesis
+Gen	YeziGenesis
+Gen	AbaGenesis
+Gen	EkaGenesis
+Gen	ImiGenesis
+Gen	IsiGenesis
+Gen	IziGenesis
+Gen	KumGenesis
+Gen	YezGenesis
+Gen	YooGenesis
+Gen	AbGenesis
+Gen	EkGenesis
+Gen	IiGenesis
+Gen	ImGenesis
+Gen	IsGenesis
+Gen	IzGenesis
+Gen	KaGenesis
+Gen	KuGenesis
+Gen	OoGenesis
+Gen	YoGenesis
+Gen	IGenesis
+Gen	KGenesis
+Gen	OGenesis
+Gen	UGenesis
+Gen	Genesis
+Gen	Gen
+GkEsth	GkEsth
+Hab	KwabaseHabhakuki
+Hab	KwabasHabhakuki
+Hab	KumaHabhakuki
+Hab	YeziHabhakuki
+Hab	AbaHabhakuki
+Hab	EkaHabhakuki
+Hab	ImiHabhakuki
+Hab	IsiHabhakuki
+Hab	IziHabhakuki
+Hab	KumHabhakuki
+Hab	YezHabhakuki
+Hab	YooHabhakuki
+Hab	AbHabhakuki
+Hab	EkHabhakuki
+Hab	IiHabhakuki
+Hab	ImHabhakuki
+Hab	IsHabhakuki
+Hab	IzHabhakuki
+Hab	KaHabhakuki
+Hab	KuHabhakuki
+Hab	OoHabhakuki
+Hab	YoHabhakuki
+Hab	IHabhakuki
+Hab	KHabhakuki
+Hab	OHabhakuki
+Hab	UHabhakuki
+Hab	Habhakuki
+Hab	Hab
+Hag	KwabaseHagayi
+Hag	KwabasHagayi
+Hag	KumaHagayi
+Hag	YeziHagayi
+Hag	AbaHagayi
+Hag	EkaHagayi
+Hag	ImiHagayi
+Hag	IsiHagayi
+Hag	IziHagayi
+Hag	KumHagayi
+Hag	YezHagayi
+Hag	YooHagayi
+Hag	AbHagayi
+Hag	EkHagayi
+Hag	IiHagayi
+Hag	ImHagayi
+Hag	IsHagayi
+Hag	IzHagayi
+Hag	KaHagayi
+Hag	KuHagayi
+Hag	OoHagayi
+Hag	YoHagayi
+Hag	IHagayi
+Hag	KHagayi
+Hag	OHagayi
+Hag	UHagayi
+Hag	Hagayi
+Hag	Hag
+Heb	KwabaseHebhere
+Heb	KwabasHebhere
+Heb	KumaHebhere
+Heb	YeziHebhere
+Heb	AbaHebhere
+Heb	EkaHebhere
+Heb	ImiHebhere
+Heb	IsiHebhere
+Heb	IziHebhere
+Heb	KumHebhere
+Heb	YezHebhere
+Heb	YooHebhere
+Heb	AbHebhere
+Heb	EkHebhere
+Heb	IiHebhere
+Heb	ImHebhere
+Heb	IsHebhere
+Heb	IzHebhere
+Heb	KaHebhere
+Heb	KuHebhere
+Heb	OoHebhere
+Heb	YoHebhere
+Heb	IHebhere
+Heb	KHebhere
+Heb	OHebhere
+Heb	UHebhere
+Heb	Hebhere
+Heb	Heb
+Hos	KwabaseHoseya
+Hos	KwabasHoseya
+Hos	KumaHoseya
+Hos	YeziHoseya
+Hos	AbaHoseya
+Hos	EkaHoseya
+Hos	ImiHoseya
+Hos	IsiHoseya
+Hos	IziHoseya
+Hos	KumHoseya
+Hos	YezHoseya
+Hos	YooHoseya
+Hos	AbHoseya
+Hos	EkHoseya
+Hos	IiHoseya
+Hos	ImHoseya
+Hos	IsHoseya
+Hos	IzHoseya
+Hos	KaHoseya
+Hos	KuHoseya
+Hos	OoHoseya
+Hos	YoHoseya
+Hos	IHoseya
+Hos	KHoseya
+Hos	OHoseya
+Hos	UHoseya
+Hos	Hoseya
+Hos	Hos
+Isa	KwabaseIsaya
+Isa	KwabasIsaya
+Isa	KumaIsaya
+Isa	YeziIsaya
+Isa	AbaIsaya
+Isa	EkaIsaya
+Isa	ImiIsaya
+Isa	IsiIsaya
+Isa	IziIsaya
+Isa	KumIsaya
+Isa	YezIsaya
+Isa	YooIsaya
+Isa	AbIsaya
+Isa	EkIsaya
+Isa	IiIsaya
+Isa	ImIsaya
+Isa	IsIsaya
+Isa	IzIsaya
+Isa	KaIsaya
+Isa	KuIsaya
+Isa	OoIsaya
+Isa	YoIsaya
+Isa	IIsaya
+Isa	KIsaya
+Isa	OIsaya
+Isa	UIsaya
+Isa	Isaya
+Isa	Isa
+Jas	KwabaseYakobi
+Jas	KwabasYakobi
+Jas	KumaYakobi
+Jas	YeziYakobi
+Jas	AbaYakobi
+Jas	EkaYakobi
+Jas	ImiYakobi
+Jas	IsiYakobi
+Jas	IziYakobi
+Jas	KumYakobi
+Jas	YezYakobi
+Jas	YooYakobi
+Jas	AbYakobi
+Jas	EkYakobi
+Jas	IiYakobi
+Jas	ImYakobi
+Jas	IsYakobi
+Jas	IzYakobi
+Jas	KaYakobi
+Jas	KuYakobi
+Jas	OoYakobi
+Jas	YoYakobi
+Jas	IYakobi
+Jas	KYakobi
+Jas	OYakobi
+Jas	UYakobi
+Jas	Yakobi
+Jas	Jas
+Jdt	Jdt
+Jer	KwabaseYeremiya
+Jer	KwabasYeremiya
+Jer	KumaYeremiya
+Jer	YeziYeremiya
+Jer	AbaYeremiya
+Jer	EkaYeremiya
+Jer	ImiYeremiya
+Jer	IsiYeremiya
+Jer	IziYeremiya
+Jer	KumYeremiya
+Jer	YezYeremiya
+Jer	YooYeremiya
+Jer	AbYeremiya
+Jer	EkYeremiya
+Jer	IiYeremiya
+Jer	ImYeremiya
+Jer	IsYeremiya
+Jer	IzYeremiya
+Jer	KaYeremiya
+Jer	KuYeremiya
+Jer	OoYeremiya
+Jer	YoYeremiya
+Jer	IYeremiya
+Jer	KYeremiya
+Jer	OYeremiya
+Jer	UYeremiya
+Jer	Yeremiya
+Jer	Jer
+Job	KwabaseYobhi
+Job	KwabasYobhi
+Job	KumaYobhi
+Job	YeziYobhi
+Job	AbaYobhi
+Job	EkaYobhi
+Job	ImiYobhi
+Job	IsiYobhi
+Job	IziYobhi
+Job	KumYobhi
+Job	YezYobhi
+Job	YooYobhi
+Job	AbYobhi
+Job	EkYobhi
+Job	IiYobhi
+Job	ImYobhi
+Job	IsYobhi
+Job	IzYobhi
+Job	KaYobhi
+Job	KuYobhi
+Job	OoYobhi
+Job	YoYobhi
+Job	IYobhi
+Job	KYobhi
+Job	OYobhi
+Job	UYobhi
+Job	Yobhi
+Job	Job
+Job	Yob
+Joel	KwabaseYoweli
+Joel	KwabasYoweli
+Joel	KumaYoweli
+Joel	YeziYoweli
+Joel	AbaYoweli
+Joel	EkaYoweli
+Joel	ImiYoweli
+Joel	IsiYoweli
+Joel	IziYoweli
+Joel	KumYoweli
+Joel	YezYoweli
+Joel	YooYoweli
+Joel	AbYoweli
+Joel	EkYoweli
+Joel	IiYoweli
+Joel	ImYoweli
+Joel	IsYoweli
+Joel	IzYoweli
+Joel	KaYoweli
+Joel	KuYoweli
+Joel	OoYoweli
+Joel	YoYoweli
+Joel	IYoweli
+Joel	KYoweli
+Joel	OYoweli
+Joel	UYoweli
+Joel	Yoweli
+Joel	Joel
+John	KwabaseYohane
+John	KwabasYohane
+John	KumaYohane
+John	YeziYohane
+John	AbaYohane
+John	EkaYohane
+John	ImiYohane
+John	IsiYohane
+John	IziYohane
+John	KumYohane
+John	YezYohane
+John	YooYohane
+John	AbYohane
+John	EkYohane
+John	IiYohane
+John	ImYohane
+John	IsYohane
+John	IzYohane
+John	KaYohane
+John	KuYohane
+John	OoYohane
+John	YoYohane
+John	IYohane
+John	KYohane
+John	OYohane
+John	UYohane
+John	Yohane
+John	John
+John	Yoh
+Jonah	KwabaseYona
+Jonah	KwabasYona
+Jonah	KumaYona
+Jonah	YeziYona
+Jonah	AbaYona
+Jonah	EkaYona
+Jonah	ImiYona
+Jonah	IsiYona
+Jonah	IziYona
+Jonah	KumYona
+Jonah	YezYona
+Jonah	YooYona
+Jonah	AbYona
+Jonah	EkYona
+Jonah	IiYona
+Jonah	ImYona
+Jonah	IsYona
+Jonah	IzYona
+Jonah	KaYona
+Jonah	KuYona
+Jonah	OoYona
+Jonah	YoYona
+Jonah	IYona
+Jonah	Jonah
+Jonah	KYona
+Jonah	OYona
+Jonah	UYona
+Jonah	Yona
+Josh	KwabaseYoshuwa
+Josh	KwabasYoshuwa
+Josh	KumaYoshuwa
+Josh	YeziYoshuwa
+Josh	AbaYoshuwa
+Josh	EkaYoshuwa
+Josh	ImiYoshuwa
+Josh	IsiYoshuwa
+Josh	IziYoshuwa
+Josh	KumYoshuwa
+Josh	YezYoshuwa
+Josh	YooYoshuwa
+Josh	AbYoshuwa
+Josh	EkYoshuwa
+Josh	IiYoshuwa
+Josh	ImYoshuwa
+Josh	IsYoshuwa
+Josh	IzYoshuwa
+Josh	KaYoshuwa
+Josh	KuYoshuwa
+Josh	OoYoshuwa
+Josh	YoYoshuwa
+Josh	IYoshuwa
+Josh	KYoshuwa
+Josh	OYoshuwa
+Josh	UYoshuwa
+Josh	Yoshuwa
+Josh	Josh
+Josh	Yosh
+Jude	KwabaseYuda
+Jude	KwabasYuda
+Jude	KumaYuda
+Jude	YeziYuda
+Jude	AbaYuda
+Jude	EkaYuda
+Jude	ImiYuda
+Jude	IsiYuda
+Jude	IziYuda
+Jude	KumYuda
+Jude	YezYuda
+Jude	YooYuda
+Jude	AbYuda
+Jude	EkYuda
+Jude	IiYuda
+Jude	ImYuda
+Jude	IsYuda
+Jude	IzYuda
+Jude	KaYuda
+Jude	KuYuda
+Jude	OoYuda
+Jude	YoYuda
+Jude	IYuda
+Jude	KYuda
+Jude	OYuda
+Jude	UYuda
+Jude	Jude
+Jude	Yuda
+Judg	KwabaseGwebi
+Judg	KwabasGwebi
+Judg	KumaGwebi
+Judg	YeziGwebi
+Judg	AbaGwebi
+Judg	EkaGwebi
+Judg	ImiGwebi
+Judg	IsiGwebi
+Judg	IziGwebi
+Judg	KumGwebi
+Judg	YezGwebi
+Judg	YooGwebi
+Judg	AbGwebi
+Judg	EkGwebi
+Judg	IiGwebi
+Judg	ImGwebi
+Judg	IsGwebi
+Judg	IzGwebi
+Judg	KaGwebi
+Judg	KuGwebi
+Judg	OoGwebi
+Judg	YoGwebi
+Judg	IGwebi
+Judg	KGwebi
+Judg	OGwebi
+Judg	UGwebi
+Judg	Abagw
+Judg	Gwebi
+Judg	Judg
+Lam	KwabaseLilo
+Lam	KwabasLilo
+Lam	KumaLilo
+Lam	YeziLilo
+Lam	AbaLilo
+Lam	EkaLilo
+Lam	ImiLilo
+Lam	IsiLilo
+Lam	IziLilo
+Lam	KumLilo
+Lam	YezLilo
+Lam	YooLilo
+Lam	AbLilo
+Lam	EkLilo
+Lam	IiLilo
+Lam	ImLilo
+Lam	IsLilo
+Lam	IzLilo
+Lam	KaLilo
+Lam	KuLilo
+Lam	OoLilo
+Lam	YoLilo
+Lam	ILilo
+Lam	KLilo
+Lam	OLilo
+Lam	ULilo
+Lam	Lilo
+Lam	Lam
+Lev	KwabaseLevitikus
+Lev	KwabasLevitikus
+Lev	KumaLevitikus
+Lev	YeziLevitikus
+Lev	AbaLevitikus
+Lev	EkaLevitikus
+Lev	ImiLevitikus
+Lev	IsiLevitikus
+Lev	IziLevitikus
+Lev	KumLevitikus
+Lev	YezLevitikus
+Lev	YooLevitikus
+Lev	AbLevitikus
+Lev	EkLevitikus
+Lev	IiLevitikus
+Lev	ImLevitikus
+Lev	IsLevitikus
+Lev	IzLevitikus
+Lev	KaLevitikus
+Lev	KuLevitikus
+Lev	OoLevitikus
+Lev	YoLevitikus
+Lev	ILevitikus
+Lev	KLevitikus
+Lev	OLevitikus
+Lev	ULevitikus
+Lev	Levitikus
+Lev	Lev
+Luke	KwabaseLuka
+Luke	KwabasLuka
+Luke	KumaLuka
+Luke	YeziLuka
+Luke	AbaLuka
+Luke	EkaLuka
+Luke	ImiLuka
+Luke	IsiLuka
+Luke	IziLuka
+Luke	KumLuka
+Luke	YezLuka
+Luke	YooLuka
+Luke	AbLuka
+Luke	EkLuka
+Luke	IiLuka
+Luke	ImLuka
+Luke	IsLuka
+Luke	IzLuka
+Luke	KaLuka
+Luke	KuLuka
+Luke	OoLuka
+Luke	YoLuka
+Luke	ILuka
+Luke	KLuka
+Luke	OLuka
+Luke	ULuka
+Luke	Luka
+Luke	Luke
+Mal	KwabaseMalaki
+Mal	KwabasMalaki
+Mal	KumaMalaki
+Mal	YeziMalaki
+Mal	AbaMalaki
+Mal	EkaMalaki
+Mal	ImiMalaki
+Mal	IsiMalaki
+Mal	IziMalaki
+Mal	KumMalaki
+Mal	YezMalaki
+Mal	YooMalaki
+Mal	AbMalaki
+Mal	EkMalaki
+Mal	IiMalaki
+Mal	ImMalaki
+Mal	IsMalaki
+Mal	IzMalaki
+Mal	KaMalaki
+Mal	KuMalaki
+Mal	OoMalaki
+Mal	YoMalaki
+Mal	IMalaki
+Mal	KMalaki
+Mal	OMalaki
+Mal	UMalaki
+Mal	Malaki
+Mal	Mal
+Mark	KwabaseMarko
+Mark	KwabasMarko
+Mark	KumaMarko
+Mark	YeziMarko
+Mark	AbaMarko
+Mark	EkaMarko
+Mark	ImiMarko
+Mark	IsiMarko
+Mark	IziMarko
+Mark	KumMarko
+Mark	YezMarko
+Mark	YooMarko
+Mark	AbMarko
+Mark	EkMarko
+Mark	IiMarko
+Mark	ImMarko
+Mark	IsMarko
+Mark	IzMarko
+Mark	KaMarko
+Mark	KuMarko
+Mark	OoMarko
+Mark	YoMarko
+Mark	IMarko
+Mark	KMarko
+Mark	OMarko
+Mark	UMarko
+Mark	Marko
+Mark	Mark
+Matt	KwabaseMateyu
+Matt	KwabasMateyu
+Matt	KumaMateyu
+Matt	YeziMateyu
+Matt	AbaMateyu
+Matt	EkaMateyu
+Matt	ImiMateyu
+Matt	IsiMateyu
+Matt	IziMateyu
+Matt	KumMateyu
+Matt	YezMateyu
+Matt	YooMateyu
+Matt	AbMateyu
+Matt	EkMateyu
+Matt	IiMateyu
+Matt	ImMateyu
+Matt	IsMateyu
+Matt	IzMateyu
+Matt	KaMateyu
+Matt	KuMateyu
+Matt	OoMateyu
+Matt	YoMateyu
+Matt	IMateyu
+Matt	KMateyu
+Matt	OMateyu
+Matt	UMateyu
+Matt	Mateyu
+Matt	Matt
+Matt	Mat
+Mic	KwabaseMika
+Mic	KwabasMika
+Mic	KumaMika
+Mic	YeziMika
+Mic	AbaMika
+Mic	EkaMika
+Mic	ImiMika
+Mic	IsiMika
+Mic	IziMika
+Mic	KumMika
+Mic	YezMika
+Mic	YooMika
+Mic	AbMika
+Mic	EkMika
+Mic	IiMika
+Mic	ImMika
+Mic	IsMika
+Mic	IzMika
+Mic	KaMika
+Mic	KuMika
+Mic	OoMika
+Mic	YoMika
+Mic	IMika
+Mic	KMika
+Mic	OMika
+Mic	UMika
+Mic	Mika
+Mic	Mic
+Nah	KwabaseUNahum
+Nah	KwabasUNahum
+Nah	KumaUNahum
+Nah	YeziUNahum
+Nah	AbaUNahum
+Nah	EkaUNahum
+Nah	ImiUNahum
+Nah	IsiUNahum
+Nah	IziUNahum
+Nah	KumUNahum
+Nah	YezUNahum
+Nah	YooUNahum
+Nah	AbUNahum
+Nah	EkUNahum
+Nah	IiUNahum
+Nah	ImUNahum
+Nah	IsUNahum
+Nah	IzUNahum
+Nah	KaUNahum
+Nah	KuUNahum
+Nah	OoUNahum
+Nah	YoUNahum
+Nah	IUNahum
+Nah	KUNahum
+Nah	OUNahum
+Nah	UUNahum
+Nah	UNahum
+Nah	Nah
+Neh	KwabaseNehemiya
+Neh	KwabasNehemiya
+Neh	KumaNehemiya
+Neh	YeziNehemiya
+Neh	AbaNehemiya
+Neh	EkaNehemiya
+Neh	ImiNehemiya
+Neh	IsiNehemiya
+Neh	IziNehemiya
+Neh	KumNehemiya
+Neh	YezNehemiya
+Neh	YooNehemiya
+Neh	AbNehemiya
+Neh	EkNehemiya
+Neh	IiNehemiya
+Neh	ImNehemiya
+Neh	IsNehemiya
+Neh	IzNehemiya
+Neh	KaNehemiya
+Neh	KuNehemiya
+Neh	OoNehemiya
+Neh	YoNehemiya
+Neh	INehemiya
+Neh	KNehemiya
+Neh	ONehemiya
+Neh	UNehemiya
+Neh	Nehemiya
+Neh	Neh
+Num	KwabaseNumeri
+Num	KwabasNumeri
+Num	KumaNumeri
+Num	YeziNumeri
+Num	AbaNumeri
+Num	EkaNumeri
+Num	ImiNumeri
+Num	IsiNumeri
+Num	IziNumeri
+Num	KumNumeri
+Num	YezNumeri
+Num	YooNumeri
+Num	AbNumeri
+Num	EkNumeri
+Num	IiNumeri
+Num	ImNumeri
+Num	IsNumeri
+Num	IzNumeri
+Num	KaNumeri
+Num	KuNumeri
+Num	OoNumeri
+Num	YoNumeri
+Num	INumeri
+Num	KNumeri
+Num	ONumeri
+Num	UNumeri
+Num	Numeri
+Num	Num
+Obad	KwabaseObhadiya
+Obad	KwabasObhadiya
+Obad	KumaObhadiya
+Obad	YeziObhadiya
+Obad	AbaObhadiya
+Obad	EkaObhadiya
+Obad	ImiObhadiya
+Obad	IsiObhadiya
+Obad	IziObhadiya
+Obad	KumObhadiya
+Obad	YezObhadiya
+Obad	YooObhadiya
+Obad	AbObhadiya
+Obad	EkObhadiya
+Obad	IiObhadiya
+Obad	ImObhadiya
+Obad	IsObhadiya
+Obad	IzObhadiya
+Obad	KaObhadiya
+Obad	KuObhadiya
+Obad	OoObhadiya
+Obad	YoObhadiya
+Obad	IObhadiya
+Obad	KObhadiya
+Obad	OObhadiya
+Obad	UObhadiya
+Obad	Obhadiya
+Obad	Obad
+Phil	KwabaseFilipi
+Phil	KwabasFilipi
+Phil	KumaFilipi
+Phil	YeziFilipi
+Phil	AbaFilipi
+Phil	EkaFilipi
+Phil	ImiFilipi
+Phil	IsiFilipi
+Phil	IziFilipi
+Phil	KumFilipi
+Phil	YezFilipi
+Phil	YooFilipi
+Phil	AbFilipi
+Phil	EkFilipi
+Phil	IiFilipi
+Phil	ImFilipi
+Phil	IsFilipi
+Phil	IzFilipi
+Phil	KaFilipi
+Phil	KuFilipi
+Phil	OoFilipi
+Phil	YoFilipi
+Phil	IFilipi
+Phil	KFilipi
+Phil	OFilipi
+Phil	UFilipi
+Phil	Filipi
+Phil	Filipu
+Phil	Phil
+Phlm	KwabaseFilemon
+Phlm	KwabasFilemon
+Phlm	KumaFilemon
+Phlm	YeziFilemon
+Phlm	AbaFilemon
+Phlm	EkaFilemon
+Phlm	ImiFilemon
+Phlm	IsiFilemon
+Phlm	IziFilemon
+Phlm	KumFilemon
+Phlm	YezFilemon
+Phlm	YooFilemon
+Phlm	AbFilemon
+Phlm	EkFilemon
+Phlm	IiFilemon
+Phlm	ImFilemon
+Phlm	IsFilemon
+Phlm	IzFilemon
+Phlm	KaFilemon
+Phlm	KuFilemon
+Phlm	OoFilemon
+Phlm	YoFilemon
+Phlm	IFilemon
+Phlm	KFilemon
+Phlm	OFilemon
+Phlm	UFilemon
+Phlm	Filemon
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	KwabaseZekeliso
+Prov	KwabasZekeliso
+Prov	KumaZekeliso
+Prov	YeziZekeliso
+Prov	AbaZekeliso
+Prov	EkaZekeliso
+Prov	ImiZekeliso
+Prov	IsiZekeliso
+Prov	IziZekeliso
+Prov	KumZekeliso
+Prov	YezZekeliso
+Prov	YooZekeliso
+Prov	AbZekeliso
+Prov	EkZekeliso
+Prov	IiZekeliso
+Prov	ImZekeliso
+Prov	IsZekeliso
+Prov	IzZekeliso
+Prov	KaZekeliso
+Prov	KuZekeliso
+Prov	OoZekeliso
+Prov	YoZekeliso
+Prov	IZekeliso
+Prov	KZekeliso
+Prov	OZekeliso
+Prov	UZekeliso
+Prov	Zekeliso
+Prov	IMiz
+Prov	Prov
+Ps	KwabaseNdumiso
+Ps	KwabasNdumiso
+Ps	KumaNdumiso
+Ps	YeziNdumiso
+Ps	AbaNdumiso
+Ps	EkaNdumiso
+Ps	ImiNdumiso
+Ps	IsiNdumiso
+Ps	IziNdumiso
+Ps	KumNdumiso
+Ps	YezNdumiso
+Ps	YooNdumiso
+Ps	AbNdumiso
+Ps	EkNdumiso
+Ps	IiNdumiso
+Ps	ImNdumiso
+Ps	IsNdumiso
+Ps	IzNdumiso
+Ps	KaNdumiso
+Ps	KuNdumiso
+Ps	KwabaseNd
+Ps	OoNdumiso
+Ps	YoNdumiso
+Ps	INdumiso
+Ps	Indumiso
+Ps	KNdumiso
+Ps	KwabasNd
+Ps	ONdumiso
+Ps	UNdumiso
+Ps	Ndumiso
+Ps	KumaNd
+Ps	YeziNd
+Ps	AbaNd
+Ps	EkaNd
+Ps	ImiNd
+Ps	IsiNd
+Ps	IziNd
+Ps	KumNd
+Ps	YezNd
+Ps	YooNd
+Ps	AbNd
+Ps	EkNd
+Ps	IiNd
+Ps	ImNd
+Ps	IsNd
+Ps	IzNd
+Ps	KaNd
+Ps	KuNd
+Ps	OoNd
+Ps	YoNd
+Ps	INd
+Ps	KNd
+Ps	ONd
+Ps	UNd
+Ps	Nd
+Ps	Ps
+Rev	KwabaseTyhilelo
+Rev	KwabasTyhilelo
+Rev	KumaTyhilelo
+Rev	YeziTyhilelo
+Rev	AbaTyhilelo
+Rev	EkaTyhilelo
+Rev	ImiTyhilelo
+Rev	IsiTyhilelo
+Rev	IziTyhilelo
+Rev	KumTyhilelo
+Rev	YezTyhilelo
+Rev	YooTyhilelo
+Rev	AbTyhilelo
+Rev	EkTyhilelo
+Rev	IiTyhilelo
+Rev	ImTyhilelo
+Rev	IsTyhilelo
+Rev	IzTyhilelo
+Rev	KaTyhilelo
+Rev	KuTyhilelo
+Rev	OoTyhilelo
+Rev	YoTyhilelo
+Rev	ITyhilelo
+Rev	KTyhilelo
+Rev	KwabaseTy
+Rev	OTyhilelo
+Rev	UTyhilelo
+Rev	KwabasTy
+Rev	Tyhilelo
+Rev	KumaTy
+Rev	YeziTy
+Rev	AbaTy
+Rev	EkaTy
+Rev	ImiTy
+Rev	IsiTy
+Rev	IziTy
+Rev	KumTy
+Rev	YezTy
+Rev	YooTy
+Rev	AbTy
+Rev	EkTy
+Rev	IiTy
+Rev	ImTy
+Rev	IsTy
+Rev	IzTy
+Rev	KaTy
+Rev	KuTy
+Rev	OoTy
+Rev	YoTy
+Rev	ITy
+Rev	KTy
+Rev	OTy
+Rev	Rev
+Rev	UTy
+Rev	Ty
+Rom	KwabaseRoma
+Rom	KwabasRoma
+Rom	KumaRoma
+Rom	YeziRoma
+Rom	AbaRoma
+Rom	EkaRoma
+Rom	ImiRoma
+Rom	IsiRoma
+Rom	IziRoma
+Rom	KumRoma
+Rom	YezRoma
+Rom	YooRoma
+Rom	AbRoma
+Rom	EkRoma
+Rom	IiRoma
+Rom	ImRoma
+Rom	IsRoma
+Rom	IzRoma
+Rom	KaRoma
+Rom	KuRoma
+Rom	OoRoma
+Rom	YoRoma
+Rom	IRoma
+Rom	KRoma
+Rom	ORoma
+Rom	URoma
+Rom	Roma
+Rom	Rom
+Ruth	KwabaseRute
+Ruth	KwabasRute
+Ruth	KumaRute
+Ruth	YeziRute
+Ruth	AbaRute
+Ruth	EkaRute
+Ruth	ImiRute
+Ruth	IsiRute
+Ruth	IziRute
+Ruth	KumRute
+Ruth	YezRute
+Ruth	YooRute
+Ruth	AbRute
+Ruth	EkRute
+Ruth	IiRute
+Ruth	ImRute
+Ruth	IsRute
+Ruth	IzRute
+Ruth	KaRute
+Ruth	KuRute
+Ruth	OoRute
+Ruth	YoRute
+Ruth	IRute
+Ruth	KRute
+Ruth	ORute
+Ruth	URute
+Ruth	Rute
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	KwabaseNgoma Yazo Iingoma
+Song	KwabasNgoma Yazo Iingoma
+Song	KumaNgoma Yazo Iingoma
+Song	YeziNgoma Yazo Iingoma
+Song	AbaNgoma Yazo Iingoma
+Song	EkaNgoma Yazo Iingoma
+Song	ImiNgoma Yazo Iingoma
+Song	IsiNgoma Yazo Iingoma
+Song	IziNgoma Yazo Iingoma
+Song	KumNgoma Yazo Iingoma
+Song	YezNgoma Yazo Iingoma
+Song	YooNgoma Yazo Iingoma
+Song	AbNgoma Yazo Iingoma
+Song	EkNgoma Yazo Iingoma
+Song	IiNgoma Yazo Iingoma
+Song	ImNgoma Yazo Iingoma
+Song	IsNgoma Yazo Iingoma
+Song	IzNgoma Yazo Iingoma
+Song	KaNgoma Yazo Iingoma
+Song	KuNgoma Yazo Iingoma
+Song	OoNgoma Yazo Iingoma
+Song	YoNgoma Yazo Iingoma
+Song	INgoma Yazo Iingoma
+Song	KNgoma Yazo Iingoma
+Song	ONgoma Yazo Iingoma
+Song	UNgoma Yazo Iingoma
+Song	Ngoma Yazo Iingoma
+Song	Song
+Sus	Sus
+Titus	KwabaseTito
+Titus	KwabasTito
+Titus	KumaTito
+Titus	YeziTito
+Titus	AbaTito
+Titus	EkaTito
+Titus	ImiTito
+Titus	IsiTito
+Titus	IziTito
+Titus	KumTito
+Titus	YezTito
+Titus	YooTito
+Titus	AbTito
+Titus	EkTito
+Titus	IiTito
+Titus	ImTito
+Titus	IsTito
+Titus	IzTito
+Titus	KaTito
+Titus	KuTito
+Titus	OoTito
+Titus	YoTito
+Titus	ITito
+Titus	KTito
+Titus	OTito
+Titus	Titus
+Titus	UTito
+Titus	Tito
+Tob	Tob
+Wis	Wis
+Zech	KwabaseZekariya
+Zech	KwabasZekariya
+Zech	KumaZekariya
+Zech	YeziZekariya
+Zech	AbaZekariya
+Zech	EkaZekariya
+Zech	ImiZekariya
+Zech	IsiZekariya
+Zech	IziZekariya
+Zech	KumZekariya
+Zech	YezZekariya
+Zech	YooZekariya
+Zech	AbZekariya
+Zech	EkZekariya
+Zech	IiZekariya
+Zech	ImZekariya
+Zech	IsZekariya
+Zech	IzZekariya
+Zech	KaZekariya
+Zech	KuZekariya
+Zech	OoZekariya
+Zech	YoZekariya
+Zech	IZekariya
+Zech	KZekariya
+Zech	OZekariya
+Zech	UZekariya
+Zech	Zekariya
+Zech	Zech
+Zeph	KwabaseZefaniya
+Zeph	KwabasZefaniya
+Zeph	KumaZefaniya
+Zeph	YeziZefaniya
+Zeph	AbaZefaniya
+Zeph	EkaZefaniya
+Zeph	ImiZefaniya
+Zeph	IsiZefaniya
+Zeph	IziZefaniya
+Zeph	KumZefaniya
+Zeph	YezZefaniya
+Zeph	YooZefaniya
+Zeph	AbZefaniya
+Zeph	EkZefaniya
+Zeph	IiZefaniya
+Zeph	ImZefaniya
+Zeph	IsZefaniya
+Zeph	IzZefaniya
+Zeph	KaZefaniya
+Zeph	KuZefaniya
+Zeph	OoZefaniya
+Zeph	YoZefaniya
+Zeph	IZefaniya
+Zeph	KZefaniya
+Zeph	OZefaniya
+Zeph	UZefaniya
+Zeph	Zefaniya
+Zeph	Zeph

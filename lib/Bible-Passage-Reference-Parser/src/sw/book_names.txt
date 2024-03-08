@@ -4,7 +4,12 @@
 1Chr	1 Mambo ya Nyakati
 1Chr	I Mambo ya Nyakati
 1Chr	Mambo ya Nyakati I
+1Chr	Kwanza Nyakati
+1Chr	1. Nyakati
+1Chr	I. Nyakati
 1Chr	Kwanza Nya
+1Chr	1 Nyakati
+1Chr	I Nyakati
 1Chr	1. Nya
 1Chr	I. Nya
 1Chr	1 Nya
@@ -58,12 +63,17 @@
 1John	I Yoh
 1Kgs	Kitabu cha Kwanza cha Wafalme
 1Kgs	Kwanza Wafalme
+1Kgs	Kwanza Falme
 1Kgs	1. Wafalme
 1Kgs	I. Wafalme
 1Kgs	Kwanza Fal
 1Kgs	1 Wafalme
 1Kgs	I Wafalme
 1Kgs	Wafalme I
+1Kgs	1. Falme
+1Kgs	I. Falme
+1Kgs	1 Falme
+1Kgs	I Falme
 1Kgs	1. Fal
 1Kgs	I. Fal
 1Kgs	1 Fal
@@ -159,6 +169,11 @@
 2Chr	II Mambo ya Nyakati
 2Chr	Mambo ya Nyakati II
 2Chr	2 Mambo ya Nyakati
+2Chr	Pili Nyakati
+2Chr	II. Nyakati
+2Chr	2. Nyakati
+2Chr	II Nyakati
+2Chr	2 Nyakati
 2Chr	Pili Nya
 2Chr	II. Nya
 2Chr	2. Nya
@@ -216,9 +231,14 @@
 2Kgs	II. Wafalme
 2Kgs	2. Wafalme
 2Kgs	II Wafalme
+2Kgs	Pili Falme
 2Kgs	Wafalme II
 2Kgs	2 Wafalme
+2Kgs	II. Falme
+2Kgs	2. Falme
+2Kgs	II Falme
 2Kgs	Pili Fal
+2Kgs	2 Falme
 2Kgs	II. Fal
 2Kgs	2. Fal
 2Kgs	II Fal
@@ -387,6 +407,7 @@ EpJer	EpJer
 Eph	Waraka kwa Waefeso
 Eph	Barua kwa Waefeso
 Eph	Waefeso
+Eph	Efeso
 Eph	Efe
 Eph	Eph
 Eph	Ef

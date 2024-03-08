@@ -1,0 +1,277 @@
+$FIRST	1	၁
+$SECOND	2	၂
+$THIRD	3	၃
+$FOURTH	4	၄
+$FIFTH	5	၅
+$SIXTH	6	၆
+$AB	[a-e]
+$AND	နှင့်	၊
+$CHAPTER	အခန်း	း
+$FF	ff
+$TITLE	title
+$TRANS	trans
+$TO	မှ
+$VERSE	အခန်းငယ်	း
+$UNICODE_BLOCK	Myanmar	Latin
+
+Gen	က မ္ဘာ ဦး ကျမ်း။	က	က၊	ကမ္ဘာ၊
+Exod	ထွက် မြောက် ရာ ကျမ်း။	ထွ	ထကွ ၊်	ထွက်၊
+Lev	ဝတ် ပြု ရာ ကျမ်း။	ဝတ်	ဝတ်၊
+Num	တော လည် ရာ ကျမ်း။	တော	တော၊
+Deut	တ ရား ဟော ရာ ကျမ်း။	တရား	တရား‌ဟော	တရားဟော၊
+Josh	ယော ရှု မှတ် စာ။	ယောရှု	ယောရှု
+Judg	တ ရား သူ ကြီး မှတ် စာ။	သူကြီး
+Ruth	ရု​သ​ဝ​တ္တု။	ရု
+1Sam	ဓ မ္မ ရာ ဇ ဝင် ပ ထ မ စောင်။	၁ ရာ	$FIRST ?ရာ၊
+2Sam	ဓ မ္မ ရာ ဇ ဝင် ဒု တိ ယ စောင်။	၂ ရာ	$SECOND ?ရာ၊
+1Kgs	ဓ မ္မ ရာ ဇ ဝင် တ တိ ယ စောင်။	၃ ရာ	၃ရာ၊	$THIRD ?ရာ၊
+2Kgs	ဓ မ္မ ရာ ဇ ဝင် စ တု တ္ထ စောင်။	၄ ရာ	$FOURTH ?ရာ၊
+1Chr	ရာ ဇ ဝင် ချုပ် ပ ထ မ စောင်။	၅ ရာ	$FIFTH ?ရာ၊
+2Chr	ရာ ဇ ဝင် ချုပ် ဒု တိ ယ စောင်။	၆ ရာ	$SIXTH ?ရာ၊
+Ezra	ဧ ဇ ရ မှတ် စာ။	ဧဇ	ဧဇရ၊
+Neh	နေ ဟ မိ မှတ် စာ။	နေ
+Esth	ဧ သ တာ ဝ တ္ထု။	ဧသ
+Job	ယော ဘ ဝ တ္တု။	ယောဘ	ယောဘ၊
+Ps	ဆာ လံ ကျမ်း။	ဆာ	ဆာ၊	ဆာလံ၊
+Prov	သု တ္တံ ကျမ်း။	သု	သုတ္တံ၊
+Eccl	ဒေ သ နာ ကျမ်း။	ဒေ	ဒေသနာ၊
+Song	ရှော လ မုန် သီ ချင်း။	သီ
+Isa	ဟေ ရှာ ယ အ နာ ဂ တ္တိ ကျမ်း။	ဟေရှာ	‌ဟေရာှ	ဟေရှာယ၊	ဟေရှာ၊
+Jer	ယေ ရ မိ အ နာ ဂ တ္တိ ကျမ်း။	ယေ	ယေရမိ	ယေရမိ၊
+Lam	ယေ ရ မိ မြည် တမ်း စ ကား။	မြည်
+Ezek	ယေ ဇ ကျေ လ အ နာ ဂ တ္တိ ကျမ်း။	ယေဇ	ယေဇ‌ကျေလ	ယေဇကျေလ၊
+Dan	ဒံ ယေ လ အ နာ ဂ တ္တိ ကျမ်း။	ဒံ	ဒံ‌ယေလ	ဒံ၊
+Hos	ဟော ရှေ အ နာ ဂ တ္တိ ကျမ်း။	ဟော
+Joel	ယော လ အ နာ ဂ တ္တိ ကျမ်း။	ယောလ
+Amos	အာ မုတ် အ နာ ဂ တ္တိ ကျမ်း။	အာ
+Obad	ဩ ဗ ဒိ ဗျာ ဒိတ် ရူ ပါ ရုံ။	ဩ
+Jonah	ယော န ဝ တ္ထု။	ယောန
+Mic	မိ က္ခာ အ နာ ဂ တ္တိ ကျမ်း။	မိ
+Nah	နာ ဟုံ အ နာ ဂ တ္တိ ကျမ်း။	နာ
+Hab	ဟ ဗ က္ကုတ် အ နာ ဂ တ္တိ ကျမ်း။	ဟဗ
+Zeph	ဇေ ဖ နိ အ နာ ဂ တ္တိ ကျမ်း။	ဇေ
+Hag	ဟ ဂ္ဂဲ အ နာ ဂ တ္တိ ကျမ်း။	ဟ ဂ္ဂဲ	ဟဂ္
+Zech	ဇာ ခ ရိ အ နာ ဂ တ္တိ ကျမ်း။	ဇာ	ဇာခရိ၊
+Mal	မာ လ ခိ အ နာ ဂ တ္တိ ကျမ်း။	မာလ	မာလခိ၊	မာလခိ
+Matt	ရှင် မဿဲ ခ ရစ် ဝင်။	မ	မဿဲ	မသဲ၊
+Mark	ရှင် မာ ကု ခ ရစ် ဝင်။	မာ	မာကု၊
+Luke	ရှင် လု ကာ ခ ရစ် ဝင်။	လု	လုကာ	လုကာ၊
+John	ရှင် ယော ဟန် ခ ရစ် ဝင်။	ယော	ယောဟန်၊	ယောဟန်
+Acts	တ မန် တော် ဝ တ္ထု။	တ	တမန်၊
+Rom	ရော မ ဩ ဝါ ဒ စာ။	ရော	ရောမ	ရောမ၊
+1Cor	ကော ရိ န္သု ဩ ဝါ ဒ စာ ပ ထ မ စောင်။	၁ ကော	၁‌ကော၊	$FIRST ?ကော၊
+2Cor	ကော ရိ န္သု ဩ ဝါ ဒ စာ ဒု တိ ယ စောင်။	၂ ကော	$SECOND ?ကော၊
+Gal	ဂ လာ တိ ဩ ဝါ ဒ စာ။	ဂ လ	ဂလာတိ	ဂလာတိ၊
+Eph	ဧ ဖက် ဩ ဝါ ဒ စာ။	ဧ	ဧဖက်	ဧဖက်၊
+Phil	ဖိ လိ ပ္ပိ ဩ ဝါ ဒ စာ။	ဖိ	ဖိလိပ္ပိ၊
+Col	ကော လော သဲ ဩ ဝါ ဒ စာ။	ကော	ကော‌လောသဲ	ကောလောသဲ၊
+1Thess	သက် သာ လော နိတ် ဩ ဝါ ဒ စာ ပ ထ မ စောင်။	၁ သက်	$FIRST ?သက်၊
+2Thess	သက် သာ လော နိတ် ဩ ဝါ ဒ စာ ဒု တိ ယ စောင်။	၂ သက်	$SECOND ?သက်၊
+1Tim	တိ မော သေ ဩ ဝါ ဒ စာ ပ ထ မ စောင်။	၁ တိ	$FIRST ?တိ၊
+2Tim	တိ မော သေ ဩ ဝါ ဒ စာ ဒု တိ ယ စောင်။	၂ တိ	$SECOND ?တိ၊
+Titus	တိ တု ဩ ဝါ ဒ စာ။	တိ	တိတု၊
+Phlm	ဖိ လေ မုန် ဩ ဝါ ဒ စာ။	ဖိလေ
+Heb	ဟေ ဗြဲ ဩ ဝါ ဒ စာ။	ဟေ ဗြဲ	ဟေဗြဲ၊	ဟေဗြဲ
+Jas	ရှင် ယာ ကုပ် ဩ ဝါ ဒ စာ။	ယာ	ယာကုပ်၊
+1Pet	ရှင် ပေ တ ရု သြ ဝါ ဒ စာ ပ ထ မ စောင်။	၁ ပေ	၁‌ပေ	၁‌ပေ၊	$FIRST ?ပေ၊
+2Pet	ရှင် ပေ တ ရု ဩ ဝါ ဒ စာ ဒု တိ ယ စောင်။	၂ ပေ	$SECOND ?ပေ၊
+1John	ရှင် ယော ဟန် ဩ ဝါ ဒ စာ ပ ထ မ စောင်။	၁ ယော	$FIRST ?ယော၊
+2John	ရှင် ယော ဟန် ဩ ဝါ ဒ စာ ဒု တိ ယ စောင်။	၂ ယော	$SECOND ?ယော၊
+3John	ရှင် ယော ဟန် ဩ ဝါ ဒ စာ တ တိ ယ စောင်။	၃ ယော	$THIRD ?ယော၊
+Jude	ရှင် ယု ဒ ဩ ဝါ ဒ စာ။	ယု
+Rev	ဗျာ ဒိတ် ကျမ်း။	ဗျာ	ဗျာ၊
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

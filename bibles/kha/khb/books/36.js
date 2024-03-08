@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sephanaïah",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ka ktien U Trai kaba la wan ha u Sephanaïah u khun u Kushi, uba u khun u Gedaliah, u khun u Amariah, u khun u Hesekaïah, ha ki sngi u Josaïah u khun u Amon, u syiem ka Judah.",
+			"2": "<sup>2</sup> “Ngan pynjot noh phar ïa kiei kiei baroh na ka khmat ha khyndew,” ong U Trai.",
+			"3": "<sup>3</sup> “Ngan pynjot bad briew bad mrad; ngan pynjot ïa ki sim ka suiñ, bad ki dohkha ka duriaw, bad ïa ki jingjynthut lem bad ki bymman; bad ngan ot noh ïa u briew na khmat ka khyndew,” ong U Trai.",
+			"4": "<sup>4</sup> “Bad ngan kner ïa la ka kti halor ka Judah, bad halor ki nong Jerusalem baroh; bad ngan ot noh ïa kaba sah jong u Baal na kane ka jaka, bad ïa ka kyrteng ki Khemar lem bad ki lyngdoh:",
+			"5": "<sup>5</sup> bad ïa kita kiba mane halor ki neng ïing ïa u paidbah ka bneng; bad ïa kita kiba mane, kiba smai ha U Trai bad kiba smai da u Malkam;",
+			"6": "<sup>6</sup> bad ïa kita kiba phai noh na kaba bud ïa U Trai; bad ïa kita ki bym shym wad ïa U Trai, lymne ïakylli shaphang jong u.”",
+			"7": "<sup>7</sup> To sngap jar me ha khmat U Trai U Blei: naba ka sngi U Trai ka la jan: naba U Trai u la khreh ïa ka jingkñia, u la pynkyntang ïa kiba la wer jong u.",
+			"8": "<sup>8</sup> “Te kan jia ha kata ka sngi ka jingkñia U Trai, ba ngan pynshitom ïa ki bakhraw batri, bad ïa ki khun u syiem, bad ïa kita baroh kiba la kup da ki jaiñkup nongwei.",
+			"9": "<sup>9</sup> Bad ha kata ka sngi, ngan pynshitom baroh kiba ryngkoh halor ka khyrdop ïing, kiba pyndap ïa ka ïing u kynrad jong ki da ka jingleh-jubor bad ka jingshukor.",
+			"10": "<sup>10</sup> “Bad ha kata ka sngi,” ong U Trai, “kan long ka jingsawa jingïam na Ka Khyrdop Dohkha, bad ka jinglynñiar kaw na kata kawei, bad ka jingsawa kdum kaba khraw na ki lum.",
+			"11": "<sup>11</sup> To lynñiar kaw, phi ki nong Maktesh, naba la pynjot noh ïa ki nong Kanaan baroh, ïa kita baroh kiba kit ïa ka rupa la ot noh.",
+			"12": "<sup>12</sup> Te ha kata ka por, ngan wad ïa ka Jerusalem da ki sharak; bad ngan pynshitom ïa kita ki briew kiba la rben ha la ka jinglang, kiba ong ha la ka dohnud, ‘U Trai un ym leh ïa ka babha, lymne un ym leh ïa ka basniew.’",
+			"13": "<sup>13</sup> Bad ka spah jong ki kan long ka jinglute, bad ki ïing jong ki, ki ïingjah: kin tei ïa ki ïing ruh, hynrei, kin ym ïoh shong ha ki; bad kin thung ki brisoh Waiñ, hynrei, kin ym ïoh dih na ka Waiñ jong ki.”",
+			"14": "<sup>14</sup> Kata ka sngi ka bakhraw U Trai ka la jan, ka la jan bad ka pynkloi shibun, wat ka jingsawa jong ka sngi U Trai; u bakhrawbor keiñ, un lynñiar kthang hangta.",
+			"15": "<sup>15</sup> Kata ka sngi, ka long ka sngi ka jingbitar, ka sngi ka jingjynjar bad ka jingkhim, ka sngi ka jingpynjot bad ka jingpynduh, ka sngi ka jingdum bad ka lamïong, ka sngi ki lyoh bad ka jingdum barben,",
+			"16": "<sup>16</sup> ka sngi ka turoi bad ka jingmaham, pyrshah ïa ki shnong ba la ker kynroh, bad pyrshah ïa ki kut bajrong.",
+			"17": "<sup>17</sup> “Bad ngan pynwan ïa ka jingkhim halor ki briew, ba kin ïaid kum ki bamatlah, namar ba ki la leh pop ïa U Trai: bad yn theh noh ïa ka snam jong ki kum ka 'dewmet, bad ïa ka doh jong ki kum ka kynsha.”",
+			"18": "<sup>18</sup> Lymne ka rupa jong ki lymne ka ksiar jong ki kan ym lah ban pynim ïa ki ha kata ka sngi ka jingbitar U Trai: hynrei, ïa ka ri baroh yn bam duh da ka ding ka jingsatnud jong u: naba un pynlong ka jingkut, ka jingkut kaba itieng keiñ, ïa kita baroh kiba shong ha ka ri."
+		},
+		"2": {
+			"1": "<sup>1</sup> To ïalum lang, bad to ïawan lang keiñ, ko phi ka jaid bynriew kaba khlem rain;",
+			"2": "<sup>2</sup> katba ka hukum kam pat kha, katba kam pat leit noh ka sngi kum u stait, katba ym pat ngat ha phi ka jingbitar U Trai, katba ka sngi ka jingbitar U Trai kam pat jia halor jong phi.",
+			"3": "<sup>3</sup> To wad ïa U Trai, phi baroh kiba lui lui jong ka khyndew, kiba la leh ïa ka jingbishar jong u; to wad ïa ka hok, wad ïa ka jinglui lui: lehse yn buhrieh ïa phi ha kata ka sngi ka jingbitar U Trai.",
+			"4": "<sup>4</sup> Naba yn kyntait noh ïa ka Gasa, bad ka Ashkelon kan long ka jaka kynjah: kin beh noh ïa ka Ashdod ha kaba shiteng sngi, bad ïa ka Ekron yn rat noh.",
+			"5": "<sup>5</sup> Kordit ïa phi kiba shong harud ka duriaw, ka jaid ki Khereth! Ka ktien U Trai ka long pyrshah ïa phi, A ka Kanaan, ka ri ki Philistia; ngan pynjot ïa pha, haduh ba ym don bashong ha pha shuh.",
+			"6": "<sup>6</sup> Bad ka rud duriaw kan long ki jaka phlang, bad ki ïingtrep ïa ki nongaplangbrot bad ki jingker langbrot.",
+			"7": "<sup>7</sup> Bad kata ka phang kan long ïa kita kiba sah na ka ïing Judah; kin pynbam phlang ïa la ki langbrot hangta: ha ki ïing ka Ashkelon kin thiah la janmiet; naba U Trai U Blei jong ki un wan-i ïa ki, bad un pynphai noh ïa ka jinglongmraw jong ki.",
+			"8": "<sup>8</sup> “Nga la ïohsngew ïa ka jingkrenbeiñ u Moab, bad ïa ki jingkren sniew ki khun u Ammon, da kiba ki la krenbeiñ ïa ki briew jong nga, bad ba ki la pynkhraw ïa lade pyrshah ïa ka phang jong ki.",
+			"9": "<sup>9</sup> Namar kata, katba nga im,” ong U Trai ki paid, U Blei ki Israel, “da shisha u Moab un long kum ka Sodom, bad ki khun u Ammon kum ka Gomorra, ka jaka ki teiñthap, bad ki thliew mluh, bad ka jaka kynjah junom: kita kiba sah na ki briew jong nga kin lute ïa ki, bad kiba sah na ka jaid bynriew jong nga kin ïoh kynti ïa ki.”",
+			"10": "<sup>10</sup> Kane kan jia ïa ki namar ka jingsarong jong ki, namar ki la krenbeiñ bad ki la pynkhraw ïa lade pyrshah ïa u paidbah jong U Trai ki paid.",
+			"11": "<sup>11</sup> U Trai un long uba shyrkhei ïa ki: naba un pynïapthngan ïa ki blei jong ka khyndew baroh; bad ki briew kin mane ïa U, uwei pa uwei na ki na la ka jaka, ki 'dewlynnong baroh jong ki jaid bynriew.",
+			"12": "<sup>12</sup> Ma phi ruh ki Ethiopia, yn pynïap ïa phi da ka waitlam jong nga.",
+			"13": "<sup>13</sup> Bad un kner ïa la ka kti pyrshah ïa ka shatei, bad un pynjot ïa ka Assyria; bad un pynlong ka jaka kynjah ïa ka Ninebeh, bad kaba rkhiang kum ka jaka ryngkhiang.",
+			"14": "<sup>14</sup> Bad ki kynhun mrad kin thiah hapdeng jong ka, ki kynja mrad baroh ki jong ki jentil: u pelikan ruh bad u 'ñiangkhit kin ïadem ha ki khlieh païa jong ka: ka jingsawa jong ki kan pah ha ki jingkhang ïit; ka jinglong kynjah kan long ha ki jingkhang: naba la pynlyngkhuit ïa ka jingtrei dieng Kedar.",
+			"15": "<sup>15</sup> Kane ka long ka nongbah kaba leh kmen kaba la shong bymsuidñiew, kaba la ong ha la ka dohnud, “Ma nga, bad nalor jong nga ym don shuh;” kumno ka la kylla ka jaka kynjah, ka jaka ïa ki mrad ban thiah ha ka! uwei uwei baroh uba ïaid hajan jong ka un kynshi, bad un kalain ïa la ka kti."
+		},
+		"3": {
+			"1": "<sup>1</sup> Kordit ïa kata kaba kiat bad kaba tngit, ïa kata ka nongbah kaba banbeiñ!",
+			"2": "<sup>2</sup> Kam shym kohnguh ïa kata ka jingsawa; kam shym pdiang ïa ka jingsneng; kam shym shaniah ha U Trai; kam shym pynjan ha U Blei jong ka.",
+			"3": "<sup>3</sup> Ki syiem jong ka hapoh jong ka ki long ki sing kiba kyrhuh; ki nongbishar jong ka ki long ki suri mynmiet; kim pynsah ei ei haduh lashai.",
+			"4": "<sup>4</sup> Ki nongïathuhlypa jong ka ki long ki briew kiba sting bad kiba shetkylla; ki lyngdoh jong ka ki la leh sang ïa ka jaka kyntang, ki la leh jubor ïa ka hukum.",
+			"5": "<sup>5</sup> U Trai hapdeng jong ka u long u bahok; un ym leh ïa ka jingbymhok; man ka step u pynmih sha bashai ïa la ka jingbishar, bad um ju pep; hynrei, u bymhok um tip shuh ïa ka rain.",
+			"6": "<sup>6</sup> “Nga la ot noh ïa ki jaid bynriew, ki kut jong ki long ki jaka kynjah; nga la pynjot noh ïa ki lynti shnong jong ki, ba ym don ba ïaid ha ki: ïa ki nongbah jong ki la pynduh, haduh ba ym don briew, ba ym don uba shong shnong shuh.",
+			"7": "<sup>7</sup> Nga la ong, ‘Shisha phan sheptieng ïa nga, phan pdiang ïa ka jingsneng; ba kumta ïa ka jaka shong jong ka yn ym ot noh, katba kum ïa kiei kiei baroh ba nga la buh shaphang jong ka:’ pynban, ki la khie dang step bad ki la pynpyut ïa la ki jingleh baroh.",
+			"8": "<sup>8</sup> “Namar kata, phin ap ïa nga,” ong U Trai, “haduh kata ka sngi ba ngan ïeng ïa ka jinglute: naba ka jingthmu jong nga ka long ba ngan ïalum ïa ki jaid bynriew, ba ngan lum lang ïa ki hima, ïa ka ban theh halor jong ki ïa ka jingbitar jong nga, wat ïa ka jingbitar ba-meh ding jong nga baroh; naba yn jliah ïa ka pyrthei baroh da ka ding ka jingsatnud jong nga.",
+			"9": "<sup>9</sup> “Naba hangta ngan pynai pat ha ki paidbah ïa ka shyntur ka bakhuid, ba baroh kin khot ïa ka kyrteng U Trai, ïa ka ban shakri ïa u da kawei ka jingmut.",
+			"10": "<sup>10</sup> Na sha lyndet ki wah ka Ethiopia ki nongduwai jong nga, ka khun jong kiba la pynsakma jong nga keiñ, kin wallam ïa ka jingainguh jong nga.",
+			"11": "<sup>11</sup> “Ha kata ka sngi, men ym sngewlehrain ïa la ki jingleh baroh, ha kiba me la leh pop ïa nga: naba hangta ngan shim noh napdeng jong me ïa kita kiba kyrkoh sarong jong me, bad men ym long shuh uba sngewmeng ha u lum u bakhuid jong nga.",
+			"12": "<sup>12</sup> Hynrei, ngan pynsah hapdeng jong me ki briew ki bajynjar bad baduk, ki te kin shaniah ha ka kyrteng U Trai.",
+			"13": "<sup>13</sup> Kita kiba sah jong u Israel kin ym leh bymhok, lymne kren ïa ka lamler; lymne ïa u thylliej uba shukor yn ym shem ha ka shyntur jong ki: naba kin bam bad kin thiah, te ym don shuh u ban pynsheptieng ïa ki.”",
+			"14": "<sup>14</sup> To rwai, ko khun ka Seïon; to risa, ko Israel; to kmen bad to shadkmen da la ka dohnud baroh, ko khun ka Jerusalem.",
+			"15": "<sup>15</sup> U Trai u la law noh ïa ki jingbishar jong pha, u la shop noh shabar ïa u nongshun jong pha: u syiem ki Israel, U Trai keiñ, u don hapdeng jong pha: phan ym sheptieng shuh ïa ka basniew.",
+			"16": "<sup>16</sup> Ha kata ka sngi, yn ong ha ka Jerusalem, “Wat sheptieng, ko Seïon, wat pynjem ïa la ka kti.",
+			"17": "<sup>17</sup> U Trai U Blei jong pha u don hapdeng jong pha u bakhrawbor u ban pynim: un leh kmen halor jong pha da ka jingkmen, un shongthait ha la ka jingieit, un leh kmen halor jong pha da ka jingrwai.",
+			"18": "<sup>18</sup> Ngan lum lang ïa kita kiba leh sngewsih namar kata ka jingïaseng ka bakyntang, kiba na pha keiñ: ha kiba kata ka jingkit halor jong ka, ka la long ka jingjahburom.",
+			"19": "<sup>19</sup> Ha khmih, ha kata ka por, ngan pynshitom ïa kita baroh kiba pynjynjar ïa pha: bad ngan pynim ïa kata ka ba-dkoh, bad ngan lum ïa kata kaba la pynsakma; bad ngan pynlong ka jingïaroh bad ka jingdonnam ïa kita kiba ka jinglehrain jong ki ka la long ha ka khyndew baroh.",
+			"20": "<sup>20</sup> Ha kata ka por, ngan ïalam shapoh ïa phi, bad ha kata ka por, ngan lum ïa phi: naba ngan pynlong jingdonnam bad ka jingïaroh ïa phi hapdeng ki briew baroh ka khyndew, haba ngan pynphai noh ïa ka jinglongmraw jong phi ha shuwa ki khmat jong phi,” ong U Trai."
+		}
+	}
+};
+module.exports = book;

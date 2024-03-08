@@ -2,6 +2,9 @@
 1Chr	1 itihas
 1Chr	1 itihās
 1Chr	1 इतिहास
+1Chr	१ इतिहास
+1Chr	1 इति
+1Chr	१ इति
 1Chr	1Chr
 1Cor	पौलाचे करिंथकरांस पहिले पत्र
 1Cor	karimtʰkarams pahile patra
@@ -22,6 +25,8 @@
 1Cor	1 kariṃtʰkarāms
 1Cor	1 kariṃtʰkarāṃs
 1Cor	1 करिंथकरांस
+1Cor	1 करिंथ
+1Cor	१ करिंथ
 1Cor	1Cor
 1Esd	1Esd
 1John	yohanacem pahile patra
@@ -48,6 +53,7 @@
 1Kgs	1 raǳe
 1Kgs	1 rāǳe
 1Kgs	1 राजे
+1Kgs	१ राजे
 1Kgs	1Kgs
 1Macc	1Macc
 1Pet	petracem pahile patra
@@ -67,6 +73,9 @@
 1Sam	1 samuwel
 1Sam	1 ŝamuwel
 1Sam	1 शमुवेल
+1Sam	१ शमुवेल
+1Sam	1 शमु
+1Sam	१ शमु
 1Sam	1Sam
 1Thess	पौलाचे थेस्सलनीकाकरांस पहिले पत्र
 1Thess	tʰessalanikakarams pahile patra
@@ -103,6 +112,7 @@
 1Thess	1 tʰessalanīkākarāms
 1Thess	1 tʰessalanīkākarāṃs
 1Thess	1 थेस्सलनीकाकरांस
+1Thess	1 थेस्सल
 1Thess	1Thess
 1Tim	पौलाचे तीमथ्याला पहिले पत्र
 1Tim	timatʰtʰala pahile patra
@@ -124,11 +134,15 @@
 1Tim	1 tīmatʰtʰālā
 1Tim	1 तीमथ्थाला
 1Tim	1 तीमथ्याला
+1Tim	1 तीमथ्य
 1Tim	1Tim
 2Chr	दुसरे इतिहास
 2Chr	2 itihas
 2Chr	2 itihās
 2Chr	2 इतिहास
+2Chr	२ इतिहास
+2Chr	2 इति
+2Chr	२ इति
 2Chr	2Chr
 2Cor	पौलाचे करिंथकरांस दूसरे पत्र
 2Cor	karimtʰkarams dusre patra
@@ -149,6 +163,8 @@
 2Cor	2 kariṃtʰkarāms
 2Cor	2 kariṃtʰkarāṃs
 2Cor	2 करिंथकरांस
+2Cor	2 करिंथ
+2Cor	२ करिंथ
 2Cor	2Cor
 2Esd	2Esd
 2John	yohanacem dusre patra
@@ -175,6 +191,7 @@
 2Kgs	2 raǳe
 2Kgs	2 rāǳe
 2Kgs	2 राजे
+2Kgs	२ राजे
 2Kgs	2Kgs
 2Macc	2Macc
 2Pet	petracem dusre patra
@@ -194,6 +211,9 @@
 2Sam	2 samuwel
 2Sam	2 ŝamuwel
 2Sam	2 शमुवेल
+2Sam	२ शमुवेल
+2Sam	2 शमु
+2Sam	२ शमु
 2Sam	2Sam
 2Thess	पौलाचे थेस्सलनीकाकरांस दुसरे पत्र
 2Thess	tʰessalanikakarams dusre patra
@@ -230,6 +250,7 @@
 2Thess	2 tʰessalanīkākarāms
 2Thess	2 tʰessalanīkākarāṃs
 2Thess	2 थेस्सलनीकाकरांस
+2Thess	2 थेस्सल
 2Thess	2Thess
 2Tim	पौलाचे तीमथ्थाला दुसरे पत्र
 2Tim	timatʰtʰala dusre patra
@@ -250,6 +271,7 @@
 2Tim	2 tīmatʰtʰāla
 2Tim	2 tīmatʰtʰālā
 2Tim	2 तीमथ्थाला
+2Tim	2 तीमथ्य
 2Tim	2Tim
 3John	yohanacem tisre patra
 3John	yohanaceṃ tisre patra
@@ -340,6 +362,8 @@ Acts	prešitāṃcīṃ kr̥tyem
 Acts	prešitāṃcīṃ kr̥tyeṃ
 Acts	प्रेषितांची कृत्यें
 Acts	प्रेषितांचीं कृत्ये
+Acts	प्रेषितांची कृत्ये
+Acts	प्रेषित
 Acts	Acts
 Amos	Amos
 Amos	amos
@@ -353,6 +377,7 @@ Col	kalassaikarams patra
 Col	kalassaikaraṃs patra
 Col	kalassaikarāms patra
 Col	kalassaikarāṃs patra
+Col	कलस्सैकरांना पत्र
 Col	कलस्सैकरांस पत्र
 Col	kalassaikarams
 Col	kalassaikaraṃs
@@ -360,6 +385,7 @@ Col	kalassaikarāms
 Col	kalassaikarāṃs
 Col	कलस्सैकरांस
 Col	कलसैकरांस
+Col	कलस्सै
 Col	Col
 Dan	दानीएल्र
 Dan	daniel
@@ -367,15 +393,18 @@ Dan	danīel
 Dan	dāniel
 Dan	dānīel
 Dan	दानीएल
+Dan	दानी
 Dan	Dan
 Deut	anuwad
 Deut	anuwād
 Deut	अनुवाद
 Deut	Deut
+Deut	अनु
 Eccl	upadesak
 Eccl	upadeŝak
 Eccl	उपदेशक
 Eccl	Eccl
+Eccl	उप
 EpJer	EpJer
 Eph	पौलाचे इफिसकरांस पत्र
 Eph	ipʰiskarams patra
@@ -388,17 +417,20 @@ Eph	ipʰiskaraṃs
 Eph	ipʰiskarāms
 Eph	ipʰiskarāṃs
 Eph	इफिसकरांस
+Eph	इफिस
 Eph	Eph
 Esth	एस्तेर
 Esth	ester
 Esth	Esth
 Exod	nirgam
 Exod	निर्गम
+Exod	निर्ग
 Exod	Exod
 Ezek	yahedzkel
 Ezek	yaheǳkel
 Ezek	यहेज्केल
 Ezek	Ezek
+Ezek	यहे
 Ezra	edzra
 Ezra	edzrā
 Ezra	एज्रा
@@ -424,10 +456,13 @@ Gal	galatīkaraṃs
 Gal	galatīkarāms
 Gal	galatīkarāṃs
 Gal	गलतीकरांस
+Gal	गलती
 Gal	Gal
 Gen	उत्पत्ति
+Gen	उत्पत्ती
 Gen	utpatti
 Gen	उत्पति
+Gen	उत्प
 Gen	Gen
 GkEsth	GkEsth
 Hab	habakkuk
@@ -435,6 +470,7 @@ Hab	habakkūk
 Hab	हबक्कूक
 Hab	हबक्कू
 Hab	Hab
+Hab	हब
 Hag	haggay
 Hag	hāggay
 Hag	हाग्गय
@@ -537,6 +573,7 @@ Josh	yahoŝawa
 Josh	yahoŝawā
 Josh	यहोशवा
 Josh	Josh
+Josh	यहो
 Jude	yahudacem patra
 Jude	yahudaceṃ patra
 Jude	yahudācem patra
@@ -568,10 +605,12 @@ Lam	wilapgīt
 Lam	wilāpgit
 Lam	wilāpgīt
 Lam	विलापगीत
+Lam	विलाप
 Lam	Lam
 Lev	lewiy
 Lev	lewīy
 Lev	लेवीय
+Lev	लेवी
 Lev	Lev
 Luke	lukane lihilele subʰavartaman
 Luke	lukane lihilele subʰavartamān
@@ -656,12 +695,14 @@ Neh	nahemya
 Neh	nahemyā
 Neh	नहेम्या
 Neh	Neh
+Neh	नहे
 Num	ganana
 Num	gananā
 Num	gaṇana
 Num	gaṇanā
 Num	गणना
 Num	Num
+Num	गण
 Obad	obadʰa
 Obad	obadʰā
 Obad	ओबद्या
@@ -678,6 +719,7 @@ Phil	pʰilippaikaraṃs
 Phil	pʰilippaikarāms
 Phil	pʰilippaikarāṃs
 Phil	फिलिप्पैकरांस
+Phil	फिलिप्पै
 Phil	Phil
 Phlm	पौलाचे फिलेमोनाला पत्र
 Phlm	pʰilemonala patra
@@ -691,6 +733,7 @@ Phlm	pʰilemonāla
 Phlm	pʰilemonālā
 Phlm	फिलेमोनाला
 Phlm	फिलेमोना
+Phlm	फिलेमोन
 Phlm	Phlm
 PrAzar	PrAzar
 PrMan	PrMan
@@ -701,6 +744,7 @@ Prov	nitisūtre
 Prov	nītisutre
 Prov	nītisūtre
 Prov	Prov
+Prov	नीति
 Ps	स्त्रोत्रसंहिता
 Ps	stotrasamhita
 Ps	stotrasamhitā
@@ -847,6 +891,7 @@ Rev	prakaṭikaraṇ
 Rev	prakaṭīkaran
 Rev	prakaṭīkaraṇ
 Rev	प्रकटीकरण
+Rev	प्रकटी
 Rev	Rev
 Rom	पौलाचे रोमकरांस पत्र
 Rom	romkarams patra
@@ -861,6 +906,7 @@ Rom	romkarāṃs
 Rom	रोमकंरास
 Rom	रोमकरांस
 Rom	Rom
+Rom	रोम
 Ruth	Ruth
 Ruth	rutʰ
 Ruth	rūtʰ
@@ -871,6 +917,7 @@ Song	gitratna
 Song	gītratna
 Song	गीतरत्न
 Song	Song
+Song	गीत
 Sus	Sus
 Titus	पौलाचे तीताला पत्र
 Titus	titala patra
@@ -892,10 +939,12 @@ Titus	tītāla
 Titus	tītālā
 Titus	तीताला
 Titus	Titus
+Titus	तीत
 Tob	Tob
 Wis	Wis
 Zech	jakʰarya
 Zech	jakʰaryā
+Zech	जखर्‍या
 Zech	जखर्या
 Zech	जखऱ्या
 Zech	Zech

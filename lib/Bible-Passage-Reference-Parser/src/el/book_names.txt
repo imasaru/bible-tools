@@ -963,6 +963,7 @@ Eph	Προς Εφεσίους
 Eph	Προς Εφεσιους
 Eph	Εφεσίους
 Eph	Εφεσιους
+Eph	Εφεσ
 Eph	Eph
 Eph	᾿Εφ
 Eph	Εφ
@@ -973,6 +974,7 @@ Esth	Εσθ
 Exod	Έξοδος
 Exod	Εξοδος
 Exod	Exod
+Exod	Έξ
 Exod	Εξ
 Exod	Ἔξ
 Ezek	Ιεζεκιήλ
@@ -1052,6 +1054,7 @@ Jdt	Ιδθ
 Jer	Ιερεμίας
 Jer	Ιερεμιας
 Jer	Jer
+Jer	Ιερ
 Jer	Ιε
 Jer	Ἰε
 Job	Job
@@ -1128,6 +1131,8 @@ Luke	Κατα Λουκάν
 Luke	Κατα Λουκαν
 Luke	Λουκάς
 Luke	Λουκας
+Luke	Λουκά
+Luke	Λουκα
 Luke	Luke
 Luke	Λουκ
 Luke	Λκ
@@ -1163,6 +1168,7 @@ Mic	Μιχαΐας
 Mic	Μιχαίας
 Mic	Μιχαιας
 Mic	Mic
+Mic	Μιχ
 Mic	Μχ
 Nah	Ναουμ
 Nah	Ναούμ
@@ -1214,6 +1220,7 @@ Prov	Παροιμίες
 Prov	Παροιμιαι
 Prov	Παροιμιες
 Prov	Prov
+Prov	Παρ
 Prov	Πρμ
 Ps	Ψαλμοί του Δαυίδ
 Ps	Ψαλμοί του Δαυιδ
@@ -1223,6 +1230,7 @@ Ps	Ψαλμοί
 Ps	Ψαλμοι
 Ps	Ψαλμος
 Ps	Ψαλμός
+Ps	Ψαλμ
 Ps	Ps
 Ps	Ψα
 Rev	Αποκάλυψις Ιωάννου
@@ -1313,4 +1321,5 @@ Zech	Ζχ
 Zeph	Σοφονίας
 Zeph	Σοφονιας
 Zeph	Zeph
+Zeph	Σοφ
 Zeph	Σφν

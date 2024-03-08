@@ -1,0 +1,201 @@
+1Chr	1 Chronicles
+1Chr	1 Chro
+1Chr	1Chr
+1Cor	1 Korinth
+1Cor	1 Korin
+1Cor	1 Kor
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Johana
+1John	1 Joh
+1John	1John
+1Kgs	1 Lalte
+1Kgs	1 Lal
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Petera
+1Pet	1 Pet
+1Pet	1Pet
+1Sam	1 Samuela
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 Thessalonika
+1Thess	1 Thes
+1Thess	1Thess
+1Tim	1 Timothea
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2 Chronicles
+2Chr	2 Chro
+2Chr	2Chr
+2Cor	2 Korinth
+2Cor	2 Korin
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Johana
+2John	2 Joh
+2John	2John
+2Kgs	2 Lalte
+2Kgs	2 Lal
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Petera
+2Pet	2 Pet
+2Pet	2Pet
+2Sam	2 Samuela
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 Thessalonika
+2Thess	2 Thes
+2Thess	2Thess
+2Tim	2 Timothea
+2Tim	2 Tim
+2Tim	2Tim
+3John	3 Johana
+3John	3 Joh
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Tirhkohte
+Acts	Acts
+Acts	Tirh
+Amos	Amosa
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Kolossa
+Col	Kolosa
+Col	Col
+Col	Kol
+Dan	Daniela
+Dan	Dan
+Deut	Deuteronomi
+Deut	Deuteronomy
+Deut	Deut
+Eccl	Thuhriltu
+Eccl	Eccl
+Eccl	Thur
+EpJer	EpJer
+Eph	Ephesi
+Eph	Eph
+Esth	Estheri
+Esth	Esth
+Esth	Est
+Exod	Exodus
+Exod	Exod
+Exod	Ex
+Ezek	Ezekiela
+Ezek	Ezek
+Ezra	Ezra
+Ezra	Ezr
+Gal	Galatia
+Gal	Gal
+Gen	Genesis
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakuka
+Hab	Hab
+Hag	Hagaia
+Hag	Hag
+Heb	Hebrai
+Heb	Heb
+Hos	Hosea
+Hos	Hos
+Isa	Isaia
+Isa	Isa
+Isa	Is
+Jas	Jakoba
+Jas	Jak
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremia
+Jer	Jer
+Job	Joba
+Job	Job
+Joel	Joela
+Joel	Joel
+John	Johana
+John	John
+John	Joh
+Jonah	Jonah
+Jonah	Jona
+Jonah	Jon
+Josh	Josua
+Josh	Josh
+Josh	Jos
+Jude	Juda
+Jude	Jude
+Jude	Jud
+Judg	Roreltute
+Judg	Judg
+Judg	Ro
+Lam	Tah Hla
+Lam	Ṭah Hla
+Lam	Lam
+Lam	TH
+Lam	ṬH
+Lev	Leviticus
+Lev	Lev
+Luke	Luka
+Luke	Luke
+Luke	Lk
+Mal	Malakia
+Mal	Mal
+Mark	Marka
+Mark	Mark
+Mark	Mk
+Matt	Matthaia
+Matt	Matt
+Matt	Mt
+Mic	Mika
+Mic	Mic
+Mic	Mik
+Nah	Nahuma
+Nah	Nahum
+Nah	Nah
+Neh	Nehemia
+Neh	Neh
+Num	Numbers
+Num	Nambar
+Num	Num
+Obad	Obadia
+Obad	Obad
+Phil	Philippi
+Phil	Phil
+Phlm	Philemona
+Phlm	Philm
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Thufingte
+Prov	Prov
+Prov	Thuf
+Ps	Sam
+Ps	Sâm
+Ps	Ps
+Rev	Thu Puan
+Rev	Thup
+Rev	Rev
+Rom	Rome
+Rom	Rom
+Ruth	Ruthi
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	Hla Thlan Khawmte
+Song	Song
+Song	HKT
+Sus	Sus
+Titus	Titus
+Titus	Tita
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Zakaria
+Zech	Zech
+Zech	Zak
+Zeph	Zephania
+Zeph	Zeph
+Zeph	Zep

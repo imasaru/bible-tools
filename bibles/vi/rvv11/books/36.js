@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sô-phô-ni",
+	"numChapters": 4,
+	"chapters": {
+		"2": {
+			"1": "<sup>1</sup> Vào thời của Giô-si-a, con trai A-môn, vua Giu-đa, có lời Đức Giê-hô-va phán với Sô-phô-ni, con trai Cút-si, cháu của Ghê-đa-lia, chắt của A-ma-ria, chít của Ê-xê-chia.",
+			"2": "<sup>2</sup> Đức Giê-hô-va phán:\n“Ta sẽ quét sạch tất cả khỏi mặt đất.",
+			"3": "<sup>3</sup> Ta sẽ quét sạch loài người và loài vật,\nTa sẽ quét sạch chim trời và cá biển;\nTa sẽ khiến cho kẻ ác vấp ngã,\nVà tiêu diệt loài người khỏi mặt đất.”\nĐức Giê-hô-va phán vậy.",
+			"4": "<sup>4</sup> “Ta sẽ giơ tay ra chống lại Giu-đa\nVà tất cả cư dân Giê-ru-sa-lem;\nTa sẽ tận diệt khỏi nơi nầy phần sót lại của Ba-anh,\nVà tên của các tư tế tà thần cùng các thầy tế lễ.",
+			"5": "<sup>5</sup> Ta sẽ tận diệt những kẻ quỳ trên mái nhà\nMà thờ lạy các thiên binh,\nNhững kẻ thờ lạy và thề nguyện với Đức Giê-hô-va,\nRồi cũng thề nguyện bởi vua mình,",
+			"6": "<sup>6</sup> Cùng những kẻ xây bỏ không theo Đức Giê-hô-va,\nNhững kẻ không tìm kiếm Đức Giê-hô-va, và không cầu hỏi Ngài.",
+			"7": "<sup>7</sup> Hãy im lặng trước mặt Chúa Giê-hô-va!\nVì ngày của Đức Giê-hô-va đã đến gần;\nĐức Giê-hô-va đã chuẩn bị một sinh tế,\nĐã biệt riêng các khách Ngài đã mời.",
+			"8": "<sup>8</sup> Trong ngày dâng sinh tế của Đức Giê-hô-va,\nTa sẽ trừng phạt các thủ lĩnh, các hoàng tử\nVà tất cả những kẻ mặc y phục ngoại bang.",
+			"9": "<sup>9</sup> Cũng trong ngày ấy, Ta sẽ trừng phạt\nTất cả những kẻ nhảy qua ngưỡng cửa,\nVà những kẻ làm cho nhà của chủ mình\nĐầy dẫy sự bạo ngược và quỷ quyệt.”",
+			"10": "<sup>10</sup> Đức Giê-hô-va phán: “Trong ngày đó,\nSẽ có tiếng kêu la từ cổng Cá,\nTiếng thét gào ở quận Nhì,\nTiếng đổ vỡ lớn từ các đồi.",
+			"11": "<sup>11</sup> Hỡi cư dân Phố Dưới, hãy than khóc!\nVì mọi kẻ buôn bán đã không còn nữa,\nVà mọi kẻ cân bạc đã bị tiêu diệt.",
+			"12": "<sup>12</sup> Lúc ấy, Ta sẽ dùng đèn đuốc lục soát Giê-ru-sa-lem,\nVà sẽ trừng phạt những kẻ tự mãn như rượu đọng trên lớp cặn,\nLà những kẻ tự nhủ rằng:\n‘Đức Giê-hô-va sẽ không ban phước,\nCũng chẳng giáng họa.’",
+			"13": "<sup>13</sup> Tài sản của chúng sẽ bị cướp đoạt,\nNhà cửa sẽ bị bỏ hoang.\nChúng sẽ xây nhà mà không được ở,\nTrồng nho mà không được uống rượu.”",
+			"14": "<sup>14</sup> “Ngày trọng đại của Đức Giê-hô-va đang đến gần,\nĐến gần rồi, nó đến rất nhanh.\nCó tiếng kêu la cay đắng trong ngày của Đức Giê-hô-va,\nBấy giờ dũng sĩ cũng phải kêu khóc.",
+			"15": "<sup>15</sup> Ngày ấy là ngày thịnh nộ,\nNgày tai họa và khốn khổ,\nNgày hủy phá và hoang vu,\nNgày tối tăm và ảm đạm,\nNgày mây mù và âm u,",
+			"16": "<sup>16</sup> Ngày có tiếng tù và với tiếng la hét tấn công\nCác thành kiên cố và các tháp cao ở góc tường thành.",
+			"17": "<sup>17</sup> Ta sẽ đem sự khốn khổ đến cho loài người;\nHọ sẽ bước đi như người mù,\nVì đã phạm tội với Đức Giê-hô-va;\nMáu của họ sẽ đổ ra như bụi,\nVà ruột rữa nát như phân.",
+			"18": "<sup>18</sup> Cả đến bạc hoặc vàng của họ\nCũng không thể giải cứu họ\nTrong ngày thịnh nộ của Đức Giê-hô-va.\nNhưng toàn cõi đất sẽ bị lửa ghen Ngài thiêu nuốt,\nVì Ngài sẽ hủy diệt tất cả dân cư trên đất\nMột cách thật kinh hoàng!”"
+		},
+		"3": {
+			"1": "<sup>1</sup> Hỡi dân chẳng biết xấu hổ!\nHãy tập hợp lại, hãy tập hợp lại,",
+			"2": "<sup>2</sup> Trước khi chỉ thị được ban ra,\nNgày giờ trôi qua như trấu bay đi;\nTrước khi cơn nóng giận của Đức Giê-hô-va\nĐến trên các ngươi;\nTrước khi ngày thịnh nộ của Đức Giê-hô-va\nĐến trên các ngươi.",
+			"3": "<sup>3</sup> Hỡi tất cả những người nhu mì trên đất,\nLà người thi hành mệnh lệnh của Chúa,\nHãy tìm kiếm Đức Giê-hô-va,\nHãy tìm kiếm sự công chính, tìm kiếm sự nhu mì;\nCó lẽ anh em sẽ được che chở\nTrong ngày thịnh nộ của Đức Giê-hô-va.",
+			"4": "<sup>4</sup> Thật vậy, Ga-xa sẽ bị bỏ hoang,\nÁch-ca-lôn sẽ tiêu điều;\nNgười ta sẽ đuổi Ách-đốt ra đi giữa trưa,\nVà Éc-rôn sẽ bị nhổ đi.",
+			"5": "<sup>5</sup> Khốn cho cư dân miền duyên hải,\nTức là dân Cơ-rết!\nHỡi Ca-na-an là đất của người Phi-li-tin,\nLời Đức Giê-hô-va cũng nghịch cùng các ngươi:\n“Ta sẽ tiêu diệt ngươi\nCho đến khi không còn dân cư nữa.”",
+			"6": "<sup>6</sup> Miền duyên hải sẽ trở thành đồng cỏ,\nĐể những người chăn làm bãi thả chiên\nVà làm chuồng cho bầy chiên.",
+			"7": "<sup>7</sup> Miền ấy sẽ thuộc về phần sót lại của nhà Giu-đa;\nHọ sẽ chăn chiên tại đó.\nBuổi tối, họ sẽ nghỉ đêm\nTrong các nhà của Ách-ca-lôn;\nVì Giê-hô-va Đức Chúa Trời của họ sẽ thăm viếng họ,\nVà đem dân bị lưu đày của họ trở về.",
+			"8": "<sup>8</sup> “Ta đã nghe lời nhạo báng của Mô-áp,\nLời sỉ vả của dân Am-môn;\nChúng nhạo báng dân Ta,\nKhoe khoang về việc chúng xâm lấn lãnh thổ dân Ta.”",
+			"9": "<sup>9</sup> Vì vậy, Đức Giê-hô-va vạn quân,\nLà Đức Chúa Trời của Y-sơ-ra-ên phán rằng:\n“Thật như Ta hằng sống!\nMô-áp sẽ giống như Sô-đôm\nVà dân Am-môn sẽ giống như Gô-mô-rơ;\nChúng sẽ trở thành một nơi đầy gai góc,\nMột hầm muối, một chỗ hoang vu đời đời.\nNhững người sống sót của dân Ta sẽ cướp phá chúng,\nDân sót của Ta sẽ chiếm đất đai chúng làm sản nghiệp.”",
+			"10": "<sup>10</sup> Đó là điều chúng bị báo trả về sự kiêu ngạo của mình,\nVì chúng đã nhạo báng và khoe khoang\nChống lại dân của Đức Giê-hô-va vạn quân.",
+			"11": "<sup>11</sup> Đối với chúng, Đức Giê-hô-va thật đáng khiếp sợ,\nVì Ngài sẽ tiêu diệt tất cả các thần trên đất,\nVà ai nấy sẽ thờ lạy Ngài ngay tại chỗ mình,\nTất cả hải đảo của các nước cũng vậy.",
+			"12": "<sup>12</sup> “Còn các ngươi, hỡi dân Cút!\nCác ngươi sẽ bị giết bởi gươm Ta.”",
+			"13": "<sup>13</sup> Đức Giê-hô-va sẽ dang tay về phía bắc,\nNgài sẽ hủy diệt A-si-ri,\nVà làm cho Ni-ni-ve trở nên một nơi hoang vu,\nMột chỗ khô khan như sa mạc.",
+			"14": "<sup>14</sup> Các bầy thú vật sẽ nằm ở giữa thành;\nTất cả các loài thú khác,\nKể cả chim bồ nông và con nhím,\nCũng ở trên những đầu cột.\nTiếng chim hót vang qua cửa sổ,\nCảnh hoang tàn ở nơi ngưỡng cửa,\nVì mọi thứ bằng gỗ bá hương đã bị dỡ đi.",
+			"15": "<sup>15</sup> Thành nhộn nhịp nầy đã an nhiên tự đắc mà nói rằng:\n“Ta đây, ngoài ta không còn ai cả!”\nThế mà bây giờ nó đã trở nên hoang vu,\nLàm chỗ nằm nghỉ cho các loài thú!\nMọi người qua lại đều huýt sáo vẫy tay nhạo cười!"
+		},
+		"4": {
+			"1": "<sup>1</sup> Khốn cho thành phản loạn và ô uế,\nLà thành phố áp bức!",
+			"2": "<sup>2</sup> Nó chẳng chịu nghe lời,\nKhông chịu sửa dạy;\nChẳng tin cậy Đức Giê-hô-va,\nKhông đến gần Đức Chúa Trời mình.",
+			"3": "<sup>3</sup> Các thủ lĩnh trong thành\nNhư sư tử gầm thét;\nCác thẩm phán nó như muông sói ban đêm,\nChúng không để lại gì đến sáng.",
+			"4": "<sup>4</sup> Các kẻ tiên tri nó\nĐều ngạo mạn, dối trá;\nCác thầy tế lễ nó làm ô uế nơi thánh\nVà bẻ cong luật pháp.",
+			"5": "<sup>5</sup> Đức Giê-hô-va ngự giữa thành, là Đấng công chính,\nNgài chẳng hề làm điều ác.\nMỗi buổi sáng, Ngài thực thi công lý dưới ánh sáng,\nChẳng bao giờ thất bại;\nNhưng kẻ bất chính không biết xấu hổ.",
+			"6": "<sup>6</sup> “Ta đã tiêu diệt các dân tộc,\nKhiến các tháp canh ở góc tường thành đổ nát.\nTa làm cho đường phố nó ra hoang vắng,\nĐến nỗi không còn ai qua lại.\nCác thành của chúng đã bị tiêu diệt,\nKhông còn một người nào, và chẳng có ai cư ngụ.",
+			"7": "<sup>7</sup> Ta đã phán bảo: ‘Con chỉ nên kính sợ Ta,\nChấp nhận sự sửa dạy!’\nThì chỗ ở nó sẽ không bị phá hủy\nTheo mọi điều Ta đã định về nó.\nNhưng chúng lại dậy sớm\nĐể làm những việc đồi bại.”",
+			"8": "<sup>8</sup> Vì vậy, Đức Giê-hô-va phán: “Hãy chờ đợi Ta,\nCho đến ngày Ta sẽ đứng lên cáo buộc;\nVì Ta đã quyết định tập hợp các dân tộc\nVà quy tụ các vương quốc,\nĐể trút trên chúng cơn thịnh nộ,\nTức là tất cả cơn giận bừng bừng của Ta.\nVì toàn cõi đất sẽ bị thiêu nuốt\nBởi lửa ghen của Ta.",
+			"9": "<sup>9</sup> Bấy giờ, Ta sẽ biến đổi các dân,\nThanh tẩy môi miệng,\nĐể tất cả đều kêu cầu danh Đức Giê-hô-va,\nKề vai sát cánh phụng sự Ngài.",
+			"10": "<sup>10</sup> Từ bên kia sông ngòi xứ Cút,\nNhững người cầu khẩn Ta,\nTức là những kẻ đã bị Ta phân tán,\nSẽ đem lễ vật dâng cho Ta.",
+			"11": "<sup>11</sup> Vào ngày ấy, con sẽ không còn xấu hổ\nVề mọi việc mình đã làm để chống lại Ta;\nVì lúc ấy, Ta sẽ loại bỏ khỏi con\nNhững kẻ kiêu căng tự đắc;\nVà con sẽ không còn kiêu ngạo\nTrên núi thánh Ta nữa.",
+			"12": "<sup>12</sup> Ta sẽ để lại giữa con\nMột dân nghèo nàn và thấp hèn,\nHọ sẽ ẩn náu trong danh Đức Giê-hô-va.",
+			"13": "<sup>13</sup> Số dân sót lại của Y-sơ-ra-ên sẽ không làm ác,\nKhông nói dối, và miệng lưỡi không còn phỉnh gạt;\nVì họ sẽ ăn uống và nằm nghỉ,\nMà không ai làm cho họ kinh hãi.”",
+			"14": "<sup>14</sup> Hỡi con gái Si-ôn, hãy hát to lên!\nHỡi Y-sơ-ra-ên, hãy reo hò vang dậy!\nHỡi con gái Giê-ru-sa-lem,\nHãy nức lòng mừng rỡ!",
+			"15": "<sup>15</sup> Đức Giê-hô-va đã cất bỏ án phạt khỏi ngươi,\nNgài dẹp sạch kẻ thù ngươi.\nVua của Y-sơ-ra-ên là Đức Giê-hô-va ở giữa ngươi,\nNgươi sẽ không còn sợ tai ương nào nữa.",
+			"16": "<sup>16</sup> Vào ngày ấy, người ta sẽ nói với Giê-ru-sa-lem:\n“Hỡi Si-ôn, đừng sợ!\nĐừng để tay ngươi bủn rủn!",
+			"17": "<sup>17</sup> Giê-hô-va Đức Chúa Trời ngươi ngự giữa ngươi,\nNgài là Đấng quyền năng sẽ giải cứu ngươi;\nNgài sẽ vui mừng hoan hỉ vì ngươi,\nVì lòng yêu thương, Ngài sẽ nín lặng,\nVà vì ngươi, Ngài sẽ ca hát mừng rỡ.”",
+			"18": "<sup>18</sup> “Ta sẽ tập hợp những kẻ đang đau buồn,\nVì không dự được ngày lễ hội;\nHọ ra từ con, lấy sự xấu hổ làm gánh nặng.",
+			"19": "<sup>19</sup> Nầy, vào lúc ấy,\nTa sẽ đối phó với mọi kẻ áp bức con;\nTa sẽ cứu chữa người què,\nTập hợp kẻ bị xua đuổi.\nTa sẽ làm cho họ được khen ngợi và nổi danh\nTại khắp nơi họ đã bị sỉ nhục.",
+			"20": "<sup>20</sup> Khi ấy, Ta sẽ đem các con trở về,\nĐó là lúc Ta tập hợp các con lại;\nVì Ta sẽ làm cho các con nổi danh\nVà được khen ngợi giữa mọi dân trên đất,\nKhi Ta đem những kẻ bị lưu đày của các con trở về\nNgay trước mắt các con,”\nĐức Giê-hô-va phán vậy."
+		}
+	}
+};
+module.exports = book;

@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonija",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Beseda Gospodova, ki je prišla Sofoniju, sinu Kušija, sina Godolija, sina Amarija, sina Ezekija, v dneh Josija, sina Amonovega, judovskega kralja.",
+			"2": "<sup>2</sup> Vse bom pobral s površja zemlje, govori Gospod,",
+			"3": "<sup>3</sup> pobral bom ljudi in živali, pobral bom ptice neba in ribe morja, pohujšanja s hudobneži vred; da, iztrebil bom ljudi s površja zemlje, govori Gospod.",
+			"4": "<sup>4</sup> Stegnil bom roko zoper Juda in zoper vse jeruzalemske prebivalce, izbrisal bom ostanek Baala iz tega kraja, imena malikovalskih svečenikov z duhovniki vred,",
+			"5": "<sup>5</sup> in tiste, ki se na strehah klanjajo nebesni vojski; molilce, ki prisegajo Gospodu in prisegajo Molohu,",
+			"6": "<sup>6</sup> nje, ki odstopajo od Gospoda, ga ne iščejo in zanj ne vprašujejo.",
+			"7": "<sup>7</sup> Molčite pred obličjem Gospoda Boga, zakaj blizu je dan Gospodov! Da, Gospod je pripravil klavno daritev, posvetil je svoje povabljence.",
+			"8": "<sup>8</sup> Na ta Gospodov daritveni dan bom kaznoval prvake in kraljeve prince in vse, ki se oblačijo po tuje.",
+			"9": "<sup>9</sup> Kaznoval bom ta dan vse, ki čez prag skačejo, ki napolnjujejo hišo svojega gospodarja s silovitostjo in prevaro.",
+			"10": "<sup>10</sup> Tisti dan, govori Gospod, se bo slišalo vpitje od Ribjih vrat, kričanje iz novega mesta in velik hrup s hribov.",
+			"11": "<sup>11</sup> Tulite, prebivalci Možnarja, ker je uničeno vse kramarsko ljudstvo, uničeni vsi, ki so tehtali srebro.",
+			"12": "<sup>12</sup> V tistem času preiščem Jeruzalem s svetilkami in kaznujem vse ljudi, ki so otrpnili na svojih drožeh in govore, da »Bog ne stori nič dobrega in nič hudega«.",
+			"13": "<sup>13</sup> Njihovo imetje bo dano v plen, njihove hiše v razdejanje; če so zidali hiše, ne bodo prebivali v njih, če so sadili trte, ne bodo od njih pili vina.",
+			"14": "<sup>14</sup> Blizu je veliki Gospodov dan, blizu je in naglo prihaja. Turoben je glas Gospodovega dneva, celo junak ob njem vpije.",
+			"15": "<sup>15</sup> Ta dan je dan srda, dan stiske in tesnobe, dan razdejanja in razvalin, dan temine in mraka, dan oblaka in temote;",
+			"16": "<sup>16</sup> dan trombe in bojnega vpitja zoper trdna mesta in zoper visoke utrdbe.",
+			"17": "<sup>17</sup> Spravil bom ljudi v stisko, da bodo tavali kakor slepci, ker so grešili zoper Gospoda; njihova kri bo razmetana ko prah, njihova trupla ko blato.",
+			"18": "<sup>18</sup> Ne srebro ne zlato jih ne reši ob dnevu Gospodove jeze. V ognju njegovega srda bo použita vsa zemlja, zakaj napravil bo nagel konec vsem prebivalcem zemlje."
+		},
+		"2": {
+			"1": "<sup>1</sup> Spametujte se! Ukloni se, o trmasto ljudstvo,",
+			"2": "<sup>2</sup> preden se rodi sklep, da postanete kakor pleve, ki odlete, preden vas zaloti dan Gospodove jeze.",
+			"3": "<sup>3</sup> Iščite Gospoda, vsi ponižni v deželi, ki vršite njegovo pravico! Iščite pravičnost, iščite ponižnost, morebiti se skrijete ob dnevu Gospodove jeze.",
+			"4": "<sup>4</sup> Da, Gaza bo razdejana, Askalon bo puščava, Asdod bodo ob belem dnevu izgnali in Akaron bo izkoreninjen.",
+			"5": "<sup>5</sup> Gorje vam, prebivalci ob morju, ljudstvo Krečanov! O Kanaan, dežela Filistejcev: Zoper tebe govori beseda Gospodova: »Spremenim te v razvalino, da boš brez prebivalca.«",
+			"6": "<sup>6</sup> Tedaj postane pokrajina ob morju pastirski pašnik in ovčja ograja;",
+			"7": "<sup>7</sup> pokrajino ob morju dobi ostanek hiše Judove; tam bodo pasli, v askalonskih hišah bodo zvečer počivali. Zakaj Gospod, njih Bog, jih obišče in dovrši njihovo obnovo.",
+			"8": "<sup>8</sup> Slišal sem zasmehovanje Moaba in sramotenje Amonovih sinov, s čimer so žalili moje ljudstvo in se košatili zoper njegovo deželo.",
+			"9": "<sup>9</sup> Zavoljo tega, kakor resnično živim, govori Gospod nad vojskami, Bog Izraelov: »Moab bo kakor Sodoma, Amonovi sinovi kakor Gomora: goščava trnja, solna jama in večna puščava! Ostanek mojega ljudstva jo opleni, ostanek mojega ljudstva jo dobi v dediščino!«",
+			"10": "<sup>10</sup> To jim bo cena za njihovo prevzetnost, ker so sramotili in se širokoustili zoper ljudstvo Gospoda nad vojskami.",
+			"11": "<sup>11</sup> Gospod jim bo strašen. Pokončal bo vse bogove na zemlji; njega bodo molili, vsak v svojem kraju, narodi vseh otokov.",
+			"12": "<sup>12</sup> »Tudi vi, Etiopci, boste zadeti z mojim mečem.«",
+			"13": "<sup>13</sup> Stegnil bo svojo roko proti severu, uničil bo Asur in spremenil bo Ninive v pustinjo, v suho puščavo.",
+			"14": "<sup>14</sup> Črede bodo tam taborile in vsakovrstne živali; pelikan in bobnarica bosta prenočevala na glavičih ninivskih stebrov; sova bo skovikala v oknu. Na pragih bo razdejanje, ker je odpadel cedrov deščeni oboj.",
+			"15": "<sup>15</sup> To je torej zmagoslavno mesto, ki se je varno čutilo in govorilo: »Jaz in nihče drug!« Kako se je spremenilo v puščavo, v živalski brlog! Vsak, ki gre mimo, samo požvižga in mahne z roko."
+		},
+		"3": {
+			"1": "<sup>1</sup> Gorje, uporno, nečisto, nasilno mesto!",
+			"2": "<sup>2</sup> Ne posluša Gospodovega opomina, ne sprejme nobenega nauka. V Gospoda nima zaupanja, svojemu Bogu se ne približa.",
+			"3": "<sup>3</sup> Veljaki v njem so rjoveči levi, njegovi sodniki so volkovi v stepi, ki še kosti ne puste do jutra.",
+			"4": "<sup>4</sup> Njegovi preroki so domišljavci, izdajalski možje, njegovi duhovniki skrunijo svetišče, delajo silo postavi.",
+			"5": "<sup>5</sup> Gospod pa stoji v njihovi sredi, pravični, ki ne dela krivice; jutro za jutrom daje svoj nauk, kakor luč, ki ne premine. Hudobnež pa ne pozna sramu.",
+			"6": "<sup>6</sup> Pokosil sem narode, podrte so njih utrdbe, opustošil sem njihove ceste, nihče ne hodi po njih; njihova mesta so razdejana, nikogar ni, da bi v njih prebival.",
+			"7": "<sup>7</sup> Mislil sem: Morebiti se me bo zbal in bo sprejel moj nauk, morebiti ne bo izgubil z vida tolikih kazni, s katerimi sem jih kaznoval. Toda hitro so obrnili na slabo vsa svoja dejanja.",
+			"8": "<sup>8</sup> Zatorej, počakajte me, govori Gospod, do dneva, ko vstanem kot tožnik. Sklenil sem zbrati ljudstva, zbrati kraljestva, da izlijem nanje svoj srd, vso svojo jezo. Da, v ognju moje vneme bo uničena vsa dežela.",
+			"9": "<sup>9</sup> Tedaj bom dal ljudstvu spet čiste ustnice, da bodo vsi klicali moje ime in mi služili v skupni vnemi.",
+			"10": "<sup>10</sup> Z onstran bregov etiopskih rek mi prineso moji častilci darila.",
+			"11": "<sup>11</sup> Tisti dan se ti ne bo treba več sramovati dejanj, s katerimi si me žalil; takrat bom odpravil iz tvoje sredine vse tvoje predrzne bahače in se ne boš več povzdigoval na moji sveti gori.",
+			"12": "<sup>12</sup> Namesto tega pustim v tvoji sredi ponižno in skromno ljudstvo:",
+			"13": "<sup>13</sup> ti, ostanek Izraelov, bodo iskali zavetje v Gospodovem imenu; ne bodo krivice delali, ne bodo lažnivo govorili, v njih ustih ne bo zvijačnega jezika. Zares, pasli in počivali bodo, ne da bi jih kdo vznemirjal.",
+			"14": "<sup>14</sup> Vriskaj, o sionska hči! Ukaj, o Izrael! Veseli se, raduj se iz vsega srca, o jeruzalemska hči!",
+			"15": "<sup>15</sup> Gospod te je rešil obsodbe, odstranil je tvoje sovražnike. Gospod je Izraelov kralj v tvoji sredi, ne boš se več bala hudega.",
+			"16": "<sup>16</sup> Tisti dan poreko Jeruzalemu: »Sion, ne boj se! Naj ti roke ne omahnejo!",
+			"17": "<sup>17</sup> Gospod, tvoj Bog, je pri tebi, mogočni rešitelj! On se veseli nad teboj v obnovljeni ljubezni; vriskajoč se raduje nad teboj, kakor ob prazniku.«",
+			"18": "<sup>18</sup> Odvzel sem ti mučno nadlogo, da ne boš več prenašal sramote.",
+			"19": "<sup>19</sup> Glej, v tem času obračunam z vsemi, ki so te stiskali; rešil bom hrome, zbral bom izgnance. Hvalo in slavo jim pridobim v vseh deželah, kjer so jih prej zaničevali.",
+			"20": "<sup>20</sup> V tem času vas privedem, vas zberem, vam pridobim hvalo in sloveče ime med vsemi narodi na zemlji, ko dopolnim vašo obnovo pred vami, govori Gospod."
+		}
+	}
+};
+module.exports = book;

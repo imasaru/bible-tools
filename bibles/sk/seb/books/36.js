@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofoniáš",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Slovo Hospodina, ktoré zaznelo k Sofoniášovi, synovi Kúšiho, syna Gedalju, syna Amarju, syna Chizkiju, za dní judského kráľa Joziáša, Amónovho syna.",
+			"2": "<sup>2</sup> „Dočista odstránim zo zemského povrchu všetko,“ znie výrok Hospodina.",
+			"3": "<sup>3</sup> „Zmetiem ľudí i zvieratá, zmetiem nebeské vtáctvo i morské ryby, pohoršenie s bezbožnými. Vyhladím aj človeka na zemi,“ znie výrok Hospodina.",
+			"4": "<sup>4</sup> „Svoju ruku vystriem proti Judsku i proti všetkým obyvateľom Jeruzalema. Vyhladím z tohto miesta pozostatky po Baalovi a meno modlárskych kňazov;",
+			"5": "<sup>5</sup> aj tých, čo sa na strechách klaňajú nebeskému zástupu, tých, čo sa pred Hospodinom klaňajú a prisahajú, ale sa zaprisahávajú aj na Milkóma;",
+			"6": "<sup>6</sup> tých, čo sa odklonili od Hospodina, čo nehľadajú Hospodina ani sa k nemu neobracajú.“",
+			"7": "<sup>7</sup> Ticho pred Pánom, Hospodinom, lebo deň Hospodina je blízko! Hospodin už pripravil obetu, posvätil tých, čo pozval.",
+			"8": "<sup>8</sup> „V deň Hospodinovej obety potrestám kniežatá a kráľovských synov a všetkých, čo si obliekajú cudzokrajné rúcho.",
+			"9": "<sup>9</sup> V ten deň potrestám všetkých, čo preskakujú prah, tých, čo napĺňajú dom svojich pánov násilím a ľsťou.",
+			"10": "<sup>10</sup> V ten deň,“ znie výrok Hospodina, „ozve sa ston od Rybnej brány, z druhej strany kvílenie a silný lomoz od pahorkov.",
+			"11": "<sup>11</sup> Kvíľte, obyvatelia dolného mesta, lebo všetok ľud kupcov bude umlčaný, všetci, čo vážia striebro, budú vyhladení.",
+			"12": "<sup>12</sup> V tom čase prehľadám s lampami Jeruzalem a potrestám mužov, usadených vo svojej bezstarostnosti, tých, čo si v srdci hovoria: ‚Hospodin neurobí ani dobré, ani zlé.‘",
+			"13": "<sup>13</sup> Ich bohatstvo sa stane korisťou a ich domy spustnú. Vybudujú si domy, ale nezabývajú sa, a hoci si vysadia vinice, víno z nich piť nebudú.“",
+			"14": "<sup>14</sup> Blízko je ten veľký Hospodinov deň, veľmi rýchlo sa blíži. V deň Hospodina bude počuť zúfalý hlas, kričať tam bude bojovník.",
+			"15": "<sup>15</sup> Ten deň bude dňom hnevu, súženia a tiesne, dňom spúšte a skazy, dňom tmy a temna, dňom oblakov a mrákavy,",
+			"16": "<sup>16</sup> dňom trúbenia a bojového pokriku proti opevneným mestám a proti vyvýšeným cimburiam.",
+			"17": "<sup>17</sup> Na ľudí zošlem súženie a budú tápať ako slepí, lebo zhrešili proti Hospodinovi; ich krv bude rozliata ako prach a ich vnútornosti budú ako výkaly.",
+			"18": "<sup>18</sup> Ani ich striebro, ani ich zlato ich nebude môcť zachrániť v deň Hospodinovho hnevu. Jeho ohnivá žiarlivosť strávi celú zem; rýchly a úplný koniec iste spôsobí všetkým obyvateľom na zemi."
+		},
+		"2": {
+			"1": "<sup>1</sup> Zhromaždite sa a spamätajte, vy, národ bez hanby,",
+			"2": "<sup>2</sup> skôr než sa naplní výnos a deň preletí ako pleva, predtým, než na vás dôjde páľava Hospodinovho hnevu, prv, ako vás zastihne deň Hospodinovho hnevu.",
+			"3": "<sup>3</sup> Hľadajte Hospodina, všetci pokorní zeme, vy, čo konáte podľa jeho práva. Hľadajte spravodlivosť, hľadajte pokoru, azda sa skryjete v deň Hospodinovho hnevu.",
+			"4": "<sup>4</sup> Gaza bude opustená a spustne aj Aškalón. Ašdód na pravé poludnie vyľudnia a vykorenený bude aj Ekrón.",
+			"5": "<sup>5</sup> Beda obyvateľom pobrežného pásma, národu Kereťanov: „Slovo Hospodina je proti vám, Kanaán, krajina Filištíncov; tak ťa zničím, že budeš bez obyvateľov.“",
+			"6": "<sup>6</sup> Pobrežné pásmo sa stane miestom pasienkov, kolíb pre pastierov a košiarov pre ovce.",
+			"7": "<sup>7</sup> Pobrežie pripadne zvyšku Júdovho domu. Tam sa budú pásť a večer sa budú ukladať v aškalónskych domoch, lebo ich navštívi Hospodin, ich Boh, a zmení ich údel.",
+			"8": "<sup>8</sup> „Počul som, ako Moáb urážal a Ammónčania hanobili, ako potupovali môj ľud a vypínali sa aj za hranicami.",
+			"9": "<sup>9</sup> Preto ako žijem,“ znie výrok Hospodina zástupov, Boha Izraela, „Moáb bude ako Sodoma a Ammónčania ako Gomora, miestom buriny, soľnou jamou a pustatinou naveky. Zvyšok môjho ľudu ich vyplieni a ostatok môjho národa ich získa do vlastníctva.“",
+			"10": "<sup>10</sup> To majú za svoju pýchu, že potupovali ľud Hospodina zástupov a vypínali sa nad ním.",
+			"11": "<sup>11</sup> Hospodin bude neúprosný voči nim, zvrhne všetkých bohov na zemi. Bude sa mu klaňať každý na svojom mieste, aj všetky ostrovy národov.",
+			"12": "<sup>12</sup> „Vy, Kúšijci, budete tiež prebodnutí mojím mečom.“",
+			"13": "<sup>13</sup> Vystrie svoju ruku proti severu a zničí Asýriu; Ninive spustne, zmení ho na vyprahnutú púšť.",
+			"14": "<sup>14</sup> Uprostred nej si budú líhať stáda aj všetka divá zver, aj pelikán i sova sa uložia medzi jeho stĺpy. Ich vreskot bude sa ozývať v oknách. Na prahu sú trosky, cédrový obklad je strhnutý.",
+			"15": "<sup>15</sup> Toto je to jasavé mesto, ktoré si žilo v bezpečí a hovorilo si: „Ja som a nik iný!?“ Akou hrôzou sa stalo, zvieracím brlohom! Každý, kto prejde okolo, zahvízda a kývne rukou."
+		},
+		"3": {
+			"1": "<sup>1</sup> Beda spurnému, poškvrnenému a násilníckemu mestu!",
+			"2": "<sup>2</sup> Nepočúva hlas, napomenutie neprijíma, Hospodinovi nedôveruje, k svojmu Bohu sa nechce priblížiť.",
+			"3": "<sup>3</sup> Jeho kniežatá uprostred neho sú revúcimi levmi, jeho sudcovia sú vlci za večera, čo nenechajú nič do rána.",
+			"4": "<sup>4</sup> Jeho proroci sú namyslení podvodníci, jeho kňazi znesväcujú, čo je sväté, porušujú zákon.",
+			"5": "<sup>5</sup> Spravodlivý Hospodin je uprostred neho, krivdu nerobí, ráno čo ráno vynáša na svetlo svoj súd bez prestania, ten však, čo pácha bezprávie, hanbu nepozná.",
+			"6": "<sup>6</sup> „Vyhladil som národy, ich cimburia spustli. Zničil som ich ulice, nikto nimi neprechádza, ich mestá sú vyplienené, vyľudnené, bez obyvateľov.",
+			"7": "<sup>7</sup> Povedal som: ‚Maj bázeň predo mnou, prijmi napomenutie!‘ Nech jeho príbytok nezanikne pre nič z toho, čím ho potrestám. Ony však už za skorého rána všetko pokazili svojimi skutkami.",
+			"8": "<sup>8</sup> Preto čakajte na mňa,“ znie výrok Hospodina, „na deň, keď povstanem kvôli svedectvu. Veď to je môj rozsudok: pozbierať národy, zhromaždiť kráľovstvá, vyliať na nich svoju zlosť, celú páľavu svojho hnevu. Moja ohnivá žiarlivosť strávi celú zem.",
+			"9": "<sup>9</sup> Vtedy dám národom čisté pery, aby všetci vzývali Hospodinovo meno a svorne mu slúžili.",
+			"10": "<sup>10</sup> Z druhej strany kúšskych riek mi moji vyznavači, moja rozptýlená dcéra prinesie dar.",
+			"11": "<sup>11</sup> V ten deň sa nebudeš hanbiť za žiadne skutky, ktorými si sa mi spreneverila. Odstránim totiž z tvojho stredu pyšných, čo jasajú, nebudeš sa už vyvyšovať na mojom svätom vrchu.",
+			"12": "<sup>12</sup> Ponechám uprostred teba úbohý a biedny ľud, bude hľadať útočisko v Hospodinovom mene.",
+			"13": "<sup>13</sup> Zvyšok Izraela sa nebude dopúšťať neprávosti ani hovoriť lož; v ich ústach nebude ľsti. Budú sa pásť a odpočívať, a nik ich nevyplaší.“",
+			"14": "<sup>14</sup> Plesaj, dcéra Siona, výskaj, Izrael! Raduj sa a jasaj celým srdcom, dcéra Jeruzalema!",
+			"15": "<sup>15</sup> Hospodin odvrátil rozsudok nad tebou, vyhnal tvojich nepriateľov. Kráľ Izraela, Hospodin, je uprostred teba, neboj sa viac zlého.",
+			"16": "<sup>16</sup> V ten deň povedia Jeruzalemu: „Neboj sa, Sion, nech neochabnú tvoje ruky!",
+			"17": "<sup>17</sup> V tvojom strede je Hospodin, tvoj Boh, hrdina, čo zachraňuje, radostne nad tebou jasá, svojou láskou ťa tíši, zvučne nad tebou plesá.“",
+			"18": "<sup>18</sup> „Pozbieram strápených, čo nemajú sviatky, veď sú z teba; jarmo a potupa je na nich.",
+			"19": "<sup>19</sup> Hľa, v tom čase sa porátam so všetkými, čo ťa utláčali, zachránim chromých a rozptýlených zhromaždím, ich hanbu zmením na chválu a dobré meno po celej zemi.",
+			"20": "<sup>20</sup> V ten čas vás privediem, vtedy vás zhromaždím, dám vám meno a chválu medzi všetkými ľuďmi na zemi a váš údel zmením pred vašimi zrakmi,“ hovorí Hospodin."
+		}
+	}
+};
+module.exports = book;

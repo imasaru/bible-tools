@@ -1,0 +1,68 @@
+var book = {
+	"name": "Panurirang Maleaki",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> I. On ma hata lumbalumba ni Jahowa tu Israel marhite sian pamangan ni si Maleaki.",
+			"2": "<sup>2</sup> Nunga huhaholongi hamu, ninna Jahowa. Alai didok hamu do: Marhitehite aha hami dihaholongi ho? Nda si Esau do nian haha ni si Jakkob? Ninna Jahowa, * hape si Jakkob do hubahen hasudungan ni rohangku.",
+			"3": "<sup>3</sup> Alai anggo si Esau nunga huhagigihon, jala hubahen * angka dolokna gabe halongonan, jala partalianna nunga hupasahat + tu antuasu angka na di parhorsihan.",
+			"4": "<sup>4</sup> Tung sura dohonon ni Edom: Nunga nian tartaban hami, alai marhobas ma hami mangulahi paulihon angka turanggong! Songon on do hata ni Jahowa Zebaot: Nasida paulihon, ahu muse mangaloha; gabe goaran ni halak nasida luat ni hajahaton, jala bangso panginonaan ni rimas ni Jahowa salelenglelengna.",
+			"5": "<sup>5</sup> Ingkon sanga idaon ni matamuna ma i, gabe dohononmuna ma: Timbul do Jahowa sogot salpu sian parbalohan ni Israel. II.",
+			"6": "<sup>6</sup> * Ingkon pasangapon ni anak amana, jala anak somang tuanna. Molo ama ahu didia do hasangaponku? Molo tuan ahu, didia do biar mida ahu? Songon on do hata ni Jahowa Zebaot tu hamu malim angka na palea goarhu; hape lam didok hamu do: Marhitehite aha hupalea hami goarmi?",
+			"7": "<sup>7</sup> Diboan hamu do tu atas ni langgatanku sagusagu na ramun; hape lam didok hamu do: Marhitehite aha marlea ho hubahen hami? Ala na nidokmuna i: * Meja ni Jahowa, nunga tung lea ibana!",
+			"8": "<sup>8</sup> Molo diboan hamu * na mapitung bahen pelean, ndang pola na roa i nimmu! Manang ia diboan hamu na pangpang dohot na marsahit, ndang pola na roa i! Ua tung boan hamu ma i tu jolo ni indukmu, tung tagamon ma halomohononna ho, manang tung tagamon sorta ma pamerengna mida ho? Ninna Jahowa Zebaot.",
+			"9": "<sup>9</sup> Nuaeng pe, ua marsomba ma hamu tu bohi ni Debata, asa asi rohana di hita! I ma na masa sian tanganmuna; tung tarbahen ma lomo rohana marnida hamu? Ninna Jahowa Zebaot.",
+			"10": "<sup>10</sup> Tung ise ma sian hamu tagamon, na hum mangkinsu angka pintu ni joro i? Asa unang magopo nian panutungna di pelean di atas langgatanki. * Ndang lomo rohangku mida hamu, ninna Jahowa Zebaot, jala ndang huhalomohon pelean sipanganon sian tanganmuna.",
+			"11": "<sup>11</sup> Ai sian habinsaran sahat ro di hasundutan timbul do goarhu di tongatonga ni angka bangso parbegu, jala di saluhut inganan, ingkon boanon daupa di goarhu dohot pelean sipanganon na pita. Ai timbul do goarhu di tongatonga ni angka bangso parbegu, ninna Jahowa Zebaot.",
+			"12": "<sup>12</sup> Alai anggo hamu nunga marlea goarhu dibahen hamu, ala na nidokmuna i: Meja ni Jahowa, nunga tung marlea ibana ro di pelean di atasna nang panganonna.",
+			"13": "<sup>13</sup> Angkupni didok hamu do: Ida ma, dangolnai jala diombus hamu do i, ninna Jahowa Zebaot jala dipelehon hamu do na nidobo dohot na pangpang dohot na marsahit, jala diboan hamu do bahen pelean sipanganon: Tung tarhalomohon ahu ma i manjalo sian tanganmuna? ninna Jahowa.",
+			"14": "<sup>14</sup> Marjea ma halak pangansi, adong do nian * tunggal di punguanna, bahen pelean, gabe marbagabaga ibana, hape na martihas do dipelehon tu Tuhan i. Ai raja na bolon do ahu, ninna Jahowa Zebaot, goarhu pe na songkal do di tongatonga ni angka bangso parbegu."
+		},
+		"2": {
+			"1": "<sup>1</sup> I. Nuaeng pe hamu ale angka malim, tu hamu do tona on!",
+			"2": "<sup>2</sup> Molo so ditangihon hamu, jala molo so olo hamu marateatehon hata i mangalehon hamuliaon di goarhu, ninna Jahowa Zebaot, tongosonku ma * bura tu tongatongamuna, jala toruanku ma pasupasu na tu hamu, nunga tahe hutorui, ala soadong sian hamu na olo marateatehon hata i.",
+			"3": "<sup>3</sup> Ida ma, ala hamu ahu mangago na sinaburhonmuna, jala ahu manirihon napa tu bohimuna, napa ni ari rayamuna, laos tarboan dohot hamu tu atasna.",
+			"4": "<sup>4</sup> Jadi botoonmuna ma, ahu do tongon manongos tona on tu hamu bahen padan naung hubahen tu halak Lepi, ninna Jahowa Zebaot.",
+			"5": "<sup>5</sup> Padan na hubahen i tu ibana, padan hangoluan dohot hasonangan do nian. * Hulehon pe angka i tu ibana bahen biar nian, asa dihabiari ahu jala manonditnondit ibana maradophon goarhu.",
+			"6": "<sup>6</sup> Patik hasintongan do nian di bagasan pamanganna, jala hageduhon, ndang adong jumpang di bibirna; di bagasan hadameon dohot hapitaon ibana marpangalaho rap dohot ahu, jala torop halak mulak sian hajahaton dibahen ibana.",
+			"7": "<sup>7</sup> Ai anggo * angka bibir ni malim, ingkon ramotanna parbinotoan, jala sian pamanganna usousoan patik, ai + suruan ni Jahowa Zebaot do ibana.",
+			"8": "<sup>8</sup> Alai anggo hamu nunga manimbil sian dalan i, gabe lan halak targasip dibahen hamu mangalaosi patik; nunga diose hamu padan tu halak Lepi, ninna Jahowa Zebaot.",
+			"9": "<sup>9</sup> Ahu pe antong, bahenonku do hamu marlea jala tarjepol maradophon sandok bangso i, hombar tu naung binahenmuna, na so niradotanmuna angka dalanku, gabe marnida bohi hamu mangaradoti patik i. II.",
+			"10": "<sup>10</sup> Nda * sada do ama ni hita on luhut? Nda + sada do Debata na tumompa hita? Boasa ma tung masiosean hita ganup tu donganna laho paleahon padan na tu ompunta i?",
+			"11": "<sup>11</sup> Halak Juda nunga mangose, jala nunga diulahon halak Israel biasbias nang di Jerusalem; ai nunga diramuni halak Juda bagas habadiaon na hinaholongan ni Jahowa, jala nunga martuan laen nasida tu * boru ni halak pardebata sileban.",
+			"12": "<sup>12</sup> Ingkon siap sogot bahenon ni Jahowa bao na mangulahon sisongon i, sian undungundung ni Jakkob, nang pangaririt nang pangolopi ro di na mamboan pelean sipanganon tu Jahowa Zebaot.",
+			"13": "<sup>13</sup> Pambahenanmuna angkupni on do: Dihungkupi hamu do langgatan ni Jahowa dohot iluilu, partangison dohot hoihoi, alani ndang adong be rohana manailihon * pelean sipanganon, manang marlomo ni roha manjangkon manang aha sian tanganmuna.",
+			"14": "<sup>14</sup> Lam didok hamu dope: Ala ni aha do? Ala Jahowa do sitindangi di holangkolangmi dohot jolmam di haposoonmu, naung tinoisanmi, atik pe nasida tuan laenmu jala jolma ni parjanjianmu.",
+			"15": "<sup>15</sup> Jala ndang anggo ibana * na sasada i mambahen songon i, laos tading dope di ibana pasipasi ni tondi. Alai aha do diulahon na sasada i? + Na mangalului pinompar sian Debata do ibana. Dibahen i jaga hamu ma tondimuna, unang tung ditoisi manang ise jolma ni haposoonna.",
+			"16": "<sup>16</sup> Ai huhagigihon do * parsirangan, ninna Jahowa Debata ni Israel, nang halak na manghungkupi pangarupaon marhite sian ulosna, ninna Jahowa Zebaot. Dibahen i jaga hamu ma tondimuna, unang datdati hamu mangose!",
+			"17": "<sup>17</sup> Tung na loja do Jahowa dibahen hamu marhitehite * pangkataionmuna! Hape lam didok hamu dope: Marhitehite aha hulojai hami ibana? Marhitehite na nidokmuna i: Nasa siulahon hajahaton, denggan do roha ni Jahowa marnidasa, jala marlomo ni roha ibana mida nasida. Manang tung didia ma Debata na mandabu uhum?"
+		},
+		"3": {
+			"1": "<sup>1</sup> I. Ida ma, * suruanku ma suruanku, asa dipadiri dalan di jolongku. Dung i tompu ma ro tumopot jorona Tuhan, na niluluanmuna dohot suruan ni parpadanan na hinalungunhonmuna. Ida ma, na ro ma ibana, ninna Jahowa Zebaot.",
+			"2": "<sup>2</sup> Alai tung ise ma manahan di ari harorona i? Jala tung ise ma manahan jongjong, molo dipataridahon ibana dirina? * Ai songon api na panopa do ibana, jala songon + sabun ni panunsi.",
+			"3": "<sup>3</sup> Jadi hundul ma ibana hira sipangalala dohot sipapita perak, asa papitaonna * halak Lepi, jala lalaonna nasida laho papitahon songon sere dohot songon perak, asa gabe siboan + pelean sipanganon nasida tu Jahowa di bagasan hatigoran.",
+			"4": "<sup>4</sup> Jadi tarbahen Jahowa ma mangkalomohon pelean sipanganon binahen ni Juda dohot Jerusalem, songon uju di angka taon mulamula. II.",
+			"5": "<sup>5</sup> Jadi jumonok ma ahu tu hamu laho manguhum, gabe sitindangi na doras dompak halak parsibalik mata dohot dompak halak pangalangkup dohot dompak halak sitolon na tutu dohot dompak * halak pangarupa umpogo upa ni halak sipangan gaji dohot dompak halak na paeleng uhum tu na mabalu dohot na tading di lampin ro di halak na buro, ia ahu ndang dihabiari, ninna Jahowa Zebaot.",
+			"6": "<sup>6</sup> Ai * ndang mubauba anggo ahu Jahowa, hamu pe ale angka anak ni si Jakkob, ndang tagamon sun siap hamu.",
+			"7": "<sup>7</sup> Olat ni ariari ni ompumuna, sai manimbil do hamu sian angka patikku, jala ndang diradoti hamu; * mulak ma hamu tu ahu, asa mulak ahu tu hamu, ninna Jahowa Zebaot. Hape didok hamu do: Taringot tu aha hami mulak?",
+			"8": "<sup>8</sup> Tung tarpaotooto jolma ma Debata, umbahen naeng paotootoonmuna ahu? Hape didok hamu dope taringot tu aha hupaotooto hami ho? Taringot tu * pangalehon di saparsampulu dohot di pelean santisanti.",
+			"9": "<sup>9</sup> Tung di bagasan * panginonaan ni bura do hamu ala dipaotooto hamu ahu, tung sandok bangso i do.",
+			"10": "<sup>10</sup> Taruhon hamu ma sintong parsampuluan i tu * bagas parpeopan, asa adong bohal di bagasan jabungku, jala unjuni hamu ahu taringot tusi, ninna Jahowa Zebaot, manang so ungkaponku di hamu angka + pandiloan ni langit, jala mangusehon tu hamu gabe maradu marlobilobi.",
+			"11": "<sup>11</sup> Jadi manorui ma ahu tu sihapor panggagat manatap hamu, asa unang be diago parbue ni tano i di hamu, jala unang mago partaonan ni hau anggur di ladang manatap hamu ninna Jahowa Zebaot.",
+			"12": "<sup>12</sup> Jadi parhatuaon ni saluhut bangso parbegu ma hamu, ai gabe * tano hasudungan do hamu, ninna Jahowa Zebaot. III.",
+			"13": "<sup>13</sup> Dipabalga hamu do hatahatamuna dompak ahu ninna Jahowa. Hape lam didok hamu dope: Tung aha ma hatahatanami dompak ho?",
+			"14": "<sup>14</sup> Didok hamu do: Ndang adong labana oloan Debata, tung aha ma parlabaannami ala huradoti hami tonana, jala martujung hami di adopan ni Jahowa Zebaot?",
+			"15": "<sup>15</sup> Nuaeng pe ianggo hami angka halak na jungkat do huparhatua hami; tongon tahe, lam mardohar do angka siulahon hajahaton; gari Debata di unjuni nasida do, hape malua do nasida sian jea.",
+			"16": "<sup>16</sup> Alai tahe masipaingotan ma angka sihabiari Jahowa sama nasida; gabe ditatap Jahowa nasida jala ditangihon, jala tarsurat di adopanna * sada buku parningotan di halak angka sihabiari Jahowa dohot angka na pasangap goarna.",
+			"17": "<sup>17</sup> Jadi ahu ma * nampuna nasida, ninna Jahowa Zebaot, ** di ari sijadionku, jala marpangkehe ahu tu nasida, songon + pangkaehe ni amaama tu anakna na mangoloi ibana.",
+			"18": "<sup>18</sup> Dung i mulak ma rohamuna, jadi idaonmuna ma hasurungan ni halak partigor martimbangkon halak parjahat, hasurungan ni halak sioloi Debata, martimbangkon halak na so mangoloi ibana. IV.",
+			"19": "<sup>19</sup> Ai ida ma, na ro ma ari na marsigorgor, songon pamurunan, jadi doshon durame sude halak na jungkat dohot halak siulahon hajahaton, gabe marsijembur ma nasida bahenon ni ari na ro sogot, ninna Jahowa Zebaot, ndang adong tadingkononna di nasida nang urat, nang ranting.",
+			"20": "<sup>20</sup> Alai binsar ma anggo di hamu, angka na mangkabiari goarhu * mata ni ari ni hatigoran mardongan hahisaron di linggom ni habongna, gabe ruar ma hamu jala panihalnihalon songon anak ni lombu, angka na ruar sian bara.",
+			"21": "<sup>21</sup> Jadi degedegeonmuna ma halak parjahat, ai doshon sirabun nasida sogot ditoru ni palak ni patmuna, * di ari sibahenonku, ninna Jahowa Zebaot.",
+			"22": "<sup>22</sup> Sai paingotingot hamu ma patik ni si Musa, naposongki, na hupatolhas tu ibana uju di * Horeb tu sandok Israel, angka patik dohot uhum. V.",
+			"23": "<sup>23</sup> Ida ma, * suruanku ma tu hamu panurirang Elia, + patujolo ni haroro ni ari ni Jahowa na bolon, jala na songkal i.",
+			"24": "<sup>24</sup> Asa * ibana paulakkon roha ni amaama tu angka anakna, jala roha ni angka dakdanak tu amanasida, asa unang ro ahu mangkonahon uhum hamagoan tu tano on."
+		}
+	}
+};
+module.exports = book;

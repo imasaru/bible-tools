@@ -21,6 +21,16 @@
 1Cor	1 कोरिन्‍थी
 1Cor	1. कुरिन्थ
 1Cor	1 कुरिन्थ
+1Cor	1. कुरिं0
+1Cor	1. कुरिं०
+1Cor	1 कुरिं0
+1Cor	1 कुरिं०
+1Cor	1. कुरि0
+1Cor	1. कुरि०
+1Cor	1 कुरि0
+1Cor	1 कुरि०
+1Cor	1कुरिं0
+1Cor	1कुरिं०
 1Cor	1Cor
 1Esd	1Esd
 1John	1. Yoohanna
@@ -46,9 +56,15 @@
 1Pet	1 पत्रुस
 1Pet	1. पतरस
 1Pet	1 पतरस
+1Pet	1. पत0
 1Pet	1. पतर
+1Pet	1. पत०
+1Pet	1 पत0
 1Pet	1 पतर
+1Pet	1 पत०
 1Pet	1Pet
+1Pet	1पत0
+1Pet	1पत०
 1Sam	शमुऐल की 1ली पुस्तक
 1Sam	शमुऐल की १ली पुस्तक
 1Sam	1. Shamooael
@@ -57,6 +73,8 @@
 1Sam	1 शमूएल
 1Sam	1. शमू
 1Sam	1 शमू
+1Sam	1शमू0
+1Sam	1शमू०
 1Sam	1Sam
 1Thess	1. Thaissaluneekiyon
 1Thess	1 Thaissaluneekiyon
@@ -64,7 +82,14 @@
 1Thess	1 थिस्सलुनीकियों
 1Thess	1. थिसलुनिकी
 1Thess	1 थिसलुनिकी
+1Thess	1. थिस्सलु
+1Thess	1 थिस्सलु
+1Thess	1. थिस्स0
+1Thess	1. थिस्स०
+1Thess	1 थिस्स0
+1Thess	1 थिस्स०
 1Thess	1. थिस्स
+1Thess	1थिस्सलु
 1Thess	1 थिस्स
 1Thess	1Thess
 1Tim	1. Teemuathaiyus
@@ -75,6 +100,10 @@
 1Tim	1. तीमुथियुस
 1Tim	1 तिमुथियुस
 1Tim	1 तीमुथियुस
+1Tim	1. तीमु0
+1Tim	1. तीमु०
+1Tim	1 तीमु0
+1Tim	1 तीमु०
 1Tim	1. तीम
 1Tim	1 तीम
 1Tim	1Tim
@@ -101,6 +130,16 @@
 2Cor	2 कोरिन्‍थी
 2Cor	2. कुरिन्थ
 2Cor	2 कुरिन्थ
+2Cor	2. कुरिं0
+2Cor	2. कुरिं०
+2Cor	2 कुरिं0
+2Cor	2 कुरिं०
+2Cor	2. कुरि0
+2Cor	2. कुरि०
+2Cor	2 कुरि0
+2Cor	2 कुरि०
+2Cor	2कुरिं0
+2Cor	2कुरिं०
 2Cor	2Cor
 2Esd	2Esd
 2John	2. Yoohanna
@@ -126,9 +165,15 @@
 2Pet	2 पत्रुस
 2Pet	2. पतरस
 2Pet	2 पतरस
+2Pet	2. पत0
 2Pet	2. पतर
+2Pet	2. पत०
+2Pet	2 पत0
 2Pet	2 पतर
+2Pet	2 पत०
 2Pet	2Pet
+2Pet	2पत0
+2Pet	2पत०
 2Sam	शमुऐयल की 2री पुस्तक
 2Sam	शमुऐयल की २री पुस्तक
 2Sam	2. Shamooael
@@ -137,6 +182,8 @@
 2Sam	2 शमूएल
 2Sam	2. शमू
 2Sam	2 शमू
+2Sam	2शमू0
+2Sam	2शमू०
 2Sam	2Sam
 2Thess	2. Thaissaluneekiyon
 2Thess	2 Thaissaluneekiyon
@@ -144,7 +191,14 @@
 2Thess	2 थिस्सलुनीकियों
 2Thess	2. थिसलुनिकी
 2Thess	2 थिसलुनिकी
+2Thess	2. थिस्सलु
+2Thess	2 थिस्सलु
+2Thess	2. थिस्स0
+2Thess	2. थिस्स०
+2Thess	2 थिस्स0
+2Thess	2 थिस्स०
 2Thess	2. थिस्स
+2Thess	2थिस्सलु
 2Thess	2 थिस्स
 2Thess	2Thess
 2Tim	2. Teemuathaiyus
@@ -155,6 +209,10 @@
 2Tim	2. तीमुथियुस
 2Tim	2 तिमुथियुस
 2Tim	2 तीमुथियुस
+2Tim	2. तीमु0
+2Tim	2. तीमु०
+2Tim	2 तीमु0
+2Tim	2 तीमु०
 2Tim	2. तीम
 2Tim	2 तीम
 2Tim	2Tim
@@ -171,6 +229,8 @@ Acts	प्रेरितों के कामों
 Acts	Praeriton Ke Kam
 Acts	प्रेरितों के काम
 Acts	मसीह-दूत
+Acts	प्रेरि0
+Acts	प्रेरि०
 Acts	प्र. क
 Acts	प्र क
 Acts	प्र.क
@@ -188,16 +248,30 @@ Col	Col
 Dan	Daaniyyel
 Dan	दानिय्येल
 Dan	दानिय्यल
+Dan	दानियेल
+Dan	दानि0
+Dan	दानि०
 Dan	दानि
 Dan	Dan
 Deut	Vyavasthaavivaran
 Deut	व्यवस्था विवरण
 Deut	व्य्वस्थाविवरन
 Deut	व्यवस्थाविवरण
+Deut	व्य0 वि0
+Deut	व्य0 वि०
+Deut	व्यव0वि0
+Deut	व्यव0वि०
 Deut	व्यवस्था
+Deut	व्यव०वि0
+Deut	व्यव०वि०
+Deut	व्य० वि0
+Deut	व्य० वि०
 Deut	Deut
 Eccl	Sabhopadeshak
 Eccl	सभोपदेशक
+Eccl	सभोप0
+Eccl	सभोपo
+Eccl	सभोप०
 Eccl	Eccl
 Eccl	सभो
 EpJer	EpJer
@@ -205,6 +279,8 @@ Eph	Iafisiyon
 Eph	इफिसियों
 Eph	इफिसि
 Eph	इफिसी
+Eph	इफि0
+Eph	इफि०
 Eph	Eph
 Esth	Aester
 Esth	एस्तेर
@@ -212,9 +288,13 @@ Esth	ऐस्तेर
 Esth	Esth
 Exod	Nirgaman
 Exod	निर्गमन
+Exod	निर्ग0
+Exod	निर्ग०
 Exod	Exod
 Ezek	Yahejakel
 Ezek	यहेजकेल
+Ezek	यहेज0
+Ezek	यहेज०
 Ezek	Ezek
 Ezek	यहेज
 Ezra	Aejra
@@ -226,9 +306,14 @@ Gal	गलतियों
 Gal	गलाति
 Gal	गलाती
 Gal	Gal
+Gen	उत्त्पत्ति
 Gen	उत्पत्ति
 Gen	Utpaati
 Gen	उत्पाति
+Gen	उत्पति
+Gen	उत्प0
+Gen	उत्प०
+Gen	उत्प॰
 Gen	Gen
 GkEsth	GkEsth
 Hab	Habakkook
@@ -250,6 +335,8 @@ Hos	Hos
 Isa	yashaayaah
 Isa	यशायाह
 Isa	यशाया
+Isa	यशा0
+Isa	यशा०
 Isa	Isa
 Isa	यशा
 Jas	Yakoob
@@ -258,6 +345,8 @@ Jas	Jas
 Jdt	Jdt
 Jer	Yirmayah
 Jer	यिर्मयाह
+Jer	यिर्म0
+Jer	यिर्म०
 Jer	यिर्म
 Jer	Jer
 Job	Ayyoob
@@ -295,6 +384,10 @@ Lev	लैव्य्व्य्वस्था
 Lev	लैव्यव्यवस्था
 Lev	लैव्यव्यवस्थ
 Lev	लैव्यवस्था
+Lev	लै0व्य0
+Lev	लै0व्य०
+Lev	लै०व्य0
+Lev	लै०व्य०
 Lev	लैव्य
 Lev	Lev
 Luke	Looka
@@ -305,10 +398,12 @@ Mal	मलाकी
 Mal	Mal
 Mark	Marakus
 Mark	मरकुस
+Mark	मार्क
 Mark	Mark
 Matt	Mattee
 Matt	मत्ती
 Matt	Matt
+Matt	मती
 Mic	Meeka
 Mic	मीका
 Mic	Mic
@@ -335,7 +430,10 @@ Phil	Filippaiyon
 Phil	फिलिप्पियों
 Phil	फिलिप्‍पी
 Phil	फिलिप्पि
+Phil	फिलि0
+Phil	फिलि०
 Phil	Phil
+Phil	फिल
 Phlm	Filemon
 Phlm	फिलेमोन
 Phlm	Phlm
@@ -344,12 +442,22 @@ PrAzar	PrAzar
 PrMan	PrMan
 Prov	Neetivachan
 Prov	नीति वचन
+Prov	नीति व0
+Prov	नीति व०
 Prov	नीतिबचन
 Prov	नीतिवचन
+Prov	नीति व
+Prov	नीतिव
 Prov	Prov
 Prov	नीति
+Ps	पढ़ें भजन सं0
+Ps	पढ़ें भजन सं०
 Ps	भजन-सहिन्ता
 Ps	भजन संहिता
+Ps	भजन सं0
+Ps	भजन सं०
+Ps	भजन स0
+Ps	भजन स०
 Ps	Bhjan
 Ps	भजन
 Ps	Ps
@@ -357,14 +465,24 @@ Rev	Prakashaitavakya
 Rev	प्रकाशित-वाक्‍य
 Rev	प्रकाशित वाक्य
 Rev	प्रकाशितवाक्य
+Rev	प्रका0 वा0
+Rev	प्रका0 वा०
+Rev	प्रका० वा0
+Rev	प्रका० वा०
 Rev	प्र. व
 Rev	प्र व
 Rev	Rev
 Rom	Romiyon
 Rom	रोमियों
 Rom	रोमियो
+Rom	रोमि0
+Rom	रोमि०
+Rom	रोम0
+Rom	रोमन
 Rom	रोमी
+Rom	रोम०
 Rom	Rom
+Rom	रोम
 Ruth	Root
 Ruth	Ruth
 Ruth	रुत

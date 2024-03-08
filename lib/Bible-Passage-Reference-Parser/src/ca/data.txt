@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	i
+$CHAPTER	capítol
+$FF	ff
+$TITLE	title
+$TRANS	bci
+$TO	al
+$VERSE	vers
+$UNICODE_BLOCK	Latin
+
+Gen	Gènesi
+Exod	Èxode
+Lev	Levític
+Num	Nombres	Núm
+Deut	Deuteronomi
+Josh	Josuè
+Judg	Jutges
+Ruth	Rut
+1Sam	1 Samuel
+2Sam	2 Samuel
+1Kgs	1 Reis
+2Kgs	2 Reis
+1Chr	1 Cròniques	1 Cròn	1 Cron
+2Chr	2 Cròniques	2 Cròn	2 Cron
+Ezra	Esdres
+Neh	Nehemies
+Esth	Ester
+Job	Job
+Ps	Salms	Salm	Sl
+Prov	Proverbis
+Eccl	Cohèlet
+Song	Càntic dels Càntics
+Isa	Isaïes
+Jer	Jeremies
+Lam	Lamentacions
+Ezek	Ezequiel
+Dan	Daniel
+Hos	Osees
+Joel	Joel
+Amos	Amós
+Obad	Abdies
+Jonah	Jonàs
+Mic	Miquees
+Nah	Nahum
+Hab	Habacuc
+Zeph	Sofonies
+Hag	Ageu
+Zech	Zacaries
+Mal	Malaquies
+Matt	Mateu
+Mark	Marc
+Luke	Lluc
+John	Joan
+Acts	Fets dels Apòstols	Fets
+Rom	Romans
+1Cor	1 Corintis	1 Cor
+2Cor	2 Corintis	2 Cor
+Gal	Gàlates
+Eph	Efesis
+Phil	Filipencs
+Col	Colossencs
+1Thess	1 Tessalonicencs
+2Thess	2 Tessalonicencs
+1Tim	Timoteu
+2Tim	2 Timoteu
+Titus	Titus
+Phlm	Filèmon
+Heb	Hebreus
+Jas	Jaume
+1Pet	1 Pere	1 Pet
+2Pet	2 Pere	2 Pet
+1John	1 Joan
+2John	2 Joan
+3John	3 Joan
+Jude	Judes
+Rev	Apocalipsi	Apoc
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zephania",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Judate lal Amona fapa Josia lal laia LALPA thu Zephania, Kusia fapa, Gedalia fapa, Amaria fapa, Hezekia fapa hnena lo thleng chu.",
+			"2": "<sup>2</sup> Lei chung ata thil zawng zawng ka tiral vek ang, tih hi LALPA thu chhuak a ni.",
+			"3": "<sup>3</sup> Mihring leh sate ka ti ral ang a; Chungleng savate leh tuipui sanghate ka tiral ang a; Misualte chu ka titlu ang a; Lei chung ata mihring ka ti bo daih ang, tih hi LALPA thu chhuak a ni",
+			"4": "<sup>4</sup> Juda te leh Jerusalem luahtu zawng zawng chungah Ka kut kalek anga; he hmun atang hian Baal la awm chhunte, Kemarim hming chu puithiamho chawpin,",
+			"5": "<sup>5</sup> In chung chhipa van lam thilho hnena kun thinte, LALPA hnena chhehhama Malkama chhala chham bawka kun thinte,",
+			"6": "<sup>6</sup> LALPA hawisan tute leh LALPA zawng loa Amah rawn lo tute chu ka tibo daih ang.",
+			"7": "<sup>7</sup> LALPA pathian hmaah chuan ngawi reng rawh: LALPA ni chu a hnaih tak avangin: LALPA chuan inthawina a buatsaih tawh a,A mi sawmte pawh atithianghlim tawh si a.",
+			"8": "<sup>8</sup> Tin, LALPA inthawina niah chuan heti hi a ni ang a, Hotute leh lal fapate leh hnamdang silhfena Inthuamte zawng zawng chu ka hrem ang.",
+			"9": "<sup>9</sup> Tin, chumi niah chuan kawngka zuan kahlen zawng zawng, An hotute inpawngnekna leh bumna tikhattute chu ka hrem ang.",
+			"10": "<sup>10</sup> Chumi niah chuan, sangha kawngka atanga au thawm te, Misneh atanga chiau vak vak te, tlang atanga ri hum hum te, a awm ang, tih hi LALPA thu chhuak a ni.",
+			"11": "<sup>11</sup> Maktes mite u, Kanaan mi zawng an boral avangin chiau vak vak rawh u! Tangkaraw phur tute zawng zawng an boral vek tawh a ni.",
+			"12": "<sup>12</sup> Tin, chumi hunah chuan heti hi a ni ang a, Khawnvar chhiin Jerusalem ka zawng chhuak ang a; Uain mawng nawi ang awm mai mai a, an rilru a, LALPA chuan a chhia atha tih a nei ngai nem, titute chu ka hrem ang.",
+			"13": "<sup>13</sup> Tin, an sumte chu rallakah a lo chang ang a, An in te chu a ram ang: a ni, inte an sa ang a, mahse an luah lo ang; Grep huante an siam ang a, mahse a uain chu an in lo ang.",
+			"14": "<sup>14</sup> LALPA ni ropui tak chu a hnai e, a hnai in a thleng thuai dawn a ni, LALPA ni thawm chu rapthlak tak a ni; Chutah chuan michak chu a chiau vak vak ang.",
+			"15": "<sup>15</sup> Chumi ni chu thinurna ni a ni a, mangan leh hreawm ni chhiatna leh tiauna ni, thimna leh khawdur ni, chhum leh thim chhah mup ni a nia,",
+			"16": "<sup>16</sup> Kulha hung khawpuite chungah leh khaw kil kulh sangte chungah chuan tawtawrawt leh ralbei thawm rikna ni a ni a.",
+			"17": "<sup>17</sup> Tin, mihringte chungah hreawmna ka rawn thlen ang a, mitdel ang maiin an kal ang a, LALPA chungah an sual avangin; an thisen chu vaivut angin ka leih bua ang a, an tisate pawh ekdur ang maiin.LALPA thinurna niah chuan an rangkachak emaw, an tangkarua emaw pawhin anmahni a chhanchhuak thei lo ang a; Ram pumpui hi a thikna meiah chuan a kang bo vek ang. Rama chengte zawng zawng a tibo dawn a, a ni, tihbona rapthlak tak a siam dawn si a.",
+			"18": "<sup>18</sup> LALPA thinurna niah chuan an rangkachak emaw, an tangkarua emaw pawhin anmahni a chhanchhuak thei lo ang a; Ram pumpui hi a thikna meiah chuan a kang bo vek ang. Rama chengte zawng zawng a tibo dawn a, a ni, tihbona rapthlak tak a siam dawn si a."
+		},
+		"2": {
+			"1": "<sup>1</sup> ,2 Aw hnam zahna chang hre lo te u, thuruat a lo chhuah hma leh ni chu favai ang mai a a ral hma leh LALPA thinrimna hlauhawm tak chu in chunga a lo thlen hma leh LALPA thinrimna ni chu in chunga a lo thlen hma hian tlan khawm rawh u, a ni, tlan khawm huai huai rawh u.",
+			"2": "<sup>2</sup> ,1 Aw hnam zahna chang hre lo te u, thuruat a lo chhuah hma leh ni chu favai ang mai a a ral hma leh LALPA thinrimna hlauhawm tak chu in chunga a lo thlen hma leh LALPA thinrimna ni chu in chunga a lo thlen hma hian tlan khawm rawh u, a ni, tlan khawm huai huai rawh u.",
+			"3": "<sup>3</sup> Nangni leia mi thuhnuairawlh zawng zawng, a thu awih tute u, LALPA chu zawng rawh u; Felna zawng u la, thuhnuairawlh tum rawh u: LALPA thinrimna niah chuan thuhrukin in awm thei mahna.",
+			"4": "<sup>4</sup> Gaza khua chu kalsanin a awm ang a, Askelon khua chu tihtiauin a awm dawn si a: Chhun laiah Asdod khua an hnawt chhuak ang a, Ekron khua chu pawh chhuah in a awm ang.",
+			"5": "<sup>5</sup> Tuipui kama cheng kereth hnamte chu an chung a pik e! Aw kanaan, Philistia mite ram, LALPA thu chu i chungah a lo thleng a ni; Luahtu awm lo khawpin ka tiboral ang che.",
+			"6": "<sup>6</sup> Tin, tuipui kam te chu hnim hring hmun a ni ang a, berampute buk khuarna leh beramte huang a ni ang.",
+			"7": "<sup>7</sup> Tichuan, tuipui kam chu Juda chhungtea la awm chhunte tan a ni ang a; chungah chuan an beram rualte chu an tla ang a, Tlai lamah chuan Askelon khaw inahte an riak ang; LALPA an pathian chuan a rawn tlawh ang a, An saltanna chu a lehlinsak ang.",
+			"8": "<sup>8</sup> Moab deuna leh Amon fate au khumna, ka mite an deuna leh An ramria an tihropuia chu ka hre tawh a.",
+			"9": "<sup>9</sup> Chutichuan, a nuna ka nun chhung chu, Moab chu sadom ang a ni ang a, Amon fate chu Gomora ang an ni ngei ngei ang, Kangthai hmun leh chi khur leh kumkhaw luah loha ni ang: Ka mi la bangte chuan an mahni an rallak ang a, Ka hnam la awm chhunte chuan an luah ang, tih hi Sipaihote LALPA, Israelte Pathian thuchhuak a ni.",
+			"10": "<sup>10</sup> Chu chu an chapona aiah an nei dawn a ni, Sipaihote LALPA mite chungah an intihlen a, an cheksawlh avangin.",
+			"11": "<sup>11</sup> An tan LALPA chu tihbaiawm tak a ni ang a, lei pathiante chu a tam vek dawn si a; Tin, miten amah chibai an buk ang, mi tinin mahni hmun theuhvah, hnamte awmna zawng zawngah chuan.",
+			"12": "<sup>12</sup> Nangni Ethiopia mite pawh ka khandaiha thahin in awm ang.",
+			"13": "<sup>13</sup> Tin, hmar lam ram chungah a kut a lek ang a, Assuria ram a tiboral ang a, Ninevi khua a titiau vang a,thlaler angin a tiro ang.",
+			"14": "<sup>14</sup> Tin, a chhungah chuan sa rual chitin, ramsate zawng zawng an mu ang: Tuivalawng leh sakuhte pawh a ban chhip bawkahte an cheng ang a: Tukverhahte zai an vawr ang; kawngka bulahte chuan chhiatna a awm ang: Sidar thinga siamte pawh phoruang a chang ta si a.Hei hi khawpui hlim thei tak, mahni inring tak, a thinlunga, keimah, ka chuang ka liam hi tumah an awm lo, intirilru chu a ni: Sate mut hmun mai atan, a va ram nasa ta em! A kal pel apiangin an chek khum ang a, an kut an thin khum ang.",
+			"15": "<sup>15</sup> Hei hi khawpui hlim thei tak, mahni inring tak, a thinlunga, keimah, ka chuang ka liam hi tumah an awm lo, intirilru chu a ni: Sate mut hmun mai atan, a va ram nasa ta em! A kal pel apiangin an chek khum ang a, an kut an thin khum ang."
+		},
+		"3": {
+			"1": "<sup>1</sup> Hel hmang leh bawlhhlawh , hnehchhiah hmang khawpui chu a chung a pik e!",
+			"2": "<sup>2</sup> Aw chu a awih lo a; zilhna a pawm lo a; LALPA chu a ring lo a; a Pathian lam a hnaih duh lo.",
+			"3": "<sup>3</sup> A chhunga a hotute chu sakeibaknei rum lai an ni a; A roreltute chu tlai lam chinghnia an ni a; A tuk thlenga thial tur engmah an zuah lo.",
+			"4": "<sup>4</sup> A zawlneite chu pawlawh leh bumhmangte an ni a: A puithiamten hmunthianghlim chu an tibawlhhlawh a, Dan chu a bawhchhe nasa a ni.",
+			"5": "<sup>5</sup> A chhunga LALPA chu a fel a ni; khawlohna a ti lo ang; Tuktin a rorelna chu a tilang a, a pelh ngai lo a; Mahse mifello chuan zahna chang reng a hre lo.",
+			"6": "<sup>6</sup> Hnamte chu ka tibo daih a, an kulhte a ram a; A kawtthlerte chu tuma kal tlang lohna'n ka tiram a: An khawpuite chu an chhe ta; Chutichuan tumah an awm ta lo a, luahtu reng an awm tawh lo.",
+			"7": "<sup>7</sup> Nangin mi hlau phawtla, zilhna hi lo pawm la; Tichuan ama chunngchanga ka ruat zawng zawngte ang khan A awmna chu tihbo daih a ni lo ang, ka ti a; Mahse zingah an tho a, an thiltih zawng zawng an tikhawlo vek a.",
+			"8": "<sup>8</sup> Chuvangin rallak la tura ka thawh ni thlengin mi nghak rawh u, tih hi LALPA thu chhuak a ni: Ka thil tum chu, an chunga ka thinurna, ka thinurna hlauhawm tak mai chu leih tura Lalna ramte inkhawmtira hnamte koh khawm hi a ni a; Lei zawng zawng hi ka thikna meiah a la kang fai dawn si a.",
+			"9": "<sup>9</sup> Chutih hunah chuan mipuite chu hmui thianghlim ka puttir leh ang, LALPA hming chu an zaa an lama thukhatvuaa a rawng an bawl tlan theih nan,",
+			"10": "<sup>10</sup> Ethiopia lui piah lam atangin ka hnena diltute, ka mi darhte fanu chuan ka thilhlan an rawn la ang.",
+			"11": "<sup>11</sup> Chumi niah chuan ka chunga i bawhchhiatna thiltih avangte chuan i zak tawh lo vang, chumi hunah chuan i chhung ata i mi, chapona hlimpuitute chu ka la bo ang a, Ka tlang thianghlimah hian chapo hmangin i awm tawh lo ang.",
+			"12": "<sup>12</sup> I chhung ata mirethei te leh Tihduhdah tuarte chu ka zuah ang a, LALPA hming chu an ring ang.",
+			"13": "<sup>13</sup> Israel mi la awm chhunte chuan khawlohna an ti lo ang a, dawt an sawi hek lo vang; An kaah pawh bumna tawng a awm hek lo ang a: An eiin an mu ang a, tumahin an tihlau tawh lo ang.",
+			"14": "<sup>14</sup> Aw Zion fanu, zai rawh; aw Israel, au vak vak rawh; Aw Jerusalem fanu, i thinlung zawng zawngin lawm la hlim rawh.",
+			"15": "<sup>15</sup> LALPA'n i chngchang relnate chu a la bo ta a, i hmelma a paih chhuak ta: Israel lalber, LALPA pawh chu i chungah a awm e: Thil thalo i hlau ngai tawh lo ang.",
+			"16": "<sup>16</sup> Chumi niah chuan Jerusalem hnenah, hlau suh, aw Zion, ih kut pawh zawi suh se, an ti ang.",
+			"17": "<sup>17</sup> LALPA i Pathian chu i chungah a awm e, Chhandamtu tur mi chak tak chu: Lawmin i chungah a hlim ang a, a hmangaihna a tithar ang a, Hla sain i chungah a lawm ang.",
+			"18": "<sup>18</sup> Nangmaha mi, inkhawmpuia tel pha loa lungngaite chu ka hruaikhawm ang a, nangmah avanga sawichhiatna phurrit phur tute chu.",
+			"19": "<sup>19</sup> Ngai rawh, chumi hunah chuan nghaisatu zawng zawng che kha kangaihtuah ang; Tin, kebai chu ka chhandam ang a, Hnawh bova awm chu ka hruai khawm ang; Tin, lei chung zawng zawnga an lo mualphona chu Fakna leh hmingthannaah ka chantir ang.Chumi hunah chuan ka hruai khawm ang che u: In hmuh ngeia in saltanna ka lam let hunah chuan Lei chung mi zawng zawngte zingah Hmingthanna leh fakna ka siamsak dawn si che u a, LALPA'n a ti.",
+			"20": "<sup>20</sup> Chumi hunah chuan ka hruai khawm ang che u: In hmuh ngeia in saltanna ka lam let hunah chuan Lei chung mi zawng zawngte zingah Hmingthanna leh fakna ka siamsak dawn si che u a, LALPA'n a ti."
+		}
+	}
+};
+module.exports = book;

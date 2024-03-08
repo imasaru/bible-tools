@@ -167,6 +167,7 @@
 4Macc	4Macc
 Acts	Kisah Rasul-rasul
 Acts	Kisah Para Rasul
+Acts	Kisah
 Acts	Acts
 Acts	Kis
 Amos	Amos
@@ -187,6 +188,7 @@ Eccl	Pkh
 EpJer	EpJer
 Eph	Efesus
 Eph	Eph
+Eph	Ef
 Esth	Ester
 Esth	Esth
 Esth	Est

@@ -1,0 +1,231 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	ແລະ
+$CHAPTER	ຫມວດ
+$FF	ff
+$TITLE	title
+$TRANS	LB
+$TO	ເຖິງ
+$VERSE	ຄໍາພີໄບເບິນ
+$UNICODE_BLOCK	Latin
+
+Gen	ປະຖົມມະການ
+Exod	ອົບພະຍົບ
+Lev	ກົດລະບຽບການເລວີ
+Num	ຈົດເຊັນບັນຊີ
+Deut	ພຣະບັນຍັດສອງ
+Josh	ໂຢຊວຍ
+Judg	ພວກຜູ້ປົກຄອງ
+Ruth	ນາງຣຸດ
+1Sam	1 ຊາມູເອນ
+2Sam	2 ຊາມູເອນ
+1Kgs	1 ກະສັດ
+2Kgs	2 ກະສັດ
+1Chr	1 ຂ່າວຄາວ
+2Chr	2 ຂ່າວຄາວ
+Ezra	ເອັດຊະຣາ
+Neh	ເນເຮມີຢາ
+Esth	ເອສະເທີ
+Job	ໂຢບ
+Ps	ເພງສັນລະເສີນ
+Prov	ສຸພາສິດ
+Eccl	ປັນຍາຈານ
+Song	ຍອດເພງ
+Isa	ເອຊາຢາ	ເອຊາຍາ
+Jer	ເຢເຣມີຢາ
+Lam	ເພງຄ່ຳຄວນ
+Ezek	ເອເຊກີ​ເອນ	ເອຊາກາຽນ	ເອຊາກຽນ
+Dan	ດານີເອນ	ດານິເອນ
+Hos	ໂຮເຊອາ
+Joel	ໂຢເອນ
+Amos	ອາໂມດ
+Obad	ໂອບາດີຢາ
+Jonah	ໂຢນາ
+Mic	ມີກາ
+Nah	ນາຮູມ
+Hab	ຮາບາກຸກ
+Zeph	ເຊຟານີຢາ
+Hag	ຮັກກາຍ
+Zech	ເຊຄາຣີຢາ
+Mal	ມາລາກີ
+Matt	ມັດທາຍ
+Mark	ມາຣະໂກ
+Luke	ລູກາ
+John	ໂຢຮັນ
+Acts	ກິດຈະການ	ກິດຈະ ການ
+Rom	ໂຣມ
+1Cor	1 ໂກຣິນໂທ	1 ໂກລິນໂທ
+2Cor	2 ໂກຣິນໂທ	2 ໂກລິນໂທ
+Gal	ຄາລາເຕຍ
+Eph	ເອເຟໂຊ
+Phil	ຟີລິບປອຍ
+Col	ໂກໂລຊາຍ
+1Thess	1 ເທຊະໂລນິກ
+2Thess	2 ເທຊະໂລນິກ
+1Tim	1 ຕີໂມທຽວ
+2Tim	2 ຕີໂມທຽວ
+Titus	ຕີໂຕ
+Phlm	ຟີເລໂມນ
+Heb	ເຮັບເຣີ
+Jas	ຢາໂກໂບ
+1Pet	1 ເປໂຕ
+2Pet	2 ເປໂຕ
+1John	1 ໂຢຮັນ
+2John	2 ໂຢຮັນ
+3John	3 ໂຢຮັນ
+Jude	ຢຸດາ
+Rev	ພຣະນິມິດ	ພະນີມິດ	ພະນິມິດ
+
+#Jonah,Job,Josh,Joel
+#Judg,Jude
+#Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev

@@ -1095,11 +1095,13 @@ describe "Localized book Acts (in)", ->
 		`
 		expect(p.parse("Kisah Rasul-rasul 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Kisah Para Rasul 1:1").osis()).toEqual("Acts.1.1")
+		expect(p.parse("Kisah 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Acts 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Kis 1:1").osis()).toEqual("Acts.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("KISAH RASUL-RASUL 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("KISAH PARA RASUL 1:1").osis()).toEqual("Acts.1.1")
+		expect(p.parse("KISAH 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("ACTS 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("KIS 1:1").osis()).toEqual("Acts.1.1")
 		`
@@ -1204,9 +1206,11 @@ describe "Localized book Eph (in)", ->
 		`
 		expect(p.parse("Efesus 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("Eph 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("Ef 1:1").osis()).toEqual("Eph.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("EFESUS 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("EPH 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("EF 1:1").osis()).toEqual("Eph.1.1")
 		`
 		true
 describe "Localized book Phil (in)", ->

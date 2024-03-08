@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofoniáš",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Slovo Hospodinovo, jež se <i>do</i>stalo k Sofonjovi, synu Kúšího, syna Gedaljova, syna Amarjova, syna Chizkijjova, ve dnech Jóšíjjáhúa, syna Ámónova, krále Júdy.",
+			"2": "<sup>2</sup> Veskrze budu smetat vše z povrchu tváře půdy, prohlášeno Hospodinem;",
+			"3": "<sup>3</sup> smetat budu lidstvo i zvířectvo, smetat budu letounstvo nebes i ryby moře i pohoršení se zlovolnými, a<i>no</i>, budu lidstvo z povrchu tváře půdy vytínat, prohlášeno Hospodinem,",
+			"4": "<sup>4</sup> a napřáhnu svou ruku na Júdu a na všechny obyvatele Jerúsaléma a budu z tohoto místa vytínat zbytek Baala, jména popů s kněžími,",
+			"5": "<sup>5</sup> a ty, <i>již</i> se na střechách sklánějí vůči osazenstvu nebes, a<i>no</i>, ty, <i>již</i> se sklánějí, již přísahají Hospodinu, již však přísahají při Malkámovi,",
+			"6": "<sup>6</sup> a ty, <i>již</i> odstupují zpět od následování Hospodina a kteří Hospodina nehledají, aniž se <i>po</i> něm pídí.",
+			"7": "<sup>7</sup> Před tváří Pána, Hospodina, ticho! Vždyť den Hospodinův <i>je</i> blízký, neboť Hospodin připravil oběť, posvětil své povolané;",
+			"8": "<sup>8</sup> a v den oběti Hospodinovy se stane, že budu vykonávat navštívení na knížatech a na synech krále a na všech, již <i>si</i> oblékají cizozemské oblečení,",
+			"9": "<sup>9</sup> a budu v onen den vykonávat navštívení na každém, kdo přeskakuje přes práh, <i>na</i> těch, <i>již</i> plní dům svého Pána násilím a klamem.",
+			"10": "<sup>10</sup> A v onen den nastane, prohlášeno Hospodinem, hlas křiku od brány Ryb a z druhé čtvrti skučení, a od pahorků hlasité bědování;",
+			"11": "<sup>11</sup> skučte, obyvatelé Makteše, neboť všechen kupecký lid zhyne, všichni zahrnutí penězi budou povytínáni.",
+			"12": "<sup>12</sup> A v onen čas se bude dít, <i>že</i> budu Jerúsalém s lampami prohledávat a na těch mužích navštívení vykonávat, již zatvrzele setrvávají na svých starých názorech, již <i>si</i> ve svých srdcích říkají: Hospodin nejedná dobře, aniž činí zle;",
+			"13": "<sup>13</sup> i <i>do</i>stane se jejich bohatství v olupování a jejich domy <i>se stanou</i> spouští; domy tedy zbudují, a<i>le</i> nebudou obývat, a vysadí vinice, a<i>le</i> vína z nich pít nebudou.",
+			"14": "<sup>14</sup> Blízký je veliký den Hospodinův, blízký a velmi spěchající! Zvěst o dni Hospodinově: Tam bude hrdina hořce křičet,",
+			"15": "<sup>15</sup> onen den <i>bude</i> dnem výbuchu hněvu, dnem tísně a úzkosti, dnem pustoty a zpustošenosti, dnem tmy, a<i>no</i>, hluboké tmy, dnem mrákav a černavy,",
+			"16": "<sup>16</sup> dnem trouby a pokřiku proti městům, jež <i>budou</i> opevněná, a proti vysokým nárožním cimbuřím.",
+			"17": "<sup>17</sup> I budu lidem působit tíseň, takže budou chodit jako slepí, neboť vůči Hospodinu hřeší, i bude jejich krev vylévána, jako <i>je vysypáván</i> prach, a jejich maso - jako výkaly;",
+			"18": "<sup>18</sup> ani jejich stříbro ani jejich zlato je v den výbuchu hněvu Hospodinova nebude moci vyprostit, nýbrž všechna země bude sžírána ohněm jeho horlivosti, neboť <i>on</i> bude uskutečňovat skoncování, ano, urychlené, se všemi obyvateli země."
+		},
+		"2": {
+			"1": "<sup>1</sup> Posbírejte se, a<i>no</i>, posbírejte, ó národe nestydící se;",
+			"2": "<sup>2</sup> dříve než ustanovení porodí, <i>než</i> jako plevy přejde den, dříve než na vás bude přicházet žár Hospodinova hněvu, dříve než na vás bude přicházet den Hospodinova hněvu,",
+			"3": "<sup>3</sup> hledejte Hospodina, všichni pokoření země, kteří uskutečňují jeho právo, hledejte spravedlnost, hledejte pokoru, snad se v den Hospodinova hněvu budete moci skrýt.",
+			"4": "<sup>4</sup> Ano, Gaza se bude stávat opuštěnou a Aškelón spouští, Ašdód - o polednách jej budou vyhánět a Ekrón bude bořen.",
+			"5": "<sup>5</sup> Ach, obyvatelé přímořského pásma, národe Keréthím, slovo Hospodinovo <i>je</i> proti vám! Kenaane, země Pelištím, a<i>no</i>, vylidním tě tím, <i>že</i> nebude obyvatele,",
+			"6": "<sup>6</sup> i stane se přímořské pásmo pastvišti s cisternami pastýřů a ovčinci,",
+			"7": "<sup>7</sup> a <i>do</i>stane se pásmo zbytku domu Júdova; budou na nich pást, v domech Aškelónu se navečer budou ukládat, neboť se Hospodin, jejich Bůh, o ně bude starat a <i>od</i>vrátí jejich zajetí.",
+			"8": "<sup>8</sup> Uslyšel jsem tupení Móávovo a rouhavé řeči dětí Ammónových, jimiž tupí můj lid a holedbají se proti jejich území;",
+			"9": "<sup>9</sup> proto, <i>jako že</i> já <i>jsem</i> živ, prohlášeno Hospodinem zástupů, Bohem Isráélovým, ano, Móáv bude jako Sodoma a děti Ammónovy jako Gomora - zamoření trním a solný důl a spoušť navždy; zbytek mého lidu je bude mít za kořist, a<i>no</i>, pozůstatek mého národa je bude mít za vlastnictví.",
+			"10": "<sup>10</sup> Toto budou mít za svou povýšenost, že tupili lid Hospodina zástupů a holedbali se proti <i>němu</i>;",
+			"11": "<sup>11</sup> hrozný <i>bude</i> Hospodin proti nim, ano, umoří všechny bohy země, i budou se vůči němu, každý ze svého místa, sklánět všechny ostrovy národů.",
+			"12": "<sup>12</sup> A vy, Kúším - oni <i>budou</i> probodáni mým mečem.",
+			"13": "<sup>13</sup> I bude napřahovat svou ruku proti severu a hubit Aššúr a Nínívé činit spouští, suchopárem jako poušť,",
+			"14": "<sup>14</sup> a vprostřed ní se budou ukládat hejna, živočišstvo všemožného druhu, v jejích hlavicích budou nocovat i stepní slípky i volavky, okny se bude ozývat hlas zpěvu; na <i>každém</i> prahu <i>bude</i> rum, neboť cedrová stavba <i>se</i> obnaží. -",
+			"15": "<sup>15</sup> Toto <i>je</i> to město, jež se veselilo, jež sedělo bezstarostně, jež ve svém srdci říkalo: Já a nikdo další - jak se stalo zpustlinou, odpočívadlem živočišstvu! <i>Tak</i> nad ním bude každý přecházející syčet, svou rukou mávat."
+		},
+		"3": {
+			"1": "<sup>1</sup> Ach, vzpurné a poskvrněné, ty město, jež působíš pohromy!",
+			"2": "<sup>2</sup> Neuposlechlo na hlas, nepřijalo napomínání, v Hospodina nedůvěřovalo, k svému Bohu se nepřiblížilo;",
+			"3": "<sup>3</sup> jeho knížata uvnitř něho - řvoucí lvi, jeho soudcové - vlci večera, ne <i>až</i> do jitra ohryzují,",
+			"4": "<sup>4</sup> jeho proroci - smělí, věrolomní muži, jeho kněží znesvěcují svatyni, znásilňují zákon.",
+			"5": "<sup>5</sup> Hospodin, uvnitř něho, <i>je</i> spravedlivý, nedopouští se bezpráví, za každého jitra vynáší svůj soud na světlo, nechybí, a<i>le</i> zlosyn nezná ostudy.",
+			"6": "<sup>6</sup> Povytínal jsem národy, jejich nárožní cimbuří zpustla, poplenil jsem jejich ulice - <i>jsou</i> bez přecházejícího, jejich města jsou vydrancována, bez člověka, neboť není obyvatele;",
+			"7": "<sup>7</sup> řekl jsem <i>si</i>: Jistě mě budeš mít v úctě, budeš přijímat napomínání, vždyť jeho sídlo není vytínáno, čímkoli jsem na něm vykonal navštívení. Ale <i>oni</i> časně vstávají, zvrhlými činí všechny své skutky.",
+			"8": "<sup>8</sup> Proto čekejte na mne, prohlášeno Hospodinem, na den mého povstávání ke kořisti, neboť mým právem <i>je</i> svolat národy k mému shromáždění království k vylití na ně mého rozhorlení, všeho žáru mého hněvu, ano, všechna země bude sžírána ohněm mé horlivosti,",
+			"9": "<sup>9</sup> tehdy však budu při národnostech měnit rty v očištěné k vzývání Hospodina jimi všemi v jeho jménu, ke službě jemu jedním ramenem.",
+			"10": "<sup>10</sup> Z druhé strany vůči řekám Kúše mi budou moji ctitelé, dcera mých rozptýlených, přinášet dary;",
+			"11": "<sup>11</sup> v onen den se nebudeš muset stydět za cokoli <i>ze</i> svých skutků, jimiž ses proti mně provinilo, neboť tehdy budu z tvého středu odstraňovat veselící se z tvé pýchy, i nebudeš se již nadále vychloubat mou svatou horou.",
+			"12": "<sup>12</sup> I budu v tvém středu nechávat zbývat lid chudý a nuzný; ti budou důvěřovat ve jméno Hospodinovo.",
+			"13": "<sup>13</sup> Zbytek Isráéle, <i>ti</i> se nebudou dopouštět bezpráví, aniž budou vyslovovat lež, ba, nebude se v jejich ústech moci najít klamný jazyk.",
+			"14": "<sup>14</sup> Plesej, dcero Cijjónu, výskejte, <i>vy v</i> Isráéli, raduj se a vesel se celým srdcem, dcero Jerúsaléma;",
+			"15": "<sup>15</sup> Hospodin odstranil tvé rozsudky, odklidil tvého nepřítele; Hospodin <i>je</i> v tvém středu Králem Isráéle, nebudeš již vidět neštěstí.",
+			"16": "<sup>16</sup> V onen den se bude Jerúsalému říkat: Nechť se nebojíš, Cijjóne, nechť tvé ruce neochabují;",
+			"17": "<sup>17</sup> v tvém středu <i>je</i> Hospodin, tvůj Bůh, Hrdina, <i>jenž</i> zachraňuje, těší se nad tebou s radostí, odpočívá ve své lásce, jásá nad tebou s plesáním.",
+			"18": "<sup>18</sup> Posbírám své trpící z <i>příčiny</i> svátku, jsou z tebe - na tom <i>je</i> břímě potupy.",
+			"19": "<sup>19</sup> Hle, já - chystám se v onom čase skoncovat se všemi trápícími tě, a<i>no</i>, budu zachraňovat tu, <i>jež</i> kulhá, a<i>no</i>, tu, <i>jež je</i> rozehnána, budu shromažďovat a chci je postavit k chvále a k věhlasu ve vší zemi jejich ostudy.",
+			"20": "<sup>20</sup> V onen čas vás budu uvádět (a<i>no</i>, v čas svého shromažďování vás, neboť vás chci určit k věhlasu a k chvále ) mezi všechny národnosti země, za svého <i>od</i>vracení vašeho utrpení před vašima očima, řekl Hospodin."
+		}
+	}
+};
+module.exports = book;

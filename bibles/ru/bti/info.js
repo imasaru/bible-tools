@@ -4,612 +4,465 @@ var info = {
 	"books": [
 		{
 			"name": "Бытие",
-			"numChapters": 50,
 			"synonyms": [
-				"Бытие",
-				"Быт",
 				"Gen"
-			]
+			],
+			"numChapters": 50
 		},
 		{
 			"name": "Исход",
-			"numChapters": 40,
 			"synonyms": [
-				"Исход",
-				"Исх",
 				"Exod"
-			]
+			],
+			"numChapters": 40
 		},
 		{
 			"name": "Левит",
-			"numChapters": 27,
 			"synonyms": [
-				"Левит",
-				"Лев",
 				"Lev"
-			]
+			],
+			"numChapters": 27
 		},
 		{
 			"name": "Числа",
-			"numChapters": 36,
 			"synonyms": [
-				"Числа",
-				"Числ",
-				"Чис",
 				"Num"
-			]
+			],
+			"numChapters": 36
 		},
 		{
 			"name": "Второзаконие",
-			"numChapters": 34,
 			"synonyms": [
-				"Второзаконие",
-				"Втор",
 				"Deut"
-			]
+			],
+			"numChapters": 34
 		},
 		{
 			"name": "Иисус Навин",
-			"numChapters": 24,
 			"synonyms": [
-				"Иисус Навин",
-				"Нав",
 				"Josh"
-			]
+			],
+			"numChapters": 24
 		},
 		{
-			"name": "Книга Судей",
-			"numChapters": 21,
+			"name": "Судей",
 			"synonyms": [
-				"Книга Судей",
-				"Суд",
 				"Judg"
-			]
+			],
+			"numChapters": 21
 		},
 		{
 			"name": "Руфь",
-			"numChapters": 4,
 			"synonyms": [
-				"Руфь",
-				"Руф",
 				"Ruth"
-			]
+			],
+			"numChapters": 4
 		},
 		{
-			"name": "1-я Царств",
-			"numChapters": 31,
+			"name": "I Царств",
 			"synonyms": [
-				"1-я Царств",
-				"1(–?-?а?я?e? )?Цар",
 				"1Sam"
-			]
+			],
+			"numChapters": 31
 		},
 		{
-			"name": "2-я Царств",
-			"numChapters": 24,
+			"name": "II Царств",
 			"synonyms": [
-				"2-я Царств",
-				"2(–?-?а?я?e? )?Цар",
 				"2Sam"
-			]
+			],
+			"numChapters": 24
 		},
 		{
-			"name": "3-я Царств",
-			"numChapters": 22,
+			"name": "III Царств",
 			"synonyms": [
-				"3-я Царств",
-				"3(–?-?а?я?e? )?Цар",
 				"1Kgs"
-			]
+			],
+			"numChapters": 22
 		},
 		{
-			"name": "4-я Царств",
-			"numChapters": 25,
+			"name": "IV Царств",
 			"synonyms": [
-				"4-я Царств",
-				"4(–?-?а?я?e? )?Цар",
 				"2Kgs"
-			]
+			],
+			"numChapters": 25
 		},
 		{
-			"name": "1-я Паралипоменон",
-			"numChapters": 29,
+			"name": "I Паралипоменон",
 			"synonyms": [
-				"1-я Паралипоменон",
-				"1(–?-?а?я?e? )?Пар",
 				"1Chr"
-			]
+			],
+			"numChapters": 29
 		},
 		{
-			"name": "2-я Паралипоменон",
-			"numChapters": 36,
+			"name": "II Паралипоменон",
 			"synonyms": [
-				"2-я Паралипоменон",
-				"2(–?-?а?я?e? )?Пар",
 				"2Chr"
-			]
+			],
+			"numChapters": 36
 		},
 		{
-			"name": "Ездра",
-			"numChapters": 10,
+			"name": "Эзра",
 			"synonyms": [
-				"Ездра",
-				"Езд",
 				"Ezra"
-			]
+			],
+			"numChapters": 10
 		},
 		{
 			"name": "Неемия",
-			"numChapters": 13,
 			"synonyms": [
-				"Неемия",
-				"Неем",
 				"Neh"
-			]
+			],
+			"numChapters": 13
 		},
 		{
-			"name": "Есфирь",
-			"numChapters": 10,
+			"name": "Эсфирь",
 			"synonyms": [
-				"Есфирь",
-				"Есф",
 				"Esth"
-			]
+			],
+			"numChapters": 10
 		},
 		{
 			"name": "Иов",
-			"numChapters": 42,
 			"synonyms": [
-				"Иов",
-				"Иов",
 				"Job"
-			]
+			],
+			"numChapters": 42
 		},
 		{
-			"name": "Псалтирь",
-			"numChapters": 150,
+			"name": "Псалтырь",
 			"synonyms": [
-				"Псалтирь",
-				"Псал",
-				"Пс",
 				"Ps"
-			]
+			],
+			"numChapters": 150
 		},
 		{
 			"name": "Притчи",
-			"numChapters": 31,
 			"synonyms": [
-				"Притчи",
-				"Притч",
-				"Прит",
 				"Prov"
-			]
+			],
+			"numChapters": 31
 		},
 		{
-			"name": "Екклесиаст",
-			"numChapters": 12,
+			"name": "Экклезиаст",
 			"synonyms": [
-				"Екклесиаст",
-				"Еккл",
 				"Eccl"
-			]
+			],
+			"numChapters": 12
 		},
 		{
-			"name": "Песни Песней",
-			"numChapters": 8,
+			"name": "Песнь песней",
 			"synonyms": [
-				"Песни Песней",
-				"Песн",
 				"Song"
-			]
+			],
+			"numChapters": 8
 		},
 		{
-			"name": "Исаия",
-			"numChapters": 66,
+			"name": "Исайя",
 			"synonyms": [
-				"Исаия",
-				"Исаи",
-				"Ис",
 				"Isa"
-			]
+			],
+			"numChapters": 66
 		},
 		{
 			"name": "Иеремия",
-			"numChapters": 52,
 			"synonyms": [
-				"Иеремия",
-				"Иер",
 				"Jer"
-			]
+			],
+			"numChapters": 52
 		},
 		{
 			"name": "Плач Иеремии",
-			"numChapters": 5,
 			"synonyms": [
-				"Плач Иеремии",
-				"Плач",
 				"Lam"
-			]
+			],
+			"numChapters": 5
 		},
 		{
 			"name": "Иезекииль",
-			"numChapters": 48,
 			"synonyms": [
-				"Иезекииль",
-				"Иез",
 				"Ezek"
-			]
+			],
+			"numChapters": 48
 		},
 		{
 			"name": "Даниил",
-			"numChapters": 12,
 			"synonyms": [
-				"Даниил",
-				"Дан",
 				"Dan"
-			]
+			],
+			"numChapters": 12
 		},
 		{
 			"name": "Осия",
-			"numChapters": 14,
 			"synonyms": [
-				"Осия",
-				"Ос",
 				"Hos"
-			]
-		},
-		{
-			"name": "Иоиль",
-			"numChapters": 3,
-			"synonyms": [
-				"Иоиль",
-				"Иоил",
-				"Joel"
-			]
+			],
+			"numChapters": 14
 		},
 		{
 			"name": "Амос",
-			"numChapters": 9,
 			"synonyms": [
-				"Амос",
-				"Ам",
 				"Amos"
-			]
-		},
-		{
-			"name": "Авдия",
-			"numChapters": 1,
-			"synonyms": [
-				"Авдия",
-				"Авд",
-				"Obad"
-			]
-		},
-		{
-			"name": "Иона",
-			"numChapters": 4,
-			"synonyms": [
-				"Иона",
-				"Ион",
-				"Jonah"
-			]
+			],
+			"numChapters": 9
 		},
 		{
 			"name": "Михей",
-			"numChapters": 7,
 			"synonyms": [
-				"Михей",
-				"Мих",
 				"Mic"
-			]
+			],
+			"numChapters": 7
+		},
+		{
+			"name": "Иоиль",
+			"synonyms": [
+				"Joel"
+			],
+			"numChapters": 3
+		},
+		{
+			"name": "Авдий",
+			"synonyms": [
+				"Obad"
+			],
+			"numChapters": 1
+		},
+		{
+			"name": "Иона",
+			"synonyms": [
+				"Jonah"
+			],
+			"numChapters": 4
 		},
 		{
 			"name": "Наум",
-			"numChapters": 3,
 			"synonyms": [
-				"Наум",
-				"Наум",
 				"Nah"
-			]
+			],
+			"numChapters": 3
 		},
 		{
 			"name": "Аввакум",
-			"numChapters": 3,
 			"synonyms": [
-				"Аввакум",
-				"Авв",
 				"Hab"
-			]
+			],
+			"numChapters": 3
 		},
 		{
 			"name": "Софония",
-			"numChapters": 3,
 			"synonyms": [
-				"Софония",
-				"Соф",
 				"Zeph"
-			]
+			],
+			"numChapters": 3
 		},
 		{
 			"name": "Аггей",
-			"numChapters": 2,
 			"synonyms": [
-				"Аггей",
-				"Агг",
 				"Hag"
-			]
+			],
+			"numChapters": 2
 		},
 		{
 			"name": "Захария",
-			"numChapters": 14,
 			"synonyms": [
-				"Захария",
-				"Зах",
 				"Zech"
-			]
+			],
+			"numChapters": 14
 		},
 		{
 			"name": "Малахия",
-			"numChapters": 4,
 			"synonyms": [
-				"Малахия",
-				"Мал",
 				"Mal"
-			]
+			],
+			"numChapters": 4
 		},
 		{
-			"name": "От Матфея",
-			"numChapters": 28,
+			"name": "Матфей",
 			"synonyms": [
-				"От Матфея",
-				"Мат",
-				"Мф",
 				"Matt"
-			]
+			],
+			"numChapters": 28
 		},
 		{
-			"name": "От Марка",
-			"numChapters": 16,
+			"name": "Марк",
 			"synonyms": [
-				"От Марка",
-				"Мар",
-				"Мр",
-				"Мк",
 				"Mark"
-			]
+			],
+			"numChapters": 16
 		},
 		{
-			"name": "От Луки",
-			"numChapters": 24,
+			"name": "Лука",
 			"synonyms": [
-				"От Луки",
-				"Лук",
-				"Лк",
 				"Luke"
-			]
+			],
+			"numChapters": 24
 		},
 		{
-			"name": "От Иоанна",
-			"numChapters": 21,
+			"name": "Иоанн",
 			"synonyms": [
-				"От Иоанна",
-				"Иоан",
-				"Ин",
 				"John"
-			]
+			],
+			"numChapters": 21
 		},
 		{
 			"name": "Деяния",
-			"numChapters": 28,
 			"synonyms": [
-				"Деяния",
-				"Деян",
 				"Acts"
-			]
+			],
+			"numChapters": 28
 		},
 		{
-			"name": "К Римлянам",
-			"numChapters": 16,
+			"name": "Послание Иакова",
 			"synonyms": [
-				"К Римлянам",
-				"Рим",
-				"Rom"
-			]
-		},
-		{
-			"name": "1-е Коринфянам",
-			"numChapters": 16,
-			"synonyms": [
-				"1-е Коринфянам",
-				"1(–?-?а?я?e? )?Кор",
-				"1Cor"
-			]
-		},
-		{
-			"name": "2-е Коринфянам",
-			"numChapters": 13,
-			"synonyms": [
-				"2-е Коринфянам",
-				"2(–?-?а?я?e? )?Кор",
-				"2Cor"
-			]
-		},
-		{
-			"name": "К Галатам",
-			"numChapters": 6,
-			"synonyms": [
-				"К Галатам",
-				"Гал",
-				"Gal"
-			]
-		},
-		{
-			"name": "К Ефесянам",
-			"numChapters": 6,
-			"synonyms": [
-				"К Ефесянам",
-				"Ефес",
-				"Еф",
-				"Eph"
-			]
-		},
-		{
-			"name": "К Филиппийцам",
-			"numChapters": 4,
-			"synonyms": [
-				"К Филиппийцам",
-				"Филип",
-				"Флп",
-				"Phil"
-			]
-		},
-		{
-			"name": "К Колоссянам",
-			"numChapters": 4,
-			"synonyms": [
-				"К Колоссянам",
-				"Колос",
-				"Кол",
-				"Col"
-			]
-		},
-		{
-			"name": "1-е Фессалоникийцам",
-			"numChapters": 5,
-			"synonyms": [
-				"1-е Фессалоникийцам",
-				"1(–?-?а?я?e? )?Фес",
-				"1Thess"
-			]
-		},
-		{
-			"name": "2-е Фессалоникийцам",
-			"numChapters": 3,
-			"synonyms": [
-				"2-е Фессалоникийцам",
-				"2(–?-?а?я?e? )?Фес",
-				"2Thess"
-			]
-		},
-		{
-			"name": "1-е Тимофею",
-			"numChapters": 6,
-			"synonyms": [
-				"1-е Тимофею",
-				"1(–?-?а?я?e? )?Тим",
-				"1Tim"
-			]
-		},
-		{
-			"name": "2-е Тимофею",
-			"numChapters": 4,
-			"synonyms": [
-				"2-е Тимофею",
-				"2(–?-?а?я?e? )?Тим",
-				"2Tim"
-			]
-		},
-		{
-			"name": "К Титу",
-			"numChapters": 3,
-			"synonyms": [
-				"К Титу",
-				"Тит",
-				"Titus"
-			]
-		},
-		{
-			"name": "К Филимону",
-			"numChapters": 1,
-			"synonyms": [
-				"К Филимону",
-				"Филим",
-				"Флм",
-				"Phlm"
-			]
-		},
-		{
-			"name": "К Евреям",
-			"numChapters": 13,
-			"synonyms": [
-				"К Евреям",
-				"Евреям",
-				"Евр",
-				"Heb"
-			]
-		},
-		{
-			"name": "Иакова",
-			"numChapters": 5,
-			"synonyms": [
-				"Иакова",
-				"Иак",
 				"Jas"
-			]
+			],
+			"numChapters": 5
 		},
 		{
-			"name": "1-e Петра",
-			"numChapters": 5,
+			"name": "I Послание Петра",
 			"synonyms": [
-				"1-e Петра",
-				"1(–?-?а?я?e? )?Петр?",
 				"1Pet"
-			]
+			],
+			"numChapters": 5
 		},
 		{
-			"name": "2-e Петра",
-			"numChapters": 3,
+			"name": "II Послание Петра",
 			"synonyms": [
-				"2-e Петра",
-				"2(–?-?а?я?e? )?Петр?",
 				"2Pet"
-			]
+			],
+			"numChapters": 3
 		},
 		{
-			"name": "1-e Иоанна",
-			"numChapters": 5,
+			"name": "I Послание Иоанна",
 			"synonyms": [
-				"1-e Иоанна",
-				"1(–?-?а?я?e? )?И(оа)?н",
 				"1John"
-			]
+			],
+			"numChapters": 5
 		},
 		{
-			"name": "2-e Иоанна",
-			"numChapters": 1,
+			"name": "II Послание Иоанна",
 			"synonyms": [
-				"2-e Иоанна",
-				"2(–?-?а?я?e? )?И(оа)?н",
 				"2John"
-			]
+			],
+			"numChapters": 1
 		},
 		{
-			"name": "3-e Иоанна",
-			"numChapters": 1,
+			"name": "III Послание Иоанна",
 			"synonyms": [
-				"3-e Иоанна",
-				"3(–?-?а?я?e? )?И(оа)?н",
 				"3John"
-			]
+			],
+			"numChapters": 1
 		},
 		{
-			"name": "Иуда",
-			"numChapters": 1,
+			"name": "Послание Иуды",
 			"synonyms": [
-				"Иуда",
-				"Иуд",
-				"Иуды",
 				"Jude"
-			]
+			],
+			"numChapters": 1
+		},
+		{
+			"name": "Послание Рим",
+			"synonyms": [
+				"Rom"
+			],
+			"numChapters": 16
+		},
+		{
+			"name": "I Послание в Коринф",
+			"synonyms": [
+				"1Cor"
+			],
+			"numChapters": 16
+		},
+		{
+			"name": "II Послание в Коринф",
+			"synonyms": [
+				"2Cor"
+			],
+			"numChapters": 13
+		},
+		{
+			"name": "Послание в Галатию",
+			"synonyms": [
+				"Gal"
+			],
+			"numChapters": 6
+		},
+		{
+			"name": "Послание в Эфес",
+			"synonyms": [
+				"Eph"
+			],
+			"numChapters": 6
+		},
+		{
+			"name": "Послание в Филиппы",
+			"synonyms": [
+				"Phil"
+			],
+			"numChapters": 4
+		},
+		{
+			"name": "Послание в Колоссы",
+			"synonyms": [
+				"Col"
+			],
+			"numChapters": 4
+		},
+		{
+			"name": "I Послание в Фессалонику",
+			"synonyms": [
+				"1Thess"
+			],
+			"numChapters": 5
+		},
+		{
+			"name": "II Послание в Фессалонику",
+			"synonyms": [
+				"2Thess"
+			],
+			"numChapters": 3
+		},
+		{
+			"name": "I Послание Тимофею",
+			"synonyms": [
+				"1Tim"
+			],
+			"numChapters": 6
+		},
+		{
+			"name": "II Послание Тимофею",
+			"synonyms": [
+				"2Tim"
+			],
+			"numChapters": 4
+		},
+		{
+			"name": "Послание Титу",
+			"synonyms": [
+				"Titus"
+			],
+			"numChapters": 3
+		},
+		{
+			"name": "Послание Филимону",
+			"synonyms": [
+				"Phlm"
+			],
+			"numChapters": 1
+		},
+		{
+			"name": "Послание к евреям",
+			"synonyms": [
+				"Heb"
+			],
+			"numChapters": 13
 		},
 		{
 			"name": "Откровение",
-			"numChapters": 22,
 			"synonyms": [
-				"Откровение",
-				"Откр",
 				"Rev"
-			]
+			],
+			"numChapters": 22
 		}
 	]
 };

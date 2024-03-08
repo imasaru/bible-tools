@@ -325,6 +325,9 @@ Eph	エフェソ
 Eph	エヘソ書
 Eph	エペソ書
 Eph	Eph
+Eph	エフェ
+Eph	エヘ
+Eph	エペ
 Esth	エステル 記
 Esth	エステル書
 Esth	エステル記
@@ -527,6 +530,7 @@ Mark	Mark
 Mark	マルコ伝
 Mark	マルコ書
 Mark	マルコ
+Mark	マコ
 Matt	マタイによる福音書
 Matt	マタイの福音書
 Matt	マタイ傳福音書
@@ -706,9 +710,11 @@ Zeph	ゼファニヤ書
 Zeph	セハニヤ書
 Zeph	セパニヤ書
 Zeph	セファニア
+Zeph	セファニヤ
 Zeph	ゼハニヤ書
 Zeph	ゼパニヤ書
 Zeph	ゼファニア
+Zeph	ゼファニヤ
 Zeph	Zeph
 Zeph	セハニヤ
 Zeph	セパニヤ

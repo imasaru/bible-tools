@@ -1,0 +1,254 @@
+1Chr	1 ကွ့ၭနဲၪ့ဆၧ
+1Chr	၁ ကွ့ၭနဲၪ့ဆၧ
+1Chr	1 ကွ့ၭ
+1Chr	၁ ကွ့ၭ
+1Chr	1Chr
+1Cor	1 ကီရံၫ့
+1Cor	၁ ကီရံၫ့
+1Cor	1 ကီ
+1Cor	1Cor
+1Cor	၁ ကီ
+1Esd	1Esd
+1John	1 ယီဟၫ့
+1John	၁ ယီဟၫ့
+1John	1John
+1John	1 ယီ
+1John	၁ ယီ
+1Kgs	ၥ စဎွၩ
+1Kgs	ၥ ဎွၩ
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 ပံတၧၫ
+1Pet	၁ ပံတၧၫ
+1Pet	1 ပံ
+1Pet	1Pet
+1Pet	၁ ပံ
+1Sam	ၥ စၫမုၫအ့လၭ
+1Sam	1Sam
+1Sam	ၥ စၫ
+1Thess	1 ၥ့ၭစလနဲကၫ
+1Thess	၁ ၥ့ၭစလနဲကၫ
+1Thess	1Thess
+1Thess	1 ၥ့ၭ
+1Thess	၁ ၥ့ၭ
+1Tim	1 ထံမၥံၫ
+1Tim	၁ ထံမၥံၫ
+1Tim	1 ထံ
+1Tim	1Tim
+1Tim	၁ ထံ
+2Chr	2 ကွ့ၭနဲၪ့ဆၧ
+2Chr	၂ ကွ့ၭနဲၪ့ဆၧ
+2Chr	2 ကွ့ၭ
+2Chr	၂ ကွ့ၭ
+2Chr	2Chr
+2Cor	2 ကီရံၫ့
+2Cor	၂ ကီရံၫ့
+2Cor	2 ကီ
+2Cor	2Cor
+2Cor	၂ ကီ
+2Esd	2Esd
+2John	2 ယီဟၫ့
+2John	၂ ယီဟၫ့
+2John	2John
+2John	2 ယီ
+2John	၂ ယီ
+2Kgs	2 စဎွၩ
+2Kgs	၂ စဎွၩ
+2Kgs	2 ဎွၩ
+2Kgs	၂ ဎွၩ
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 ပံတၧၫ
+2Pet	၂ ပံတၧၫ
+2Pet	2 ပံ
+2Pet	2Pet
+2Pet	၂ ပံ
+2Sam	2 စၫမုၫအ့လၭ
+2Sam	၂ စၫမုၫအ့လၭ
+2Sam	2 စၫ
+2Sam	2Sam
+2Sam	၂ စၫ
+2Thess	2 ၥ့ၭစလနဲကၫ
+2Thess	၂ ၥ့ၭစလနဲကၫ
+2Thess	2Thess
+2Thess	2 ၥ့ၭ
+2Thess	၂ ၥ့ၭ
+2Tim	2 ထံမၥံၫ
+2Tim	၂ ထံမၥံၫ
+2Tim	2 ထံ
+2Tim	2Tim
+2Tim	၂ ထံ
+3John	3 ယီဟၫ့
+3John	၃ ယီဟၫ့
+3John	3John
+3John	3 ယီ
+3John	၃ ယီ
+3Macc	3Macc
+4Macc	4Macc
+Acts	Acts
+Acts	ၦဆၧ
+Acts	ဆၧ
+Amos	အၫမူၭ
+Amos	Amos
+Amos	မူၭ
+Bar	Bar
+Bel	Bel
+Col	ကလီစံၫ
+Col	Col
+Col	လီ
+Dan	ဒၫ့နအ့လၭ
+Dan	Dan
+Dan	ဒၫ့
+Deut	5 မိစ့ၭ
+Deut	၅ မိစ့ၭ
+Deut	5 မိ
+Deut	Deut
+Deut	၅ မိ
+Eccl	လီၩလၩ့ဆၧ
+Eccl	Eccl
+Eccl	လီၩ
+EpJer	EpJer
+Eph	အ့ဖစၧၭ
+Eph	Eph
+Eph	အ့
+Esth	အ့စတၧၫ
+Esth	Esth
+Esth	တၧၫ
+Exod	2 မိစ့ၭ
+Exod	၂ မိစ့ၭ
+Exod	2 မိ
+Exod	Exod
+Exod	၂ မိ
+Ezek	အဇံၫခအ့လၭ
+Ezek	Ezek
+Ezek	ဇံၫ
+Ezra	အ့ဇရၫ
+Ezra	Ezra
+Ezra	ရၫ
+Gal	ဂလ့ၡၫ
+Gal	Gal
+Gal	လ့
+Gen	ၥ မိစ့ၭ
+Gen	ၥ မိ
+Gen	Gen
+GkEsth	GkEsth
+Hab	ဟဘၭကၧၭ
+Hab	Hab
+Hab	ကၧၭ
+Hag	ဟၭဂဲၫ
+Hag	Hag
+Hag	ဟၭ
+Heb	ဟံဘြႃၫ
+Heb	Heb
+Heb	ဟံ
+Hos	ဟိၫစံအၫ
+Hos	Hos
+Hos	ဟိၫ
+Isa	အဲၫစ့ယၫ
+Isa	Isa
+Isa	အဲၫ
+Jas	ယ့မံၭ
+Jas	Jas
+Jas	ယ့
+Jdt	Jdt
+Jer	ယ့ၫရမဲအၫ
+Jer	မဲအၫ
+Jer	Jer
+Job	ယိဘၭ
+Job	Job
+Job	ဘၭ
+Joel	ယိၫအ့လၭ
+Joel	Joel
+Joel	ယိၫ
+John	ယီဟၫ့
+John	John
+John	ယီ
+Jonah	Jonah
+Jonah	ယိနၫ
+Jonah	နၫ
+Josh	ယီရှုၫအ့ၫ
+Josh	Josh
+Josh	ရှုၫ
+Jude	Jude
+Jude	ယုဒၭ
+Jude	ဒၭ
+Judg	စ့ၩရၫ့
+Judg	Judg
+Judg	စ့ၩ
+Lam	ဂၪ့ဆၧယၧၩ့ဆၧ
+Lam	ဂၪ့ဆၧ
+Lam	Lam
+Lev	3 မိစ့ၭ
+Lev	၃ မိစ့ၭ
+Lev	3 မိ
+Lev	၃ မိ
+Lev	Lev
+Luke	Luke
+Luke	လုကၭ
+Luke	လု
+Mal	မၪလခဲၫ
+Mal	Mal
+Mal	ခဲၫ
+Mark	မၫကၧၭ
+Mark	Mark
+Mark	မၫ
+Matt	မၭၥုၫ
+Matt	Matt
+Matt	မၭ
+Mic	မဲကၫ
+Mic	Mic
+Mic	မဲ
+Nah	နၫဟၧၫ့
+Nah	ဟၧၫ့
+Nah	Nah
+Neh	နံၫဟမဲအၫ
+Neh	Neh
+Neh	နံၫ
+Num	4 မိစ့ၭ
+Num	၄ မိစ့ၭ
+Num	4 မိ
+Num	၄ မိ
+Num	Num
+Obad	အိၫဘဒဲအၫ
+Obad	Obad
+Obad	အိၫ
+Phil	ဖလံဖံၫ
+Phil	Phil
+Phil	ဖံၫ
+Phlm	ဖလံမၧၫ့
+Phlm	လံမၧၫ့
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	ချဲၩ့ဒီၩ့လၩ့
+Prov	Prov
+Prov	ဒီၩ့
+Ps	အၪ့အူၭ
+Ps	အၪ့
+Ps	Ps
+Rev	နဲၪဖျီၪ
+Rev	Rev
+Rev	နဲၪ
+Rom	ရိမၫ
+Rom	Rom
+Rom	ရိ
+Ruth	Ruth
+Ruth	ရုၥၭ
+Ruth	ရု
+SgThree	SgThree
+Sir	Sir
+Song	စီလမၧၫ့အထၭခိၪ
+Song	Song
+Song	ထၭ
+Sus	Sus
+Titus	Titus
+Titus	တဲတၧၭ
+Titus	တဲ
+Tob	Tob
+Wis	Wis
+Zech	ဇ့ၭခရဲအၫ
+Zech	Zech
+Zech	ရဲ
+Zeph	ဇ့ၭဖနဲအၫ
+Zeph	Zeph
+Zeph	ဖနဲ

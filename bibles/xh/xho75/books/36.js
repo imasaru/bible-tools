@@ -1,0 +1,66 @@
+var book = {
+	"name": "UZEFANIYA",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ilizwi likaYehova elafika kuZefaniya unyana kaKushi, unyana kaGedaliya, unyana ka-Amariya, unyana kaHezekiya, ngemihla kaYosiya unyana ka-Amon, ukumkani wakwaYuda.",
+			"2": "<sup>2</sup> Ndiya kususa ndiyisuse into yonke ehlabathini; utsho uYehova.",
+			"3": "<sup>3</sup> Ndiya kususa abantu neenkomo; ndiya kususa iintaka zezulu, neentlanzi zolwandle; nezikhubekiso kunye nabangendawo; ndibanqamle abantu emhlabeni; utsho uYehova.",
+			"4": "<sup>4</sup> Ndiya kusolula isandla sam phezu koYuda, naphezu kwabemi bonke baseYerusalem, ndinqamle kuyo le ndawo amasalela akwaBhahali,* negama lababingeleli abangengabo, kunye nababingeleli;",
+			"5": "<sup>5</sup> nabaqubuda kumkhosi wezulu phezu kwezindlu, nabaqubudi abazinikela kuYehova ngesifungo, bafunge ukumkani wabo;",
+			"6": "<sup>6</sup> nababuya umva kuYehova, nabangàmfunanga uYehova, abangàmquqelanga.",
+			"7": "<sup>7</sup> Yithini tu ebusweni beNkosi uYehova; ngokuba isondele imini kaYehova; kuba uYehova ulungise umbingelelo, ungcwalise abamenywa bakhe.",
+			"8": "<sup>8</sup> Kuya kuthi ngemini yombingelelo kaYehova, ndibavelele abathetheli, noonyana bokumkani, nabo bonke abambatha izambatho zolunye uhlanga.",
+			"9": "<sup>9</sup> Ndobavelela ngaloo mini bonke abatsiba embundwini womnyango, abazalisa indlu yenkosi yabo ngogonyamelo nenkohliso.",
+			"10": "<sup>10</sup> Kothi ngaloo mini, utsho uYehova, kuvele izwi lokukhala esangweni leentlanzi, kuvele nokubhomboloza kwesesibini isahlulo somzi, kuvele ukuqhekeka okukhulu ezindulini.",
+			"11": "<sup>11</sup> Bhombolozani, bemi basemgongxweni, kuba badakile bonke abantu bakwaKanan, banqunyulwe bonke abathwali besilivere.",
+			"12": "<sup>12</sup> Kuya kuthi ngelo xesha, ndiyigquthagquthe iYerusalem ndinezibane, ndiwavelele amadoda agovalele ezintsipheni zawo; atshoyo ukuthi ezintliziyweni zawo, UYehova akenzi kulungileyo, akenzi nakubi.",
+			"13": "<sup>13</sup> Ubutyebi bawo buya kudywidwa, nezindlu zawo zibe ngamanxuwa; akhe izindlu, angazihlali; atyale izidiliya, angayiseli iwayini yazo.",
+			"14": "<sup>14</sup> Isondele imini enkulu kaYehova, isondele, ikhawulezile kakhulu. Yivani, imini kaYehova! Liyakhala ngokukrakra khona igorha.",
+			"15": "<sup>15</sup> Loo mini yimini yokuphuphuma komsindo, yimini yembandezelo nocutheko, yimini yentshabalala yakwantshabalala, yimini yobumnyama nesithokothoko, yimini yamafu, namafu amnyama;",
+			"16": "<sup>16</sup> yimini yesigodlo nokuhlaba umkhosi emizini enqatyisiweyo, naseluqoqweni olude.",
+			"17": "<sup>17</sup> Ndiya kubabandezela abantu, bahambe ngokweemfama, kuba bonile kuYehova; liphalàzwe igazi labo njengothuli, nenyama yabo njengobulongo.",
+			"18": "<sup>18</sup> Nesilivere yabo negolide yabo ayisayi kuba nako ukubahlangula ngemini yokuphuphuma komsindo kaYehova; lotshiswa lonke ihlabathi ngumlilo wekhwele lakhe. Ngokuba uya kubaphelisa, inene, abènze into ekhwankqisayo bonke abemi behlabathi."
+		},
+		"2": {
+			"1": "<sup>1</sup> Zihlanganiseni nizihlanganise, luhlangandini lungadaniyo,",
+			"2": "<sup>2</sup> ungekazali ummiselo (kuba imini le idlula njengomququ), kungekanifikeli ukuvutha komsindo kaYehova, ingekanifikeli imini yomsindo kaYehova.",
+			"3": "<sup>3</sup> Funani uYehova, nonke balulamileyo belizwe, bakwenzileyo okusesikweni kwakhe; funani ubulungisa, funani ululamo, mhlawumbi nòsitheliswa ngemini yomsindo kaYehova.",
+			"4": "<sup>4</sup> Ngokuba iGaza iya kuba sisishiywa, neAshkelon ibe linxuwa; iAshdode iya kugxothwa emini emaqanda, inyothulwe iEkron.",
+			"5": "<sup>5</sup> Uha, abemi becandelo laselwandle, uhlanga lwamaKreti! Ilizwi likaYehova lichasene nani, Kanan, lizwe lamaFilisti. Ndokutshabalalisa ke, kungabikho ukúmayo.",
+			"6": "<sup>6</sup> Icandelo laselwandle liya kuba ngamakriwa, nemiqolomba yabalusi, libe zizibaya zempahla emfutshane.",
+			"7": "<sup>7</sup> Loba licandelo lamasalela endlu yakwaYuda; aya kwalúsela kulo, abuthe ezindlwini zaseAshkelon ngokuhlwa; kuba uya kuwavelela uYehova uThixo wawo, akubuyise ukuthinjwa kwawo.",
+			"8": "<sup>8</sup> Ndikuvile ukungcikiva kukaMowabhi, nokunyelisa koonyana baka-Amon, ababangcikive ngako abantu bam, bazikhulisa emdeni wabo.",
+			"9": "<sup>9</sup> Ngako oko, ndihleli nje, utsho uYehova wemikhosi, uThixo kaSirayeli, inene, elakwaMowabhi liya kuba njengeSodom, neloonyana baka-Amon libe njengeGomora, libe lilifa lamarhawu, libe sisigingqi setyuwa, kube senkangala kulo, kude kuse ephakadeni. Amasalela abantu bam aya kubaphanga, amaqongqolo ohlanga lwam abadle ilifa.",
+			"10": "<sup>10</sup> Kuya kuba njalo kubo ngenxa yekratshi labo, ngokuba bengcikivile, bazikhulisa kubantu bakaYehova wemikhosi.",
+			"11": "<sup>11</sup> Uyoyikeka uYehova kubo; kuba uyabangcungcuthekisa bonke oothixo behlabathi, ziqubude kuye zonke iziqithi zeentlanga, elowo esendaweni yakhe.",
+			"12": "<sup>12</sup> Nani maKushi, ningababuleweyo ngekrele lam.",
+			"13": "<sup>13</sup> Úya kusolula isandla sakhe ngakwelisentla, ayitshabalalise iAsiriya, ayenze ibe linxuwa iNineve, ayenze umqwebedu onjengentlango.",
+			"14": "<sup>14</sup> Iya kubutha phakathi kwayo imihlambi, izinto eziphilileyo nokuba ziziphi, ziziimfidi; ingcwangube nokhwalimanzi balale emanqanamini; kobakho lizwi leemvumi ezifestileni, amazala emibundwini yeminyango; ngokuba ewuhlubile umsebenzi wabo wemisedare.*",
+			"15": "<sup>15</sup> Nguwo lowo umzi obudlamkile, obuhleli ukholosile, obusithi entlizityweni yawo, Ndim kwaphela, akukho wumbi. Útheni na ukuba ube linxuwa, ube sisikhundla samarhamncwa! Bonke abadlulayo kuwo benza umsondlo, baphekuze ngesandla sabo."
+		},
+		"3": {
+			"1": "<sup>1</sup> Yeha, umzi oneenkani, ongcolileyo, oxinzelela phantsi!",
+			"2": "<sup>2</sup> Awuphulaphulanga lizwi; awamkelanga ngqeqesho; awukholosanga ngoYehova, awusondelanga kuThixo wawo.",
+			"3": "<sup>3</sup> Abathetheli bawo phakathi kwawo baziingonyama ezibharhulayo; abagwebi bawo baziingcuka zangokuhlwa, ezingabeki nto ukuze ziyigunuze kwakusa.",
+			"4": "<sup>4</sup> Abaprofeti bawo bayaxhaphazela, ngamadoda anginizayo; ababingeleli bawo bayayihlambela ingcwele, bagonyamela umyalelo.",
+			"5": "<sup>5</sup> UYehova ulilungisa esazulwini sawo; akenzi ngabugqwetha; imisó ngemisó ukumisa emhlotsheni okusesikweni kwakhe, angasileli; ke yena onobugqwetha akakwazi ukudana.",
+			"6": "<sup>6</sup> Ndizinqámle iintlanga, zichithakele iingqoqo zezindlu zazo. Ndizonakalisile izitrato zazo, ukuba kungabikho udlula ngazo; idilikile imizi yazo, ukuba kungabikho mntu, kungabikho umiyo kuyo.",
+			"7": "<sup>7</sup> Ndathi kodwa, Mawundoyike, uyamkele ingqeqesho, lingànqanyulwa ikhaya lakho, njengako konke endakumisela khona; ke bavuka kusasa, bonakalise ngeentlondi zabo zonke.",
+			"8": "<sup>8</sup> Ngako oko yilindeleni kum, utsho uYehova, ide ibe yimini yokuvuka kwam, ndithimbe. Ngokuba kulunge kum ukuhlanganisa iintlanga, ndibuthe izikumkani, ukuze ndiyiphalaze ingqumbo yam phezu kwazo, konke ukuvutha komsindo wam; kuba liya kutshiswa ngumlilo wekhwele lam lonke ihlabathi.",
+			"9": "<sup>9</sup> Kuba ngelo xesha ndiya kuziguqulela izizwe intetho enyulu, ukuze zinqule igama likaYehova zonke ziphela, zimkhonze ngaxhatha linye.",
+			"10": "<sup>10</sup> Ziya kuthabathela phesheya kwemilambo yakwaKushi, zibazise abandithandayo, intombi yeentsali zam, bengumnikelo wam wokudla.",
+			"11": "<sup>11</sup> Ngaloo mini akuyi kudana ngenxa yeentlondi zakho zonke, owakreqa ngazo kum; ngokuba ngelo xesha ndiya kubasusa phakathi kwakho abadlamkileyo bakho, benekratshi, ungaphindi uzidle ngokwakho entabeni yam engcwele.",
+			"12": "<sup>12</sup> Kanjalo ndiya kusalisa phakathi kwakho abantu abaziintsizana, abazizisweli, abaya kuzímela egameni likaYehova.",
+			"13": "<sup>13</sup> Amasalela akwaSirayeli akayi kwenza ngobugqwetha, akayi kuthetha amanga, aluyi kufumaneka emlonyeni wawo ulwimi lwenkohliso; ngokuba wona aya kudla, abuthe, kungabikho uwothusayo.",
+			"14": "<sup>14</sup> Memelela, ntombi inguZiyon: duma, Sirayeli; vuya, udlamke ngentliziyo yonke, ntombi inguYerusalem.",
+			"15": "<sup>15</sup> UYehova ukususile ukugwetywa kwakho, úzidedisile iintshaba zakho; ukumkani wakwaSirayeli, uYehova, uphakathi kwakho; akusayi kuba sabona bubi.",
+			"16": "<sup>16</sup> Ngaloo mini baya kuthi kwiYerusalem, Musa ukoyika; Ziyon, mazingawi izandla zakho.",
+			"17": "<sup>17</sup> UYehova uThixo wakho uphakathi kwakho, ligorha elisindisayo; únemihlali ngawe, enovuyo; úthe cwaka eluthandweni lwakhe, ugcoba ngawe ememelela.",
+			"18": "<sup>18</sup> Ndiya kubahlanganisa abalilela umthendeleko, bengabakuni; ingcikivo ibaphethe.",
+			"19": "<sup>19</sup> Yabona, ndiya kubenza ngendawo bonke abacinezeli bakho ngelo xesha; ndiyisindise into eqhwalelayo, ndiyihlanganise into egxothiweyo; ndibenze indumiso negama emazweni onke abahlaziswa kuwo.",
+			"20": "<sup>20</sup> Ngelo xesha ndiya kunizisa, ndinibuthe ngexesha elililo; ngokuba ndiya kunenza nibe negama, nidunyiswe phakathi kwezizwe zonke zehlabathi, ekukubuyiseni kwam ukuthinjwa kwenu phambi kwamehlo enu; utsho uYehova."
+		}
+	}
+};
+module.exports = book;

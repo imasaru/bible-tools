@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malakia",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ennussana. Herran sana, jonka Malakia puhui Israelille.",
+			"2": "<sup>2</sup> – Minä rakastan teitä, sanoo Herra. Mutta te kysytte: »Missä sinun rakkautesi näkyy?» – Eikö Esau ollut Jaakobin veli? sanoo Herra. Jaakobia minä rakastin,",
+			"3": "<sup>3</sup> mutta Esauta vihasin. Minä tein Esaun vuoret autioiksi, hänen perintömaansa sakaalien asuinpaikaksi.",
+			"4": "<sup>4</sup> Kun edomilaiset sanovat: »Meidät on murskattu, mutta me rakennamme jälleen raunioitten paikalle», silloin Herra Sebaot lausuu: – Rakentakoot vain, mutta minä revin kaiken hajalle! Heidän maataan kutsutaan aina jumalattomuuden maaksi, ja heitä itseään sanotaan kansaksi, jota Herra ikuisesti vihaa.",
+			"5": "<sup>5</sup> Te tulette näkemään sen omin silmin, ja silloin te sanotte: »Suuri on Herra! Kauas ulottuu hänen valtansa yli Israelin rajojen!»",
+			"6": "<sup>6</sup> – Poika kunnioittaa isäänsä ja palvelija isäntäänsä. Minä olen teidän isänne, miksi ette kunnioita minua? Minä olen teidän isäntänne, miksi ette palvele minua? Tätä minä, Herra Sebaot, kysyn teiltä, te papit, jotka pidätte minua pilkkananne. »Miten me olemme pitäneet sinua pilkkanamme?» te kysytte.",
+			"7": "<sup>7</sup> – Siten, että olette tuoneet minun alttarilleni epäpuhdasta ruokaa. »Miten me olemme halveksineet sinua?» te kysytte. – Siten, että olette ajatelleet: Herran pöytä ei ole minkään arvoinen.",
+			"8": "<sup>8</sup> Kun te tuotte uhrattavaksi sokean eläimen, eikö se ole väärin? Kun te tuotte uhrattavaksi ontuvan tai sairaan eläimen, eikö se ole väärin? Yritä viedä sellainen lahjaksi käskynhaltijallesi! Luuletko, että hän on tyytyväinen sinuun ja ottaa sinut ystävällisesti vastaan? Näin sanoo Herra Sebaot.",
+			"9": "<sup>9</sup> Ja sellaisia uhreja te tuotte Jumalallenne! Niillä te yritätte päästä hänen suosioonsa, että hän olisi teille armollinen. Kun te näin teette, luuletteko, että hän täyttää pyyntönne? Näin sanoo Herra Sebaot.",
+			"10": "<sup>10</sup> Kunpa joku teistä sulkisi temppelin ovet, ettette pääsisi turhaan sytyttämään tulta minun alttarilleni! En välitä teistä, sanoo Herra Sebaot, eivätkä teidän uhrilahjanne ole minulle mieleen.",
+			"11": "<sup>11</sup> »Auringonnousun maista auringonlaskun maihin saakka minun nimeni on suuri. Kaikkialla minulle uhrataan suitsukkeita ja puhtaita ruokauhreja, sillä minun kunniani on suuri kansojen keskuudessa», sanoo Herra Sebaot.",
+			"12": "<sup>12</sup> »Mutta te häpäisette minun nimeni, kun ajattelette, että Herran pöydän saa saastuttaa tuomalla kelvottomia uhrilahjoja.",
+			"13": "<sup>13</sup> Ja kun te sanotte: ’Voi, mikä vaiva tästä uhraamisesta onkaan!’, te sytytätte minun vihani», sanoo Herra Sebaot. »Kun tuotte varastetun, ontuvan tai sairaan eläimen uhrilahjaksi, luuletteko silloin, että teidän uhrinne on minulle mieleen?» kysyy Herra.",
+			"14": "<sup>14</sup> »Kirottu olkoon petturi, joka on luvannut antaa Herralle virheettömän uroksen laumastaan mutta uhraakin hänelle viallisen eläimen. Minä olen suuri kuningas, ja kaikki kansat pelkäävät minun nimeäni», sanoo Herra Sebaot."
+		},
+		"2": {
+			"1": "<sup>1</sup> »Te papit, teitä koskee tämä sana:",
+			"2": "<sup>2</sup> ellette kuuntele minua ettekä vilpittömin sydämin kunnioita minun nimeäni, minä annan kirouksen kohdata teitä, minä muutan saamanne siunauksen kiroukseksi», sanoo Herra Sebaot. »Minä lähetän siunauksen tilalle kirouksen, koska ette vilpittömin sydämin kunnioita minua.»",
+			"3": "<sup>3</sup> – Minä teen teidän sukunne kelvottomaksi papin tehtävään. Minä paiskaan uhrieläintenne suolet sontineen teidän silmillenne, viskaan juhlienne jätteet kasvoillenne, ja teidät itsennekin heitetään tuohon samaan tunkioon.",
+			"4": "<sup>4</sup> – Huomatkaa nyt: tuon sanan minä olen lähettänyt teille siksi, että liitto, jonka tein Leevin kanssa, pysyisi voimassa, sanoo Herra Sebaot.",
+			"5": "<sup>5</sup> Minun liittoni oli tällainen: Elämän, rauhan ja menestyksen minä annoin hänelle, ja hän kunnioitti ja palveli minua, lähestyi minua vavisten.",
+			"6": "<sup>6</sup> Luotettava opetus oli hänen sanoissaan, eikä vääryyttä ollut hänen huulillaan. Vakaasti ja vilpittömästi hän vaelsi minun tietäni, ja monet hän palautti takaisin synnistä.",
+			"7": "<sup>7</sup> Papin suun tulee jakaa tietoa, hänen huuliltaan odotetaan opetusta. Hän on Herran Sebaotin sanansaattaja.",
+			"8": "<sup>8</sup> – Mutta te olette poikenneet tieltä, teidän opetuksenne on saanut monet lankeamaan. Te olette rikkoneet liittoni, jonka tein Leevin kanssa, sanoo Herra Sebaot.",
+			"9": "<sup>9</sup> Niin minäkin teen teidät halveksituiksi ja saatan teidät häpeään kaiken kansan silmissä. Te ette pysyneet minun teilläni, vaan opettaessanne katsoitte, keitä kuulijat olivat.",
+			"10": "<sup>10</sup> Eikö meillä kaikilla ole sama isä? Eikö yksi ja sama Jumala ole meidät luonut? Miksi me kuitenkin petämme toinen toistamme ja häpäisemme liiton, jonka Jumala teki isiemme kanssa?",
+			"11": "<sup>11</sup> Juuda on ollut uskoton, iljettäviä tekoja on tehty Israelissa ja Jerusalemissa. Juudan miehet ovat ottaneet vaimoikseen vieraan jumalan palvelijoita ja näin loukanneet pyhää Jumalaansa, joka rakastaa omaa kansaansa.",
+			"12": "<sup>12</sup> Ottakoon Herra pois tuen ja turvan jokaiselta Jaakobin heimon mieheltä, joka sellaista tekee. Älköön hänelle jääkö ketään, joka voisi tuoda uhrin Herralle Sebaotille.",
+			"13": "<sup>13</sup> Te teette pahaa myös toisella tavalla. Siksi Herra ei katso enää suopeasti uhrilahjaanne eikä halua ottaa sitä vastaan teidän kädestänne, vaikka te peitätte hänen alttarinsa kyynelillä, itkette ja valitatte.",
+			"14": "<sup>14</sup> Te kysytte: »Miksi?» Siksi, että olet hylännyt vaimosi, vaikka hän on sinun kumppanisi ja kuuluu liiton kansaan sinun kanssasi. Herra on todistaja teidän välillänne, sinun ja vaimosi, jonka otit jo nuoruudessasi.",
+			"15": "<sup>15</sup> Ei Jumala luonut vain miestä eikä antanut elämää ja henkeä vain hänelle. Miten mies yksin voisi pyytää jälkeläisiä Jumalalta? Varokaa siis, ettei kukaan teistä hylkää vaimoaan, jonka on ottanut jo nuoruudessaan!",
+			"16": "<sup>16</sup> – Minä vihaan eroa, sanoo Herra, Israelin Jumala. Joka eroaa, tekee yhtä väärin kuin se, joka tahraa kätensä veriteolla, sanoo Herra Sebaot. Varokaa hylkäämästä vaimoanne!",
+			"17": "<sup>17</sup> Te väsytätte Herran puheillanne mutta kysytte silti: »Miten me hänet väsytämme?» Siten, että sanotte: »Joka tekee pahaa, kelpaa Herralle, sellaiset ovat hänelle mieleen.» Tai te kysytte: »Missä viipyy Jumalan tuomio?»"
+		},
+		"3": {
+			"1": "<sup>1</sup> – Minä lähetän sanansaattajani raivaamaan edelläni tietä. Ja aivan äkkiä tulee temppeliinsä Valtias, jota te odotatte, ja Liiton enkeli, jota te kaipaatte. Hän saapuu, sanoo Herra Sebaot.",
+			"2": "<sup>2</sup> Kuka voi kestää sen päivän, jolloin hän tulee, kuka voi seistä horjumatta, kun hän ilmestyy? Sillä hän on kuin ahjon hehku, hän puhdistaa kuin vahvin lipeä.",
+			"3": "<sup>3</sup> Silloin Herra toimii kuin metallinsulattaja ja hopeankiillottaja. Hän puhdistaa leeviläiset, ja he tulevat puhtaiksi kuin kulta ja hopea, joista kuona on poltettu pois. He uhraavat jälleen Herralle virheettömät uhrit, säädösten mukaan.",
+			"4": "<sup>4</sup> Juudan ja Jerusalemin uhrilahjat ovat Herralle mieleen, niin kuin ne olivat entisinä aikoina, jo kauan sitten.",
+			"5": "<sup>5</sup> Näin sanoo Herra Sebaot: – Minä tulen, minä saavun tuomitsemaan teitä, minä vaadin pian tilille taikojen tekijät ja avionrikkojat. Minä vaadin tilille ne, jotka eivät pelkää minua vaan tekevät väärän valan, jotka kieltäytyvät maksamasta päiväpalkkalaiselle hänen palkkaansa, jotka sortavat leskiä ja orpoja ja maassa asuvia muukalaisia.",
+			"6": "<sup>6</sup> – Minä, Herra, en muutu, ettekä tekään, Jaakobin jälkeläiset, ole entisestänne muuttuneet.",
+			"7": "<sup>7</sup> Isienne ajoista asti te olette poikenneet käskyistäni ettekä ole noudattaneet niitä. Kääntykää minun puoleeni, niin minäkin käännyn teidän puoleenne, sanoo Herra Sebaot. Mutta te kysytte: »Mitä väärää me sitten olemme tehneet?»",
+			"8": "<sup>8</sup> Voiko ihminen riistää jotakin Jumalalta? Sitä te kuitenkin yritätte. »Mitä me sinulta riistämme?» te kysytte. Kymmenyksiä ja uhrilahjoja!",
+			"9": "<sup>9</sup> Kirous on teidän osananne, koska te kaikki, koko kansa, petätte minua.",
+			"10": "<sup>10</sup> – Tuokaa täydet kymmenykset aarrekammioon, jotta temppelissäni olisi ruokaa. Koetelkaa minua tällä tavalla, sanoo Herra Sebaot. – Silloin saatte nähdä, että minä avaan taivaan ikkunat ja vuodatan teille sateen runsaan siunauksen.",
+			"11": "<sup>11</sup> Minä karkotan heinäsirkat mailtanne, ne eivät enää tuhoa peltojenne satoa, tarhojenne viiniköynnös ei jää hedelmää vaille, sanoo Herra Sebaot.",
+			"12": "<sup>12</sup> – Silloin kaikki kansat ylistävät teidän onneanne, sillä maanne on oleva ihana maa, sanoo Herra Sebaot.",
+			"13": "<sup>13</sup> – Te puhutte uskaliaasti minua vastaan, sanoo Herra. »Miten me olemme puhuneet sinua vastaan?» te kysytte.",
+			"14": "<sup>14</sup> Olette sanoneet näin: »Turha on palvella Jumalaa. Mitä hyötyä on siitä, että noudatamme hänen käskyjään, palvelemme Herraa Sebaotia ja kuljemme murhe kasvoillamme?",
+			"15": "<sup>15</sup> Me näemme, kuinka röyhkeät ovat onnellisia, kuinka he menestyvät vaikka ovat tehneet pahaa. He saavat elää, vaikka ovat koetelleet Jumalan kärsivällisyyttä.»",
+			"16": "<sup>16</sup> Mutta kun ne, jotka Herraa pelkäävät, puhuvat kaikesta tästä, Herra kuulee, mitä he sanovat. Kaikki kirjoitetaan muistiin hänen edessään. Se koituu iloksi niille, jotka kunnioittavat häntä ja pelkäävät hänen nimeään.",
+			"17": "<sup>17</sup> – Sinä päivänä, jonka minä määrään, he jälleen ovat minun oma kansani, sanoo Herra Sebaot. – Ja minä olen hyvä heitä kohtaan, niin kuin isä on hyvä pojalleen, joka tottelee häntä.",
+			"18": "<sup>18</sup> Te näette jälleen eron vanhurskaan ja jumalattoman välillä. Te näette, kuka on palvellut Jumalaa ja kuka ei ole häntä palvellut.",
+			"19": "<sup>19</sup> – Katso, se päivä tulee liekehtivänä kuin tulinen uuni. Kaikki röyhkeät ja pahantekijät ovat silloin oljenkorsia. Se päivä tulee ja sytyttää ne liekkiin – sanoo Herra Sebaot – eikä niistä jää jäljelle juurta eikä vartta.",
+			"20": "<sup>20</sup> Mutta teille, jotka pelkäätte minun nimeäni, on nouseva pelastuksen aurinko, ja te parannutte sen siipien alla. Te astutte ulos, hypitte riemusta kuin vasikat laitumella.",
+			"21": "<sup>21</sup> Sinä päivänä, jonka minä määrään, te poljette jumalattomat maahan, tallaatte heidät tomuksi, sanoo Herra Sebaot.",
+			"22": "<sup>22</sup> Pitäkää mielessänne palvelijani Mooseksen laki, jonka annoin hänelle Horebilla: käskyt ja säädökset, jotka annoin koko Israelille.",
+			"23": "<sup>23</sup> Kuulkaa! Ennen kuin tulee Herran päivä, suuri ja pelottava, minä lähetän teille profeetta Elian.",
+			"24": "<sup>24</sup> Hän kääntää isien sydämet lasten puoleen ja lasten sydämet isien puoleen. Silloin en tuomitse maata perikatoon, kun tulen."
+		}
+	}
+};
+module.exports = book;

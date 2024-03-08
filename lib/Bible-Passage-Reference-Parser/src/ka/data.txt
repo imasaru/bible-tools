@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	და
+$CHAPTER	თავი
+$FF	ff
+$TITLE	სათაური
+$TRANS	geo
+$TO	to
+$VERSE	ლექსი
+$UNICODE_BLOCK	Latin
+
+Gen	დაბადება	დაბ
+Exod	გამოსვლა	გამ
+Lev	ლევიანნი	ლევ
+Num	რიცხვნი	რიცხ
+Deut	მეორე რჯული	რჯლ
+Josh	იესო ნავეს ძე	იესო
+Judg	მსაჯული	მსაჯ
+Ruth	რუთი	რუთ
+1Sam	1 მეფეთა	1მეფ
+2Sam	2 მეფეთა	2მეფ
+1Kgs	3 მეფეთა	3მეფ
+2Kgs	4 მეფეთა	4მეფ
+1Chr	1 ნეშტთა	1ნეშტ
+2Chr	2 ნეშტთა	2ნეშტ
+Ezra	ეზრა	ეზრ
+Neh	ნეემია	ნეემ
+Esth	ესთერი	ესთ
+Job	იობი	იობ
+Ps	ფსალმუნები	ფსალმ	ფს
+Prov	იგავნი სოლომონისა	იგავ
+Eccl	ეკლესიასტე	ეკლ
+Song	ქებათა-ქება სოლომონისა	ქებ
+Isa	ესაია	ეს
+Jer	იერემია	იერ
+Lam	გოდება იერემიასი	გოდ
+Ezek	ეზეკიელი	ეზეკ
+Dan	დანიელი	დან
+Hos	ოსია	ოს
+Joel	იოველი	იოელ
+Amos	ამოსი	ამოს
+Obad	აბდია	აბდ
+Jonah	იონა	იონ
+Mic	მიქა	მიქ
+Nah	ნაუმი	ნაუმ
+Hab	აბაკუმი	აბაკ
+Zeph	სოფონია	სოფ
+Hag	ანგია	ანგ
+Zech	ზაქარია	ზაქ
+Mal	მალაქია	მალ
+Matt	მათეს სახარება	მათ
+Mark	მარკოზის სახარება	მარკ
+Luke	ლუკას სახარება	ლუკ
+John	იოანეს სახარება	იოან
+Acts	მოციქულთა საქმეები	საქმე
+Rom	რომაელთა მიმართ	რომ
+1Cor	1 კორინთელთა მიმართ	1კორ
+2Cor	2 კორინთელთა მიმართ	2კორ
+Gal	გალატელთა მიმართ	გალ
+Eph	ეფესელთა მიმართ	ეფეს
+Phil	ფილიპელთა მიმართ	ფილიპ
+Col	კოლასელთა მიმართ	კოლ
+1Thess	1 თესალონიკელთა მიმართ	1თეს
+2Thess	2 თესალონიკელთა მიმართ	2თეს
+1Tim	1 ტიმოთეს მიმართ	1ტიმ
+2Tim	2 ტიმოთეს მიმართ	2ტიმ
+Titus	ტიტეს მიმართ	ტიტ
+Phlm	ფილიმონის მიმართ	ფილ
+Heb	ებრაელთა მიმართ	ებრ
+Jas	იაკობის წერილი	იაკ
+1Pet	1 პეტრეს წერილი	1პეტრ
+2Pet	2 პეტრეს წერილი	2პეტრ
+1John	1 იოანე	1იოან
+2John	2 იოანე	2იოან
+3John	3 იოანე	3იოან
+Jude	იუდა	იუდ
+Rev	გამოცხადება	გამოცხ
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Amos
+=Hos
+=Joel
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+=Isa
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

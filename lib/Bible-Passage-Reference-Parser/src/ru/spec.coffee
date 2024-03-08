@@ -130,11 +130,13 @@ describe "Localized book Num (ru)", ->
 		`
 		expect(p.parse("Книга Чисел 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("Числа 1:1").osis()).toEqual("Num.1.1")
+		expect(p.parse("Числ 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("Num 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("Чис 1:1").osis()).toEqual("Num.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("КНИГА ЧИСЕЛ 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("ЧИСЛА 1:1").osis()).toEqual("Num.1.1")
+		expect(p.parse("ЧИСЛ 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("NUM 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("ЧИС 1:1").osis()).toEqual("Num.1.1")
 		`

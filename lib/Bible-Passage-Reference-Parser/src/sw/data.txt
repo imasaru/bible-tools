@@ -27,10 +27,10 @@ Judg	Waamuzi	Amu	Waam
 Ruth	Ruthu	Kitabu cha Ruth[iu]	Ruthi?	Rut
 1Sam	Samueli I	Kitabu cha Kwanza cha Samueli	$FIRST Sam	$FIRST Sam[uw]eli
 2Sam	Samueli II	Kitabu cha Pili cha Samueli	$SECOND Sam	$SECOND Sam[uw]eli
-1Kgs	Wafalme I	Kitabu cha Kwanza cha Wafalme	$FIRST Fal	$FIRST Wafalme
-2Kgs	Wafalme II	Kitabu cha Pili cha Wafalme	$SECOND Fal	$SECOND Wafalme
-1Chr	Mambo ya Nyakati I	$FIRST Nya	$FIRST Mambo ya Nyakati
-2Chr	Mambo ya Nyakati II	$SECOND Nya	$SECOND Mambo ya Nyakati
+1Kgs	Wafalme I	Kitabu cha Kwanza cha Wafalme	$FIRST Fal	$FIRST Wafalme	$FIRST Falme
+2Kgs	Wafalme II	Kitabu cha Pili cha Wafalme	$SECOND Fal	$SECOND Wafalme	$SECOND Falme
+1Chr	Mambo ya Nyakati I	$FIRST Nya	$FIRST Mambo ya Nyakati	$FIRST Nyakati
+2Chr	Mambo ya Nyakati II	$SECOND Nya	$SECOND Mambo ya Nyakati	$SECOND Nyakati
 Ezra	Ezra?
 Neh	Nehemia	Neh
 Esth	Esta?	Esth?er
@@ -65,7 +65,7 @@ Rom	Barua kwa Waroma	Waroma	Waraka kwa Warumi	Waraka kwa Waroma	Rom	Rum	Warumi
 1Cor	Barua ya Kwanza kwa Wakorintho	Wakorintho I	Waraka wa Kwanza kwa Wakorinth?o	$FIRST Kor	$FIRST Wakorinth?o
 2Cor	Barua ya Pili kwa Wakorintho	Wakorintho II	Waraka wa Pili kwa Wakorinth?o	$SECOND Kor	$SECOND Wakorinth?o
 Gal	Barua kwa Wagalatia	Wagalatia	Gal
-Eph	Barua kwa Waefeso	Waefeso	Waraka kwa Waefeso	Efe?
+Eph	Barua kwa Waefeso	Waefeso	Waraka kwa Waefeso	Efe?	Efeso
 Phil	Barua kwa Wafilipi	Wafilipi	Waraka kwa Wafilipi	Fil	Flp
 Col	Barua kwa Wakolosai	Wakolosai	Waraka kwa Wakolosai	Kol
 1Thess	Barua ya Kwanza kwa Wathesalonike	Wathesalonike I	Waraka wa Kwanza kwa Wathesalonik[ei]	$FIRST Thes?	$FIRST Th	$FIRST Wathesalonike

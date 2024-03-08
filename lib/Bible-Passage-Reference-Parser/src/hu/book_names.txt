@@ -20,13 +20,19 @@
 1Chr	I Krónika
 1Chr	1. Kron
 1Chr	1. Krón
+1Chr	Elso Kr
+1Chr	Első Kr
 1Chr	I. Kron
 1Chr	I. Krón
 1Chr	1 Kron
 1Chr	1 Krón
 1Chr	I Kron
 1Chr	I Krón
+1Chr	1. Kr
+1Chr	I. Kr
+1Chr	1 Kr
 1Chr	1Chr
+1Chr	I Kr
 1Cor	Elso Korinthusiakhoz
 1Cor	Első Korinthusiakhoz
 1Cor	1. Korinthusiakhoz
@@ -143,6 +149,8 @@
 1Pet	I. Péter
 1Pet	1 Peter
 1Pet	1 Péter
+1Pet	Elso Pt
+1Pet	Első Pt
 1Pet	I Peter
 1Pet	I Péter
 1Pet	1. Pet
@@ -151,9 +159,13 @@
 1Pet	I. Pét
 1Pet	1 Pet
 1Pet	1 Pét
+1Pet	1. Pt
 1Pet	I Pet
 1Pet	I Pét
+1Pet	I. Pt
+1Pet	1 Pt
 1Pet	1Pet
+1Pet	I Pt
 1Sam	Elso Samuel
 1Sam	Elso Sámuel
 1Sam	Első Samuel
@@ -234,6 +246,10 @@
 1Tim	1. Timoteusnak
 1Tim	1. Timóteushoz
 1Tim	1. Timóteusnak
+1Tim	Elso Timotheus
+1Tim	Elso Timótheus
+1Tim	Első Timotheus
+1Tim	Első Timótheus
 1Tim	I. Timoteushoz
 1Tim	I. Timoteusnak
 1Tim	I. Timóteushoz
@@ -256,10 +272,18 @@
 1Tim	I. Timótheosz
 1Tim	1 Timotheosz
 1Tim	1 Timótheosz
+1Tim	1. Timotheus
+1Tim	1. Timótheus
 1Tim	I Timotheosz
 1Tim	I Timótheosz
+1Tim	I. Timotheus
+1Tim	I. Timótheus
+1Tim	1 Timotheus
+1Tim	1 Timótheus
 1Tim	1. Timoteus
 1Tim	1. Timóteus
+1Tim	I Timotheus
+1Tim	I Timótheus
 1Tim	I. Timoteus
 1Tim	I. Timóteus
 1Tim	1 Timoteus
@@ -291,6 +315,8 @@
 2Chr	2. Krónika
 2Chr	II Kronika
 2Chr	II Krónika
+2Chr	Masodik Kr
+2Chr	Második Kr
 2Chr	2 Kronika
 2Chr	2 Krónika
 2Chr	II. Kron
@@ -301,6 +327,10 @@
 2Chr	II Krón
 2Chr	2 Kron
 2Chr	2 Krón
+2Chr	II. Kr
+2Chr	2. Kr
+2Chr	II Kr
+2Chr	2 Kr
 2Chr	2Chr
 2Cor	Masodik Korinthusiakhoz
 2Cor	Második Korinthusiakhoz
@@ -412,6 +442,8 @@
 2Pet	Masodik Pét
 2Pet	Második Pet
 2Pet	Második Pét
+2Pet	Masodik Pt
+2Pet	Második Pt
 2Pet	II. Peter
 2Pet	II. Péter
 2Pet	2. Peter
@@ -426,8 +458,12 @@
 2Pet	2. Pét
 2Pet	II Pet
 2Pet	II Pét
+2Pet	II. Pt
 2Pet	2 Pet
 2Pet	2 Pét
+2Pet	2. Pt
+2Pet	II Pt
+2Pet	2 Pt
 2Pet	2Pet
 2Sam	Masodik Samuel
 2Sam	Masodik Sámuel
@@ -505,6 +541,10 @@
 2Tim	Masodik Timótheosz
 2Tim	Második Timotheosz
 2Tim	Második Timótheosz
+2Tim	Masodik Timotheus
+2Tim	Masodik Timótheus
+2Tim	Második Timotheus
+2Tim	Második Timótheus
 2Tim	Masodik Timoteus
 2Tim	Masodik Timóteus
 2Tim	Második Timoteus
@@ -531,10 +571,18 @@
 2Tim	2. Timótheosz
 2Tim	II Timotheosz
 2Tim	II Timótheosz
+2Tim	II. Timotheus
+2Tim	II. Timótheus
 2Tim	2 Timotheosz
 2Tim	2 Timótheosz
+2Tim	2. Timotheus
+2Tim	2. Timótheus
+2Tim	II Timotheus
+2Tim	II Timótheus
 2Tim	II. Timoteus
 2Tim	II. Timóteus
+2Tim	2 Timotheus
+2Tim	2 Timótheus
 2Tim	2. Timoteus
 2Tim	2. Timóteus
 2Tim	II Timoteus
@@ -597,6 +645,7 @@ Acts	Ap. Csel
 Acts	Ap Csel
 Acts	ApCsel
 Acts	Acts
+Acts	Csel
 Amos	Amosz
 Amos	Ámosz
 Amos	Amos
@@ -656,6 +705,7 @@ Dan	Daniel
 Dan	Dániel
 Dan	Dan
 Dan	Dán
+Dan	Dn
 Deut	Masodik torvenykonyv
 Deut	Masodik torvenykönyv
 Deut	Masodik torvénykonyv
@@ -705,6 +755,7 @@ Eccl	Prédikátor
 Eccl	Eccl
 Eccl	Pred
 Eccl	Préd
+Eccl	Pr
 EpJer	Jeremias levele
 EpJer	Jeremiás levele
 EpJer	EpJer
@@ -738,15 +789,19 @@ Exod	2 Móz
 Exod	2 Mz
 Exod	Exod
 Exod	Kiv
+Exod	Ex
 Ezek	Ezekiel
 Ezek	Ezékiel
 Ezek	Ezek
+Ezek	Ezék
 Ezek	Ez
 Ezra	Ezsdras
 Ezra	Ezsdrás
+Ezra	Ezsdr
 Ezra	Ezra
 Ezra	Ezsd
 Ezra	Ezd
+Ezra	Ezs
 Gal	Galatakhoz
 Gal	Galatákhoz
 Gal	Galata
@@ -850,8 +905,10 @@ Isa	Izajas
 Isa	Izajás
 Isa	Ésaias
 Isa	Ésaiás
+Isa	Esa
 Isa	Ezs
 Isa	Isa
+Isa	Ésa
 Isa	Ézs
 Isa	Iz
 Jas	Jakab
@@ -953,6 +1010,8 @@ Nah	Nah
 Nah	Náh
 Neh	Nehemias
 Neh	Nehemiás
+Neh	Nehémias
+Neh	Nehémiás
 Neh	Neh
 Num	IV. Mozes
 Num	IV. Mózes
@@ -1030,8 +1089,11 @@ Prov	Példabeszédek
 Prov	Peld
 Prov	Prov
 Prov	Péld
+Prov	Pld
 Ps	Zsoltarok
 Ps	Zsoltárok
+Ps	Zsoltar
+Ps	Zsoltár
 Ps	Zsolt
 Ps	Ps
 Rev	Janos jelenesei
@@ -1049,6 +1111,7 @@ Rom	Roma
 Rom	Róma
 Rom	Rom
 Rom	Róm
+Rom	Rm
 Ruth	Ruth
 Ruth	Rut
 SgThree	Harom fiatalember eneke
@@ -1074,6 +1137,8 @@ Song	Enekek eneke
 Song	Enekek éneke
 Song	Énekek eneke
 Song	Énekek éneke
+Song	Enekek
+Song	Énekek
 Song	Song
 Song	En
 Song	Én
@@ -1123,3 +1188,4 @@ Zeph	Zofónias
 Zeph	Zofóniás
 Zeph	Szof
 Zeph	Zeph
+Zeph	Zof

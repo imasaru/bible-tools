@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	Ir
+$CHAPTER	Skyrius
+$FF	ff
+$TITLE	title
+$TRANS	lit
+$TO	iki
+$VERSE	eilutė
+$UNICODE_BLOCK	Latin
+
+Gen	Pradžios knyga	Pr	Pradžios
+Exod	Išėjimo knyga	Iš	Išėjimo
+Lev	Kunigų knyga	Kun	Kunigų
+Num	Skaičių knyga	Sk	Skaičių
+Deut	Pakartoto Įstatymo knyga	Įst	Pakartoto Įstatymo
+Josh	Jozuės knyga	Joz	Jozuės
+Judg	Teisėjų knyga	Ts	Teisėjų
+Ruth	Rūtos knyga	Rūt	Rūtos
+1Sam	Samuelio pirma knyga	1 Sam	1 Samuelio
+2Sam	Samuelio antra knyga	2 Sam	2 Samuelio
+1Kgs	Karalių pirma knyga	1 Kar	1 Karalių
+2Kgs	Karalių antra knyga	2 Kar	2 Karalių
+1Chr	Metraščių pirma knyga	1 Met	1 Metraščių
+2Chr	Metraščių antra knyga	2 Met	2 Metraščių
+Ezra	Ezros knyga	Ezr	Ezros
+Neh	Nehemijo knyga	Neh	Nehemijo
+Esth	Esteros knyga	Est	Esteros
+Job	Jobo knyga	Job	Jobo
+Ps	Psalmynas	Ps	Psalmynas
+Prov	Patarlių knyga	Pat	Patarlių
+Eccl	Mokytojo knyga	Mok	Mokytojo
+Song	Giesmių giesmės knyga	Gg	Giesmių giesmės
+Isa	Izaijo knyga	Iz	Izaijo
+Jer	Jeremijo knyga	Jer	Jeremijo
+Lam	Raudų knyga	Rd	Raudų
+Ezek	Ezechielio knyga	Ez	Ezechielio
+Dan	Danieliaus knyga	Dan	Danieliaus
+Hos	Ozėjo knyga	Oz	Ozėjo
+Joel	Joelio knyga	Jl	Joelio
+Amos	Amoso knyga	Am	Amoso
+Obad	Abdijo knyga	Abd	Abdijo
+Jonah	Jonos knyga	Jon	Jonos
+Mic	Michėjo knyga	Mch	Michėjo
+Nah	Nahumo knyga	Nah	Nahumo
+Hab	Habakuko knyga	Hab	Habakuko
+Zeph	Sofonijo knyga	Sof	Sofonijo
+Hag	Agėjo knyga	Ag	Agėjo
+Zech	Zacharijo knyga	Zch	Zacharijo
+Mal	Malachijo knyga	Mal	Malachijo
+Matt	Evangelija pagal Matą	Mt	Mato
+Mark	Evangelija pagal Morkų	Mk	Morkaus
+Luke	Evangelija pagal Luką	Lk	Luko
+John	Evangelija pagal Joną	Jn	Jono
+Acts	Apaštalų darbai	Apd	Apaštalų darbų
+Rom	Laiškas romiečiams	Rom	Romiečiams
+1Cor	Pirmas laiškas korintiečiams	1 Kor	1 Korintiečiams
+2Cor	Antras laiškas korintiečiams	2 Kor	2 Korintiečiams
+Gal	Laiškas galatams	Gal	Galatams
+Eph	Laiškas efeziečiams	Ef	Efeziečiams
+Phil	Laiškas filipiečiams	Fil	Filipiečiams
+Col	Laiškas kolosiečiams	Kol	Kolosiečiams
+1Thess	Pirmas laiškas tesalonikiečiams	1 Tes	1 Tesalonikiečiams
+2Thess	Antras laiškas tesalonikiečiams	2 Tes	2 Tesalonikiečiams
+1Tim	Pirmas laiškas Timotiejui	1 Tim	1 Timotiejui
+2Tim	Antras laiškas Timotiejui	2 Tim	2 Timotiejui
+Titus	Laiškas Titui	Tit	Titui
+Phlm	Laiškas Filemonui	Fm	Filemonui
+Heb	Laiškas hebrajams	Hbr	Hebrajams
+Jas	Jokūbo laiškas	Jok	Jokūbo
+1Pet	Petro pirmas laiškas	1 Pt	1 Petro
+2Pet	Petro antras laiškas	2 Pt	2 Petro
+1John	Jono pirmas laiškas	1 Jn	1 Jono
+2John	Jono antras laiškas	2 Jn	2 Jono
+3John	Jono trečias laiškas	3 Jn	3 Jono
+Jude	Judo laiškas	Jud	Judo
+Rev	Apreiškimas Jonui	Apr	Apreiškimo Jonui
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

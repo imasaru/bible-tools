@@ -1,0 +1,228 @@
+1Chr	1 Beresosɛm
+1Chr	1 Berɛsosɛm
+1Chr	1 Ber
+1Chr	1Chr
+1Cor	1 Korintofoɔ
+1Cor	1 Korintofo
+1Cor	1 Kor
+1Cor	1Cor
+1Cor	1Kor
+1Esd	1Esd
+1John	1 Yohane
+1John	1 Yoh
+1John	1John
+1Kgs	1 Ahemfo
+1Kgs	1 Ahe
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Petro
+1Pet	1 Pet
+1Pet	1Pet
+1Pet	2Pet
+1Pet	1Pt
+1Sam	1 Samuel
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 Tesalonikafoɔ
+1Thess	1 Tesalonikafo
+1Thess	1 Tesa
+1Thess	1Thess
+1Tim	1 Timoteo
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2 Beresosɛm
+2Chr	2 Berɛsosɛm
+2Chr	2 Ber
+2Chr	2Chr
+2Cor	2 Korintofoɔ
+2Cor	2 Korintofo
+2Cor	2 Kor
+2Cor	2Cor
+2Cor	2Kor
+2Esd	2Esd
+2John	2 Yohane
+2John	2 Yoh
+2John	2John
+2Kgs	2 Ahemfo
+2Kgs	2 Ahe
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Petro
+2Pet	2 Pet
+2Pet	2Pet
+2Pet	2Pt
+2Sam	2 Samuel
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 Tesalonikafoɔ
+2Thess	2 Tesalonikafo
+2Thess	2 Tesa
+2Thess	2Thess
+2Tim	2 Timoteo
+2Tim	2 Tim
+2Tim	2Tim
+3John	3 Yohane
+3John	3 Yoh
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Asomafoɔ
+Acts	Asomafo
+Acts	Acts
+Acts	Asom
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Kolosefoɔ
+Col	Kolosefo
+Col	Col
+Col	Kol
+Dan	Daniel
+Dan	Dan
+Deut	Deuteronomium
+Deut	5 Mose
+Deut	Deut
+Eccl	Ɔsɛnkafoɔ
+Eccl	Ɔsɛnkafo
+Eccl	Eccl
+EpJer	EpJer
+Eph	Efesofoɔ
+Eph	Efesofo
+Eph	Efe
+Eph	Eph
+Esth	Ester
+Esth	Ɛster
+Esth	Esth
+Exod	Eksodɔs
+Exod	2 Mose
+Exod	2Mos
+Exod	Exod
+Exod	2Mo
+Exod	Eks
+Exod	Exo
+Exod	Ex
+Ezek	Hesekiel
+Ezek	Ezek
+Ezek	Hes
+Ezra	Esra
+Ezra	Ezra
+Ezra	Ɛsra
+Ezra	Es
+Gal	Galatifoɔ
+Gal	Galatifo
+Gal	Gal
+Gen	Gyenesis
+Gen	1 Mose
+Gen	1Mos
+Gen	Gyen
+Gen	1Mo
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakuk
+Hab	Hab
+Hag	Hagai
+Hag	Hag
+Heb	Hebrifoɔ
+Heb	Hebrifo
+Heb	Heb
+Hos	Hosea
+Hos	Hos
+Isa	Yesaia
+Isa	Isa
+Isa	Yes
+Jas	Yakobo
+Jas	Jas
+Jas	Yak
+Jdt	Jdt
+Jer	Yeremia
+Jer	Jer
+Jer	Yer
+Job	Hiob
+Job	Job
+Joel	Joel
+Joel	Yoel
+Joel	Yoɛl
+John	Yohane
+John	John
+John	Yoh
+Jonah	Jonah
+Jonah	Yona
+Josh	Yosua
+Josh	Josh
+Jude	Jude
+Jude	Yuda
+Judg	Atemmufoɔ
+Judg	Atemmufo
+Judg	Atem
+Judg	Judg
+Lam	Kwadwom
+Lam	Lam
+Lev	Lewitikɔs
+Lev	3 Mose
+Lev	3Mos
+Lev	3Mo
+Lev	Lev
+Lev	Lew
+Luke	Luka
+Luke	Luke
+Luke	Luk
+Luke	Lk
+Mal	Malaki
+Mal	Mal
+Mark	Marko
+Mark	Mark
+Mark	Mar
+Mark	Mrk
+Matt	Mateo
+Matt	Matt
+Matt	Mat
+Matt	Mt
+Mic	Mika
+Mic	Mic
+Nah	Nahum
+Nah	Nah
+Neh	Nehemia
+Neh	Neh
+Num	4 Mose
+Num	Numeri
+Num	4Mos
+Num	4Mo
+Num	Num
+Obad	Obadia
+Obad	Obad
+Phil	Filipifoɔ
+Phil	Filipifo
+Phil	Phil
+Phil	Flp
+Phlm	Filemon
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Mmebusɛm
+Prov	Prov
+Ps	Nnwom
+Ps	Dw
+Ps	Ps
+Rev	Adiyisɛm
+Rev	Adi
+Rev	Rev
+Rom	Romafoɔ
+Rom	Romafo
+Rom	Rom
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	Nnwom Mu Dwom
+Song	Nnwom mu dwom
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	Tito
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Sakaria
+Zech	Zech
+Zeph	Sefania
+Zeph	Zeph

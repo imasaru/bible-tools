@@ -1,6 +1,7 @@
 1Chr	Premye liv Kwonik la
 1Chr	Premye Kwonik
 1Chr	Premye Istwa
+1Chr	Premye Ist
 1Chr	1. Kwonik
 1Chr	I. Kwonik
 1Chr	1 Kwonik
@@ -9,28 +10,44 @@
 1Chr	I. Istwa
 1Chr	1 Istwa
 1Chr	I Istwa
+1Chr	1. Ist
+1Chr	I. Ist
 1Chr	1 Ist
+1Chr	I Ist
 1Chr	1Chr
 1Cor	Premye Korentyen
+1Cor	Premye Korent
 1Cor	Premye Korint
 1Cor	1. Korentyen
 1Cor	I. Korentyen
 1Cor	1 Korentyen
 1Cor	I Korentyen
+1Cor	Premye Kor
+1Cor	1. Korent
 1Cor	1. Korint
+1Cor	I. Korent
 1Cor	I. Korint
+1Cor	1 Korent
 1Cor	1 Korint
+1Cor	I Korent
 1Cor	I Korint
+1Cor	1. Kor
+1Cor	I. Kor
 1Cor	1 Kor
+1Cor	I Kor
 1Cor	1Cor
 1Esd	1Esd
 1John	Premye Jan
+1John	Premye Jn
 1John	1. Jan
 1John	I. Jan
 1John	1 Jan
+1John	1. Jn
 1John	1John
 1John	I Jan
+1John	I. Jn
 1John	1 Jn
+1John	I Jn
 1Kgs	Premye liv Wa yo
 1Kgs	Premye Wa
 1Kgs	1. Wa
@@ -64,6 +81,7 @@
 1Sam	Premye liv Samyèl la
 1Sam	Premye Samyel
 1Sam	Premye Samyèl
+1Sam	Premye Sam
 1Sam	1. Samyel
 1Sam	1. Samyèl
 1Sam	I. Samyel
@@ -72,7 +90,10 @@
 1Sam	1 Samyèl
 1Sam	I Samyel
 1Sam	I Samyèl
+1Sam	1. Sam
+1Sam	I. Sam
 1Sam	1 Sam
+1Sam	I Sam
 1Sam	1Sam
 1Thess	Premye Tesalonikyen
 1Thess	Premye Tesalonik
@@ -84,14 +105,22 @@
 1Thess	I. Tesalonik
 1Thess	1 Tesalonik
 1Thess	I Tesalonik
+1Thess	Premye Tes
+1Thess	1. Tes
 1Thess	1Thess
+1Thess	I. Tes
 1Thess	1 Tes
+1Thess	I Tes
 1Tim	Premye Timote
+1Tim	Premye Tim
 1Tim	1. Timote
 1Tim	I. Timote
 1Tim	1 Timote
 1Tim	I Timote
+1Tim	1. Tim
+1Tim	I. Tim
 1Tim	1 Tim
+1Tim	I Tim
 1Tim	1Tim
 2Chr	Dezyem liv Kwonik la
 2Chr	Dezyèm liv Kwonik la
@@ -99,6 +128,8 @@
 2Chr	Dezyèm Kwonik
 2Chr	Dezyem Istwa
 2Chr	Dezyèm Istwa
+2Chr	Dezyem Ist
+2Chr	Dezyèm Ist
 2Chr	II. Kwonik
 2Chr	2. Kwonik
 2Chr	II Kwonik
@@ -107,30 +138,49 @@
 2Chr	2. Istwa
 2Chr	II Istwa
 2Chr	2 Istwa
+2Chr	II. Ist
+2Chr	2. Ist
+2Chr	II Ist
 2Chr	2 Ist
 2Chr	2Chr
 2Cor	Dezyem Korentyen
 2Cor	Dezyèm Korentyen
+2Cor	Dezyem Korent
 2Cor	Dezyem Korint
+2Cor	Dezyèm Korent
 2Cor	Dezyèm Korint
 2Cor	II. Korentyen
 2Cor	2. Korentyen
 2Cor	II Korentyen
 2Cor	2 Korentyen
+2Cor	Dezyem Kor
+2Cor	Dezyèm Kor
+2Cor	II. Korent
 2Cor	II. Korint
+2Cor	2. Korent
 2Cor	2. Korint
+2Cor	II Korent
 2Cor	II Korint
+2Cor	2 Korent
 2Cor	2 Korint
+2Cor	II. Kor
+2Cor	2. Kor
+2Cor	II Kor
 2Cor	2 Kor
 2Cor	2Cor
 2Esd	2Esd
 2John	Dezyem Jan
 2John	Dezyèm Jan
+2John	Dezyem Jn
+2John	Dezyèm Jn
 2John	II. Jan
 2John	2. Jan
 2John	II Jan
+2John	II. Jn
 2John	2 Jan
+2John	2. Jn
 2John	2John
+2John	II Jn
 2John	2 Jn
 2Kgs	Dezyem liv Wa yo
 2Kgs	Dezyèm liv Wa yo
@@ -175,6 +225,8 @@
 2Sam	Dezyem Samyèl
 2Sam	Dezyèm Samyel
 2Sam	Dezyèm Samyèl
+2Sam	Dezyem Sam
+2Sam	Dezyèm Sam
 2Sam	II. Samyel
 2Sam	II. Samyèl
 2Sam	2. Samyel
@@ -183,6 +235,9 @@
 2Sam	II Samyèl
 2Sam	2 Samyel
 2Sam	2 Samyèl
+2Sam	II. Sam
+2Sam	2. Sam
+2Sam	II Sam
 2Sam	2 Sam
 2Sam	2Sam
 2Thess	Dezyem Tesalonikyen
@@ -197,18 +252,31 @@
 2Thess	2. Tesalonik
 2Thess	II Tesalonik
 2Thess	2 Tesalonik
+2Thess	Dezyem Tes
+2Thess	Dezyèm Tes
+2Thess	II. Tes
+2Thess	2. Tes
 2Thess	2Thess
+2Thess	II Tes
 2Thess	2 Tes
 2Tim	Dezyem Timote
 2Tim	Dezyèm Timote
+2Tim	Dezyem Tim
+2Tim	Dezyèm Tim
 2Tim	II. Timote
 2Tim	2. Timote
 2Tim	II Timote
 2Tim	2 Timote
+2Tim	II. Tim
+2Tim	2. Tim
+2Tim	II Tim
 2Tim	2 Tim
 2Tim	2Tim
 3John	III Jan
+3John	III. Jn
+3John	III Jn
 3John	3 Jan
+3John	3. Jn
 3John	3John
 3John	3 Jn
 3Macc	3Macc
@@ -226,6 +294,7 @@ Amos	Liv Amos la
 Amos	Liv Amòs la
 Amos	Amos
 Amos	Amòs
+Amos	Am
 Bar	Bar
 Bel	Bel
 Col	Kolosyen
@@ -259,6 +328,7 @@ EpJer	EpJer
 Eph	Efezyen
 Eph	Efez
 Eph	Efèz
+Eph	Efz
 Eph	Eph
 Eph	Ef
 Esth	Liv Este a
@@ -292,10 +362,12 @@ Gen	Jenez
 Gen	Jenèz
 Gen	Gen
 Gen	Jen
+Gen	Jnz
 GkEsth	GkEsth
 Hab	Liv Abakik la
 Hab	Abakouk
 Hab	Abakik
+Hab	Abaki
 Hab	Abak
 Hab	Hab
 Hag	Liv Aje a
@@ -313,25 +385,30 @@ Isa	Isa
 Isa	Ez
 Jas	Jak
 Jas	Jas
+Jas	Jk
 Jdt	Jdt
 Jer	Liv Jeremi an
 Jer	Jeremi
 Jer	Jer
+Jer	Jrm
 Job	Liv Job la
 Job	Liv Jòb la
 Job	Job
 Job	Jòb
+Job	Jb
 Joel	Liv Jowel la
 Joel	Liv Jowèl la
 Joel	Jowel
 Joel	Jowèl
 Joel	Joel
+Joel	Jwl
 John	John
 John	Jan
 John	Jn
 Jonah	Liv Jonas la
 Jonah	Jonah
 Jonah	Jonas
+Jonah	Jon
 Josh	Liv Jozye a
 Josh	Jozye
 Josh	Josh
@@ -342,6 +419,7 @@ Judg	Liv Chef yo
 Judg	Liv Chèf yo
 Judg	Judg
 Judg	Jij
+Judg	Jj
 Lam	Chante pou plenn So lavil Jerizalem
 Lam	Chante pou plenn So lavil Jerizalèm
 Lam	Chante pou plenn Sò lavil Jerizalem
@@ -368,10 +446,13 @@ Matt	Mat
 Matt	Mt
 Mic	Liv Miche a
 Mic	Miche
+Mic	Mich
 Mic	Mic
 Nah	Liv Nawoum lan
 Nah	Nawoum
 Nah	Nawoun
+Nah	Nawom
+Nah	Nawòm
 Nah	Nah
 Nah	Naw
 Neh	Liv Neyemi an
@@ -396,6 +477,7 @@ Phil	Fil
 Phlm	Filemon
 Phlm	Filem
 Phlm	Phlm
+Phlm	Flm
 PrAzar	PrAzar
 PrMan	PrMan
 Prov	Liv Pwoveb yo
@@ -403,21 +485,27 @@ Prov	Liv Pwovèb yo
 Prov	Pwoveb
 Prov	Pwovèb
 Prov	Prov
+Prov	Pwvb
 Prov	Pw
 Ps	Liv Som yo
 Ps	Liv Sòm yo
 Ps	Som
 Ps	Sòm
 Ps	Ps
+Ps	Sm
 Rev	Revelasyon
 Rev	Apokalips
 Rev	Rev
 Rom	Romen
+Rom	Women
 Rom	Rom
 Rom	Ròm
+Rom	Wom
+Rom	Wòm
 Ruth	Liv Rit la
 Ruth	Ruth
 Ruth	Rit
+Ruth	Ri
 SgThree	SgThree
 Sir	Sir
 Song	Kantid de Kantik
@@ -425,6 +513,7 @@ Song	Pi bel Chante a
 Song	Pi bèl Chante a
 Song	Chante Salomon
 Song	Chante
+Song	Chan
 Song	Song
 Sus	Sus
 Titus	Titus

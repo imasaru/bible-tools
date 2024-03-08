@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefania",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Neno la BWANA lililomjia Sefania, mwana wa Kushi, mwana wa Gedalia, mwana wa Amaria, mwana wa Hezekia; katika siku za Yosia, mwana wa Amoni, mfalme wa Yuda.",
+			"2": "<sup>2</sup> Nitavikomesha kabisa vitu vyote, visionekane juu ya uso wa nchi, asema BWANA.",
+			"3": "<sup>3</sup> Nitamkomesha mwanadamu na mnyama; nitakomesha ndege wa angani, na samaki wa baharini, na hayo makwazo pamoja na wabaya; nami nitamkatilia mbali mwanadamu, asionekane juu ya uso wa nchi, asema BWANA.",
+			"4": "<sup>4</sup> Nami nitaunyosha mkono wangu juu ya Yuda, na juu ya watu wote wakaao Yerusalemu; nami nitayakatilia mbali mabaki ya Baali, yasionekane mahali hapa, na hilo jina la Wakemari pamoja na makuhani;",
+			"5": "<sup>5</sup> na wale walisujudiao jeshi la mbinguni juu ya dari za nyumba; na hao waabuduo, waapao kwa BWANA na kuapa pia kwa Malkamu;",
+			"6": "<sup>6</sup> na hao waliorudi nyuma, na kuacha kumfuata BWANA; na hao wasiomtafuta BWANA, wala kumwulizia.",
+			"7": "<sup>7</sup> Nyamaza kimya mbele za Bwana MUNGU; Kwa maana siku ya BWANA i karibu; Kwa kuwa BWANA ameweka tayari dhabihu, Amewatakasa wageni wake.",
+			"8": "<sup>8</sup> Na itakuwa, katika siku ile ya dhabihu ya BWANA, nitawaadhibu wakuu, na wana wa mfalme, na watu wote waliovaa mavazi ya kigeni.",
+			"9": "<sup>9</sup> Na katika siku ile nitawaadhibu hao wote warukao juu ya kizingiti, waijazao nyumba ya bwana wao udhalimu na udanganyifu.",
+			"10": "<sup>10</sup> Na katika siku ile, asema BWANA kutakuwako sauti ya kilio kutoka lango la samaki, na mlio mkuu katika mtaa wa pili, na mshindo mkuu kutoka milimani.",
+			"11": "<sup>11</sup> Haya! Lieni, ninyi mkaao katika Makteshi, maana wafanya biashara wote wameangamia; hao wote waliokuwa na mizigo ya fedha wamekatiliwa mbali.",
+			"12": "<sup>12</sup> Kisha itakuwa wakati ule, nitauchunguza Yerusalemu kwa taa; nami nitawaadhibu watu walioganda juu ya sira zao; wasemao katika mioyo yao, BWANA hatatenda mema, wala hatatenda mabaya.",
+			"13": "<sup>13</sup> Na huko utajiri wao utakuwa mateka, na nyumba zao zitakuwa ukiwa; naam, watajenga nyumba, lakini hawatakaa ndani yake; nao watapanda mizabibu, lakini hawatakunywa divai yake.",
+			"14": "<sup>14</sup> Hiyo siku ya BWANA iliyo kuu i karibu; I karibu, nayo inafanya haraka sana; Naam, sauti ya siku ya BWANA; Shujaa hulia kwa uchungu mwingi huko!",
+			"15": "<sup>15</sup> Siku ile ni siku ya ghadhabu, Siku ya fadhaa na dhiki, Siku ya uharibifu na ukiwa, Siku ya giza na utusitusi, Siku ya mawingu na giza kuu,",
+			"16": "<sup>16</sup> Siku ya tarumbeta na ya kamsa, Juu ya miji yenye maboma, Juu ya buruji zilizo ndefu sana.",
+			"17": "<sup>17</sup> Nami nitawaletea wanadamu dhiki, hata watakwenda kama vipofu, kwa sababu wamemtenda BWANA dhambi; na damu yao itamwagwa kama mavumbi, na nyama yao kama mavi.",
+			"18": "<sup>18</sup> Fedha yao wala dhahabu yao havitaweza kuwaokoa katika siku ile ya ghadhabu ya BWANA; bali nchi yote pia itateketezwa kwa moto wa wivu wake; maana atawakomesha watu wote wakaao katika nchi hii, naam, ukomo wa kutisha."
+		},
+		"2": {
+			"1": "<sup>1</sup> Jikusanyeni, naam, jikusanyeni, Ee taifa lisilo na haya;",
+			"2": "<sup>2</sup> kabla haijazaa hiyo amri, kabla haijapita siku ile kama makapi, kabla haijawajilia hasira kali ya BWANA, kabla haijawajilia siku ya hasira ya BWANA.",
+			"3": "<sup>3</sup> Mtafuteni BWANA, enyi nyote mlio wanyenyekevu wa dunia, ninyi mliozitenda hukumu zake; itafuteni haki, utafuteni unyenyekevu; huenda mtafichwa katika siku ya hasira ya BWANA.",
+			"4": "<sup>4</sup> Kwa kuwa Gaza utaachwa, na Ashkeloni utakuwa ukiwa; wataufukuzia mbali Ashdodi wakati wa adhuhuri, na Ekroni utang’olewa. Amo 1:6-8; Zek 9:5-7",
+			"5": "<sup>5</sup> Ole wao wakaao karibu na pwani ya bahari, taifa la Wakerethi! Neno la BWANA li juu yenu, Ee Kanaani, nchi ya Wafilisti; mimi nitakuangamiza, asibaki mtu akaaye kwako.",
+			"6": "<sup>6</sup> Na hiyo nchi ya pwani itakuwa malisho, yenye vibanda vya wachungaji, na mazizi ya makundi ya kondoo.",
+			"7": "<sup>7</sup> Na hiyo nchi ya pwani itakuwa nchi ya watu wa nyumba ya Yuda waliosalia; watalisha makundi yao huko; watalala katika nyumba za Ashkeloni wakati wa jioni; kwa maana BWANA, Mungu wao, atawajilia na kuwarudisha wafungwa wao.",
+			"8": "<sup>8</sup> Mimi nimeyasikia matukano ya Moabu, na dhihaka za wana wa Amoni, ambazo kwa hizo wamewatukana watu wangu, na kujitukuza juu ya mpaka wao. 21:28-32; 25:1-11; Amo 1:13-15",
+			"9": "<sup>9</sup> Basi kama niishivyo, asema BWANA wa majeshi, Mungu wa Israeli, Hakika Moabu atakuwa kama Sodoma, na wana wa Amoni kama Gomora, yaani, milki ya upupu, na mashimo ya chumvi, ukiwa wa daima; watu wangu waliosalia watawateka nyara, na watu wa taifa langu waliobaki watawarithi.",
+			"10": "<sup>10</sup> Mambo hayo yatawapata kwa sababu ya kiburi chao, kwa kuwa wamewatukana watu wa BWANA wa majeshi, na kujitukuza juu yao.",
+			"11": "<sup>11</sup> BWANA atakuwa mwenye kuwatisha sana; kwa maana atawafisha kwa njaa miungu yote ya dunia; na watu watamsujudia yeye, kila mtu toka mahali pake; naam, nchi zote za mataifa.",
+			"12": "<sup>12</sup> Na ninyi Wakushi pia, mtauawa kwa upanga wangu.",
+			"13": "<sup>13</sup> Naye atanyosha mkono wake juu ya upande wa kaskazini, na kuiangamiza Ashuru; naye ataufanya Ninawi kuwa ukiwa, kuwa mahali pakavu kama jangwa.",
+			"14": "<sup>14</sup> Na makundi ya wanyama watalala kati yake, wanyama wote wa mataifa; mwari-nyuni na nungu watakaa juu ya vichwa vya nguzo zake; sauti yao itasikiwa madirishani; vizingitini mwake mtakuwa ukiwa; kwa maana ameifunua kazi ya mierezi.",
+			"15": "<sup>15</sup> Huu ndio mji ule wa furaha, Uliokaa pasipo kufikiri, Uliosema moyoni mwake, Mimi niko, Wala hapana mwingine ila mimi. Jinsi ulivyokuwa ukiwa, Mahali pa kulala pa wanyama wa bara! Kila mtu apitaye atazomea, Na kutikisa mkono wake."
+		},
+		"3": {
+			"1": "<sup>1</sup> Ole wake yeye aliyeasi na kutiwa unajisi, mji wa udhalimu!",
+			"2": "<sup>2</sup> Hakuitii sauti; hakukubali kurudiwa; hakumwamini BWANA; hakumkaribia Mungu wake.",
+			"3": "<sup>3</sup> Wakuu wake walio ndani yake ni simba wangurumao; makadhi wake ni mbwa-mwitu wa jioni; hawasazi kitu cho chote hata siku ya pili.",
+			"4": "<sup>4</sup> Manabii wake ni watu hafifu, wadanganyifu; makuhani wake wamepatia unajisi patakatifu, wameifanyia sheria udhalimu.",
+			"5": "<sup>5</sup> BWANA kati yake ni mwenye haki; hatatenda uovu; kila asubuhi hudhihirisha hukumu yake, wala hakomi; bali mtu asiye haki hajui kuona haya.",
+			"6": "<sup>6</sup> Nimekatilia mbali mataifa, buruji zao zina ukiwa; nimeziharibu njia kuu zao, hata hapana mmoja apitaye; miji yao imeangamizwa; hamna mtu hata mmoja, wala hapana akaaye huko.",
+			"7": "<sup>7</sup> Nalisema, Hakika utaniogopa, utakubali kurudiwa; ili yasikatiliwe mbali makao yake, sawasawa ya yote niliyoagiza katika habari zake; lakini waliondoka mapema na kuyaharibu matendo yao yote.",
+			"8": "<sup>8</sup> Basi ningojeni, asema BWANA, hata siku ile nitakapoondoka kuteka mateka; maana nimeazimia kuwakusanya mataifa, ili nizikutanishe falme, nipate kuwamwagia ghadhabu yangu; naam, ukali wote wa hasira yangu; kwa maana dunia yote itateketezwa kwa moto wa wivu wangu.",
+			"9": "<sup>9</sup> Maana hapo ndipo nitakapowarudishia mataifa lugha iliyo safi, wapate kuliitia jina la BWANA, wamtumikie kwa nia moja.",
+			"10": "<sup>10</sup> Maana toka nchi iliyo mbali na mito ya Kushi, waniombao dua, yaani, binti za watu wangu waliotawanyika, wataleta matoleo yangu.",
+			"11": "<sup>11</sup> Siku ile hutatahayarikia matendo yako yote uliyoniasi; maana hapo nitawaondoa watu wako wanaotakabari na kujivuna, wasiwe kati yako, wala hutatakabari tena katika mlima wangu mtakatifu.",
+			"12": "<sup>12</sup> Lakini nitasaza ndani yako watu walioonewa na maskini, nao watalitumainia jina la BWANA.",
+			"13": "<sup>13</sup> Mabaki ya Israeli hawatatenda uovu, wala kusema uongo; wala ulimi wa hadaa hautaonekana kinywani mwao; kwa maana watakula na kulala, wala hapana mtu atakayewaogofya.",
+			"14": "<sup>14</sup> Imba, Ee binti Sayuni; piga kelele, Ee Israeli; Furahi na kushangilia kwa moyo wako wote, Ee binti Yerusalemu.",
+			"15": "<sup>15</sup> BWANA ameziondoa hukumu zako, Amemtupa nje adui yako; Mfalme wa Israeli, naam, yeye BWANA, yu katikati yako; Hutaogopa uovu tena.",
+			"16": "<sup>16</sup> Katika siku ile Yerusalemu utaambiwa, Usiogope, Ee Sayuni; mikono yako isilegee.",
+			"17": "<sup>17</sup> BWANA, Mungu wako, yu katikati yako shujaa awezaye kuokoa; Atakushangilia kwa furaha kuu, Atakutuliza katika upendo wake, Atakufurahia kwa kuimba.",
+			"18": "<sup>18</sup> Nitawakusanya wanaousikitikia mkutano wa ibada, hao waliokuwa wa kwako; ambao mzigo uliokuwa juu yake ulikuwa fedheha kwao.",
+			"19": "<sup>19</sup> Tazama, wakati huo nitawapatiliza watu wote wanaokutesa; nami nitamponya yeye achechemeaye, nami nitamkusanya yeye aliyefukuzwa; nami nitawafanya kuwa sifa na jina, hao ambao fedheha yao ilikuwa katika dunia yote.",
+			"20": "<sup>20</sup> Wakati huo nitawaingizeni, na wakati huo nitawakusanya; kwa maana nitawafanya ninyi kuwa sifa na jina, miongoni mwa watu wote wa dunia, nitakapowarudisha wafungwa wenu mbele ya macho yenu, asema BWANA."
+		}
+	}
+};
+module.exports = book;

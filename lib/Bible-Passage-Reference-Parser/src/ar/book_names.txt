@@ -35,6 +35,8 @@
 1Kgs	الملوك الأول
 1Kgs	ﺍﻟﻤﻠﻮﻙ ﺍﻷﻭ
 1Kgs	1 الملوك
+1Kgs	و1ملوك
+1Kgs	و١ملوك
 1Kgs	1ملوك
 1Kgs	١ملوك
 1Kgs	1 مل
@@ -182,6 +184,7 @@ Acts	أعمال ُّالرسل
 Acts	أعمال الرسل
 Acts	اعمال الرسل
 Acts	ﺍﻋﻤﺎﻝ ﺍﻟﺮﺳﻞ
+Acts	أعمال
 Acts	Acts
 Acts	اع
 Amos	سفر عاموس
@@ -257,6 +260,7 @@ Gal	Gal
 Gal	غل
 Gen	سفر التكوين
 Gen	التكوين
+Gen	وتكوين
 Gen	تكوين
 Gen	ﺗﻜﻮﻳﻦ
 Gen	Gen
@@ -352,6 +356,7 @@ Lev	أح
 Lev	لا
 Luke	إنجيل لوقا
 Luke	لوقِا
+Luke	ولوقا
 Luke	Luke
 Luke	لوقا
 Luke	لو
@@ -436,6 +441,7 @@ Rev	رؤ
 Rom	رسالة بولس الرسول إلى أهل رومية
 Rom	الرسالة إلى أهل رومية
 Rom	رسالة روما
+Rom	ورومية
 Rom	رومية
 Rom	ﺭﻭﻣﻴﺔ
 Rom	Rom

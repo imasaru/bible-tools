@@ -1,0 +1,241 @@
+1Chr	1. Kroniska
+1Chr	1. Kroniška
+1Chr	1 Kroniska
+1Chr	1 Kroniška
+1Chr	1 Krn
+1Chr	1Chr
+1Cor	1. Korincanom
+1Cor	1. Korinčanom
+1Cor	1 Korincanom
+1Cor	1 Korinčanom
+1Cor	1 Kor
+1Cor	1Cor
+1Esd	1Esd
+1John	1. Janezovo pismo
+1John	1 Janezovo pismo
+1John	1John
+1John	1 Jn
+1Kgs	1. Kraljev
+1Kgs	1 Kraljev
+1Kgs	1 Kr
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1. Petrovo pismo
+1Pet	1 Petrovo pismo
+1Pet	1 Pt
+1Pet	1Pet
+1Sam	1. Samuelova
+1Sam	1 Samuelova
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1. Tesalonicanom
+1Thess	1. Tesaloničanom
+1Thess	1 Tesalonicanom
+1Thess	1 Tesaloničanom
+1Thess	1Thess
+1Thess	1 Tes
+1Tim	1. Timoteju
+1Tim	1 Timoteju
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2. Kroniska
+2Chr	2. Kroniška
+2Chr	2 Kroniska
+2Chr	2 Kroniška
+2Chr	1 Krn
+2Chr	2Chr
+2Cor	2. Korincanom
+2Cor	2. Korinčanom
+2Cor	2 Korincanom
+2Cor	2 Korinčanom
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	2Esd
+2John	2. Janezovo pismo
+2John	2 Janezovo pismo
+2John	2John
+2John	2 Jn
+2Kgs	2. Kraljev
+2Kgs	2 Kraljev
+2Kgs	2 Kr
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2. Petrovo pismo
+2Pet	2 Petrovo pismo
+2Pet	2 Pt
+2Pet	2Pet
+2Sam	2. Samuelova
+2Sam	2 Samuelova
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2. Tesalonicanom
+2Thess	2. Tesaloničanom
+2Thess	2 Tesalonicanom
+2Thess	2 Tesaloničanom
+2Thess	2Thess
+2Thess	2 Tes
+2Tim	2. Timoteju
+2Tim	2 Timoteju
+2Tim	2 Tim
+2Tim	2Tim
+3John	3. Janezovo pismo
+3John	3 Janezovo pismo
+3John	3John
+3John	3 Jn
+3Macc	3Macc
+4Macc	4Macc
+Acts	Apostolska dela
+Acts	Acts
+Acts	Apd
+Amos	Amos
+Amos	Am
+Bar	Bar
+Bel	Bel
+Col	Kolosanom
+Col	Kološanom
+Col	Col
+Col	Kol
+Dan	Daniel
+Dan	Dan
+Deut	5. Mojzesova
+Deut	5 Mojzesova
+Deut	5 Mz
+Deut	Deut
+Eccl	Pridigar
+Eccl	Eccl
+Eccl	Prd
+EpJer	EpJer
+Eph	Efezanom
+Eph	Efežanom
+Eph	Eph
+Eph	Ef
+Esth	Estera
+Esth	Esth
+Esth	Est
+Exod	2. Mojzesova
+Exod	2 Mojzesova
+Exod	2 Mz
+Exod	Exod
+Ezek	Ezekiel
+Ezek	Ezek
+Ezek	Ezk
+Ezra	Ezra
+Ezra	Ezr
+Gal	Galacanom
+Gal	Galačanom
+Gal	Gal
+Gen	1. Mojzesova
+Gen	1 Mojzesova
+Gen	1 Mz
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakuk
+Hab	Hab
+Hag	Agej
+Hag	Hag
+Hag	Ag
+Heb	Hebrejcem
+Heb	Heb
+Hos	Ozej
+Hos	Hos
+Hos	Oz
+Isa	Izaija
+Isa	Isa
+Isa	Iz
+Jas	Jakob
+Jas	Jak
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremija
+Jer	Jer
+Job	Job
+Joel	Joel
+Joel	Jl
+John	Janez
+John	John
+John	Jn
+Jonah	Jonah
+Jonah	Jona
+Jonah	Jon
+Josh	Jozue
+Josh	Josh
+Josh	Joz
+Jude	Juda
+Jude	Jude
+Jude	Jud
+Judg	Sodniki
+Judg	Judg
+Judg	Sod
+Lam	Zalostinke
+Lam	Žalostinke
+Lam	Lam
+Lam	Zal
+Lam	Žal
+Lev	3. Mojzesova
+Lev	3 Mojzesova
+Lev	3 Mz
+Lev	Lev
+Luke	Luka
+Luke	Luke
+Luke	Lk
+Mal	Malahija
+Mal	Mal
+Mark	Marko
+Mark	Mark
+Mark	Mr
+Matt	Matej
+Matt	Matt
+Matt	Mt
+Mic	Mihej
+Mic	Mic
+Mic	Mih
+Nah	Nahum
+Nah	Nah
+Neh	Nehemija
+Neh	Neh
+Num	4. Mojzesova
+Num	4 Mojzesova
+Num	4 Mz
+Num	Num
+Obad	Abdija
+Obad	Obad
+Obad	Abd
+Phil	Filipljanom
+Phil	Phil
+Phil	Flp
+Phlm	Filemonu
+Phlm	Phlm
+Phlm	Flm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Pregovori
+Prov	Prov
+Prov	Prg
+Ps	Psalmi
+Ps	Ps
+Rev	Razodetje
+Rev	Raz
+Rev	Rev
+Rom	Rimljanom
+Rom	Rim
+Rom	Rom
+Ruth	Ruta
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	Visoka pesem
+Song	Song
+Song	Vp
+Sus	Sus
+Titus	Titus
+Titus	Titu
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Zaharija
+Zech	Zech
+Zech	Zah
+Zeph	Sofonija
+Zeph	Zeph
+Zeph	Sof

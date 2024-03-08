@@ -1,0 +1,271 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	na
+$CHAPTER	chitsauko
+$FF	ff
+$TITLE	title
+$TRANS	BDSC
+$TO	kushika
+$VERSE	vesi	vs.	ver.	v
+$UNICODE_BLOCK	Latin
+
+Gen	Genesisi	Genesi	Gen
+Exod	Ekisodho	Eks	Ekisodo
+Lev	Revhitiko
+Num	Numeri	Num
+Deut	Dhuteronomi	Deuteronomio
+Josh	Joshua	Josh
+Judg	Vatongi
+Ruth	Rute	Rut
+1Sam	$FIRST Samueri	$FIRST Sam
+2Sam	$SECOND Samueri	$SECOND Sam
+1Kgs	$FIRST Madzimambo
+2Kgs	$SECOND Madzimambo
+1Chr	$FIRST Makoronike	$FIRST Vakoronike
+2Chr	$SECOND Makoronike	$SECOND Vakoronike
+Ezra	Ezira
+Neh	Nehemia	Neh
+Esth	Esteri	Est
+Job	Jobho	Job
+Ps	Mapisarema
+Prov	Zvirevo
+Eccl	Muparidzi
+Song	Rwiyo Rukuru rwaSoromoni	Rwiyo
+Isa	Isaya
+Jer	Jeremia
+Lam	Kuungudza kwaJeremia	Kuungudza
+Ezek	Ezekieri	Eze
+Dan	Dhanieri	Dhani	Danieri	Dan
+Hos	Hosea
+Joel	Joere
+Amos	Amosi	Amos
+Obad	Obhadhia	Obhad
+Jonah	Jona
+Mic	Mika
+Nah	Nahumi	Nahume	Naume
+Hab	Habhakuki	Habha
+Zeph	Zefania	Zef
+Hag	Hagai
+Zech	Zekaria	Zakaria
+Mal	Maraki
+Matt	Mateo	Matteo	Mat
+Mark	Mako	Marko	Mak
+Luke	Ruka
+John	Johani
+Acts	Mabasa
+Rom	VaRoma	Roma
+1Cor	$FIRST VaKorinde	$FIRST Korinde
+2Cor	$SECOND VaKorinde	$SECOND Korinde
+Gal	VaGaratia	Garatia	Vagaratiya
+Eph	VaEfeso	Efeso
+Phil	VaFiripi	Firipi
+Col	VaKorose	Korose
+1Thess	$FIRST VaTesaronika	$FIRST Tesaronika	$FIRST VaTeseronika	
+2Thess	$SECOND VaTesaronika	$SECOND Tesaronika	$SECOND VaTeseronika	
+1Tim	$FIRST Timoti	$FIRST Timo
+2Tim	$SECOND Timoti	$SECOND Timo
+Titus	Tito
+Phlm	Firimoni
+Heb	VaHebheru	Hebheru
+Jas	Jakobho	Jakobo
+1Pet	$FIRST Petro
+2Pet	$SECOND Petro
+1John	$FIRST Johani
+2John	$SECOND Johani
+3John	$THIRD Johani
+Jude	Judha
+Rev	Zvakazarurwa
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

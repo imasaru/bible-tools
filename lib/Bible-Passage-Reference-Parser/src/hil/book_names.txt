@@ -1,0 +1,198 @@
+1Chr	1 Mga Cronica
+1Chr	1 Cron
+1Chr	1Chr
+1Cor	1 Mga Taga-Corinto
+1Cor	1 Corinto
+1Cor	1 Cor
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Juan
+1John	1John
+1Kgs	1 Mga Hari
+1Kgs	1 Hari
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Pedro
+1Pet	1 Ped
+1Pet	1Pet
+1Sam	1 Samuel
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 Mga Taga-Tesalonica
+1Thess	1 Tesalonica
+1Thess	1Thess
+1Thess	1 Tes
+1Tim	1 Timoteo
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2 Mga Cronica
+2Chr	2 Cron
+2Chr	2Chr
+2Cor	2 Mga Taga-Corinto
+2Cor	2 Corinto
+2Cor	2 Cor
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Juan
+2John	2John
+2Kgs	2 Mga Hari
+2Kgs	2 Hari
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Pedro
+2Pet	2 Ped
+2Pet	2Pet
+2Sam	2 Samuel
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 Mga Taga-Tesalonica
+2Thess	2 Tesalonica
+2Thess	2Thess
+2Thess	2 Tes
+2Tim	2 Timoteo
+2Tim	2 Tim
+2Tim	2Tim
+3John	3 Juan
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Mga Binuhatan
+Acts	Binuhatan
+Acts	Acts
+Acts	Bin
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Colosas
+Col	Col
+Dan	Daniel
+Dan	Dan
+Deut	Deuteronomio
+Deut	Deut
+Eccl	Manugwali
+Eccl	Manug
+Eccl	Eccl
+EpJer	EpJer
+Eph	Efeso
+Eph	Efe
+Eph	Eph
+Eph	Ef
+Esth	Ester
+Esth	Esth
+Esth	Est
+Exod	Exodo
+Exod	Exod
+Exod	Ex
+Ezek	Ezequiel
+Ezek	Ezek
+Ezek	Ezeq
+Ezra	Esdras
+Ezra	Ezra
+Ezra	Esd
+Gal	Galacia
+Gal	Gal
+Gen	Genesis
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habacuc
+Hab	Hab
+Hag	Hageo
+Hag	Hag
+Heb	Hebreo
+Heb	Heb
+Hos	Oseas
+Hos	Hos
+Hos	Os
+Isa	Isaias
+Isa	Isa
+Jas	Santiago
+Jas	Sant
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremias
+Jer	Jer
+Job	Job
+Joel	Joel
+John	John
+John	Juan
+Jonah	Jonah
+Jonah	Jonas
+Jonah	Jon
+Josh	Josue
+Josh	Josh
+Josh	Jos
+Jude	Judas
+Jude	Jude
+Jude	Jud
+Judg	Hukom
+Judg	Judg
+Judg	Huk
+Lam	Mga Panalabiton
+Lam	Panalabiton
+Lam	Lam
+Lam	Pan
+Lev	Levitico
+Lev	Lev
+Luke	Lucas
+Luke	Luke
+Luke	Luc
+Mal	Malaquias
+Mal	Mal
+Mark	Marcos
+Mark	Mark
+Mark	Mar
+Matt	Mateo
+Matt	Matt
+Matt	Mat
+Matt	Mt
+Mic	Miqueas
+Mic	Mic
+Mic	Miq
+Nah	Nahum
+Nah	Nah
+Neh	Nehemias
+Neh	Neh
+Num	Numeros
+Num	Num
+Obad	Abdias
+Obad	Obad
+Obad	Ab
+Phil	Filipos
+Phil	Filip
+Phil	Phil
+Phlm	Filemon
+Phlm	Filem
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Mga Hulobaton
+Prov	Mga Hulubaton
+Prov	Hulubaton
+Prov	Hulo
+Prov	Prov
+Ps	Mga Salmo
+Ps	Salmo
+Ps	Sal
+Ps	Ps
+Rev	Bugna
+Rev	Bug
+Rev	Rev
+Rom	Roma
+Rom	Rom
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	Ambahanon
+Song	Song
+Song	Amb
+Sus	Sus
+Titus	Titus
+Titus	Tito
+Tob	Tob
+Wis	Wis
+Zech	Zacarias
+Zech	Zech
+Zech	Zac
+Zeph	Sofonias Sof
+Zeph	Zeph

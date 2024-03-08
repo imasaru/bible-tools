@@ -14,26 +14,26 @@ $VERSE	verse
 $UNICODE_BLOCK	Latin
 $COLLAPSE_COMBINING_CHARACTERS	false
 
-Gen	Sáng Thế	Sáng thế ký	Sáng
+Gen	Sáng Thế	Sáng thế ký	Sáng	Sáng-thế Ký
 Exod	Xuất Hành	Xuất Ai Cập Ký	Xuất Ê-díp-tô ký	Xuất Ai-cập	Xuất
 Lev	Lê-vi	Lê-vi ký	Lê	Lê Vi
 Num	Dân Số	Dân số ký	Dân
-Deut	Phục Truyền Luật Lệ	Đệ nhị luật	Phục truyền luật lệ ký	Phục Truyền	Phục
+Deut	Phục Truyền Luật Lệ	Đệ nhị luật	Phục truyền luật lệ ký	Phục Truyền	Phục	Phục-truyền
 Josh	Giô-sua	Joshua	Giô-suê	Giôs?	Gsua	Gsuê
 Judg	Các Thủ lãnh	Thủ lãnh	Thẩm phán	Các quan xét	Quan án	Quan	Thủ
 Ruth	Ruth	Ru-tơ	Ru
 1Sam	$FIRST Samuel	$FIRST Sa-mu-ên	$FIRST Sam?
 2Sam	$SECOND Samuel	$SECOND Sa-mu-ên	$SECOND Sam?
-1Kgs	$FIRST Các Vua	$FIRST Vua
-2Kgs	$SECOND Các Vua	$SECOND Vua
+1Kgs	$FIRST Các Vua	$FIRST Vua	$FIRST Các Vua
+2Kgs	$SECOND Các Vua	$SECOND Vua	$SECOND Các Vua
 1Chr	$FIRST Sử biên niên	$FIRST Sử ký	$FIRST Sử Ký	$FIRST Lịch sử	$FIRST Sử
 2Chr	$SECOND Sử biên niên	$SECOND Sử ký	$SECOND  Sử Ký	$SECOND Lịch sử	$SECOND Sử
 Ezra	Étra	E-xơ-ra	Ê-xơ-ra	Êxra	Êxr
 Neh	Nê-hê-mi-a	Nơkhemia	Nê-hê-mi	Nê
 Esth	Esther	Ê-xơ-tê
 Job	Gióp
-Ps	Thánh Thi	Thánh vịnh	Thi Thiên	Thi
-Prov	Châm ngôn	Châm
+Ps	Thánh Thi	Thánh vịnh	Thi Thiên	Thi	Thi-thiên
+Prov	Châm ngôn	Châm	Châm-ngôn
 Eccl	Giảng Sư	Truyền đạo	Giáo huấn	Giáo
 Song	Diễm ca	Nhã ca	Tình ca	Tình
 Isa	I-sa-gia	Isaiah	Ê-sai	I-sa	I-sai-a
@@ -57,7 +57,7 @@ Matt	Mátthêu	Ma-thi-ơ	Mat?
 Mark	Máccô	Mác
 Luke	Luca	Lu-ca	Lu
 John	Gioan	Giăng	Gi	Gg
-Acts	Công vụ Tông đồ	Công vụ các Sứ đồ	Công Vụ	Sứ đồ	Công
+Acts	Công vụ Tông đồ	Công vụ các Sứ đồ	Công Vụ	Sứ đồ	Công	Công-vụ
 Rom	Rôma	Rô-ma	La-mã
 1Cor	$FIRST Côrintô	$FIRST Cô-rinh-tô	$FIRST Cô-rinh	$FIRST Cô
 2Cor	$SECOND Côrintô	$SECOND Cô-rinh-tô	$SECOND Cô-rinh	$SECOND Cô
@@ -79,7 +79,7 @@ Jas	Giacôbê	Gia-cơ
 2John	$SECOND Gioan	$SECOND Giăng	$SECOND Gi
 3John	$THIRD Gioan	$THIRD Giăng	$THIRD Gi
 Jude	Giuđa	Giu-đe
-Rev	Khải Huyền của John	Khải Huyền	Khải thị	Khải
+Rev	Khải Huyền của John	Khải Huyền	Khải thị	Khải	Khải Huyền	Khải-huyền
 Tob	Tob
 Jdt	Jdt
 GkEsth	GkEsth

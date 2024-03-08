@@ -1,0 +1,216 @@
+1Chr	1 Kronikanan
+1Chr	1 Krónikanan
+1Chr	1 Kron
+1Chr	1 Krón
+1Chr	1Chr
+1Cor	1 Korintionan
+1Cor	1 Korint
+1Cor	1 Kor
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Huan
+1John	1John
+1Kgs	1 Reinan
+1Kgs	1 Rein
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Pedro
+1Pet	1 Ped
+1Pet	1 Pe
+1Pet	1Pet
+1Sam	1 Samuel
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 Tesalonisensenan
+1Thess	1Thess
+1Thess	1 Tes
+1Tim	1 Timoteo
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2 Kronikanan
+2Chr	2 Krónikanan
+2Chr	2 Kron
+2Chr	2 Krón
+2Chr	2Chr
+2Cor	2 Korintionan
+2Cor	2 Korint
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Huan
+2John	2John
+2Kgs	2 Reinan
+2Kgs	2 Rein
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Pedro
+2Pet	2 Ped
+2Pet	2 Pe
+2Pet	2Pet
+2Sam	2 Samuel
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 Tesalonisensenan
+2Thess	2Thess
+2Thess	2 Tes
+2Tim	2 Timoteo
+2Tim	2 Tim
+2Tim	2Tim
+3John	3 Huan
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Echonan
+Acts	Acts
+Acts	Echo
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Kolosensenan
+Col	Col
+Col	Kol
+Dan	Daniel
+Dan	Dan
+Deut	Deuteronomio
+Deut	Deut
+Eccl	Predikador
+Eccl	Eccl
+Eccl	Pred
+EpJer	EpJer
+Eph	Efesionan
+Eph	Efe
+Eph	Eph
+Eph	Ef
+Esth	Ester
+Esth	Esth
+Esth	Est
+Exod	Eksodo
+Exod	Éksodo
+Exod	Exod
+Exod	Eks
+Exod	Exo
+Exod	Ex
+Ezek	Ezekiel
+Ezek	Ezek
+Ezek	Eze
+Ezra	Esdras
+Ezra	Esdr
+Ezra	Ezra
+Ezra	Esd
+Gal	Galatanan
+Gal	Gal
+Gen	Gen Gen
+Gen	Genesis
+Gen	Gén Gen
+Gen	Génesis
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakuk
+Hab	Hab
+Hag	Hagai
+Hag	Hag
+Heb	Hebreonan
+Heb	Heb
+Hos	Hoseas
+Hos	Hoséas
+Hos	Hos
+Isa	Isaias
+Isa	Isaías
+Isa	Isa
+Isa	Is
+Jas	Hakobo
+Jas	Hak
+Jas	Jas
+Jdt	Jdt
+Jer	Yeremias
+Jer	Yeremías
+Jer	Jer
+Jer	Yer
+Job	Job
+Joel	Joel
+Joel	Yoel
+John	Huan
+John	John
+Jonah	Jonah
+Jonah	Yonas
+Jonah	Yon
+Josh	Yozue
+Josh	Josh
+Josh	Yoz
+Jude	Hudas
+Jude	Jude
+Jude	Hud
+Judg	Huesnan
+Judg	Hues
+Judg	Judg
+Judg	Hue
+Lam	Lamentashonnan
+Lam	Lam
+Lev	Levitiko
+Lev	Levítiko
+Lev	Lev
+Luke	Lukas
+Luke	Luke
+Luke	Luk
+Mal	Malakias
+Mal	Malakías
+Mal	Mal
+Mark	Marko
+Mark	Mark
+Mark	Mar
+Matt	Mateo
+Matt	Matt
+Matt	Mat
+Mic	Mikeas
+Mic	Mikéas
+Mic	Mic
+Mic	Mik
+Nah	Nahum
+Nah	Nah
+Neh	Nehemias
+Neh	Nehemías
+Neh	Neh
+Num	Numbernan
+Num	Num
+Obad	Abdias
+Obad	Abdías
+Obad	Obad
+Obad	Abd
+Phil	Filipensenan
+Phil	Phil
+Phil	Fil
+Phlm	Filemon
+Phlm	Phlm
+Phlm	Fil
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Proverbionan
+Prov	Proverb
+Prov	Prov
+Ps	Salmo
+Ps	Ps
+Rev	Revelashon
+Rev	Rev
+Rom	Romanonan
+Rom	Rom
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	E Kanto Di Tur Kanto
+Song	Kanto
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	Tito
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Zakarias
+Zech	Zakarías
+Zech	Zech
+Zech	Zak
+Zeph	Sofonias
+Zeph	Sofonías
+Zeph	Zeph
+Zeph	Sof

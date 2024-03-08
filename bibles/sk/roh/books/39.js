@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malachiáš",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Bremä slova JeHoVaHovho, <i>odkázané</i> Izraelovi po Malachiášovi.",
+			"2": "<sup>2</sup> Milujem vás, hovorí JeHoVaH. Ale <i>vy</i> hovoríte: V čom nás miluješ? Či ne<i>bol</i> Ezav Jokobovi bratom? hovorí JeHoVaH. A miloval som Jakoba",
+			"3": "<sup>3</sup> a Ezava som nenávidel; obrátil som jeho vrchy na púšť a jeho dedičstvo <i>som dal</i> šakalom pustiny.",
+			"4": "<sup>4</sup> Keď povie Edom: Porazení sme, ale zase vystavíme rumy, takto hovorí JeHoVaH Zástupov: Oni budú staväť, a ja budem boriť, a nazovú ich územím bezbožnosti a ľudom, na ktorý sa hnevá JeHoVaH <i>a tak</i> až na veky.",
+			"5": "<sup>5</sup> Vaše <i>oči to</i> uvidia, a vy poviete: Veľký je JeHoVaH nad územím Izraelovým!",
+			"6": "<sup>6</sup> Syn ctí otca a sluha svojho pána; ale jestli som ja otec, kde <i>je</i> moja česť? A jestli som pánom kde moja bázeň? hovorí JeHoVaH Zástupov, vám, kňazi, ktorí opovrhujete mojím menom a hovoríte: V čom opovrhujeme tvojím menom?",
+			"7": "<sup>7</sup> Donášate na môj oltár poškvrnený chlieb a hovoríte: Čím ťa poškvrňujeme? Tým, že hovoríte: Stolom JeHoVaHovým sa opovrhuje.",
+			"8": "<sup>8</sup> A keď donášate obetovať slepé, <i>to</i> nie je zlé; a keď dovádzate chromé alebo nemocné, <i>to</i> nie je zlé! Nože obetuj to svojmu vladárovi, či mu budeš milý, alebo či pohliadne na teba? hovorí JeHoVaH Zástupov.",
+			"9": "<sup>9</sup> Preto teraz nože sa pokorne modlite pred tvárou silného Boha, a zmiluje sa nad nami! <i>Ale keďže</i> to pošlo z vašej ruky, či <i>aj</i> pohliadne pre vás <i>na niekoho?</i> hovorí JeHoVaH Zástupov.",
+			"10": "<sup>10</sup> Oj, aby aj bol niekto medzi vami, kto by zamkol dvere, a neosvecovali by ste nadarmo môjho oltára! Nemám vo vás záľuby, hovorí JeHoVaH Zástupov, a nechcem obetného daru obilného z vašej ruky.",
+			"11": "<sup>11</sup> Lebo od východu slnca až po jeho západ <i>je</i> veľké moje meno medzi národami, a na každom mieste sa kadí <i>a</i> obetuje môjmu menu, a to čistý obetný dar obilný, lebo moje meno je veľké medzi národami, hovorí JeHoVaH Zástupov.",
+			"12": "<sup>12</sup> Ale vy ho poškvrňujete tým, že hovoríte: Stôl Pánov je zanečistený, a jeho ovocím, jeho pokrmom sa opovrhuje.",
+			"13": "<sup>13</sup> A <i>k tomu</i> hovoríte, hľa, <i>vraj</i>, aký to trud! A fúkate naň pohrdlivo, hovorí JeHoVaH Zástupov, a donášate ulúpené, chromé a nemocné a <i>tak</i> donášate obetný dar obilný; či azda to mám so záľubou prijať z vašej ruky? hovorí JeHoVaH.",
+			"14": "<sup>14</sup> Ale zlorečený je ten, kto klame, kto majúc vo svojom stáde samca sľubuje a obetuje Pánovi zkazené! Lebo ja <i>som</i> veľký Kráľ, hovorí JeHoVaH Zástupov, a moje meno <i>je</i> strašné medzi národami."
+		},
+		"2": {
+			"1": "<sup>1</sup> A tak teraz k vám toto prikázanie, <i>vy</i>. kňazi!",
+			"2": "<sup>2</sup> Ak nebudete poslúchať a keď <i>si toho</i> nevezmete k srdcu, aby ste dali slávu môjmu menu, hovorí JeHoVaH Zástupov, pošlem na vás zlorečenstvo a budem zlorečiť vašim <i>po</i>žehnaniam, a už aj som zlorečil každému z nich lebo <i>si toho</i> neberiete k srdcu.",
+			"3": "<sup>3</sup> Hľa, okríknem vám semeno a nakydám lajna na vašu tvár, lajná vašich sviatočných obetí, a odnesú vás k nemu.",
+			"4": "<sup>4</sup> A zviete, že som poslal na vás toto prikázanie, aby <i>to</i> bola moja smluva s Lévim, hovorí JeHoVaH Zástupov.",
+			"5": "<sup>5</sup> Moja smluva bola s ním, <i>smluva</i> života a pokoja, a dal som mu to <i>na</i> bázeň, a bál sa ma a triasol sa pred mojím menom.",
+			"6": "<sup>6</sup> Zákon pravdy bol v jeho ústach, a neprávosť sa nenašla v jeho rtoch, chodil so mnou v pokoji a úprimnosti a odvrátil mnohých od neprávosti.",
+			"7": "<sup>7</sup> Lebo rty kňaza majú ostríhať známosť, a zákon <i>naučení</i> budú hľadať z jeho úst! Lebo je poslom JeHoVaHa Zástupov.",
+			"8": "<sup>8</sup> Ale vy ste vybočili s cesty a spôsobili ste to, že mnohí klesli v zákone, a porušili ste smluvu Léviho, hovorí JeHoVaH Zástupov.",
+			"9": "<sup>9</sup> Preto som i ja vás vydal, aby ste boli opovrhnutí a nízki všetkému ľudu podľa toho, jako <i>vy</i> neostríhate mojich ciest a hľadíte na osobu v zákone <i>Božom</i>.",
+			"10": "<sup>10</sup> Či azda nemáme všetci jedného <i>a toho istého</i> Otca? Či nás nestvoril jeden <i>a ten istý</i> silný Bôh? Prečo potom robíme neverne každý voči svojmu bratovi, aby sme poškvrňovali smluvu svojich otcov?",
+			"11": "<sup>11</sup> <i>Zem</i> Júd<i>ov</i>a robí neverne, a ohavnosť sa deje v Izraelovi i v Jeruzaleme; lebo Júda poškvrnil svätyňu JeHoVaHovu, ktorú miloval, a vzal si za ženu dcéru cudzieho boha.",
+			"12": "<sup>12</sup> JeHoVaH nech vyplieni mužovi, ktorý robí takú vec, toho, kto bdeje, toho, kto, odpovedá, zo stánov Jakobových i toho, kto donáša obetný dar obilný JeHoVaHovi Zástupov.",
+			"13": "<sup>13</sup> A toto <i>už</i> po druhé robíte, že pokrývate oltár JeHoVaHov slzami, plačom a vzdychaním, takže nebude viac toho, aby pozrel na obetný dar obilný <i>alebo</i> aby vzal ľúbu obeť z vašej ruky.",
+			"14": "<sup>14</sup> A hovoríte: Pre jakú príčinu? Pre takú, že JeHoVaH je svedkom medzi tebou a medzi ženou tvojej mladosti, voči ktorej si sa ty dopustil nevery, kým <i>je</i> ona tvojou družkou a ženou tvojej smluvy.",
+			"15": "<sup>15</sup> A či neučinil <i>obidvoch</i> jedno? A <i>je aj</i> ostatok ducha jeho. A čo ten jeden? Hľadal semeno Božie, - A <i>tak</i> sa budete vo svojom duchu, a proti žene svojej mladosti nech sa niktorý nedopustí nevery.",
+			"16": "<sup>16</sup> Lebo nenávid<i>ím</i> rozvodu,hovorí JeHoVaH, Bôh Izraelov, a<i>ko i toho</i>, <i>kto</i> pokrýva ukrutnosťou svoje rúcho, hovorí JeHoVaH Zástupov. Preto sa chráňte vo svojom duchu a nerobte neverne!",
+			"17": "<sup>17</sup> Unavujete JeHoVaHa svojimi slovami a hovoríte: Čím unavujeme? Tým, že hovoríte: Každý jekaždý, i ten, kto robí zlé, <i>je</i> dobrý v očiach JeHoVaHových, a má v nich <i>vo všetkých</i> záľubu, alebo kdeže je <i>vraj</i> Bôh súdu?"
+		},
+		"3": {
+			"1": "<sup>1</sup> Hľa, posielam svojho anjela, a uprví cestu pred mojou tvárou. Prijde náhle do svojho chrámu Pán, ktorého <i>vy</i> hľadáte, a anjel smluvy, po ktorom túžite, hľa, prijde, hovorí JeHoVaH Zástupov.",
+			"2": "<sup>2</sup> Ale kto znesie deň jeho príchodu, a kto obstojí, keď sa ukáže?! Lebo on <i>je</i> ako prepaľujúci oheň a jako lúh práčov.",
+			"3": "<sup>3</sup> A bude sedieť prepaľujúc a prečisťujúc striebro, a <i>tak</i> prečistí synov Léviho a očistí ich ako zlato a jako striebro, a budú JeHoVaHovi, donášajúc obetný dar obilný v spravodlivosti.",
+			"4": "<sup>4</sup> Vtedy bude príjemný JeHoVaHovi obetný dar obilný Júdu a Jeruzalema jako za dní <i>drievneho</i> veku a jako za dávnych prorokov.",
+			"5": "<sup>5</sup> A priblížim sa k vám na súd a budem rýchlym svedkom proti čarodejníkom, proti cudzoložníkom a proti krivoprísažníkom i proti tým, ktorí utiskujú <i>čo do</i> mzdy nájomníka, vdovu a sirotu a krivdia pohostínovi a neboja sa ma, hovorí JeHoVaH Zástupov.",
+			"6": "<sup>6</sup> Lebo ja JeHoVaH sa nemením, preto ste vy, synovia Jakobovi, ešte nevyhynuli.",
+			"7": "<sup>7</sup> Odo dní svojich otcov ste sa odchyľovali od mojich ustanovení a neostríhali ste. Navráťte sa ku mne, a navrátim sa k vám, hovorí JeHoVaH Zástupov. Ale hovoríte: V čom sa máme navrátiť?",
+			"8": "<sup>8</sup> Či azda má človek okrádať Boha? Lebo vy okrádate mňa a hovoríte: V čom ťa okrádame? V desiatku a v obeti pozdvihnutia!",
+			"9": "<sup>9</sup> Zlorečení ste zlorečením a mňa <i>jednako</i> okrádate, celý národ, čo vás je.",
+			"10": "<sup>10</sup> Doneste celý desiatok do domu pokladu, aby bola potrava v mojom dome, a nože ma <i>potom</i> zkúste v tom, hovorí JeHoVaH Zástupov, či vám nepootváram nebeských prieduchov a <i>ne</i>vylejem vám požehnania až prehojne.",
+			"11": "<sup>11</sup> A pokarhám vám to, čo požiera, a nebude vám kaziť plodu zeme ani vám pred časom nepomece vinič na poli, hovorí JeHoVaH Zástupov.",
+			"12": "<sup>12</sup> A budú vás blahosláviť všetky národy, lebo vy budete rozkošnou zemou ľúbou, hovorí JeHoVaH Zástupov.",
+			"13": "<sup>13</sup> Drzé sú vaše slová prroti mne, hovorí JeHoVaH a hovoríte: Čože hovoríme proti tebe?",
+			"14": "<sup>14</sup> Hovoríte: Márna vec je slúžiť Bohu, a jaký <i>vraj z toho</i> zisk, keď budeme strážiť jeho stráž? Alebo keď budeme chodiť čierno pred JeHoVaHom Zástupov?",
+			"15": "<sup>15</sup> Preto teraz <i>my</i> blahoslavíme spurných, aj sa budujú tí, ktorí páchajú bezbožnosť, aj pokúšajú Boha a vše uniknú.",
+			"16": "<sup>16</sup> Vtedy sa shovárali medzi sebou tí, ktorí sa báli JeHoVaHa, druh s druhom, a JeHoVaH pozoroval <i>ušima</i> a počul, a bola písaná pred ním pamätná kniha pre tých,ktorí sa boja JeHoVaHa a myslia <i>na</i> jeho meno.",
+			"17": "<sup>17</sup> A budú moji, hovorí JeHoVaH Zástupov, na deň, ktorý <i>ja</i> učiním, zvláštnym vlastníctvom, a zľutujem sa nad nimi, jako sa zľutuje človek nad svojím synom, ktorý mu slúži.",
+			"18": "<sup>18</sup> Vtedy sa navrátite a budete vidieť <i>rozdiel</i> medzi spravedlivým a bezbožným, medzi tým, kto slúži Bohu, a tým, kto mu neslúži.",
+            "19": "<sup>19</sup> Lebo hľa, prichádza deň, ktorý horí jako pec, <i>v ktorom</i> budú všetci spurní a všetci, ktorí páchajú bezbožnosť, slamou a spáli ich deň, ktorý prijde, hovorí JeHoVaH zástupov, takže im neponechá <i>ani</i> koreňa ani haluzi.",
+			"20": "<sup>20</sup> Ale vám, ktorí sa bojíte môjho mena, vyjde slnce spravedlivosti, a lekárstvo bude na jeho krýdlach; vyjdete a budete poskakovať ako vykŕmené teľatá.",
+			"21": "<sup>21</sup> A pošliapem bezbožných, lebo budú popolom pod vašimi nohami toho dňa, ktorý <i>ja</i> učiním, hovorí JeHoVaH Zástupov.",
+			"22": "<sup>22</sup> Pamätajte na zákon Mojžiša, môjho sližobníka, ktorému som prikázal na Hórebe o celom Izraelovi ustanovenia a súdy.",
+			"23": "<sup>23</sup> Hľa ja vám pošlem proroka Eliáša, prv ako prijde deň JeHoVaHov, veľký a strašný.",
+			"24": "<sup>24</sup> A obráti srdce otcov na synov a srdce synov na ich otcov, aby som neprišiel a neranil zeme kliatbou."
+		}
+	}
+};
+module.exports = book;

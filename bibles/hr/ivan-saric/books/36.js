@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanija",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Riječ Gospodnja, koja dođe Sefaniji, sinu Kušija, sina Gedalije, sina Amarije, sina Ezekijina, u dane Josije, sina Amonova, kralja Judina.",
+			"2": "<sup>2</sup> \"Sve ću pograbiti sa zemlje! govori Gospod.",
+			"3": "<sup>3</sup> Pograbit ću ljude i stoku, pograbit ću ptice nebeske i ribe morske, povod spoticanja zajedno s bezbožnicima. Istrijebit ću čovjeka s lica zemlje!\" govori Gospod.",
+			"4": "<sup>4</sup> \"Zamahnut ću rukom svojom proti Judi, proti svim stanovnicima Jerusalema. Istrijebit ću iz mjesta ovoga ostatak baalov i ime idolskih službenika zajedno sa svećenicima.",
+			"5": "<sup>5</sup> S onima, koji se na krovovima klanjaju vojsci nebeskoj, i one, koji se klanjaju Gospodu i kunu se njim, ali se ujedno kunu Milkomom.",
+			"6": "<sup>6</sup> I one, koji su otpali od Gospoda i ne traže Gospoda i ne mare, za njega.\"",
+			"7": "<sup>7</sup> Tiho pred Gospodom, Svemogućim! Jer je blizu dan Gospodnji, jer je Gospod prigotovio žrtvu, posvetio goste svoje.",
+			"8": "<sup>8</sup> U dan žrtve Gospodnje dogodit će se: \"Pohodit ću knezove i sinove kraljeve i sve, koji nose tuđinsko odijelo.",
+			"9": "<sup>9</sup> Pohodit ću u onaj dan se, koji skaču preko praga, koji pune kuću gospodara svojega nasiljem i prijevarom.",
+			"10": "<sup>10</sup> U onaj će dan, veli Gospod, odjeknuti vika od ribljih vrata, jauk od novoga grada i silno jadikovanje s humova.",
+			"11": "<sup>11</sup> Jaučite samo, stanovnici Makteša, jer će se sav narod trgovački uništiti; svi će se mjerioci novaca istrijebiti.",
+			"12": "<sup>12</sup> U ono će se vrijeme dogoditi, da ću ja pretražiti Jerusalem sa svjetionicama i pohoditi ljude, koji bezbrižno sjede na droždini svojoj, koji misle: 'Gospod ne čini ni dobro ni zlo.'",
+			"13": "<sup>13</sup> Razgrabit će se posjed njihov, opustošit će se kuće njihove. Grade kuće, ali neće stanovati u njima; sade vinograde, ali neće piti vina iz njih.\"",
+			"14": "<sup>14</sup> Blizu je dan Gospodnji, veliki, blizu je i hiti veoma. Čuj, dan Gospodnji, gorki; tada će vikati junaci.",
+			"15": "<sup>15</sup> Dan jarosti jest taj dan, dan tjeskobe; nevolje, dan pustošenja i zatiranja, dan tame i mraka, dan oblaka i oblačina,",
+			"16": "<sup>16</sup> Dan trubljavine i ratne vike na tvrde gradove i na visoka kruništa.",
+			"17": "<sup>17</sup> Tada ću ljude prepasti, te će vrludati kao slijepci, jer su sagriješili proti Gospodu. Krv će se njihova prosuti kao prah, tjelesa njihova kao gnoj.",
+			"18": "<sup>18</sup> Ni srebro njihovo ni zlato njihovo neće ih moći spasiti u dan jarosti Gospodnje. U ognju revnosti njegove sva će se zemlja proždrijeti. Jer uništenje i prijeku propast spremit će on svima stanovnicima zemaljskim."
+		},
+		"2": {
+			"1": "<sup>1</sup> Skupite se! Jest, skupite se, narode, koji se nikada više ne može ljubiti! - :",
+			"2": "<sup>2</sup> Prije nego se ispuni odluka - kao pljeva prođe dan - prije nego još dođe na vas plameni gnjev Gospodnji, prije nego još dođe na vas dan gnjeva Gospodnjega.",
+			"3": "<sup>3</sup> Tražite Gospoda, svi ponizni u zemlji, koji izvršujete zakon njegov! Težite za pravednošću! Nastojte oko poniznosti! Može biti da nađete zaklon na dan gnjeva Gospodnjega!",
+			"4": "<sup>4</sup> Jest, Gaza će postati pustinja, i Aškelon će opustjeti. Ašdod će se odagnati u po bijela lana, Ekron će se iz temelja razrušiti.",
+			"5": "<sup>5</sup> Teško vama, stanovnici krajeva na moru, narode Krećana! Riječ Gospodnja dolazi proti vama: \"Kanaane, zemlji Filistejaca! Ja ću te zatrti, da ne ostane više ni jedan stanovnik.\"",
+			"6": "<sup>6</sup> Krajevi na moru bit će pašnjaci za pastire, torovi za ovce.",
+			"7": "<sup>7</sup> Tada će ovi krajevi pripasti ostatku kuće Judine. Tamo će goniti stada. U kućama će Aškelon lijegati uveče, jer će ih pohoditi Gospod, Bog njihov, i okrenut će sudbinu njihovu.",
+			"8": "<sup>8</sup> \"Čuo sam rug Moabov, porugu Amonaca, kojima su ružili moj narod i razmetali se proti zemlji njegovoj.",
+			"9": "<sup>9</sup> Zato, tako ja bio živ!\" govori Gospod nad vojskama, Bog Izraelov, \"Moab će biti kao Sodoma, sinovi Amonovi kao Gomora: polje kopriva, rudnik soli, pustinja zauvijek! Ostatak naroda mojega oplijenit će ih. Preostatak naroda mojega posjedovat će ih.\"",
+			"10": "<sup>10</sup> To će biti dio njihov za oholost njihovu, jer su ružili i razmetali se proti narodu Gospoda nad vojskama.",
+			"11": "<sup>11</sup> Strašan će im biti Gospod; jer će istrijebiti sve bogove zemaljske. Tada će se klanjati njemu svi otoci naroda, svaki iz svojega mjesta.",
+			"12": "<sup>12</sup> \"I vi, Kušiti, bit ćete probodeni mačem mojim.\"",
+			"13": "<sup>13</sup> Ruku svoju pružit će proti sjeveru i uništit će Asirsku. Ninivu će opustiti, da bude suha kao pustinja.",
+			"14": "<sup>14</sup> U njoj će ležati stada, mnoge životinje svakojake. Čaplje i pelikani će stanovati na jabukama stupova. Sova će krečati u prozornim šupljinama. Gavran e sjediti na pragu, jer će se poskidati cedrovina.",
+			"15": "<sup>15</sup> To je bučni grad, koji je stanovao u sigurnosti, koji je mislio: \"Ja sam, i drugo je sve ništa.\" Kako je on postao pustinjom, brlogom zvjeradi! Tko prođe pokraj njega, zviždat će mu i mahati rukom svojom."
+		},
+		"3": {
+			"1": "<sup>1</sup> Teško gradu upornom okaljanom nasilnom!",
+			"2": "<sup>2</sup> On ne sluša opomene, ne prima nauke. Ne uzda se u Gospoda, ne pristupa k Bogu svojemu.",
+			"3": "<sup>3</sup> Knezovi su njegovi u njemu lavovi što riču. Suci su njegovi vuci uveče, koji do jutra ne o stavljaju ništa.",
+			"4": "<sup>4</sup> Proroci su njegovi nepouzdani, varalice. Svećenici njegovi skvrne svetište, povređuju zakon.",
+			"5": "<sup>5</sup> Prevladan je u sredini njegovoj Gospod, ne čini nepravde. Svako jutro izvršuje sud svoj. Ne izostaje kao bijeli dan; ali bezbožnik ne zna za stid.",
+			"6": "<sup>6</sup> \"Istrijebio sam narode, tvrđave su njihove opustošene. Ulice sam njihove poharao, te nitko više ne ide po njima. Gradove sam njihove razorio, te nikoga nema u njima, nitko tu ne stoji.",
+			"7": "<sup>7</sup> Mislio sam: 'Sad će me se pobojati, primit će nauku. Tada m se neće zatrti stan, nakon svega, što, am odredio za njega. Ali oni samo još revniji bili u tom, da rade pogubno u svim djelima svojim.",
+			"8": "<sup>8</sup> \"Zato čekajte me\", govori Gospod, \"do dana, kad ću se podignuti kao svjedok; jer odluka moja da skupim narode, da pokupim kraljevstva, da izlijem na njih jarost svoju, sav žestoki gnjev svoj, jer će u ognju revnosti moje biti proždrta sva zemlja.",
+			"9": "<sup>9</sup> Tada ću pribaviti čiste usne narodima, da svi zazivaju ime Gospodnje i služe mu jednodušno.",
+			"10": "<sup>10</sup> S one strane rijeka od Kuša donijet će darove poklonici moji, razasuta zajednica moja.",
+			"11": "<sup>11</sup> U onaj se dan ne trebaš više stidjeti nijemoga svojih djela, kojima si griješio proti meni. Jer onda ću kloniti iz tvoje sredine obijesne zlikovce tvoje. Ti se nećeš više veličati na svetoj gori mojoj.",
+			"12": "<sup>12</sup> Ostavit ću još u sredini tvojoj narod, ponizan i malen, što će tražiti utočište u imenu Gospodnjem.",
+			"13": "<sup>13</sup> Ostatak Izraelov neće više činiti nepravde, neće više govoriti laži. Neće se više naći u ustima njihovim jezik prijevaran; jer će oni pasti i ležati, a da ih nitko ne uplaši.",
+			"14": "<sup>14</sup> Klikuj, kćeri sionska! Vi od Izraela, klikujte! Raduj se i veseli se iz svega srca, kćeri jerusalemska!",
+			"15": "<sup>15</sup> . Uklonio je Gospod sud tvoj, maknuo je s puta neprijatelje tvoje. Kralj Izraelov Gospod u sredini je tvojoj. Nećeš od sada više kušati nesreću.",
+			"16": "<sup>16</sup> U onaj će se dan reći Jerusalemu: \"Sione, ne boj se! Nemoj da ti klonu ruke!",
+			"17": "<sup>17</sup> Gospod, Bog tvoj, u sredini je tvojoj, junak pomoćnik. On se raduje tebi pun veselja. On obnavlja ljubav svoju. On kliče nad tobom pun radosti.",
+			"18": "<sup>18</sup> Koji tuguju daleko od svečanoga sastanka, skupit ću ih; od tebe vuku lozu, na kojima je sada sramota,",
+			"19": "<sup>19</sup> Gle, ustat ću u ono vrijeme proti svima tlačiteljima tvojim, pomoći ću hromu, skupit ću što je razasuto i pribavit ću im slavu i čast u svim zemljama, u kojima ih sada preziru.",
+			"20": "<sup>20</sup> U ono vrijeme dovest ću vas kući, u vrijeme naime, kada vas skupim, jer ću vam pribaviti čast i slavu kod svih naroda na zemlji, kad okrenem sudbinu vašu pred vašim očima, govori Gospod."
+		}
+	}
+};
+module.exports = book;

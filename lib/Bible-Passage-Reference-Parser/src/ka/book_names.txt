@@ -1,0 +1,217 @@
+1Chr	1 ნეშტთა
+1Chr	1ნეშტ
+1Chr	1Chr
+1Cor	1 კორინთელთა მიმართ
+1Cor	1Cor
+1Cor	1კორ
+1Esd	1Esd
+1John	1 იოანე
+1John	1John
+1John	1იოან
+1Kgs	3 მეფეთა
+1Kgs	1Kgs
+1Kgs	3მეფ
+1Macc	1Macc
+1Pet	1 პეტრეს წერილი
+1Pet	1პეტრ
+1Pet	1Pet
+1Sam	1 მეფეთა
+1Sam	1Sam
+1Sam	1მეფ
+1Thess	1 თესალონიკელთა მიმართ
+1Thess	1Thess
+1Thess	1თეს
+1Tim	1 ტიმოთეს მიმართ
+1Tim	1Tim
+1Tim	1ტიმ
+2Chr	2 ნეშტთა
+2Chr	2ნეშტ
+2Chr	2Chr
+2Cor	2 კორინთელთა მიმართ
+2Cor	2Cor
+2Cor	2კორ
+2Esd	2Esd
+2John	2 იოანე
+2John	2John
+2John	2იოან
+2Kgs	4 მეფეთა
+2Kgs	2Kgs
+2Kgs	4მეფ
+2Macc	2Macc
+2Pet	2 პეტრეს წერილი
+2Pet	2პეტრ
+2Pet	2Pet
+2Sam	2 მეფეთა
+2Sam	2Sam
+2Sam	2მეფ
+2Thess	2 თესალონიკელთა მიმართ
+2Thess	2Thess
+2Thess	2თეს
+2Tim	2 ტიმოთეს მიმართ
+2Tim	2Tim
+2Tim	2ტიმ
+3John	3 იოანე
+3John	3John
+3John	3იოან
+3Macc	3Macc
+4Macc	4Macc
+Acts	მოციქულთა საქმეები
+Acts	საქმე
+Acts	Acts
+Amos	ამოსი
+Amos	Amos
+Amos	ამოს
+Bar	Bar
+Bel	Bel
+Col	კოლასელთა მიმართ
+Col	Col
+Col	კოლ
+Dan	დანიელი
+Dan	Dan
+Dan	დან
+Deut	მეორე რჯული
+Deut	Deut
+Deut	რჯლ
+Eccl	ეკლესიასტე
+Eccl	Eccl
+Eccl	ეკლ
+EpJer	EpJer
+Eph	ეფესელთა მიმართ
+Eph	ეფეს
+Eph	Eph
+Esth	ესთერი
+Esth	Esth
+Esth	ესთ
+Exod	გამოსვლა
+Exod	Exod
+Exod	გამ
+Ezek	ეზეკიელი
+Ezek	Ezek
+Ezek	ეზეკ
+Ezra	Ezra
+Ezra	ეზრა
+Ezra	ეზრ
+Gal	გალატელთა მიმართ
+Gal	Gal
+Gal	გალ
+Gen	დაბადება
+Gen	Gen
+Gen	დაბ
+GkEsth	GkEsth
+Hab	აბაკუმი
+Hab	აბაკ
+Hab	Hab
+Hag	ანგია
+Hag	Hag
+Hag	ანგ
+Heb	ებრაელთა მიმართ
+Heb	Heb
+Heb	ებრ
+Hos	ოსია
+Hos	Hos
+Hos	ოს
+Isa	ესაია
+Isa	Isa
+Isa	ეს
+Jas	იაკობის წერილი
+Jas	Jas
+Jas	იაკ
+Jdt	Jdt
+Jer	იერემია
+Jer	Jer
+Jer	იერ
+Job	იობი
+Job	Job
+Job	იობ
+Joel	იოველი
+Joel	Joel
+Joel	იოელ
+John	იოანეს სახარება
+John	John
+John	იოან
+Jonah	Jonah
+Jonah	იონა
+Jonah	იონ
+Josh	იესო ნავეს ძე
+Josh	Josh
+Josh	იესო
+Jude	Jude
+Jude	იუდა
+Jude	იუდ
+Judg	მსაჯული
+Judg	Judg
+Judg	მსაჯ
+Lam	გოდება იერემიასი
+Lam	Lam
+Lam	გოდ
+Lev	ლევიანნი
+Lev	Lev
+Lev	ლევ
+Luke	ლუკას სახარება
+Luke	Luke
+Luke	ლუკ
+Mal	მალაქია
+Mal	Mal
+Mal	მალ
+Mark	მარკოზის სახარება
+Mark	Mark
+Mark	მარკ
+Matt	მათეს სახარება
+Matt	Matt
+Matt	მათ
+Mic	მიქა
+Mic	Mic
+Mic	მიქ
+Nah	ნაუმი
+Nah	ნაუმ
+Nah	Nah
+Neh	ნეემია
+Neh	ნეემ
+Neh	Neh
+Num	რიცხვნი
+Num	რიცხ
+Num	Num
+Obad	აბდია
+Obad	Obad
+Obad	აბდ
+Phil	ფილიპელთა მიმართ
+Phil	ფილიპ
+Phil	Phil
+Phlm	ფილიმონის მიმართ
+Phlm	Phlm
+Phlm	ფილ
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	იგავნი სოლომონისა
+Prov	Prov
+Prov	იგავ
+Ps	ფსალმუნები
+Ps	ფსალმ
+Ps	Ps
+Ps	ფს
+Rev	გამოცხადება
+Rev	გამოცხ
+Rev	Rev
+Rom	რომაელთა მიმართ
+Rom	Rom
+Rom	რომ
+Ruth	Ruth
+Ruth	რუთი
+Ruth	რუთ
+SgThree	SgThree
+Sir	Sir
+Song	ქებათა-ქება სოლომონისა
+Song	Song
+Song	ქებ
+Sus	Sus
+Titus	ტიტეს მიმართ
+Titus	Titus
+Titus	ტიტ
+Tob	Tob
+Wis	Wis
+Zech	ზაქარია
+Zech	Zech
+Zech	ზაქ
+Zeph	სოფონია
+Zeph	Zeph
+Zeph	სოფ

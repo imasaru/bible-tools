@@ -1,0 +1,215 @@
+1Chr	1 ලේකම්
+1Chr	1Chr
+1Chr	1ලේක
+1Cor	1 කොරින්ති
+1Cor	1කොරි
+1Cor	1Cor
+1Esd	1Esd
+1John	1 යොහන්
+1John	1John
+1John	1යොහ
+1Kgs	1 රාජාවලිය
+1Kgs	1රාජා
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 පේතෘස්
+1Pet	1පේතෘ
+1Pet	1Pet
+1Sam	1 සාමුවෙල්
+1Sam	1සාමු
+1Sam	1Sam
+1Thess	1 තෙසලෝනික
+1Thess	1Thess
+1Thess	1තෙස
+1Tim	1 තිමෝති
+1Tim	1තිමෝ
+1Tim	1Tim
+2Chr	2 ලේකම්
+2Chr	2Chr
+2Chr	2ලේක
+2Cor	2 කොරින්ති
+2Cor	2කොරි
+2Cor	2Cor
+2Esd	2Esd
+2John	2 යොහන්
+2John	2John
+2John	2යොහ
+2Kgs	2 රාජාවලිය
+2Kgs	2රාජා
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 පේතෘස්
+2Pet	2පේතෘ
+2Pet	2Pet
+2Sam	2 සාමුවෙල්
+2Sam	2සාමු
+2Sam	2Sam
+2Thess	2 තෙසලෝනික
+2Thess	2Thess
+2Thess	2තෙස
+2Tim	2 තිමෝති
+2Tim	2තිමෝ
+2Tim	2Tim
+3John	3 යොහන්
+3John	3John
+3John	3යොහ
+3Macc	3Macc
+4Macc	4Macc
+Acts	ක්‍රියා
+Acts	ක්රියා
+Acts	Acts
+Amos	ආමොස්
+Amos	Amos
+Amos	ආමො
+Bar	Bar
+Bel	Bel
+Col	කොලොස්සි
+Col	කොලො
+Col	Col
+Dan	දානියෙල්
+Dan	දානි
+Dan	Dan
+Deut	ද්විතීය කථාව
+Deut	ද්වීතීය කථාව
+Deut	Deut
+Deut	ද්වි
+Eccl	දේශනාකාරයා
+Eccl	Eccl
+Eccl	දේශ
+EpJer	EpJer
+Eph	එපීස
+Eph	Eph
+Eph	එපි
+Esth	එස්තර්
+Esth	Esth
+Esth	එස්ත
+Exod	නික්මයාම
+Exod	Exod
+Exod	නික්
+Ezek	එසකියෙල්
+Ezek	Ezek
+Ezek	එස
+Ezra	එස්රා
+Ezra	Ezra
+Gal	ගලාති
+Gal	Gal
+Gal	ගලා
+Gen	උත්පත්ති
+Gen	Gen
+Gen	උත්
+GkEsth	GkEsth
+Hab	හබක්කුක්
+Hab	Hab
+Hab	හබ
+Hag	හග්ගයි
+Hag	Hag
+Hag	හග්
+Heb	හෙබ්‍රෙව්
+Heb	හෙබ්‍රෙ
+Heb	Heb
+Hos	හොෂෙයා
+Hos	හොෂෙ
+Hos	Hos
+Isa	යෙසායා
+Isa	යෙසා
+Isa	Isa
+Jas	යාකොබ්
+Jas	යාකො
+Jas	Jas
+Jdt	Jdt
+Jer	යෙරෙමියා
+Jer	යෙරෙ
+Jer	Jer
+Job	යෝබ්
+Job	Job
+Joel	යෝවෙල්
+Joel	Joel
+Joel	යෝවෙ
+John	ශු යොහන්
+John	යොහන්
+John	John
+John	යොහ
+Jonah	Jonah
+Jonah	යෝනා
+Josh	යෝෂුවා
+Josh	Josh
+Josh	යෝෂු
+Jude	යූදස් (යූද්)
+Jude	Jude
+Jude	යූද්
+Judg	විනිශ්චයකාරයන්ගේ පොත
+Judg	Judg
+Judg	විනි
+Lam	විලාප ගී
+Lam	විලා
+Lam	Lam
+Lev	ලෙවී කථාව
+Lev	ලෙවී
+Lev	Lev
+Luke	ශු ලූක්
+Luke	Luke
+Luke	ලූක්
+Mal	මලාකි
+Mal	Mal
+Mal	මලා
+Mark	ශු මාර්ක්
+Mark	මාර්ක්
+Mark	Mark
+Mark	මාක්
+Matt	ශු මතෙව්
+Matt	මතෙව්
+Matt	Matt
+Matt	මතෙ
+Mic	මීකා
+Mic	Mic
+Nah	නාහුම්
+Nah	නාහු
+Nah	Nah
+Neh	නෙහෙමියා
+Neh	නෙහෙ
+Neh	Neh
+Num	ගණන් කථාව
+Num	ගණන්
+Num	Num
+Obad	ඔබදියා
+Obad	Obad
+Obad	ඔබ
+Phil	පිලිප්පි
+Phil	Phil
+Phil	පිලි
+Phlm	පිලෙමොන්
+Phlm	Phlm
+Phlm	පිලෙ
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	හිතෝපදේශ
+Prov	Prov
+Prov	හිතෝ
+Ps	ගීතාවලිය
+Ps	ගීතා
+Ps	Ps
+Rev	එළිදරව්
+Rev	Rev
+Rev	එළි
+Rom	Rom
+Rom	රෝම
+Ruth	රූත්ගේ කථාව
+Ruth	Ruth
+Ruth	රූත්
+SgThree	SgThree
+Sir	Sir
+Song	සාලමොන්ගේ ගීතිකා
+Song	Song
+Song	සල
+Sus	Sus
+Titus	Titus
+Titus	තීතස්
+Titus	තීත
+Tob	Tob
+Wis	Wis
+Zech	සෙකරියා
+Zech	Zech
+Zech	සෙක
+Zeph	ශෙපනියා
+Zeph	Zeph
+Zeph	ශෙප

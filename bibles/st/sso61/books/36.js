@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonia",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ke lena lentswe la Jehova le neng le tlele Sofonia, mora Kushi, mora Gedalia, mora Amaria, mora Esekiase, mehleng ya Josiase, mora Amone, morena wa Juda.",
+			"2": "<sup>2</sup> Ke ya tlosa, ke tlosetse ruri tsohle tse hodima lefatshe, ho bolela Jehova.",
+			"3": "<sup>3</sup> Ke ya tlosa batho le diphoofolo, ke tlose dinonyana tsa lehodimo le dihlapi tsa lewatle, le dikgopiso hammoho le ba bolotsana, ke be ke timeletse batho hodima lefatshe, ho bolela Jehova.",
+			"4": "<sup>4</sup> Mme ke tla otlollela letsoho la ka hodima Juda le hodima baahi bohle ba Jerusalema, ke tle ke timeletse nqalong eo masala wohle a Baale, lebitso la baruti ba ditshwantsho hammoho le baprista;",
+			"5": "<sup>5</sup> le ba kgumamang hodima matlo pela lekgotla la lehodimo, le bakgumami ba anang ka Jehova, ba anang le ka morena wa bona;",
+			"6": "<sup>6</sup> le ba furaletseng Jehova, le ba sa batleng Jehova, ba sa mo hlokomeleng.",
+			"7": "<sup>7</sup> Tholang pela Morena Jehova! hobane letsatsi la Jehova le atametse; hobane Jehova o lokisitse sehlabelo, o hlatswitse bao a ba bitsitseng.",
+			"8": "<sup>8</sup> Tsatsing la sehlabelo sa Jehova, ke tla kgalemela mahosana le bara ba morena, le bohle ba aparang seaparo sa basele;",
+			"9": "<sup>9</sup> hape, tsatsing leo, ke tla kgalemela bohle ba tlolang sefate se monyako, ba tlatsang ntlo ya morena wa bona ka tse hapilweng ka bohoroso le ka thetso.",
+			"10": "<sup>10</sup> Tsatsing leo, ho bolela Jehova, ho tla utlwahala mohoo o tswang monyakong wa Dihlapi, le seboko se tswang Mishne, le tshenyeho e kgolo e maralleng.",
+			"11": "<sup>11</sup> Bokollang, lona baahi ba Maktheshe, hobane setjhaba sohle sa bahwebi se fedile, bohle ba ipelesitseng ka silifera ba timeditswe.",
+			"12": "<sup>12</sup> Nakong eo, ke tla batlisisa Jerusalema ka mabone, ke kgalemele banna bao ba hwamileng hodima ditshifa tsa bona, ba reng pelong tsa bona: Jehova ha a na ho etsa hantle, leha e le ho etsa hampe.",
+			"13": "<sup>13</sup> Menono ya bona e tla lobelwa, matlo a bona a senngwe; ba tla haha matlo, empa ba ke ke ba dula ho wona; ba tla hloma merara, empa ba ke ke ba enwa veine ya yona.",
+			"14": "<sup>14</sup> Letsatsi la Jehova le leholo le atametse, le atametse, le bile le akofa ka ho fetisisa. Utlwang! letsatsi la Jehova ke lena! Teng mohale o meketsa habohloko.",
+			"15": "<sup>15</sup> Tsatsi leo ke tsatsi la kgalefo, ke tsatsi la tlokotsi le la matswalo, ke tsatsi la tshenyo le la tshenyeho, ke tsatsi la lefifi le la botsho, ke tsatsi la maru le la lefifi le letsho!",
+			"16": "<sup>16</sup> Ke tsatsi la phala le la mokgosi o hlabelwang metse e matla le marako a phahamileng.",
+			"17": "<sup>17</sup> Ke tla bea batho tlokotsing, mme ba tla tsamaya jwaloka difofu, kahobane ba sitetswe Jehova; madi a bona a tla tshollwa jwaloka lerole, le nama ya bona jwaloka bolokwe.",
+			"18": "<sup>18</sup> Leha e le silifera ya bona, leha e le kgauta ya bona, di ke ke tsa tseba ho ba namolela tsatsing la kgalefo ya Jehova; mme ka mollo wa poulelo ya hae, lefatshe lohle le tla tjheswa, hobane o tla fedisa, a be a timeletse baahi bohle ba lefatshe ka sehloho."
+		},
+		"2": {
+			"1": "<sup>1</sup> Imameleng, imameleng, lona setjhaba se sa swabeng, morero wa Jehova ha o eso ho tswale,",
+			"2": "<sup>2</sup> ha ho eso ho tle letsatsi le jwaloka mooko o fefolwang, ha ho eso ho tle hodima lona ho tuka ha bohale ba Jehova, ha le eso ho tle ho lona, tsatsi la bohale ba Jehova!",
+			"3": "<sup>3</sup> Batlang Jehova, baikokobetsi bohle ba lefatshe, ba etsang ka taelo ya hae; batlang ho loka, le batle boikokobetso; ekaba le ka tshoha le patwa tsatsing la bohale ba Jehova.",
+			"4": "<sup>4</sup> Hobane Gasa o tla tlohelwa, Ashkelone a fetohe nahathothe; Ashdode ba tla mo leleka motshehare o moholo, Ekrone a fotholwe.",
+			"5": "<sup>5</sup> Ho madimabe ba ahileng naheng e bapaneng le lewatle, setjhaba sa Bakerethe! Lentswe la Jehova le teng hodima hao, Kanana, lefatshe la Bafilesta; ke tla o timeletsa, o be o hloke le ya ka ahang ha hao!",
+			"6": "<sup>6</sup> Naha e bapaneng le lewatle e tla fetoha makgulo a badisa le masaka a dinku.",
+			"7": "<sup>7</sup> E tla ba naha ya masala a ntlo ya Juda; teng, ba tla fudisa mehlape ya bona; mantsiboya, ba robale matlung a Ashkelone; hobane Jehova, Modimo wa bona, o tla ba etela, a kgutlise baholehuwa ba bona.",
+			"8": "<sup>8</sup> Ke utlwile nyefolo ya Moabe le mahlapa a bana ba Ammone ba nyefotseng setjhaba sa ka, ba hlompholotseng moedi wa sona.",
+			"9": "<sup>9</sup> Ka baka leo, Jehova wa makgotla, Modimo wa Iseraele, o re: Ke a phela, ke re, Moabe o tla ba jwaloka Sodoma, bana ba Ammone ba be jwaloka Gomorra, e leng lefa la bobatsi, le dikgatampi tsa letswai, le nahathothe ka ho sa feleng; masala a setjhaba sa ka a tla ba lobela, le se setseng sa batho ba ka, se tla ba rua ka mokgwa wa lefa.",
+			"10": "<sup>10</sup> Tseo di tla ba hlahela ka baka la boikgohomoso ba bona, hobane ba nyefotse, mme ba ikgohomositse hodima setjhaba sa Jehova wa makgotla.",
+			"11": "<sup>11</sup> Jehova o tla tshabeha hodima bona, hobane o tla fedisa medimo yohle ya lefatshe, ba tle ho mo kgumamela, e mong le e mong ka ho tloha nqalong ya hae, e leng dihlekehlekeng tsohle tsa ditjhaba.",
+			"12": "<sup>12</sup> Le lona Bakushe, le tla ba ba bolailweng ke lerumo la ka!",
+			"13": "<sup>13</sup> Hape, Jehova o tla otlollela letsoho la hae ka nqa leboya, a timeletse Assiria, a fetole Ninive nahathothe le sebataolo se jwaloka lefeella!",
+			"14": "<sup>14</sup> Mehlape e tla botha teng, e leng dihlopha tsa diphoofolo tsa mefutafuta. Le wona moholodi le hlong di tla robala hodima dihlooho tsa ditshiya tsa teng; ho utlwahala nonyana e letsang molodi sefensetereng; monyako ke diqubu tsa ntho tse helehileng, hobane Jehova o beile mamati a dikedare pontsheng.",
+			"15": "<sup>15</sup> Ke wona motse oo o nyakaletseng, o neng o dutse ka kgotso, o neng o re pelong ya wona: Ke nna feela, ha ho o mong! ... O fetohile jwang nahathothe, moo ho bothang diphoofolo teng? E mong le e mong ya fetang pela wona o tla letsa molodi, a ba a tsokotse letsoho."
+		},
+		"3": {
+			"1": "<sup>1</sup> Ho madimabe motse o ikgantshang, o ditshila, motse o hlorisang!",
+			"2": "<sup>2</sup> Ha o mamele lentswe, ha o amohele kgalemelo, ha o tshepe Jehova; ha o atamele ho Modimo wa wona.",
+			"3": "<sup>3</sup> Marena a wona ke ditau tse rorang hara wona; baahlodi ba wona ke diphiri tsa phirimana tse sa bolokeleng hosasane letho. Baporofeta ba wona ke baithorisi, banna ba bohata;",
+			"4": "<sup>4</sup> baprista ba wona ba tlotlolla nqalo e halalelang, ba kgopamisa molao.",
+			"5": "<sup>5</sup> Jehova o lokile kahare ho wona; ha a etse bokgopo, ka hosasa ho hong le ho hong o ntshetsa kahlolo ya hae leseding, ha a lese ho etsa jwalo; empa molotsana ha a tsebe dihlong.",
+			"6": "<sup>6</sup> Ke timeditse ditjhaba, marako a tsona a helehile; ke sentse mmila ya tsona; ho bile ho se ho se ya tsamayang teng, metse ya tsona e senyehile, ho bile ho se ho se le motho teng, ha ho sa le ya ka ahang teng.",
+			"7": "<sup>7</sup> Ke ne ke itse: Feela o ntshabe, o amohele kgalemelo! ... Hoja o ka etsa jwalo, bodulo ba wona bo ka be bo sa tlo fediswa, ka tsohle tseo ke di laetseng hodima wona; empa ba tsohetse ho senya diketso tsa bona kaofela.",
+			"8": "<sup>8</sup> Ka baka leo, ntebelleng he, ho bolela Jehova, tsatsing leo ke tlang ho ema ka lona ho hapa, hobane ke rerile ho phutha ditjhaba le ho bokella mebuso, ke tle ke tshollele hodima yona kgalefo ya ka, ho tuka hohleha bohale ba ka; hobane ka mollo wa poulelo ya ka lefatshe lohle le tla tjheswa.",
+			"9": "<sup>9</sup> Hobane, mohlang oo, ke tla fetola melomo ya ditjhaba, e tle e be e hlwekileng, di tle di bitse kaofela lebitso la Jehova, di mo sebeletse ka pelo e le nngwe.",
+			"10": "<sup>10</sup> Barapedi ba ka, e leng ba setjhaba sa ka se hasaneng, ba tla tla ba etswa naheng e kapele ho dinoka tsa Kushe, ba ntlisetse dinyehelo.",
+			"11": "<sup>11</sup> Tsatsing leo, ha o sa tla hlajwa ke dihlong ka baka la diketso tsa hao kaofela tseo o nkwenehetseng ka tsona; hobane teng ke tla tlosa ba ithabelang boikgohomosong ba bona, kahare ho wena, mme ha o sa tla hlola o ikgohomosa thabeng ya ka e kgethehileng.",
+			"12": "<sup>12</sup> Ke tla siya kahare ho wena setjhaba se kokobetseng, se fokolang, mme ba tla tshepa lebitso la Jehova.",
+			"13": "<sup>13</sup> Masala a Iseraele a ke ke a etsa bokgopo, a ke ke a bolela leshano, leleme la bohata le ke ke la fumanwa melomong ya bona; ba tla fula, ba ye ba bothe, ho se ya ba tshosang!",
+			"14": "<sup>14</sup> Duduetsa ka thabo, moradi wa Sione! Iseraele, o hlabe ditlatse! O thabe, o be o nyakalle ka pelo yohle, wena moradi wa Jerusalema!",
+			"15": "<sup>15</sup> Jehova o tlositse dikahlolo tsa hao, o fietse eo e leng sera ho wena; morena wa Iseraele, Jehova, o kahare ho wena: ha o sa tla hlola o bona bobe.",
+			"16": "<sup>16</sup> Tsatsing leo, ho tla thwe ho Jerusalema: Sione, o se ke wa tshaba! Matsoho a hao a se ke a tepella!",
+			"17": "<sup>17</sup> Jehova, Modimo wa hao, o kahare ho wena: ke mohale ya pholosang. O tla o thabela ka thabo e kgolo, a be a kgutse ka baka la lerato la hae; o tla o nyakallela ka meduduetsa.",
+			"18": "<sup>18</sup> Ke tla bokella hammoho ba llelang diphutheho tse mahlonoko; ba tswile ho wena; ba imelwa ke nyatso!",
+			"19": "<sup>19</sup> Bona, nakong eo, ke tla ba le taba le bahlorisi ba hao kaofela, ke pholose se hlotsang, le se qhadilweng ke se bokelle, mme ke tla ba etsa ba roriswang le ba tumileng mafatsheng wohle, moo ba ileng ba hlajwa ke dihlong.",
+			"20": "<sup>20</sup> Nakong eo, ke tla le tlisa, ke le bokelle nakong eo; hobane ke tla le etsa ba tumileng le ba roriswang hara ditjhaba tsohle tsa lefatshe, mohla ke kgutlisang baholehuwa ba lona pela mahlo a lona, ho bolela Jehova."
+		}
+	}
+};
+module.exports = book;

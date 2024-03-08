@@ -61,7 +61,7 @@ Rom	Romanos?	Rom?s?	Rmn?s?
 1Cor	$FIRST Corintios	1 Corint?i?	1 Cor?
 2Cor	$SECOND Corintios	2 Corint?i?	2 Cor?
 Gal	Gálatas	Gálat	Gál?
-Eph	Efesios	Efes	Ef
+Eph	Efesios	Efes	Ef	Efe
 Phil	Filipenses	Filip?	Fil	Flp
 Col	Colosenses	Colos	Col
 1Thess	$FIRST Tesaloni[cs]enses?	1 Thess	1 Te?s

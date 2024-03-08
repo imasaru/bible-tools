@@ -1384,6 +1384,7 @@ describe "Localized book 2Thess (de)", ->
 		expect(p.parse("2. Thess 1:1").osis()).toEqual("2Thess.1.1")
 		expect(p.parse("2 Thess 1:1").osis()).toEqual("2Thess.1.1")
 		expect(p.parse("2Thess 1:1").osis()).toEqual("2Thess.1.1")
+		expect(p.parse("2 Ths 1:1").osis()).toEqual("2Thess.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("ZWEITE THESSALONICHER 1:1").osis()).toEqual("2Thess.1.1")
 		expect(p.parse("2. THESSALONICHER 1:1").osis()).toEqual("2Thess.1.1")
@@ -1391,6 +1392,7 @@ describe "Localized book 2Thess (de)", ->
 		expect(p.parse("2. THESS 1:1").osis()).toEqual("2Thess.1.1")
 		expect(p.parse("2 THESS 1:1").osis()).toEqual("2Thess.1.1")
 		expect(p.parse("2THESS 1:1").osis()).toEqual("2Thess.1.1")
+		expect(p.parse("2 THS 1:1").osis()).toEqual("2Thess.1.1")
 		`
 		true
 describe "Localized book 1Thess (de)", ->
@@ -1407,6 +1409,7 @@ describe "Localized book 1Thess (de)", ->
 		expect(p.parse("1. Thess 1:1").osis()).toEqual("1Thess.1.1")
 		expect(p.parse("1 Thess 1:1").osis()).toEqual("1Thess.1.1")
 		expect(p.parse("1Thess 1:1").osis()).toEqual("1Thess.1.1")
+		expect(p.parse("1 Ths 1:1").osis()).toEqual("1Thess.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("ERSTE THESSALONICHER 1:1").osis()).toEqual("1Thess.1.1")
 		expect(p.parse("1. THESSALONICHER 1:1").osis()).toEqual("1Thess.1.1")
@@ -1414,6 +1417,7 @@ describe "Localized book 1Thess (de)", ->
 		expect(p.parse("1. THESS 1:1").osis()).toEqual("1Thess.1.1")
 		expect(p.parse("1 THESS 1:1").osis()).toEqual("1Thess.1.1")
 		expect(p.parse("1THESS 1:1").osis()).toEqual("1Thess.1.1")
+		expect(p.parse("1 THS 1:1").osis()).toEqual("1Thess.1.1")
 		`
 		true
 describe "Localized book 2Tim (de)", ->
@@ -1506,12 +1510,14 @@ describe "Localized book Heb (de)", ->
 		expect(p.parse("Hebraer 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("Hebräer 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("Hebr 1:1").osis()).toEqual("Heb.1.1")
+		expect(p.parse("Hbr 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("Heb 1:1").osis()).toEqual("Heb.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("HEBRAEER 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("HEBRAER 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("HEBRÄER 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("HEBR 1:1").osis()).toEqual("Heb.1.1")
+		expect(p.parse("HBR 1:1").osis()).toEqual("Heb.1.1")
 		expect(p.parse("HEB 1:1").osis()).toEqual("Heb.1.1")
 		`
 		true
@@ -1547,6 +1553,7 @@ describe "Localized book 2Pet (de)", ->
 		expect(p.parse("2 Petrus 1:1").osis()).toEqual("2Pet.1.1")
 		expect(p.parse("2. Petr 1:1").osis()).toEqual("2Pet.1.1")
 		expect(p.parse("2 Petr 1:1").osis()).toEqual("2Pet.1.1")
+		expect(p.parse("2 Ptr 1:1").osis()).toEqual("2Pet.1.1")
 		expect(p.parse("2Pet 1:1").osis()).toEqual("2Pet.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("ZWEITE PETRUS 1:1").osis()).toEqual("2Pet.1.1")
@@ -1554,6 +1561,7 @@ describe "Localized book 2Pet (de)", ->
 		expect(p.parse("2 PETRUS 1:1").osis()).toEqual("2Pet.1.1")
 		expect(p.parse("2. PETR 1:1").osis()).toEqual("2Pet.1.1")
 		expect(p.parse("2 PETR 1:1").osis()).toEqual("2Pet.1.1")
+		expect(p.parse("2 PTR 1:1").osis()).toEqual("2Pet.1.1")
 		expect(p.parse("2PET 1:1").osis()).toEqual("2Pet.1.1")
 		`
 		true
@@ -1570,6 +1578,7 @@ describe "Localized book 1Pet (de)", ->
 		expect(p.parse("1 Petrus 1:1").osis()).toEqual("1Pet.1.1")
 		expect(p.parse("1. Petr 1:1").osis()).toEqual("1Pet.1.1")
 		expect(p.parse("1 Petr 1:1").osis()).toEqual("1Pet.1.1")
+		expect(p.parse("1 Ptr 1:1").osis()).toEqual("1Pet.1.1")
 		expect(p.parse("1Pet 1:1").osis()).toEqual("1Pet.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("ERSTE PETRUS 1:1").osis()).toEqual("1Pet.1.1")
@@ -1577,6 +1586,7 @@ describe "Localized book 1Pet (de)", ->
 		expect(p.parse("1 PETRUS 1:1").osis()).toEqual("1Pet.1.1")
 		expect(p.parse("1. PETR 1:1").osis()).toEqual("1Pet.1.1")
 		expect(p.parse("1 PETR 1:1").osis()).toEqual("1Pet.1.1")
+		expect(p.parse("1 PTR 1:1").osis()).toEqual("1Pet.1.1")
 		expect(p.parse("1PET 1:1").osis()).toEqual("1Pet.1.1")
 		`
 		true

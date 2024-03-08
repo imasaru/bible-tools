@@ -1,0 +1,175 @@
+1Chr	1 Croniques
+1Chr	1 Cròniques
+1Chr	1 Cron
+1Chr	1 Cròn
+1Chr	1Chr
+1Cor	1 Corintis
+1Cor	1 Cor
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Joan
+1John	1John
+1Kgs	1 Reis
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Pere
+1Pet	1 Pet
+1Pet	1Pet
+1Sam	1 Samuel
+1Sam	1Sam
+1Thess	1 Tessalonicencs
+1Thess	1Thess
+1Tim	Timoteu
+1Tim	1Tim
+2Chr	2 Croniques
+2Chr	2 Cròniques
+2Chr	2 Cron
+2Chr	2 Cròn
+2Chr	2Chr
+2Cor	2 Corintis
+2Cor	2 Cor
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Joan
+2John	2John
+2Kgs	2 Reis
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Pere
+2Pet	2 Pet
+2Pet	2Pet
+2Sam	2 Samuel
+2Sam	2Sam
+2Thess	2 Tessalonicencs
+2Thess	2Thess
+2Tim	2 Timoteu
+2Tim	2Tim
+3John	3 Joan
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Fets dels Apostols
+Acts	Fets dels Apòstols
+Acts	Acts
+Acts	Fets
+Amos	Amos
+Amos	Amós
+Bar	Bar
+Bel	Bel
+Col	Colossencs
+Col	Col
+Dan	Daniel
+Dan	Dan
+Deut	Deuteronomi
+Deut	Deut
+Eccl	Cohelet
+Eccl	Cohèlet
+Eccl	Eccl
+EpJer	EpJer
+Eph	Efesis
+Eph	Eph
+Esth	Ester
+Esth	Esth
+Exod	Exode
+Exod	Èxode
+Exod	Exod
+Ezek	Ezequiel
+Ezek	Ezek
+Ezra	Esdres
+Ezra	Ezra
+Gal	Galates
+Gal	Gàlates
+Gal	Gal
+Gen	Genesi
+Gen	Gènesi
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habacuc
+Hab	Hab
+Hag	Ageu
+Hag	Hag
+Heb	Hebreus
+Heb	Heb
+Hos	Osees
+Hos	Hos
+Isa	Isaies
+Isa	Isaïes
+Isa	Isa
+Jas	Jaume
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremies
+Jer	Jer
+Job	Job
+Joel	Joel
+John	Joan
+John	John
+Jonah	Jonah
+Jonah	Jonas
+Jonah	Jonàs
+Josh	Josue
+Josh	Josuè
+Josh	Josh
+Jude	Judes
+Jude	Jude
+Judg	Jutges
+Judg	Judg
+Lam	Lamentacions
+Lam	Lam
+Lev	Levitic
+Lev	Levític
+Lev	Lev
+Luke	Lluc
+Luke	Luke
+Mal	Malaquies
+Mal	Mal
+Mark	Marc
+Mark	Mark
+Matt	Mateu
+Matt	Matt
+Mic	Miquees
+Mic	Mic
+Nah	Nahum
+Nah	Nah
+Neh	Nehemies
+Neh	Neh
+Num	Nombres
+Num	Num
+Num	Núm
+Obad	Abdies
+Obad	Obad
+Phil	Filipencs
+Phil	Phil
+Phlm	Filemon
+Phlm	Filèmon
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Proverbis
+Prov	Prov
+Ps	Salms
+Ps	Salm
+Ps	Ps
+Ps	Sl
+Rev	Apocalipsi
+Rev	Apoc
+Rev	Rev
+Rom	Romans
+Rom	Rom
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	Cantic dels Cantics
+Song	Cantic dels Càntics
+Song	Càntic dels Cantics
+Song	Càntic dels Càntics
+Song	Song
+Sus	Sus
+Titus	Titus
+Tob	Tob
+Wis	Wis
+Zech	Zacaries
+Zech	Zech
+Zeph	Sofonies
+Zeph	Zeph

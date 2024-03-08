@@ -73,6 +73,7 @@
 1Cor	I Mga Taga Corinto
 1Cor	Unang Corintio
 1Cor	Unang Korintio
+1Cor	Unang Corinth
 1Cor	Unang Corinto
 1Cor	Unang Korinto
 1Cor	Una Corintio
@@ -81,18 +82,23 @@
 1Cor	1. Korintio
 1Cor	I. Corintio
 1Cor	I. Korintio
+1Cor	Una Corinth
 1Cor	Una Corinto
 1Cor	Una Korinto
 1Cor	1 Corintio
 1Cor	1 Korintio
+1Cor	1. Corinth
 1Cor	1. Corinto
 1Cor	1. Korinto
 1Cor	I Corintio
 1Cor	I Korintio
+1Cor	I. Corinth
 1Cor	I. Corinto
 1Cor	I. Korinto
+1Cor	1 Corinth
 1Cor	1 Corinto
 1Cor	1 Korinto
+1Cor	I Corinth
 1Cor	I Corinto
 1Cor	I Korinto
 1Cor	1 Cor
@@ -307,6 +313,7 @@
 2Cor	2 Mga Taga Corinto
 2Cor	Ikalawang Corintio
 2Cor	Ikalawang Korintio
+2Cor	Ikalawang Corinth
 2Cor	Ikalawang Corinto
 2Cor	Ikalawang Korinto
 2Cor	II. Corintio
@@ -315,14 +322,18 @@
 2Cor	2. Korintio
 2Cor	II Corintio
 2Cor	II Korintio
+2Cor	II. Corinth
 2Cor	II. Corinto
 2Cor	II. Korinto
 2Cor	2 Corintio
 2Cor	2 Korintio
+2Cor	2. Corinth
 2Cor	2. Corinto
 2Cor	2. Korinto
+2Cor	II Corinth
 2Cor	II Corinto
 2Cor	II Korinto
+2Cor	2 Corinth
 2Cor	2 Corinto
 2Cor	2 Korinto
 2Cor	2 Cor
@@ -806,6 +817,7 @@ Mic	Mikieas
 Mic	Miqueas
 Mic	Mikeas
 Mic	Micah
+Mic	Micas
 Mic	Mikah
 Mic	Mikas
 Mic	Mica
@@ -823,6 +835,7 @@ Neh	Neh
 Num	Mga Bilang
 Num	Bamidbar
 Num	Bemidbar
+Num	Bilang
 Num	Bil
 Num	Blg
 Num	Num
@@ -847,6 +860,7 @@ Phil	Taga- Filipos
 Phil	Taga- Pilipos
 Phil	Taga Filipos
 Phil	Taga Pilipos
+Phil	Filipios
 Phil	Filipos
 Phil	Pilipos
 Phil	Phil
@@ -870,6 +884,7 @@ Prov	Prov
 Prov	Kaw
 Ps	Mga Salmo
 Ps	Mga Awit
+Ps	Salmo
 Ps	Awit
 Ps	Ps
 Rev	Apocalipsis ni Juan

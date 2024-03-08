@@ -54,7 +54,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Gen"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:سفر[\s\xa0]*التكوين|التكوين|ﺗﻜﻮﻳﻦ|تكوين|Gen|تك)
+		(?:سفر[\s\xa0]*التكوين|التكوين|وتكوين|ﺗﻜﻮﻳﻦ|تكوين|Gen|تك)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Exod"]
@@ -161,7 +161,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["1Kgs"]
 		regexp: ///(^|[^0-9A-Za-zؐ-ؚؠ-ٟٮ-ۓە-ۜ۟-۪ۨ-ۯۺ-ۼۿݐ-ݿࢠࢢ-ࢬࣤ-ࣾﭐ-ﮱﯓ-ﴽﵐ-ﶏﶒ-ﷇﷰ-ﷻﹰ-ﹴﹶ-ﻼ])(
-		(?:سفر[\s\xa0]*الملوك[\s\xa0]*الأول|الممالك[\s\xa0]*الثالث|الملوك[\s\xa0]*الأول|ﺍﻟﻤﻠﻮﻙ[\s\xa0]*ﺍﻷﻭ|1(?:[\s\xa0]*الملوك|ملوك|Kgs)|١ملوك|1[\s\xa0]*مل)
+		(?:سفر[\s\xa0]*الملوك[\s\xa0]*الأول|الممالك[\s\xa0]*الثالث|الملوك[\s\xa0]*الأول|ﺍﻟﻤﻠﻮﻙ[\s\xa0]*ﺍﻷﻭ|1(?:[\s\xa0]*الملوك|ملوك|Kgs)|(?:و[1١]|١)ملوك|1[\s\xa0]*مل)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["2Chr"]
@@ -319,7 +319,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Luke"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:إنجيل[\s\xa0]*لوقا|لوقِا|Luke|لوقا|لو)
+		(?:إنجيل[\s\xa0]*لوقا|لوقِا|ولوقا|Luke|لوقا|لو)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["1John"]
@@ -349,12 +349,12 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Acts"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:سفر[\s\xa0]*أعمال[\s\xa0]*الرسل|أعمال[\s\xa0]*ُّالرسل|ﺍﻋﻤﺎﻝ[\s\xa0]*ﺍﻟﺮﺳﻞ|أعمال[\s\xa0]*الرسل|اعمال[\s\xa0]*الرسل|Acts|اع)
+		(?:سفر[\s\xa0]*أعمال[\s\xa0]*الرسل|أعمال[\s\xa0]*ُّالرسل|ﺍﻋﻤﺎﻝ[\s\xa0]*ﺍﻟﺮﺳﻞ|أعمال[\s\xa0]*الرسل|اعمال[\s\xa0]*الرسل|أعمال|Acts|اع)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Rom"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:ر(?:سالة[\s\xa0]*(?:بولس[\s\xa0]*الرسول[\s\xa0]*إلى[\s\xa0]*أهل[\s\xa0]*رومية|روما)|و(?:مية|م)?)|الرسالة[\s\xa0]*إلى[\s\xa0]*أهل[\s\xa0]*رومية|ﺭﻭﻣﻴﺔ|Rom)
+		(?:ر(?:سالة[\s\xa0]*(?:بولس[\s\xa0]*الرسول[\s\xa0]*إلى[\s\xa0]*أهل[\s\xa0]*رومية|روما)|و(?:مية|م)?)|الرسالة[\s\xa0]*إلى[\s\xa0]*أهل[\s\xa0]*رومية|ورومية|ﺭﻭﻣﻴﺔ|Rom)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["2Cor"]

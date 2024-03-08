@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanja",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Sefanja Dit zijn de woorden die de HEER richtte tot Sefanja, de zoon van Kusi, de zoon van Gedalja, de zoon van Amarja, de zoon van Hizkia, toen Josia, de zoon van Amon, in Juda regeerde.",
+			"2": "<sup>2</sup> Alles zal ik van de aardbodem wegvagen –&nbsp;spreekt de HEER.",
+			"3": "<sup>3</sup> Mens en dier zal ik wegvagen. Ik zal de vogels aan de hemel wegvagen en de vissen in de zee, alles wat de zondaars ten val heeft gebracht. En ik laat de mensen van de aardbodem verdwijnen –&nbsp;spreekt de HEER.",
+			"4": "<sup>4</sup> Ik zal mijn hand naar Juda en de inwoners van Jeruzalem uitstrekken. Daar zal ik de Ba&auml;ls, de afgodendienaars en de priesters vernietigen.",
+			"5": "<sup>5</sup> Ik zal wegvagen wie op het dak knielt voor het sterrenleger aan de hemel, wie knielt voor de HEER en trouw aan hem zweert, maar tegelijk ook aan Milkom.",
+			"6": "<sup>6</sup> Ik zal vernietigen wie de HEER de rug toekeert, hem niet zoekt en hem niet raadpleegt. ",
+			"7": "<sup>7</sup> Wees stil voor God, de HEER, de dag van de HEER is nabij! De HEER zal een offermaaltijd houden en zijn genodigden heiligen.",
+			"8": "<sup>8</sup> Op de dag van die maaltijd zal ik de leiders en de koningszonen straffen, en al wie zich hult in uitheemse kledij.",
+			"9": "<sup>9</sup> Op die dag zal ik straffen wie over de drempel springt, wie het huis van zijn heer vult met geweld en bedrog.",
+			"10": "<sup>10</sup> Op die dag –&nbsp;spreekt de HEER&nbsp;– klinkt er geschreeuw uit de Vispoort, gehuil uit de nieuwe stad, en heerst er verslagenheid in de heuvels.",
+			"11": "<sup>11</sup> Huil, bewoners van de Vijzelbuurt: de handelaars zijn omgekomen, de geldwegers zijn uitgeroeid.",
+			"12": "<sup>12</sup> Dan doorzoek ik Jeruzalem met lampen, straf ik hen die zich aan wijn te buiten gaan en denken: De HEER doet geen goed en geen kwaad.",
+			"13": "<sup>13</sup> Hun bezittingen worden buitgemaakt, hun huizen verwoest. Ze zullen huizen bouwen maar er niet in wonen, wijngaarden planten maar de wijn niet drinken. ",
+			"14": "<sup>14</sup> De grote dag van de HEER is nabij, hij is nabij en komt zeer snel. Hoor! De dag van de HEER! Zelfs de dappersten schreeuwen het uit!",
+			"15": "<sup>15</sup> Die dag zal een dag zijn van razernij, een dag van angst en benauwdheid, een dag van rampspoed en onheil, een dag van duisternis en donkerheid, een dag van dreigende, donkere wolken,",
+			"16": "<sup>16</sup> een dag van hoorngeschal en krijgsgeschreeuw tegen de vestingsteden en hun hoge torens. ",
+			"17": "<sup>17</sup> Ik zal de mensen angst aanjagen, ze zullen rondlopen als blinden, want ze hebben tegen de HEER gezondigd. Hun bloed wordt vergoten als was het maar stof, hun vlees zal tot straatvuil vergaan.",
+			"18": "<sup>18</sup> Goud noch zilver kan hen redden als de toorn van de HEER hen treft, als het vuur van zijn woede de aarde verteert en hij al haar bewoners een gruwelijk einde bereidt. "
+		},
+		"2": {
+			"1": "<sup>1</sup> Kom tot jezelf en kom samen, schaamteloos volk,",
+			"2": "<sup>2</sup> voordat mijn besluit gestalte krijgt –&nbsp;een dag verwaait als kaf&nbsp;–, voordat de brandende toorn van de HEER zich tegen je keert, voordat de dag van de toorn van de HEER zich tegen je keert.",
+			"3": "<sup>3</sup> Zoek de HEER, allen in het land die nederig zijn en naar zijn wetten leven, zoek rechtvaardigheid, zoek nederigheid: misschien blijven jullie dan gespaard op de dag van de toorn van de HEER.",
+			"4": "<sup>4</sup> Gaza zal verlaten zijn, Askelon een woestenij, Asdod wordt midden op de dag ontvolkt, Ekron ontworteld.",
+			"5": "<sup>5</sup> Wee jullie, bewoners van de kustvlakte, Kretenzers! De HEER richt zich tegen jou, Kana&auml;n, land van de Filistijnen! Ik zal je te gronde richten, met al je bewoners.",
+			"6": "<sup>6</sup> De kustvlakte wordt grasland, met weidegrond voor herders en kooien voor schapen en geiten.",
+			"7": "<sup>7</sup> Het gebied zal toevallen aan wie er van Juda overblijven. Zij zullen daar weiden en ’s avonds rusten in de huizen van Askelon, want de HEER, hun God, zal naar hen omzien en hun lot ten goede keren. ",
+			"8": "<sup>8</sup> Ik heb de hoon van Moab gehoord en de spot van Ammon, ik heb gehoord hoe ze mijn volk hoonden en zijn gebied bedreigden.",
+			"9": "<sup>9</sup> Daarom, zo waar ik leef –&nbsp;spreekt de HEER van de hemelse machten, de God van Isra&euml;l&nbsp;–, Moab zal worden als Sodom en Ammon als Gomorra: een distelveld, een zoutput, voor altijd een woestenij. Ze zullen worden geplunderd door wat er nog over is van mijn volk, hun bezit valt toe aan wat er van mijn natie nog rest.",
+			"10": "<sup>10</sup> Dat is het loon voor de hoogmoed waarmee ze het volk van de HEER van de hemelse machten hebben gehoond en bedreigd!",
+			"11": "<sup>11</sup> De HEER zal ze ontzag inboezemen, hij zal alle goden van de aarde doen verschrompelen. Aan alle kusten zal men voor hem knielen, ieder in zijn eigen land. ",
+			"12": "<sup>12</sup> Nubi&euml;rs, jullie worden door mijn zwaard doorboord! ",
+			"13": "<sup>13</sup> Hij zal zijn hand uitstrekken naar het noorden, Assyri&euml; te gronde richten, Nineve tot een wildernis maken, dor als een woestijn.",
+			"14": "<sup>14</sup> Kudden zullen er een rustplaats vinden, allerlei dieren zullen er samentroepen, uilen en stekelvarkens zullen zich nestelen tussen de zuilen. Hoor hoe het huilt door de vensters, puin ligt op de drempels, het cederhout is losgerukt.",
+			"15": "<sup>15</sup> Dat is er over van die vrolijke stad, de stad die zo onbezorgd leefde, die dacht: Ik, en ik alleen! Ach, wat een wildernis is ze geworden, een rustplaats voor wilde dieren. Wie er voorbij komt sist tussen zijn tanden en gebaart vol afschuw met zijn hand."
+		},
+		"3": {
+			"1": "<sup>1</sup> Wee de opstandige, bezoedelde, gewelddadige stad!",
+			"2": "<sup>2</sup> Ze luistert naar niemand, neemt geen terechtwijzing aan, vertrouwt niet op de HEER, wendt zich niet tot haar God.",
+			"3": "<sup>3</sup> Haar leiders zijn brullende leeuwen, haar rechters wolven in de avond die ’s ochtends niets meer te kluiven hebben.",
+			"4": "<sup>4</sup> Haar profeten zijn gewetenloze bedriegers, haar priesters ontwijden wat heilig is en doen de wet geweld aan.",
+			"5": "<sup>5</sup> Maar de HEER is in haar midden, hij is rechtvaardig, hij doet geen onrecht. Iedere ochtend wanneer het licht wordt spreekt hij recht, en nooit ontbreekt hij. Maar wie onrecht doet, kent geen schaamte. ",
+			"6": "<sup>6</sup> Volken heb ik uitgeroeid, hun torens vernield, hun straten verwoest, niemand kan er door. Hun steden zijn vernietigd, geen mens kan er meer wonen.",
+			"7": "<sup>7</sup> Ik zei: ‘Heb toch ontzag voor mij, laat je door mij vermanen.’ Dan zou haar woonplaats niet vernietigd zijn, dan had ik haar niet hoeven te straffen. Maar nee, ze deden telkens weer de schandelijkste dingen.",
+			"8": "<sup>8</sup> Wacht maar –&nbsp;spreekt de HEER&nbsp;–, wacht op de dag dat ik mijn buit kom halen. Ik heb besloten volken te verzamelen en koninkrijken bijeen te halen, en mijn toorn, mijn laaiende woede over ze uit te storten. Door het vuur van mijn woede vergaat heel de aarde. ",
+			"9": "<sup>9</sup> Dan zal ik de lippen van de volken rein maken, zij zullen de naam van de HEER aanroepen, ze zullen hem dienen, zij aan zij.",
+			"10": "<sup>10</sup> Van over de rivieren van Nubi&euml; zullen zij die ik verstrooid heb mij komen vereren en mij hun offergaven brengen.",
+			"11": "<sup>11</sup> Op die dag hoef je je niet meer te schamen voor alle daden waarmee je tegen mij in opstand kwam. Wie van overmoed vrolijk is laat ik uit je midden verdwijnen, op mijn heilige berg zul je niet meer hoogmoedig zijn.",
+			"12": "<sup>12</sup> Ik zal een arm en zwak volk binnen je muren achterlaten dat in de naam van de HEER een toevlucht vindt.",
+			"13": "<sup>13</sup> Wie er van Isra&euml;l overblijven, zullen niet langer onrecht doen, ze zullen geen leugens spreken, uit hun mond zal geen bedrieglijke taal meer klinken. Ze zullen weiden en rustig liggen, en niemand die ze stoort. ",
+			"14": "<sup>14</sup> Jubel, vrouwe Sion, zing van vreugde, Isra&euml;l, juich met heel je hart, vrouwe Jeruzalem!",
+			"15": "<sup>15</sup> De HEER heeft het vonnis over jou tenietgedaan en je vijand verdreven. De HEER, de koning van Isra&euml;l, is in je midden, je hebt geen kwaad meer te vrezen.",
+			"16": "<sup>16</sup> Op die dag zal men tegen Jeruzalem zeggen: ‘Wees niet bang, Sion! Laat de moed niet zinken!’",
+			"17": "<sup>17</sup> De HEER, je God, zal in je midden zijn, hij is de held die je bevrijdt. Hij zal vol blijdschap zijn, verheugd over jou, in zijn liefde zal hij zwijgen, in zijn vreugde zal hij over je jubelen.",
+			"18": "<sup>18</sup> Alle treurenden zal ik bijeenbrengen, verzamelen wie op je feesten moesten ontbreken. Hun vernedering drukte zwaar op de stad.",
+			"19": "<sup>19</sup> In die tijd zal ik afrekenen met je verdrukkers, de kreupelen zal ik redden, de verstrooiden bijeenbrengen. En hen die in de hele wereld werden veracht zal ik met eer en roem overladen.",
+			"20": "<sup>20</sup> In die tijd breng ik jullie terug. Ik zal jullie verzamelen, je zult met eer en roem overladen worden door alle volken op aarde. Met eigen ogen zullen jullie zien hoe ik je lot ten goede keer –&nbsp;zegt de HEER."
+		}
+	}
+};
+module.exports = book;

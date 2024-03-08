@@ -62,52 +62,50 @@ var info = {
 			"name": "1 Samuel",
 			"numChapters": 31,
 			"synonyms": [
-				"1 Sam"
+				"1Sam"
 			]
 		},
 		{
 			"name": "2 Samuel",
 			"numChapters": 24,
 			"synonyms": [
-				"2 Sam"
+				"2Sam"
 			]
 		},
 		{
 			"name": "1 Kings",
 			"numChapters": 22,
 			"synonyms": [
-				"1 Kg",
-				"1 Kgs"
+				"1Kgs"
 			]
 		},
 		{
 			"name": "2 Kings",
 			"numChapters": 25,
 			"synonyms": [
-                "1 Kg",
-                "2 Kgs"
+				"2Kgs"
 			]
 		},
 		{
 			"name": "1 Chronicles",
 			"numChapters": 29,
 			"synonyms": [
-				"1 Chr",
-                "1 Chron"
+				"1Chr"
 			]
 		},
 		{
 			"name": "2 Chronicles",
 			"numChapters": 36,
 			"synonyms": [
-                "2 Chr",
-                "2 Chron"
+				"2Chr"
 			]
 		},
 		{
 			"name": "Ezra",
 			"numChapters": 10,
-			"synonyms": []
+			"synonyms": [
+				"Ezra"
+			]
 		},
 		{
 			"name": "Nehemiah",
@@ -126,7 +124,9 @@ var info = {
 		{
 			"name": "Job",
 			"numChapters": 42,
-			"synonyms": []
+			"synonyms": [
+				"Job"
+			]
 		},
 		{
 			"name": "Psalm",
@@ -160,7 +160,6 @@ var info = {
 			"name": "Isaiah",
 			"numChapters": 66,
 			"synonyms": [
-			    "Is",
 				"Isa"
 			]
 		},
@@ -280,29 +279,36 @@ var info = {
 			"name": "Matthew",
 			"numChapters": 28,
 			"synonyms": [
-				"Mt",
 				"Matt"
 			]
 		},
 		{
 			"name": "Mark",
 			"numChapters": 16,
-			"synonyms": []
+			"synonyms": [
+				"Mark"
+			]
 		},
 		{
 			"name": "Luke",
 			"numChapters": 24,
-			"synonyms": []
+			"synonyms": [
+				"Luke"
+			]
 		},
 		{
 			"name": "John",
 			"numChapters": 21,
-			"synonyms": []
+			"synonyms": [
+				"John"
+			]
 		},
 		{
 			"name": "Acts",
 			"numChapters": 28,
-			"synonyms": []
+			"synonyms": [
+				"Acts"
+			]
 		},
 		{
 			"name": "Romans",
@@ -315,14 +321,14 @@ var info = {
 			"name": "1 Corinthians",
 			"numChapters": 16,
 			"synonyms": [
-				"1 Cor"
+				"1Cor"
 			]
 		},
 		{
 			"name": "2 Corinthians",
 			"numChapters": 13,
 			"synonyms": [
-				"2 Cor"
+				"2Cor"
 			]
 		},
 		{
@@ -357,35 +363,35 @@ var info = {
 			"name": "1 Thessalonians",
 			"numChapters": 5,
 			"synonyms": [
-				"1 Thess"
+				"1Thess"
 			]
 		},
 		{
 			"name": "2 Thessalonians",
 			"numChapters": 3,
 			"synonyms": [
-				"2 Thess"
+				"2Thess"
 			]
 		},
 		{
 			"name": "1 Timothy",
 			"numChapters": 6,
 			"synonyms": [
-				"1 Tim"
+				"1Tim"
 			]
 		},
 		{
 			"name": "2 Timothy",
 			"numChapters": 4,
 			"synonyms": [
-				"2 Tim"
+				"2Tim"
 			]
 		},
 		{
 			"name": "Titus",
 			"numChapters": 3,
 			"synonyms": [
-				"Tit"
+				"Titus"
 			]
 		},
 		{
@@ -413,35 +419,43 @@ var info = {
 			"name": "1 Peter",
 			"numChapters": 5,
 			"synonyms": [
-				"1 Pet"
+				"1Pet"
 			]
 		},
 		{
 			"name": "2 Peter",
 			"numChapters": 3,
 			"synonyms": [
-				"2 Pet"
+				"2Pet"
 			]
 		},
 		{
 			"name": "1 John",
 			"numChapters": 5,
-			"synonyms": []
+			"synonyms": [
+				"1John"
+			]
 		},
 		{
 			"name": "2 John",
 			"numChapters": 1,
-			"synonyms": []
+			"synonyms": [
+				"2John"
+			]
 		},
 		{
 			"name": "3 John",
 			"numChapters": 1,
-			"synonyms": []
+			"synonyms": [
+				"3John"
+			]
 		},
 		{
 			"name": "Jude",
 			"numChapters": 1,
-            "synonyms": []
+			"synonyms": [
+				"Jude"
+			]
 		},
 		{
 			"name": "Revelation",

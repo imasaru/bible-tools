@@ -51,6 +51,7 @@
 4Macc	4Macc
 Acts	کارهای رسولان
 Acts	اعمال رسولان
+Acts	اعمال
 Acts	Acts
 Amos	عاموس
 Amos	Amos
@@ -66,6 +67,7 @@ Deut	Deut
 Eccl	جامعه
 Eccl	Eccl
 EpJer	EpJer
+Eph	افسسسیان
 Eph	افسسیان
 Eph	افسیان
 Eph	Eph
@@ -160,6 +162,7 @@ Prov	امثال سلی ن
 Prov	امثال
 Prov	Prov
 Ps	مزامیر
+Ps	مزمور
 Ps	Ps
 Rev	مکاشفهٔ یوحنا
 Rev	مکاشفه یوحنا
@@ -177,6 +180,7 @@ Sus	Sus
 Titus	Titus
 Titus	تیطوس
 Titus	تیطُس
+Titus	تیطس
 Tob	Tob
 Wis	Wis
 Zech	زکریا

@@ -1,0 +1,220 @@
+1Chr	1. Makoronike
+1Chr	1. Vakoronike
+1Chr	1 Makoronike
+1Chr	1 Vakoronike
+1Chr	1Chr
+1Cor	1. VaKorinde
+1Cor	1 VaKorinde
+1Cor	1. Korinde
+1Cor	1 Korinde
+1Cor	1Cor
+1Esd	1Esd
+1John	1. Johani
+1John	1 Johani
+1John	1John
+1Kgs	1. Madzimambo
+1Kgs	1 Madzimambo
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1. Petro
+1Pet	1 Petro
+1Pet	1Pet
+1Sam	1. Samueri
+1Sam	1 Samueri
+1Sam	1. Sam
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1. VaTesaronika
+1Thess	1. VaTeseronika
+1Thess	1 VaTesaronika
+1Thess	1 VaTeseronika
+1Thess	1. Tesaronika
+1Thess	1 Tesaronika
+1Thess	1Thess
+1Tim	1. Timoti
+1Tim	1 Timoti
+1Tim	1. Timo
+1Tim	1 Timo
+1Tim	1Tim
+2Chr	2. Makoronike
+2Chr	2. Vakoronike
+2Chr	2 Makoronike
+2Chr	2 Vakoronike
+2Chr	2Chr
+2Cor	2. VaKorinde
+2Cor	2 VaKorinde
+2Cor	2. Korinde
+2Cor	2 Korinde
+2Cor	2Cor
+2Esd	2Esd
+2John	2. Johani
+2John	2 Johani
+2John	2John
+2Kgs	2. Madzimambo
+2Kgs	2 Madzimambo
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2. Petro
+2Pet	2 Petro
+2Pet	2Pet
+2Sam	2. Samueri
+2Sam	2 Samueri
+2Sam	2. Sam
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2. VaTesaronika
+2Thess	2. VaTeseronika
+2Thess	2 VaTesaronika
+2Thess	2 VaTeseronika
+2Thess	2. Tesaronika
+2Thess	2 Tesaronika
+2Thess	2Thess
+2Tim	2. Timoti
+2Tim	2 Timoti
+2Tim	2. Timo
+2Tim	2 Timo
+2Tim	2Tim
+3John	3. Johani
+3John	3 Johani
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Mabasa
+Acts	Acts
+Amos	Amosi
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	VaKorose
+Col	Korose
+Col	Col
+Dan	Dhanieri
+Dan	Danieri
+Dan	Dhani
+Dan	Dan
+Deut	Deuteronomio
+Deut	Dhuteronomi
+Deut	Deut
+Eccl	Muparidzi
+Eccl	Eccl
+EpJer	EpJer
+Eph	VaEfeso
+Eph	Efeso
+Eph	Eph
+Esth	Esteri
+Esth	Esth
+Esth	Est
+Exod	Ekisodho
+Exod	Ekisodo
+Exod	Exod
+Exod	Eks
+Ezek	Ezekieri
+Ezek	Ezek
+Ezek	Eze
+Ezra	Ezira
+Ezra	Ezra
+Gal	Vagaratiya
+Gal	VaGaratia
+Gal	Garatia
+Gal	Gal
+Gen	Genesisi
+Gen	Genesi
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habhakuki
+Hab	Habha
+Hab	Hab
+Hag	Hagai
+Hag	Hag
+Heb	VaHebheru
+Heb	Hebheru
+Heb	Heb
+Hos	Hosea
+Hos	Hos
+Isa	Isaya
+Isa	Isa
+Jas	Jakobho
+Jas	Jakobo
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremia
+Jer	Jer
+Job	Jobho
+Job	Job
+Joel	Joere
+Joel	Joel
+John	Johani
+John	John
+Jonah	Jonah
+Jonah	Jona
+Josh	Joshua
+Josh	Josh
+Jude	Judha
+Jude	Jude
+Judg	Vatongi
+Judg	Judg
+Lam	Kuungudza kwaJeremia
+Lam	Kuungudza
+Lam	Lam
+Lev	Revhitiko
+Lev	Lev
+Luke	Luke
+Luke	Ruka
+Mal	Maraki
+Mal	Mal
+Mark	Marko
+Mark	Mako
+Mark	Mark
+Mark	Mak
+Matt	Matteo
+Matt	Mateo
+Matt	Matt
+Matt	Mat
+Mic	Mika
+Mic	Mic
+Nah	Nahume
+Nah	Nahumi
+Nah	Naume
+Nah	Nah
+Neh	Nehemia
+Neh	Neh
+Num	Numeri
+Num	Num
+Obad	Obhadhia
+Obad	Obhad
+Obad	Obad
+Phil	VaFiripi
+Phil	Firipi
+Phil	Phil
+Phlm	Firimoni
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Zvirevo
+Prov	Prov
+Ps	Mapisarema
+Ps	Ps
+Rev	Zvakazarurwa
+Rev	Rev
+Rom	VaRoma
+Rom	Roma
+Rom	Rom
+Ruth	Rute
+Ruth	Ruth
+Ruth	Rut
+SgThree	SgThree
+Sir	Sir
+Song	Rwiyo Rukuru rwaSoromoni
+Song	Rwiyo
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	Tito
+Tob	Tob
+Wis	Wis
+Zech	Zakaria
+Zech	Zekaria
+Zech	Zech
+Zeph	Zefania
+Zeph	Zeph
+Zeph	Zef

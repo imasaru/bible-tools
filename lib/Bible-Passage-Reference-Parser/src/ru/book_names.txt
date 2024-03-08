@@ -908,6 +908,7 @@ Neh	Неем
 Neh	Neh
 Num	Книга Чисел
 Num	Числа
+Num	Числ
 Num	Num
 Num	Чис
 Obad	Книга пророка Авдия

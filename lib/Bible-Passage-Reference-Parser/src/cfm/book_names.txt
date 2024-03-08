@@ -1,0 +1,154 @@
+1Chr	1 Sansiarnak
+1Chr	1Chr
+1Cor	1 Korin
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Johan
+1John	1John
+1Kgs	1 Siangpahrang
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Peter
+1Pet	1 Piter
+1Pet	1Pet
+1Sam	1 Samuel
+1Sam	1Sam
+1Thess	1 Thesalon
+1Thess	1Thess
+1Tim	1 Timote
+1Tim	1Tim
+2Chr	2 Sansiarnak
+2Chr	2Chr
+2Cor	2 Korin
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Johan
+2John	2John
+2Kgs	2 Siangpahrang
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Peter
+2Pet	2 Piter
+2Pet	2Pet
+2Sam	2 Samuel
+2Sam	2Sam
+2Thess	2 Thesalon
+2Thess	2Thess
+2Tim	2 Timote
+2Tim	2Tim
+3John	3 Johan
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Tirhthlah
+Acts	Acts
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Kolosa
+Col	Kolose
+Col	Col
+Dan	Daniel
+Dan	Dan
+Deut	Daan Peksalnak
+Deut	Deut
+Eccl	Thusimtu
+Eccl	Eccl
+EpJer	EpJer
+Eph	Efesa
+Eph	Eph
+Esth	Esther
+Esth	Esth
+Exod	Suahlannak
+Exod	Exod
+Ezek	Ezekiel
+Ezek	Ezek
+Ezra	Ezra
+Gal	Galati
+Gal	Gal
+Gen	Seemtirnak
+Gen	Semtirnak
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakkuk
+Hab	Habakuk
+Hab	Hab
+Hag	Haggai
+Hag	Hag
+Heb	Hebru
+Heb	Heb
+Hos	Hosea
+Hos	Hos
+Isa	Isaiah
+Isa	Isa
+Jas	Jeim
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremiah
+Jer	Jer
+Job	Job
+Joel	Joel
+John	Johan
+John	John
+Jonah	Jonah
+Josh	Joshua
+Josh	Josh
+Jude	Juda Cakuat
+Jude	Jude
+Judg	Thuthentu
+Judg	Thuṭhentu
+Judg	Judg
+Lam	Tahhla
+Lam	Ṭahhla
+Lam	Lam
+Lev	Puithiam Hnatuannak
+Lev	Puithiam Hnaṭuannak
+Lev	Lev
+Luke	Luka
+Luke	Luke
+Mal	Malakhi
+Mal	Mal
+Mark	Marka
+Mark	Mark
+Matt	Matthai
+Matt	Mathai
+Matt	Matt
+Mic	Mikah
+Mic	Mic
+Nah	Nahum
+Nah	Nah
+Neh	Nehemiah
+Neh	Neh
+Num	Mipum Siarnak
+Num	Num
+Obad	Obadiah
+Obad	Obad
+Phil	Filipi
+Phil	Phil
+Phlm	Filemon
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Thufim
+Prov	Prov
+Ps	Saam Hlabu
+Ps	Saam
+Ps	Ps
+Rev	Thuphuan
+Rev	Rev
+Rom	Rome
+Rom	Rom
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	Solomon Hla
+Song	Song
+Sus	Sus
+Titus	Titas
+Titus	Titus
+Tob	Tob
+Wis	Wis
+Zech	Zekhariah
+Zech	Zech
+Zeph	Zefaniah
+Zeph	Zeph

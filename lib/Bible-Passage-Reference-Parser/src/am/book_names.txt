@@ -1,0 +1,229 @@
+1Chr	1ይ ዜና መዋዕል
+1Chr	1ኛ ዜና
+1Chr	1Chr
+1Cor	1ይ ቆሮንቶስ
+1Cor	1ኛ ቆሮ
+1Cor	1Cor
+1Esd	1Esd
+1John	1ይ ዮሐንስ
+1John	1John
+1John	1ኛ ዮሐ
+1Kgs	1ኛ ነገስት
+1Kgs	1ይ ነገስት
+1Kgs	1 ነገ
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1ኛ ጴጥሮስ
+1Pet	1ይ ጴጥሮስ
+1Pet	1ኛ ጴሮ
+1Pet	1Pet
+1Sam	1ኛ ሳሙኤል
+1Sam	1ይ ሳሙኤል
+1Sam	1ኛ ሳሙ
+1Sam	1Sam
+1Thess	1ኛ ተሰሎንቄ
+1Thess	1ይ ተሰሎንቄ
+1Thess	1Thess
+1Thess	1ተሰ
+1Tim	1ኛ ጢሞቴዎስ
+1Tim	1ይ ጢሞቴዎስ
+1Tim	1ኛ ጢሞ
+1Tim	1Tim
+2Chr	2ይ ዜና መዋዕል
+2Chr	2ኛ ዜና
+2Chr	2Chr
+2Cor	2ይ ቆሮንቶስ
+2Cor	2Cor
+2Cor	2ቆሮ
+2Esd	2Esd
+2John	2ይ ዮሐንስ
+2John	2John
+2John	2ይ ዮሐ
+2Kgs	2ኛ ነገስት
+2Kgs	2ይ ነገስት
+2Kgs	2 ነገ
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2ኛ ጴጥሮስ
+2Pet	2ይ ጴጥሮስ
+2Pet	2ይ ጴሮ
+2Pet	2Pet
+2Sam	21ኛ ሳሙኤል
+2Sam	2ይ ሳሙኤል
+2Sam	2ኛ ሳሙ
+2Sam	2Sam
+2Thess	2ኛ ተሰሎንቄ
+2Thess	2ይ ተሰሎንቄ
+2Thess	2Thess
+2Thess	2ተሰ
+2Tim	2ኛ ጢሞቴዎስ
+2Tim	2ይ ጢሞቴዎስ
+2Tim	2ኛ ጢሞ
+2Tim	2Tim
+3John	3ይ ዮሐንስ
+3John	3John
+3John	3ይ ዮሐ
+3Macc	3Macc
+4Macc	4Macc
+Acts	የሐዋርያት ሥራ
+Acts	ሐዋሪያት ሥራ
+Acts	ሐዋሪያት
+Acts	Acts
+Acts	ሐዋ
+Amos	Amos
+Amos	አሞጽ
+Amos	አሞ
+Bar	Bar
+Bel	Bel
+Col	ቆላስያስ
+Col	Col
+Col	ቆሎሴ
+Col	ቆላ
+Dan	ዳንኤል
+Dan	Dan
+Dan	ዳን
+Deut	Deut
+Deut	ዘዳግም
+Deut	በዘዳ
+Eccl	Eccl
+Eccl	መክብብ
+Eccl	መክ
+EpJer	EpJer
+Eph	ኤፌሶን
+Eph	Eph
+Eph	ኤፌ
+Esth	Esth
+Esth	ኣስቴር
+Esth	አስቴ
+Exod	Exod
+Exod	ዘጸአት
+Exod	ዘፀዓት
+Ezek	ህዝቅኤል
+Ezek	Ezek
+Ezek	ሕዝ
+Ezra	Ezra
+Ezra	እዝራ
+Ezra	ዕዝራ
+Gal	ገላትያ
+Gal	Gal
+Gal	ገላ
+Gen	ዘፍጥረት
+Gen	ዘፍጥርት
+Gen	Gen
+Gen	ዘፍ
+GkEsth	GkEsth
+Hab	ዕንባቆም
+Hab	Hab
+Hab	ዕን
+Hag	Hag
+Hag	ሐጌ
+Heb	ዕብራውያን
+Heb	Heb
+Heb	ዕብ
+Hos	Hos
+Hos	ሆሴእ
+Hos	ሆሴ
+Isa	ኢሳይያስ
+Isa	ኢሳያስ
+Isa	Isa
+Isa	ኢሳ
+Jas	ያዕቆብ
+Jas	Jas
+Jas	ያዕ
+Jdt	Jdt
+Jer	ኤርሚያስ
+Jer	ኤርምያስ
+Jer	Jer
+Jer	ኤር
+Job	Job
+Job	ኢዮብ
+Job	ኢዮ
+Joel	Joel
+Joel	ዮኤል
+John	ወ. ዮሐንስ
+John	ወ ዮሐንስ
+John	John
+John	ዮሐንስ
+John	ዮሐ
+Jonah	Jonah
+Jonah	ዮናስ
+Josh	Josh
+Josh	ኢያሱ
+Josh	ኢያ
+Jude	Jude
+Jude	ይሁዳ
+Judg	መሳፍንቲ
+Judg	Judg
+Judg	መሳ
+Lam	ድጒዓ ኤርምያስ
+Lam	Lam
+Lam	ድጒ
+Lev	ዘለዋውያን
+Lev	ዘሌዋውያን
+Lev	Lev
+Lev	ዘሌ
+Luke	Luke
+Luke	ሉቃስ
+Luke	ሉቃ
+Mal	ሚልክያስ
+Mal	Mal
+Mal	ሚል
+Mark	Mark
+Mark	ማርቆስ
+Mark	ማር
+Matt	ማቴኢሳያስ
+Matt	Matt
+Matt	ማቴዎስ
+Mic	ሚክያስ
+Mic	Mic
+Mic	ሚኪ
+Nah	Nah
+Nah	ናሆም
+Nah	ናሆ
+Neh	ነህምያ
+Neh	Neh
+Neh	ነህ
+Num	ዘህልቍ
+Num	Num
+Num	ዘሁ
+Obad	Obad
+Obad	አብድያ
+Phil	ፊሊጵስዩስ
+Phil	Phil
+Phil	ፊሊጲ
+Phil	ፊሊ
+Phlm	Phlm
+Phlm	ፊልሞን
+Phlm	ፊሊ
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Prov
+Prov	ምሳሌ
+Ps	መዝሙር
+Ps	Ps
+Ps	መዝ
+Rev	ራእይ ዮሐንስ
+Rev	Rev
+Rev	ራእይ
+Rev	ራዕይ
+Rev	ራእ
+Rom	Rom
+Rom	ሮሜ
+Ruth	Ruth
+Ruth	ሩት
+SgThree	SgThree
+Sir	Sir
+Song	መኃልየ መኃልየ
+Song	Song
+Song	መሃ
+Sus	Sus
+Titus	Titus
+Titus	ቲቶ
+Tob	Tob
+Wis	Wis
+Zech	ዘካርያስ
+Zech	Zech
+Zech	ዘካ
+Zeph	ሶፎንያስ
+Zeph	Zeph
+Zeph	ሶፎን

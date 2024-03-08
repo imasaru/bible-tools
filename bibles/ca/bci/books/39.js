@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malaquies",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Presagi. Paraula que el Senyor va adreçar a Israel per mitjà de Malaquies.",
+			"2": "<sup>2</sup> El Senyor diu: Jo us estimo. Però vosaltres responeu: «Com demostres que ens estimes?» Doncs bé, ho dic jo, el Senyor: Esaú i Jacob eren germans, però jo he estimat Jacob",
+			"3": "<sup>3</sup> i l’he preferit a Esaú. He deixat desolades les muntanyes d’Esaú, he donat la seva heretat als xacals de l’estepa.",
+			"4": "<sup>4</sup> I si els edomites diuen: «Ens han destruït, però reconstruirem les ruïnes», això dic jo, el Senyor de l’univers: Tot el que ells reconstrueixin, jo ho demoliré. Diran d’ells: «És un país culpable, és el poble que ha provocat per sempre la indignació del Senyor.»",
+			"5": "<sup>5</sup> Quan ho contemplareu amb els vostres propis ulls, direu: «El Senyor és gran fins més enllà del territori d’Israel.»",
+			"6": "<sup>6</sup> A vosaltres, sacerdots, que menyspreeu el meu nom, jo, el Senyor de l’univers, us dic: Els fills honoren els seus pares, i els servents, els seus senyors. Però si jo sóc pare, on és el meu honor? I si jo sóc senyor, on és el respecte que em deveu? I vosaltres contesteu: «Com demostres que menyspreem el teu nom?»",
+			"7": "<sup>7</sup> Doncs bé, l’heu menyspreat oferint en el meu altar aliments indignes. I encara pregunteu: «Què tenen d’indignes?» Vosaltres us penseu que la taula del Senyor és una taula qualsevol!",
+			"8": "<sup>8</sup> Quan porteu animals cecs per sacrificar-los, us sembla bé? Quan porteu animals coixos o malalts, us sembla bé? Porteu-los al governador, i veureu si es complau en vosaltres i us rep favorablement! Us ho dic jo, el Senyor de l’univers.",
+			"9": "<sup>9</sup> Mireu, doncs, de complaure’m i jo us concediré el meu favor. Vosaltres, sacerdots, sou els responsables de tot això. Com us puc acollir favorablement? Us ho dic jo, el Senyor de l’univers.",
+			"10": "<sup>10</sup> Tant de bo que algú de vosaltres tanqués les portes del temple. Així no encendríeu en va el foc de l’altar. No em complac en vosaltres ni en les ofrenes que em presenten les vostres mans. Us ho dic jo, el Senyor de l’univers.",
+			"11": "<sup>11</sup> Perquè de llevant fins a ponent tots els pobles reconeixeran que el meu nom és gran, i pertot arreu m’oferiran un sacrifici i una oblació pures. Sí, tots els pobles reconeixeran que el meu nom és gran. Us ho dic jo, el Senyor de l’univers.",
+			"12": "<sup>12</sup> Però vosaltres profaneu el meu nom pensant que la taula del Senyor és una taula qualsevol, i que no cal mirar gaire què s’hi porta.",
+			"13": "<sup>13</sup> I afegiu: «Que n’és, de feixuc, el que fem.» Us ho dic jo, el Senyor de l’univers. Vosaltres em porteu animals aprofitats, coixos o malalts, per fer-me’n ofrena. ¿Com em puc complaure en el que em presenten les vostres mans? Us ho dic jo, el Senyor.",
+			"14": "<sup>14</sup> Maleït el canalla que té bon bestiar i, per complir un vot, sacrifica al Senyor el rebuig! Jo sóc un gran rei, i tots els pobles reconeixen que el meu nom és terrible. Us ho dic jo, el Senyor."
+		},
+		"2": {
+			"1": "<sup>1</sup> Ara, doncs, a vosaltres, sacerdots, us adreço aquest advertiment:",
+			"2": "<sup>2</sup> Si no m’escolteu, si no us hi repenseu i doneu glòria al meu nom, us enviaré calamitats. Canviaré en maledicció les vostres benediccions. Cert que en faré una maledicció, si no us hi repenseu.",
+			"3": "<sup>3</sup> Sapigueu que no deixaré prosperar la vostra descendència. Us tiraré a la cara el rebuig dels animals sacrificats en les vostres festivitats, i vosaltres sereu llançats amb aquell rebuig.",
+			"4": "<sup>4</sup> Sapigueu que us he adreçat aquest advertiment perquè es compleixi l’aliança que vaig fer amb Leví. Us ho dic jo, el Senyor de l’univers.",
+			"5": "<sup>5</sup> Vaig fer aliança amb ell concedint-li la vida i la pau. Ell em reverenciava amb temor i tenia respecte pel meu nom.",
+			"6": "<sup>6</sup> Les respostes que donava eren veritat, no hi havia res de fals en els seus llavis. Caminava al costat meu en pau i amb rectitud, i gràcies a ell molts es penedien de les seves culpes.",
+			"7": "<sup>7</sup> De fet, les paraules del sacerdot han de vetllar per fer conèixer el que Déu vol, i la gent li demana una resposta perquè és l’enviat del Senyor de l’univers.",
+			"8": "<sup>8</sup> Però vosaltres, sacerdots, us heu apartat del bon camí, i les vostres respostes n’han fet caure molts. Heu arruïnat l’aliança que jo havia fet amb Leví.",
+			"9": "<sup>9</sup> Per això, també jo us omplo de menyspreu i d’humiliació als ulls de tot el poble, perquè no heu guardat els meus camins, i les vostres respostes es guien per favoritismes.",
+			"10": "<sup>10</sup> ¿No tenim tots nosaltres un únic pare? ¿No és un únic Déu el qui ens ha creat? Doncs, per què n’hi ha que són deslleials al seu germà, profanant així l’aliança dels nostres pares?",
+			"11": "<sup>11</sup> Els de Judà han estat deslleials. Enmig d’Israel, a Jerusalem, han comès coses abominables: han profanat el lloc sant, tan estimat pel Senyor, casant-se amb dones que adoren déus estrangers.",
+			"12": "<sup>12</sup> Per als qui es comporten així, el Senyor farà desaparèixer del campament de Jacob el qui crida l’alerta i el qui la respon, i també el qui presenta ofrenes al Senyor de l’univers.",
+			"13": "<sup>13</sup> Però, a més a més, encara feu això altre: cobriu de llàgrimes l’altar del Senyor, plorant i gemegant, perquè ell no mira les vostres ofrenes ni les accepta amb benvolença de les vostres mans.",
+			"14": "<sup>14</sup> I pregunteu: «Per què és així?» Doncs bé: perquè el Senyor va ser testimoni del teu compromís entre tu i la dona de quan eres jove, però tu li has estat infidel, tot i que ella era la teva companya, la dona amb qui t’havies compromès.",
+			"15": "<sup>15</sup> Això no ho faria ningú que tingués una mica de seny. Què busca la persona assenyada? Una descendència segons Déu. Repenseu-vos-hi, doncs: no sigueu deslleials a la dona de quan éreu joves.",
+			"16": "<sup>16</sup> No vull que ningú abandoni la muller. Ho dic jo, el Senyor Déu d’Israel. Els qui ho han fet han cobert de violència el seu mantell matrimonial. Us ho dic jo, el Senyor de l’univers. Repenseu-vos-hi, doncs, i no sigueu deslleials.",
+			"17": "<sup>17</sup> Les vostres enraonies cansen el Senyor. I vosaltres pregunteu: «Com demostres que el cansem?» Doncs bé, el canseu quan dieu que ell mira amb bons ulls els qui fan el mal i es complau en gent d’aquesta mena. O també quan pregunteu: «On és el Déu que fa justícia?»"
+		},
+		"3": {
+			"1": "<sup>1</sup> El Senyor de l’univers us diu: Jo envio el meu missatger perquè obri un camí davant meu, i tot seguit entrarà al seu temple el Sobirà que vosaltres cerqueu. El missatger de l’aliança, que vosaltres desitgeu, ja ve.",
+			"2": "<sup>2</sup> Qui resistirà el dia de la seva arribada? Qui es mantindrà dret quan ell aparegui? Perquè és com el foc del fonedor, com el sabó de rentar roba.",
+			"3": "<sup>3</sup> S’asseurà com qui depura i refina la plata, i purificarà els descendents de Leví. Els refinarà com la plata i l’or. Llavors presentaran al Senyor ofrenes dignes d’ell.",
+			"4": "<sup>4</sup> Les ofrenes de Judà i de Jerusalem seran agradables al Senyor com ho eren en els temps antics, en èpoques passades.",
+			"5": "<sup>5</sup> El Senyor de l’univers us diu encara: Jo vindré enmig de vosaltres per jutjar-vos. Acusaré amb promptitud els qui practiquen bruixeries, els adúlters, els perjurs, els qui estafen el sou dels jornalers, els qui oprimeixen les viudes i els orfes, o maltracten els immigrants, sense cap por de mi.",
+			"6": "<sup>6</sup> Jo, el Senyor, no he pas canviat, però vosaltres, fills de Jacob, no heu deixat de comportar-vos malament.",
+			"7": "<sup>7</sup> Des dels temps dels vostres pares us aparteu dels meus decrets i no els observeu. Reconcilieu-vos amb mi i jo em reconciliaré amb vosaltres. Us ho dic jo, el Senyor de l’univers. Però vosaltres dieu: «Com ens hem de reconciliar?»",
+			"8": "<sup>8</sup> Doncs bé, ¿és just que un home defraudi Déu tal com vosaltres m’esteu defraudant? I encara em pregunteu: «En què t’hem defraudat?» Doncs en els delmes i en les altres parts que em són reservades.",
+			"9": "<sup>9</sup> Les calamitats us cauran al damunt, perquè vosaltres, el poble sencer, m’esteu defraudant.",
+			"10": "<sup>10</sup> Pagueu íntegre el delme al tresor del temple, i així hi haurà menjar a casa meva. Feu la prova de pagar-me’l. Us ho dic jo, el Senyor de l’univers. Llavors veureu com us obro les comportes del cel i aboco sobre vosaltres a mans plenes la benedicció.",
+			"11": "<sup>11</sup> Allunyaré de vosaltres les plagues perquè no us facin malbé els fruits de la terra ni siguin infructuoses les vostres vinyes. Us ho dic jo, el Senyor de l’univers.",
+			"12": "<sup>12</sup> Tots els pobles us tindran per feliços, perquè sereu un país envejable. Us ho dic jo, el Senyor de l’univers.",
+			"13": "<sup>13</sup> Vosaltres parleu durament contra mi. Us ho dic jo, el Senyor. I encara repliqueu: «Què hem dit contra tu?»",
+			"14": "<sup>14</sup> Doncs bé, això és el que afirmeu: «No val la pena de servir Déu. Què n’hem tret, d’observar el que ell manava i de lamentar-nos davant el Senyor de l’univers?",
+			"15": "<sup>15</sup> Nosaltres més aviat tenim per feliços els insolents: els qui fan el mal prosperen, i fins els qui posen Déu a prova s’escapen del seu càstig.»",
+			"16": "<sup>16</sup> Però llavors els qui creuen en el Senyor s’ho han parlat entre ells. El Senyor els ha escoltat i ha sentit què deien. Ha quedat escrit en un llibre, perquè davant el Senyor hi hagués constància dels qui creuen en ell i reverencien el seu nom.",
+			"17": "<sup>17</sup> El Senyor de l’univers diu: Seran meus el dia que ara preparo, els prendré com la meva heretat preferida. Seré indulgent amb ells com un pare és indulgent amb el fill que li és fidel.",
+			"18": "<sup>18</sup> Llavors tornareu a veure la diferència entre justos i injustos, entre el qui és fidel a Déu i el qui no li és fidel.",
+			"19": "<sup>19</sup> Ja arriba aquell dia que abrusa com un forn. Tots els insolents i els qui fan el mal seran com palla: aquell dia, que ja s’acosta, els incendiarà i no en quedarà ni l’arrel ni un bri. Us ho dic jo, el Senyor de l’univers.",
+			"20": "<sup>20</sup> En canvi, per a vosaltres que reverencieu el meu nom, brillarà el sol de la salvació, i els seus raigs us guariran. Sortireu enjogassats com els vedells d’engreix.",
+			"21": "<sup>21</sup> El dia que duré a terme la meva obra, trepitjareu els injustos com cendra sota les plantes dels peus. Us ho dic jo, el Senyor de l’univers.",
+			"22": "<sup>22</sup> Recordeu-vos sempre de la Llei del meu servent Moisès. A la muntanya de l’Horeb li vaig prescriure aquests manaments i decrets per a tot Israel.",
+			"23": "<sup>23</sup> Abans que arribi el dia del Senyor, dia gran i temible, jo us enviaré el profeta Elies.",
+			"24": "<sup>24</sup> Ell farà que els pares es reconciliïn de cor amb els fills, i els fills amb els pares. Així, quan jo vindré, no hauré de consagrar el país a l’extermini."
+		}
+	}
+};
+module.exports = book;

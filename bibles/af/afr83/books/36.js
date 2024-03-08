@@ -1,0 +1,66 @@
+var book = {
+	"name": "SEFANJA",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Die woord van die Here wat gekom het tot Sefanja seun van Kusi, seun van Gedalja, seun van Amarja, seun van Hiskia. Dit het gebeur in die regeringstyd van koning Josia van Juda, seun van Amon.",
+			"2": "<sup>2</sup> Ek gaan 'n einde maak aan alles op aarde, sê die Here,",
+			"3": "<sup>3</sup> Ek gaan 'n einde maak aan mens en dier,\naan voëls en visse,\nEk gaan 'n einde maak aan dié wat mense laat struikel het,\nen aan die goddeloses;\nEk gaan die mense van die aarde af uitroei, sê die Here.",
+			"4": "<sup>4</sup> Ek gaan my hand uitsteek teen Juda\nen teen al die inwoners van Jerusalem,\nEk gaan uit hierdie plek uitroei\nwat daar nog van Baäl oor is:\ndie naam van die afgodspriesters, van alle priesters:",
+			"5": "<sup>5</sup> dié wat op die dakke die hemelliggame aanbid,\ndié wat die Here aanbid\nen aan Hom trou sweer\nmaar terselfdertyd ook aan Milkom,",
+			"6": "<sup>6</sup> dié wat die rug vir die Here draai,\nna sy wil nie vra nie en Hom nie raadpleeg nie.",
+			"7": "<sup>7</sup> Wag in stilte op die Here God!\nDie dag van die Here is naby!\nHy het 'n maaltyd voorberei,\nen dié wat Hy genooi het, gewy.",
+			"8": "<sup>8</sup> Op die dag van die maaltyd sal Ek, die Here,\ndie amptenare en die prinse straf,\nalmal wat uitlandse klere dra.",
+			"9": "<sup>9</sup> Daardie dag sal Ek almal straf\nwat uit bygeloof nie eens op 'n drumpel trap nie\nen wat die huis van hulle Koning\nmet geweld en bedrog vul.",
+			"10": "<sup>10</sup> Daardie dag, sê die Here,\nsal daar noodkrete klink uit die Vispoort uit,\ngehuil uit die tweede stadswyk,\nharde smartkrete van die heuwels af.",
+			"11": "<sup>11</sup> Huil, inwoners van die Vysel,\nwant al die handelaars word uitgedelg,\nalmal wat geld afweeg, word uitgeroei.",
+			"12": "<sup>12</sup> Daardie tyd sal Ek Jerusalem met lampe deursoek\nen die mense straf wat in hulle selftevredenheid dink:\ndie Here doen nie goed óf kwaad nie.",
+			"13": "<sup>13</sup> Hulle besittings sal geplunder word,\nhulle huise verwoes word.\nHulle sal huise bou, maar nie daarin woon nie,\nwingerde plant, maar nie die wyn drink nie.",
+			"14": "<sup>14</sup> Die groot dag van die Here is naby,\nbaie naby, dit kom gou.\nLuister hoe bitter, hoe skril klink\ndie geskreeu van die soldate dié dag!",
+			"15": "<sup>15</sup> Dié dag is 'n dag van toorn,\n'n dag van nood en benoudheid,\n'n dag van storms en verwoesting,\n'n dag van donkerte, van duisternis,\n'n dag van wolke, van swaar onweer,",
+			"16": "<sup>16</sup> 'n dag waarop die ramshoring sal blaas\nen die krygsgeskreeu sal klink\nteen die vestingstede, teen die hoë hoektorings.",
+			"17": "<sup>17</sup> Ek laat angs die mense pak\nsodat hulle soos blindes loop,\nwant hulle het teen My gesondig.\nHulle bloed sal vergiet word\nasof dit so min werd is as stof,\nasof hulle liggame\nniks meer as uitwerpsel is nie.",
+			"18": "<sup>18</sup> Nóg hulle silwer nóg hulle goud\nsal hulle kan red op die dag\nwanneer die toorn van die Here losbreek,\nwanneer die hele land verteer word\ndeur die vuur van sy woede.\nHy bring vernietiging en skrik\noor al die inwoners van die land."
+		},
+		"2": {
+			"1": "<sup>1</sup> Ruk julle reg, onbeskaamde nasie,",
+			"2": "<sup>2</sup> voordat die besluit voltrek word,\nvoordat die dag kom en julle soos kaf word\nvoor die gloed van die toorn van die Here,\nvoordat die dag van die toorn van die Here oor julle kom.",
+			"3": "<sup>3</sup> Vra na die wil van die Here,\nalle nederiges in die land,\nalmal wat doen wat die Here wil.\nStreef na geregtigheid, na nederigheid!\nMiskien bly julle die straf gespaar\nop die dag van die toorn van die Here.",
+			"4": "<sup>4</sup> Gasa sal verlate lê,\nAskelon sal geen inwoners hê nie,\nAsdod sal helder oordag ontvolk word,\nEkron sal verwoes word.",
+			"5": "<sup>5</sup> Ellende wag vir dié wat aan die kus woon,\ndié wat van Kreta af kom!\nDie woord van die Here is teen julle:\nEk gaan jou, Kanaän, Filistyneland, so vernietig\ndat daar niemand in jou woon nie:",
+			"6": "<sup>6</sup> die kusstreek sal net 'n weiveld wees\nwaar wagters vee laat wei,\n'n plek vir kleinveekrale.",
+			"7": "<sup>7</sup> Die kusstreek sal die eiendom word\nvan wat daar oor is van Juda:\nhúlle is die kudde wat daar sal wei\nen snags in die huise van Askelon sal slaap,\nwant die Here hulle God sal Hom oor hulle ontferm\nen hulle lot verander.",
+			"8": "<sup>8</sup> Ek het gehoor hoe Moab my volk verkleineer het,\nhoe die Ammoniete hom met minagting behandel het,\nhoe aanmatigend hulle was teenoor my volk se grondgebied.",
+			"9": "<sup>9</sup> So seker as Ek leef, sê die Here die Almagtige,\ndie God van Israel:\nMoab sal soos Sodom word\nen die Ammoniete soos Gomorra:\n'n veld vol dorings en soutpanne,\nvir altyd verlate.\nDié lande sal buit word vir wat daar oor is van my volk;\ndié wat oorgebly het van die nasie wat aan My behoort,\nsal hulle in besit neem.",
+			"10": "<sup>10</sup> Dit gebeur met Moab en die Ammoniete\nomdat hulle so hooghartig was,\nomdat hulle die volk van die Here die Almagtige\nverkleineer het en aanmatigend was teen die volk.",
+			"11": "<sup>11</sup> Ontsagwekkend is die Here bo almal.\nHy laat al die gode op die aarde wegteer sonder offers,\nen al die kuslande van die nasies buig voor Hom,\nelkeen op sy eie plek.",
+			"12": "<sup>12</sup> Ook julle, Kussiete,\nword deur die swaard van die Here afgemaai.",
+			"13": "<sup>13</sup> Daarna steek Hy sy hand uit teen die noorde\nen maak Hy 'n einde aan Assirië:\nHy maak Nineve 'n stad sonder inwoners,\n'n droë weiveld.",
+			"14": "<sup>14</sup> Kuddes vee sal daar lê en herkou,\nallerlei troppe diere.\nPelikane en uile sal op die stad se mooi pilare slaap,\ndie wind sal deur die vensters huil.\nDie verwoesting sal selfs die drumpels tref,\nwant die sederhout sal afgestroop word.",
+			"15": "<sup>15</sup> Dit is wat sal word van die uitgelate stad\nwat so onbesorg daar lê,\nwat dink: daar is nie nog 'n stad soos ek nie.\nHy gaan verwoes word, 'n lêplek vir diere.\nElkeen wat daar verbykom, sal fluit van verbasing\nen sy hande saamslaan."
+		},
+		"3": {
+			"1": "<sup>1</sup> Ellende wag vir Jerusalem,\ndie opstandige, besoedelde stad\nwaarin daar soveel verdrukking is.",
+			"2": "<sup>2</sup> Hy is ongehoorsaam\nen wil hom nie laat teregwys nie,\nhy vertrou nie op die Here nie\nen dien nie sy God nie.",
+			"3": "<sup>3</sup> Die amptenare in die stad is brullende leeus;\nsy regters is wolwe wat snags aas soek\nen tot die môre toe nie genoeg kry om aan te knaag nie;",
+			"4": "<sup>4</sup> sy profete is roekelose, trouelose mense;\nsy priesters ontwy wat gewyd is\nen doen die wet van die Here geweld aan.",
+			"5": "<sup>5</sup> In dié stad is die Here die regverdige,\nnet Hy doen nie onreg nie.\nHy gee môre vir môre sy beslissing;\nsy beslissing bly nie een dag uit nie\nen tog ken dié wat onreg doen, geen skaamte nie.",
+			"6": "<sup>6</sup> Ek het nasies uitgeroei,\nhulle vestings is vernietig.\nEk het hulle paaie verlate gemaak,\nsonder iemand wat daar loop.\nHulle stede is verwoes, daar is niemand nie,\nnie een inwoner nie.",
+			"7": "<sup>7</sup> Ek het gedink Jerusalem sal nou vir My ontsag hê\nen hom laat teregwys,\nsodat sy woonplek nie vernietig word\nen al my straf hom tref nie.\nMaar hy het gretig bly sondig\nmet alles wat hy doen.",
+			"8": "<sup>8</sup> Daarom, wag vir My in vrees, sê die Here,\nwag vir die dag wanneer Ek opstaan en my buit kom vat.\nEk het besluit om nasies bymekaar te maak,\nkoninkryke saam te roep\nen op hulle my gramskap uit te stort,\ndie volle gloed van my toorn:\ndie hele aarde sal verteer word\nin die vuur van my woede.",
+			"9": "<sup>9</sup> Ek sal die volke verander, hulle lippe rein maak,\nsodat hulle almal My sal aanroep\nen soos een man My sal dien.",
+			"10": "<sup>10</sup> Van anderkant die riviere van Kus af\nsal dié wat My vereer, my verstrooide volk,\nvir My geskenke bring.",
+			"11": "<sup>11</sup> Daardie dag sal jy nie meer rede hê om jou te skaam\ndat jy opstandig teen My was met alles wat jy gedoen het nie,\nwant Ek gaan uit jou uithaal\ndié wat hulle so verheug het in jou hovaardigheid;\njy sal nie meer vol hoogmoed wees\ndaar op my heilige berg nie.",
+			"12": "<sup>12</sup> Ek sal in jou laat oorbly net dié\nwat nederig en ootmoedig is\nen vertrou op die Naam van die Here.",
+			"13": "<sup>13</sup> Dié wat van Israel oorgebly het,\nsal nie onreg doen nie\nen nie lieg nie;\ndaar sal uit hulle mond nie valsheid kom nie.\nHulle sal 'n kudde wees wat wei en gaan lê en rus\nsonder dat iemand hulle skrikmaak.",
+			"14": "<sup>14</sup> Sing, Sion! Juig, Israel!\nWees met alles wat jy is, vrolik en bly, Jerusalem!",
+			"15": "<sup>15</sup> Die Here het 'n einde gemaak aan jou straf,\nHy het jou vyande laat padgee.\nDie Koning van Israel, die Here, is by jou;\njy hoef geen ramp meer te vrees nie.",
+			"16": "<sup>16</sup> Daardie dag sal daar vir Jerusalem gesê word:\nMoenie bang wees nie, Sion,\nmoenie jou hande moedeloos laat hang nie!",
+			"17": "<sup>17</sup> Die Here jou God is by jou,\nHy, die krygsman wat red.\nHy is vol vreugde oor jou,\nHy is stil-tevrede in sy liefde.\nHy jubel en juig oor jou:",
+			"18": "<sup>18</sup> Ek maak dié bymekaar wat treur,\nver van die feestelikheid af,\ndié wat uit jou uit kom\nen ter wille van jou die smaad gedra het.",
+			"19": "<sup>19</sup> Ek gaan nou optree teen almal wat jou verdruk het,\nEk gaan die kreupeles help,\ndie verstrooides bymekaarmaak\nen die vernedering wat hulle moes ondergaan,\nin eer verander, in roem oor die hele aarde.",
+			"20": "<sup>20</sup> Wanneer die tyd daar is, laat Ek julle kom,\nmaak Ek julle bymekaar\nen gee Ek aan julle roem en eer\nonder al die volke op aarde;\ndit is die tyd wanneer Ek julle lot verander,\njulle sal dit met julle eie oë sien, sê die Here."
+		}
+	}
+};
+module.exports = book;

@@ -438,7 +438,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Phlm"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:Послання[\s\xa0]*(?:св\.?[\s\xa0]*апостола[\s\xa0]*Павла[\s\xa0]*до[\s\xa0]*Филимона|апостола[\s\xa0]*Павла[\s\xa0]*до[\s\xa0]*Филимона|до[\s\xa0]*Фили(?:пі[ий]ців|мона))|P(?:oslannja[\s\xa0]*apostola[\s\xa0]*Pavla[\s\xa0]*do[\s\xa0]*Fylymona|hlm)|До[\s\xa0]*Филимона|Ф(?:илимона|лм)|Филим(?:он)?)
+		(?:Послання[\s\xa0]*(?:св\.?[\s\xa0]*апостола[\s\xa0]*Павла[\s\xa0]*до[\s\xa0]*Филимона|апостола[\s\xa0]*Павла[\s\xa0]*до[\s\xa0]*Филимона|до[\s\xa0]*Фили(?:пі[ий]ців|мона))|P(?:oslannja[\s\xa0]*apostola[\s\xa0]*Pavla[\s\xa0]*do[\s\xa0]*Fylymona|hlm)|До[\s\xa0]*Филимона|Ф(?:ил(?:имона|м)|лм)|Филим(?:он)?)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Heb"]

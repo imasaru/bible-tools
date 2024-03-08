@@ -24,8 +24,8 @@ Judg	Knjiga o Sucima	Suci
 Ruth	Knjiga o Ruti	Ruta	Rut
 1Sam	$FIRST Samuelova	Prva Samuelova knjiga	Prva knjiga o Samuelu	1 Sam
 2Sam	$SECOND Samuelova	Druga Samuelova knjiga	Druga knjiga o Samuelu	2 Sam
-1Kgs	$FIRST Kraljevima	Prva knjiga o Kraljevima	1 Kr
-2Kgs	$SECOND Kraljevima	Druga knjiga o Kraljevima	2 Kr
+1Kgs	$FIRST Kraljevima	Prva knjiga o Kraljevima	1 Kr	$FIRST O Kraljevima
+2Kgs	$SECOND Kraljevima	Druga knjiga o Kraljevima	2 Kr	$SECOND O Kraljevima
 1Chr	$FIRST Ljetopisa	Prva knjiga Ljetopisa	1 Ljet
 2Chr	$SECOND Ljetopisa	Druga knjiga Ljetopisa	2 Ljet
 Ezra	Knjiga Ezrina	Ezra	Ezr
@@ -33,7 +33,7 @@ Neh	Knjiga Nehemijina	Nehemija	Neh
 Esth	Estera	Est
 Job	Knjiga o Jobu	Job
 Ps	Psalmi	Psalme	Psalam	Ps
-Prov	Mudre izreke	Poslovice	Izr
+Prov	Mudre izreke	Poslovice	Izr	Izreke
 Eccl	Propovjednik	Kohelet	Prop
 Song	Pj	Pjesma nad pjesmama
 Isa	Izaija	Iz
@@ -57,7 +57,7 @@ Matt	Jevanđelje po Mateju	Evanðelje po Mateju	Evanđelje po Mateju	Matej	Mt
 Mark	Jevanđelje po Marku	Evanðelje po Marku	Evanđelje po Marku	Marko	Mk
 Luke	Jevanđelje po Luki	Evanðelje po Luki	Evanđelje po Luki	Luka	Lk
 John	Jevanđelje po Ivanu	Evanðelje po Ivanu	Evanđelje po Ivanu	Ivan	Iv
-Acts	Djela apostolska	Dj
+Acts	Djela apostolska	Dj	Djela
 Rom	Pavlova poslanica Rimljanima	Poslanica Rimljanima	Rimljanima	Rim
 1Cor	$FIRST Korinćanima Poslanica	Prva poslanica Korinæanima	Pavlova prva poslanica Korinćanima	Prva poslanica Korinćanima	$FIRST Korinćanima	1 Kor
 2Cor	$SECOND Korinćanima Poslanica	Druga poslanica Korinæanima	Pavlova druga poslanica Korinćanima	Druga poslanica Korinćanima	$SECOND Korinćanima	2 Kor
@@ -78,7 +78,7 @@ Jas	Jakovljeva poslanica	Jakovljeva	Jak
 1John	$FIRST Ivanova Poslanica	Prva Ivanova poslanica	$FIRST Ivanova	1 Iv
 2John	$SECOND Ivanova Poslanica	Druga Ivanova poslanica	$SECOND Ivanova	2 Iv
 3John	$THIRD Ivanova Poslanica	Treæa Ivanova poslanica	Treća Ivanova poslanica	$THIRD Ivanova	3 Iv
-Jude	Poslanica Jude apostola	Judina poslanica	Judina	Jd
+Jude	Poslanica Jude apostola	Judina poslanica	Judina	Jd	Juda
 Rev	Otkrivenje Ivanovo	Apokalipsa	Otkrivenje	Otk
 Tob	Tobija	Tob
 Jdt	Judita	Jdt

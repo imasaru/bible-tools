@@ -1,0 +1,210 @@
+1Chr	1 របាក្សត្រ
+1Chr	១ របាក្សត្រ
+1Chr	1Chr
+1Cor	ងកូរិនថូសទី1
+1Cor	ងកូរិនថូសទី១
+1Cor	កូរិនថូសទី1
+1Cor	កូរិនថូសទី១
+1Cor	1Cor
+1Esd	1Esd
+1John	យ៉ូហានទី1
+1John	1 យ៉ូហាន
+1John	១ យ៉ូហាន
+1John	1John
+1Kgs	1 ពង្សាវតារក្សត្រ
+1Kgs	ពង្សាវតាក្សត្រទី1
+1Kgs	ពង្សាវតាក្សត្រទី១
+1Kgs	១ ពង្សាវតារក្សត្រ
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	ពេត្រុសទី1
+1Pet	ពេត្រុសទី១
+1Pet	1 ពេត្រុស
+1Pet	១ ពេត្រុស
+1Pet	1Pet
+1Sam	សាំយូអែលទី1
+1Sam	សាំយូអែលទី១
+1Sam	1 សាំយូអែល
+1Sam	១ សាំយូអែល
+1Sam	1Sam
+1Thess	ថែស្សាឡូនីចទី1
+1Thess	1 ថេស្សាឡូនិក
+1Thess	១ ថេស្សាឡូនិក
+1Thess	1Thess
+1Tim	ធីម៉ូថេ ទី1
+1Tim	ធីម៉ូថេទី1
+1Tim	ធីម៉ូថេទី១
+1Tim	1 ធីម៉ូថេ
+1Tim	១ ធីម៉ូថេ
+1Tim	1Tim
+2Chr	2 របាក្សត្រ
+2Chr	២ របាក្សត្រ
+2Chr	2Chr
+2Cor	ងកូរិនថូសទី2
+2Cor	ងកូរិនថូសទី២
+2Cor	កូរិនថូសទី2
+2Cor	កូរិនថូសទី២
+2Cor	2Cor
+2Esd	2Esd
+2John	យ៉ូហានទី2
+2John	2 យ៉ូហាន
+2John	២ យ៉ូហាន
+2John	2John
+2Kgs	ពង្សាវតារក្សត្រទី2
+2Kgs	ពង្សាវតារក្សត្រទី២
+2Kgs	2 ពង្សាវតារក្សត្រ
+2Kgs	២ ពង្សាវតារក្សត្រ
+2Kgs	រក្សត្រទី2
+2Kgs	រក្សត្រទី២
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	ពេត្រុសទី2
+2Pet	2 ពេត្រុស
+2Pet	២ ពេត្រុស
+2Pet	2Pet
+2Sam	2 សាំយូអែល
+2Sam	២ សាំយូអែល
+2Sam	2Sam
+2Thess	គម្ពីរ ថែស្សាឡូនីចទី2
+2Thess	គម្ពីរ ថែស្សាឡូនីចទី២
+2Thess	ថែស្សាឡូនីចទី2
+2Thess	2 ថេស្សាឡូនិក
+2Thess	២ ថេស្សាឡូនិក
+2Thess	2Thess
+2Tim	ធីម៉ូថេ ទី2
+2Tim	ធីម៉ូថេទី2
+2Tim	ធីម៉ូថេទី២
+2Tim	2 ធីម៉ូថេ
+2Tim	២ ធីម៉ូថេ
+2Tim	2Tim
+3John	យ៉ូហានទី3
+3John	3 យ៉ូហាន
+3John	៣ យ៉ូហាន
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	កិច្ចការ
+Acts	Acts
+Amos	អេម៉ុស
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	កូល៉ុស
+Col	Col
+Dan	ដានីយ៉ែល
+Dan	Dan
+Deut	នចោទិយកថា
+Deut	ទុតិយកថា
+Deut	Deut
+Eccl	សាស្ដា
+Eccl	Eccl
+EpJer	EpJer
+Eph	អេភេសូរ
+Eph	Eph
+Esth	នាងអេសធើរ
+Esth	អេសធើរ
+Esth	Esth
+Exod	និក្ខមនំ
+Exod	Exod
+Ezek	ខគម្ពីរអេសេគាល
+Ezek	អេសេគាល
+Ezek	Ezek
+Ezra	បទគម្ពីរអែសរ៉ា
+Ezra	អែសរ៉ា
+Ezra	Ezra
+Gal	កាឡាទី
+Gal	Gal
+Gen	ខគម្ពីរលោកុប្បត្តិ
+Gen	លោកុប្បត្តិ
+Gen	Gen
+GkEsth	GkEsth
+Hab	ហាបាគុក
+Hab	Hab
+Hag	ហាកាយ
+Hag	Hag
+Heb	ហេព្រើរ
+Heb	Heb
+Hos	ហូសេ
+Hos	Hos
+Isa	អេសាយ
+Isa	Isa
+Jas	យ៉ាកុប
+Jas	Jas
+Jdt	Jdt
+Jer	ងយេរេមា
+Jer	យេរេមា
+Jer	Jer
+Job	យ៉ូប
+Job	Job
+Joel	យ៉ូអែល
+Joel	Joel
+John	យ៉ូហាន
+John	John
+Jonah	នខគម្ពីរយ៉ូណាស
+Jonah	រយ៉ូណាស
+Jonah	យ៉ូណាស
+Jonah	Jonah
+Josh	យ៉ូស្វេ
+Josh	Josh
+Jude	គម្ពីរយូដាស
+Jude	យូដាស
+Jude	Jude
+Judg	ចៅហ្វាយ
+Judg	Judg
+Lam	បរិទេវ
+Lam	Lam
+Lev	សូមអានលេវីវិន័យ
+Lev	លេវីវិន័យ
+Lev	Lev
+Luke	Luke
+Luke	លូកា
+Mal	ម៉ាឡាគី
+Mal	Mal
+Mark	ម៉ាកុស
+Mark	Mark
+Matt	ម៉ាថាយ
+Matt	Matt
+Mic	មីកា
+Mic	Mic
+Nah	ណាហ៊ូម
+Nah	Nah
+Neh	នេហេមា
+Neh	Neh
+Num	ជនគណនា
+Num	Num
+Obad	អូបាឌា
+Obad	Obad
+Phil	នខគម្ពីរភីលីព
+Phil	ភីលីព
+Phil	Phil
+Phlm	ភីលេម៉ូន
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	សុភាសិត
+Prov	Prov
+Ps	ទំនុកតម្កើង
+Ps	ទំនុកដំកើង
+Ps	នុកតម្កើង
+Ps	Ps
+Rev	វិវរណៈ
+Rev	វិវរណ
+Rev	Rev
+Rom	រ៉ូម
+Rom	Rom
+Ruth	នាងរស់
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	បទចម្រៀង
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	ទីតុស
+Tob	Tob
+Wis	Wis
+Zech	សាការី
+Zech	Zech
+Zeph	សេផានា
+Zeph	សេផានី
+Zeph	Zeph

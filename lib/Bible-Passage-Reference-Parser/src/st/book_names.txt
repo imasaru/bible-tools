@@ -1,0 +1,261 @@
+1Chr	1. Dikronike
+1Chr	I. Dikronike
+1Chr	1 Dikronike
+1Chr	I Dikronike
+1Chr	1Chr
+1Cor	1. Ba-Korinthe
+1Cor	I. Ba-Korinthe
+1Cor	1 Ba-Korinthe
+1Cor	1. Bakorinthe
+1Cor	I Ba-Korinthe
+1Cor	I. Bakorinthe
+1Cor	1 Bakorinthe
+1Cor	I Bakorinthe
+1Cor	1. Ba-Kor
+1Cor	I. Ba-Kor
+1Cor	1 Ba-Kor
+1Cor	I Ba-Kor
+1Cor	1. Bakr
+1Cor	I. Bakr
+1Cor	1 Bakr
+1Cor	I Bakr
+1Cor	1Cor
+1Esd	1Esd
+1John	1. Johanne
+1John	I. Johanne
+1John	1 Johanne
+1John	I Johanne
+1John	1John
+1Kgs	1. Marena
+1Kgs	I. Marena
+1Kgs	1 Marena
+1Kgs	I Marena
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1. Petrose
+1Pet	I. Petrose
+1Pet	1 Petrose
+1Pet	I Petrose
+1Pet	1. Pet
+1Pet	I. Pet
+1Pet	1 Pet
+1Pet	I Pet
+1Pet	1Pet
+1Sam	1. Samuele
+1Sam	I. Samuele
+1Sam	1 Samuele
+1Sam	I Samuele
+1Sam	1. Sam
+1Sam	I. Sam
+1Sam	1 Sam
+1Sam	I Sam
+1Sam	1Sam
+1Thess	1. Ba-Thesalonika
+1Thess	I. Ba-Thesalonika
+1Thess	1 Ba-Thesalonika
+1Thess	1. Bathesalonika
+1Thess	I Ba-Thesalonika
+1Thess	I. Bathesalonika
+1Thess	1 Bathesalonika
+1Thess	I Bathesalonika
+1Thess	1Thess
+1Tim	1. Timothea
+1Tim	I. Timothea
+1Tim	1 Timothea
+1Tim	I Timothea
+1Tim	1Tim
+2Chr	II. Dikronike
+2Chr	2. Dikronike
+2Chr	II Dikronike
+2Chr	2 Dikronike
+2Chr	2Chr
+2Cor	II. Ba-Korinthe
+2Cor	2. Ba-Korinthe
+2Cor	II Ba-Korinthe
+2Cor	II. Bakorinthe
+2Cor	2 Ba-Korinthe
+2Cor	2. Bakorinthe
+2Cor	II Bakorinthe
+2Cor	2 Bakorinthe
+2Cor	II. Ba-Kor
+2Cor	2. Ba-Kor
+2Cor	II Ba-Kor
+2Cor	2 Ba-Kor
+2Cor	II. Bakr
+2Cor	2. Bakr
+2Cor	II Bakr
+2Cor	2 Bakr
+2Cor	2Cor
+2Esd	2Esd
+2John	II. Johanne
+2John	2. Johanne
+2John	II Johanne
+2John	2 Johanne
+2John	2John
+2Kgs	II. Marena
+2Kgs	2. Marena
+2Kgs	II Marena
+2Kgs	2 Marena
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	II. Petrose
+2Pet	2. Petrose
+2Pet	II Petrose
+2Pet	2 Petrose
+2Pet	II. Pet
+2Pet	2. Pet
+2Pet	II Pet
+2Pet	2 Pet
+2Pet	2Pet
+2Sam	II. Samuele
+2Sam	2. Samuele
+2Sam	II Samuele
+2Sam	2 Samuele
+2Sam	II. Sam
+2Sam	2. Sam
+2Sam	II Sam
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	II. Ba-Thesalonika
+2Thess	2. Ba-Thesalonika
+2Thess	II Ba-Thesalonika
+2Thess	II. Bathesalonika
+2Thess	2 Ba-Thesalonika
+2Thess	2. Bathesalonika
+2Thess	II Bathesalonika
+2Thess	2 Bathesalonika
+2Thess	2Thess
+2Tim	II. Timothea
+2Tim	2. Timothea
+2Tim	II Timothea
+2Tim	2 Timothea
+2Tim	2Tim
+3John	III. Johanne
+3John	III Johanne
+3John	3. Johanne
+3John	3 Johanne
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Diketso
+Acts	Liketso
+Acts	Acts
+Amos	Amose
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Bakolose
+Col	Col
+Dan	Daniele
+Dan	Dan
+Deut	Deuteronoma
+Deut	Deut
+Eccl	Moeklesia
+Eccl	Eccl
+EpJer	EpJer
+Eph	Ba-Efese
+Eph	Baefese
+Eph	Ba-Efe
+Eph	Eph
+Esth	Esthere
+Esth	Esth
+Exod	Eksoda
+Exod	Exoda
+Exod	Exod
+Ezek	Esekiele
+Ezek	Ezek
+Ezra	Esdrase
+Ezra	Ezra
+Gal	Ba-Galata
+Gal	Bagalata
+Gal	Gal
+Gen	Genese
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakuke
+Hab	Hab
+Hag	Haggai
+Hag	Hag
+Heb	Baheberu
+Heb	Heb
+Hos	Hosea
+Hos	Hos
+Isa	Esaia
+Isa	Esa
+Isa	Isa
+Jas	Jakobo
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremia
+Jer	Jer
+Job	Jobo
+Job	Job
+Joel	Joele
+Joel	Joel
+John	Johanne
+John	John
+Jonah	Jonase
+Jonah	Jonah
+Josh	Joshua
+Josh	Josh
+Jude	Juda
+Jude	Jude
+Judg	Baahlodi
+Judg	Judg
+Lam	Dillo Tsa Jeremia
+Lam	Lam
+Lev	Levitike
+Lev	Lev
+Luke	Luka
+Luke	Luke
+Mal	Malakia
+Mal	Mal
+Mark	Mareka
+Mark	Mark
+Matt	Mattheu
+Matt	Matt
+Mic	Mikea
+Mic	Mic
+Nah	Nahume
+Nah	Nah
+Neh	Nehemia
+Neh	Neh
+Num	Numere
+Num	Num
+Obad	Obadia
+Obad	Obad
+Phil	Ba-Filipi
+Phil	Bafilipi
+Phil	Ba-Fil
+Phil	Phil
+Phlm	Filemone
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Diproverbia
+Prov	Prov
+Ps	Dipesaleme
+Ps	Pes
+Ps	Ps
+Rev	Tshenolo
+Rev	Tsen
+Rev	Tšen
+Rev	Rev
+Rom	Ba-Roma
+Rom	Baroma
+Rom	Rom
+Ruth	Ruthe
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	Sefela Sa Salomone
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	Tite
+Tob	Tob
+Wis	Wis
+Zech	Sakaria
+Zech	Zech
+Zeph	Sofonia
+Zeph	Zeph

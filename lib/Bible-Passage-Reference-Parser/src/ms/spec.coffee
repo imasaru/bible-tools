@@ -766,10 +766,12 @@ describe "Localized book Mic (ms)", ->
 		p.include_apocrypha true
 	it "should handle book: Mic (ms)", ->
 		`
+		expect(p.parse("Mikah 1:1").osis()).toEqual("Mic.1.1")
 		expect(p.parse("Mikha 1:1").osis()).toEqual("Mic.1.1")
 		expect(p.parse("Mic 1:1").osis()).toEqual("Mic.1.1")
 		expect(p.parse("Mi 1:1").osis()).toEqual("Mic.1.1")
 		p.include_apocrypha(false)
+		expect(p.parse("MIKAH 1:1").osis()).toEqual("Mic.1.1")
 		expect(p.parse("MIKHA 1:1").osis()).toEqual("Mic.1.1")
 		expect(p.parse("MIC 1:1").osis()).toEqual("Mic.1.1")
 		expect(p.parse("MI 1:1").osis()).toEqual("Mic.1.1")
@@ -1095,11 +1097,13 @@ describe "Localized book Acts (ms)", ->
 		`
 		expect(p.parse("Kisah Rasul-rasul 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Kisah Para Rasul 1:1").osis()).toEqual("Acts.1.1")
+		expect(p.parse("Kisah 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Acts 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Kis 1:1").osis()).toEqual("Acts.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("KISAH RASUL-RASUL 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("KISAH PARA RASUL 1:1").osis()).toEqual("Acts.1.1")
+		expect(p.parse("KISAH 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("ACTS 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("KIS 1:1").osis()).toEqual("Acts.1.1")
 		`

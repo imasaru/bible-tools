@@ -1,0 +1,273 @@
+1Chr	1 Tantara
+1Chr	1 Tant
+1Chr	1Chr
+1Cor	1 Korintianina
+1Cor	1 Kôrintianina
+1Cor	1 Korintiana
+1Cor	1 Kor
+1Cor	1 Kôr
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Johany
+1John	1 Jôhany
+1John	1 Jaona
+1John	1 Jao
+1John	1John
+1Kgs	1 Mpanjaka
+1Kgs	1 Mpanj
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Petera
+1Pet	1 Pet
+1Pet	1Pet
+1Sam	1 Samoela
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 Tesalonisianina
+1Thess	1 Tesalônisianina
+1Thess	1 Tesaloniana
+1Thess	1Thess
+1Thess	1 Tes
+1Tim	1 Timoty
+1Tim	1 Timôty
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2 Tantara
+2Chr	2 Tant
+2Chr	2Chr
+2Cor	2 Korintianina
+2Cor	2 Kôrintianina
+2Cor	2 Korintiana
+2Cor	2 Kor
+2Cor	2 Kôr
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Johany
+2John	2 Jôhany
+2John	2 Jaona
+2John	2 Jao
+2John	2John
+2Kgs	2 Mpanjaka
+2Kgs	2 Mpanj
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Petera
+2Pet	2 Pet
+2Pet	2Pet
+2Sam	2 Samoela
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 Tesalonisianina
+2Thess	2 Tesalônisianina
+2Thess	2 Tesaloniana
+2Thess	2Thess
+2Thess	2 Tes
+2Tim	2 Timoty
+2Tim	2 Timôty
+2Tim	2 Tim
+2Tim	2Tim
+3John	3 Johany
+3John	3 Jôhany
+3John	3 Jaona
+3John	3 Jao
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Asan-ny Apostoly
+Acts	Acts
+Acts	Asa
+Amos	Hamosa
+Amos	Hamôsa
+Amos	Amosa
+Amos	Amos
+Amos	Amo
+Amos	Amô
+Bar	Bar
+Bel	Bel
+Col	Kolosianina
+Col	Kolôsianina
+Col	Kôlosianina
+Col	Kôlôsianina
+Col	Kolosiana
+Col	Col
+Col	Kol
+Dan	Daniela
+Dan	Dan
+Deut	Deotoronomia
+Deut	Deoteronomy
+Deut	Deoteronômy
+Deut	Deoterônomy
+Deut	Deoterônômy
+Deut	Deut
+Deut	Deo
+Eccl	Mpitoriteny
+Eccl	Koheleta
+Eccl	Kôheleta
+Eccl	Mpitt
+Eccl	Eccl
+EpJer	EpJer
+Eph	Efesianina
+Eph	Efesiana
+Eph	Efes
+Eph	Eph
+Esth	Estera
+Esth	Esth
+Esth	Est
+Exod	Eksodosy
+Exod	Eksody
+Exod	Eksôdy
+Exod	Exod
+Exod	Eks
+Ezek	Ezekiela
+Ezek	Ezek
+Ezra	Hezra
+Ezra	Hezrà
+Ezra	Ezra
+Gal	Galatianina
+Gal	Galatiana
+Gal	Gal
+Gen	Genesisy
+Gen	Genesy
+Gen	Genesỳ
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakoka
+Hab	Habakòka
+Hab	Hab
+Hag	Hagay
+Hag	Hag
+Heb	Hebreo
+Heb	Heb
+Hos	Hosea
+Hos	Hôsea
+Hos	Hos
+Hos	Hôs
+Isa	Isaia
+Isa	Isaià
+Isa	Isa
+Jas	Jakoba
+Jas	Jak
+Jas	Jas
+Jdt	Jdt
+Jer	Jeremia
+Jer	Jeremià
+Jer	Jer
+Job	Joba
+Job	Jôba
+Job	Job
+Joel	Joela
+Joel	Jôela
+Joel	Joel
+John	Johany
+John	Jôhany
+John	Jaona
+John	John
+John	Jao
+Jonah	Jonah
+Jonah	Jona
+Jonah	Jonà
+Jonah	Jôna
+Jonah	Jônà
+Josh	Josoa
+Josh	Josh
+Josh	Jos
+Jude	Joda
+Jude	Jude
+Judg	Mpitsara
+Judg	Judg
+Lam	Fitomaniana
+Lam	Lam
+Lev	Levitikosy
+Lev	Levitika
+Lev	Levitîka
+Lev	Lev
+Luke	Lioka
+Luke	Luke
+Luke	Lio
+Mal	Malakia
+Mal	Malaky
+Mal	Malakỳ
+Mal	Mal
+Mark	Marka
+Mark	Mark
+Mark	Mar
+Matt	Matio
+Matt	Matt
+Matt	Mat
+Mic	Mika
+Mic	Mikà
+Mic	Mic
+Nah	Nahoma
+Nah	Nah
+Neh	Nehemia
+Neh	Nehemià
+Neh	Neh
+Num	Nomery
+Num	Nomerỳ
+Num	Nom
+Num	Num
+Obad	Hobadia
+Obad	Hobadià
+Obad	Hôbadia
+Obad	Hôbadià
+Obad	Obadia
+Obad	Obad
+Phil	Filipianina
+Phil	Filipiana
+Phil	Phil
+Phil	Fil
+Phlm	Filemona
+Phlm	Filemôna
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Ohabolana
+Prov	Ohab
+Prov	Prov
+Ps	Salamo
+Ps	Sal
+Ps	Ps
+Rev	Apokalipsy
+Rev	Apokalipsỳ
+Rev	Apokalypsy
+Rev	Apôkalipsy
+Rev	Apôkalipsỳ
+Rev	Apok
+Rev	Apôk
+Rev	Rev
+Rom	Romanina
+Rom	Rômanina
+Rom	Romana
+Rom	Rom
+Rom	Rôm
+Ruth	Rota
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	Tonon-kiran'i Solomona
+Song	Tonon-kiran’i Solomona
+Song	Tononkiran'i Salomona
+Song	Tononkiran'i Salomôna
+Song	Tononkiran'i Salômona
+Song	Tononkiran'i Salômôna
+Song	Tononkiran’i Salomona
+Song	Tononkiran’i Salomôna
+Song	Tononkiran’i Salômona
+Song	Tononkiran’i Salômôna
+Song	Song
+Sus	Sus
+Titus	Titosy
+Titus	Titus
+Titus	Tito
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Zakaria
+Zech	Zakarià
+Zech	Zech
+Zech	Zak
+Zeph	Tsefania
+Zeph	Tsefanià
+Zeph	Zefania
+Zeph	Zeph
+Zeph	Zef

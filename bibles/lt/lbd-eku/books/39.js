@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malachijo",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ištarmė. VIEŠPATIES žodis Izraeliui per Malachiją.",
+			"2": "<sup>2</sup> „Mylėjau jus, – sako VIEŠPATS. – Bet jūs klausiate: ‘Kaip mus mylėjai?’ Argi Ezavas ne Jokūbo brolis? – tai VIEŠPATIES žodis. – Tačiau aš mylėjau Jokūbą,",
+			"3": "<sup>3</sup> o Ezavo nekenčiau. Paverčiau jo kalnus tyrais, atidaviau jo paveldą dykumos šakalams“.",
+			"4": "<sup>4</sup> Jei Edomas mano: „Nors mes ir sutriuškinti, bet atstatysime griuvėsius“, – tai taip kalba Galybių VIEŠPATS: „Jie gali statyti, bet aš nugriausiu. Jie bus žinomi kaip nedorybės šalis, kaip tauta, ant kurios amžinai pyksta VIEŠPATS.",
+			"5": "<sup>5</sup> Tai matysite savo akimis ir sakysite: ‘Didis yra VIEŠPATS net už Izraelio ribų!’",
+			"6": "<sup>6</sup> Sūnus gerbia savo tėvą, tarnas – savo šeimininką. Taigi jei aš tėvas, tai kur man priklausanti garbė? Ir jei aš šeimininkas, tai kur man priklausanti pagarba? – sako Galybių VIEŠPATS jums, kunigai, niekinantys mano vardą. – Klausiate: ‘Kaip mes paniekinome tavo vardą?’",
+			"7": "<sup>7</sup> Atnašaudami suterštą maistą ant mano aukuro! Klausiate: ‘Kaip mes jį suteršėme?’ Manydami, kad VIEŠPATIES stalą galima niekinti!",
+			"8": "<sup>8</sup> Kai atnašaujate aukai aklus gyvulius, ar tai nėra bloga? Kai atnašaujate raišą ar nesveiką gyvulį, ar tai nėra bloga? Pamėgink nunešti tai savo valdytojui. Ar patiksi jam, ar bus jis tau maloningas? – sako Galybių VIEŠPATS. –",
+			"9": "<sup>9</sup> Dabar jūs pamėginkite maldauti Dievą malonės! Ar bus jis maloningas? Tai jūsų kaltė! Argi jis galėtų būti maloningas kam nors iš jūsų? – sako Galybių VIEŠPATS. –",
+			"10": "<sup>10</sup> O, kad kuris jūsų užrakintų duris, ir jūs nebekurtumėte ugnies veltui ant mano aukuro! Jūs neteikiate man malonumo, – sako Galybių VIEŠPATS, – atnašų iš jūsų rankų nepriimsiu.",
+			"11": "<sup>11</sup> Juk nuo saulės patekėjimo ligi nusileidimo mano vardas didis tautose. Visur smilkalai ir švarios atnašos aukojamos mano vardui, nes mano vardas didis tautoms, – sako Galybių VIEŠPATS. –",
+			"12": "<sup>12</sup> Bet jūs suteršiate jį, sakydami: ‘Viešpaties stalas suterštas, todėl ir maistas ant jo gali būti niekam tikęs’.",
+			"13": "<sup>13</sup> Jūs net sakote, sukdami nosį nuo manęs: ‘Oi, koks vargas!’ – sako Galybių VIEŠPATS. – Atnešate, kas pavogta ar raiša, ar liguista, ir atnešate tai kaip auką! Nejau aš priimsiu ją iš jūsų rankų? – sako VIEŠPATS. –",
+			"14": "<sup>14</sup> Tebūna prakeiktas melagis, kuris turi kaimenėje gerą gyvulį ir pažada jį, bet aukoja Viešpačiui, kas niekam tikę, nes aš didis Karalius, – sako Galybių VIEŠPATS, – ir mano vardas įkvepia pagarbą tautoms."
+		},
+		"2": {
+			"1": "<sup>1</sup> O dabar, kunigai, štai įsakymas jums.",
+			"2": "<sup>2</sup> Jei neklausysite ir nepaimsite į širdį, kad reikia gerbti mano vardą, – sako Galybių VIEŠPATS, – tai prakeiksiu jus ir visa, kas neša jums palaimą. Taip jau ir padariau, nes jūs neimate į širdį.",
+			"3": "<sup>3</sup> Štai grasinsiu jūsų palikuonims, drėbsiu jums į veidą mėšlą, jūsų iškilmių atnašų mėšlą, ir numesiu jus nuo savęs kartu su tuo mėšlu.",
+			"4": "<sup>4</sup> Taigi žinokite, kad siunčiau šį įsakymą dėl to, kad tvertų mano Sandora su Leviu, – sako Galybių VIEŠPATS. –",
+			"5": "<sup>5</sup> Mano Sandora su juo buvo Sandora gyvenimo ir gerovės, kurią jam daviau, ir pagarbios baimės, kurią jis man parodė. Jis gyveno, pagarbiai bijodamas mano vardo.",
+			"6": "<sup>6</sup> Tikras mokymas sklido iš jo lūpų, ir nieko neteisaus nebuvo rasta jo lūpose. Dorai ir sąžiningai jis man tarnavo ir daugelį atitraukė nuo kaltės.",
+			"7": "<sup>7</sup> Juk kunigo lūpos turi saugoti pažinimą, o žmonės turi ieškoti mokymo iš jo lūpų, nes jis – Galybių VIEŠPATIES pasiuntinys.",
+			"8": "<sup>8</sup> Bet jūs nuklydote nuo to kelio, daugelį suvedžiojote savo mokymu, sulaužėte Levio Sandorą, – sako Galybių VIEŠPATS. –",
+			"9": "<sup>9</sup> Todėl aš savo ruožtu paniekinsiu ir pažeminsiu jus visos tautos akyse dėl to, kad nesilaikėte mano kelių ir buvote šališki mokydami“.",
+			"10": "<sup>10</sup> Argi ne vieną tėvą mes visi turime? Argi ne vienas Dievas mus sukūrė? Tad kodėl neištikimai elgiamės vienas su kitu, paniekindami mūsų protėvių Sandorą?",
+			"11": "<sup>11</sup> Judas buvo neištikimas, Izraelyje ir Jeruzalėje buvo daromi bjaurūs dalykai. Judas išniekino VIEŠPATIES mylimą Šventyklą ir paėmė žmona svetimo dievo dukterį.",
+			"12": "<sup>12</sup> Tepašalina VIEŠPATS žmogų, kuris tai daro, iš Jokūbo palapinių – ir liudytoją, ir gynėją, ir atnašaujantį auką Galybių VIEŠPAČIUI!",
+			"13": "<sup>13</sup> Ir jūs tai darote: verkdami ir dūsaudami jūs laistote ašaromis VIEŠPATIES aukurą dėl to, kad jis atsisako pažvelgti į jūsų auką ar maloniai priimti ją iš jūsų rankų.",
+			"14": "<sup>14</sup> Jūs klausiate: „Dėl ko taip?“ Dėl to, kad VIEŠPATS buvo liudininkas, kai tu tapai neištikimas savo jaunystės žmonai, nors ji tavo draugė ir pagal Sandorą tavo žmona.",
+			"15": "<sup>15</sup> Argi ne tas pats vienas Dievas ją sukūrė? Jo yra ir kūnas, ir dvasia. Ir ko trokšta tas vienas Dievas? Dievo duotų palikuonių. Taigi pažvelkite į save ir neleiskite nė vienam tapti neištikimam savo jaunystės žmonai.",
+			"16": "<sup>16</sup> „Aš nekenčiu skyrybų, – sako VIEŠPATS, Izraelio Dievas, – ir dangstymosi smurtu lyg drabužiu“, – sako Galybių VIEŠPATS. Taigi įsidėmėkite ir nebūkite neištikimi.",
+			"17": "<sup>17</sup> Savo kalbomis jūs nuvarginote VIEŠPATĮ, tačiau klausiate: „Kaip mes jį nuvarginome?“ Ogi sakydami: „Visi, kas daro pikta, yra geri VIEŠPATIES akyse; tokie jam patinka“, – arba klausdami: „Kur teisingumo Dievas?“"
+		},
+		"3": {
+			"1": "<sup>1</sup> „Tikėk manimi! Siunčiu savo pasiuntinį pirma savęs parengti man kelią. Staiga ateis į savo šventyklą Viešpats, kurio jūs ieškote. Sandoros pasiuntinys, kurio jūs trokštate, tikrai jau ateina, – sako Galybių VIEŠPATS. –",
+			"2": "<sup>2</sup> Bet kas gali ištverti jo atėjimo dieną ir kas gali išsilaikyti, jam pasirodžius? Juk jis – lyg lydytojo ugnis ir lyg skalbėjų šarmas.",
+			"3": "<sup>3</sup> Jis sėdės kaip sidabro lydytojas bei valytojas ir valys Levio palikuonis bei lydys juos kaip auksą ir sidabrą tol, kol jie neaukos teisumo atnašų VIEŠPAČIUI.",
+			"4": "<sup>4</sup> Tuomet Judo ir Jeruzalės atnašos bus tokios pat malonios VIEŠPAČIUI, kaip senovės dienomis ir praeities metais.",
+			"5": "<sup>5</sup> Pasirodysiu pas jus teisti ir tuojau liudysiu prieš raganius, prieš svetimautojus, prieš melagingai prisiekiančius, prieš tuos, kurie apgauna samdinį dėl algos, skriaudžia našlę ir našlaitį, prieš tuos, kurie atstumia ateivį ir manęs nebijo, – sako Galybių VIEŠPATS.",
+			"6": "<sup>6</sup> Aš esu VIEŠPATS, ir aš nesikeičiu. Todėl jūs, Jokūbo vaikai, nepražuvote.",
+			"7": "<sup>7</sup> Nuo pat savo protėvių dienų jūs atsitraukėte nuo mano įstatų ir nesilaikėte jų. Sugrįžkite pas mane, ir aš pas jus sugrįšiu, – sako Galybių VIEŠPATS. – Bet jūs sakote: ‘Kaip mes grįšime?’",
+			"8": "<sup>8</sup> Ar gali žmogus apsukti Dievą? Tačiau mane jūs apsukate! Bet jūs klausiate: ‘Kaip mes tave apsukame?’ Savo dešimtinėmis ir atnašomis!",
+			"9": "<sup>9</sup> Prakeikimą esate užsitraukę, nes mane apsukate, visa jūsų gentis!",
+			"10": "<sup>10</sup> Atneškite visą dešimtinę į sandėlį, kad būtų maisto mano Namuose, ir taip mane išmėginkite, – sako Galybių VIEŠPATS. – Aš tikrai atidarysiu jums dangaus langus ir pilte apipilsiu jus visokeriopa palaima.",
+			"11": "<sup>11</sup> Dėl jūsų taip sudrausiu skėrius, kad jie nesunaikins jūsų žemės derliaus, ir jūsų vynmedis laukuose nebus be vaisių, – sako Galybių VIEŠPATS. –",
+			"12": "<sup>12</sup> Visos tautos laikys jus laimingais, nes jūs būsite malonumų kraštas“, – sako Galybių VIEŠPATS.",
+			"13": "<sup>13</sup> „Įžūliai kalbėjote prieš mane“, – taria VIEŠPATS. – Tačiau jūs klausiate: „Ką mes kalbėjome prieš tave?“",
+			"14": "<sup>14</sup> Jūs sakote: „Dievui tarnauti neapsimoka. Kokia mums nauda iš to, kad vykdome jo įpareigojimus ar vaikštinėjame kaip raudotojai Galybių VIEŠPATIES akivaizdoje?",
+			"15": "<sup>15</sup> Mes įžūliuosius laikome laimingais, nes nedorėliai ne tik puikiai gyvena, bet ir bausmės išvengia, kai gundo Dievą savo darbais!“",
+			"16": "<sup>16</sup> Taip bijantieji VIEŠPATIES kalbėjo vienas kitam. VIEŠPATS atkreipė dėmesį ir išgirdo. Jo akivaizdoje užrašyti atminimo knygoje tie, kurie bijojo VIEŠPATIES ir pasitikėjo jo vardu.",
+			"17": "<sup>17</sup> „Jie bus mano, – sako Galybių VIEŠPATS, – ypatingas mano paveldas tą dieną, kurią aš veiksiu. Pasigailėsiu jų, kaip pasigaili tėvai vaikų, kurie jiems tarnauja.",
+			"18": "<sup>18</sup> Tuomet vėl pamatysite skirtumą tarp teisiojo ir nedorėlio, tarp tarnaujančiojo Dievui ir jam netarnaujančiojo.",
+			"19": "<sup>19</sup> Žiūrėk! Jau arti diena, liepsnojanti kaip krosnis! Visi įžūlieji ir nedorėliai bus ražiena, kurią ateinanti diena taip sudegins, – sako Galybių VIEŠPATS, – kad nepaliks jiems nei šaknies, nei šakos.",
+			"20": "<sup>20</sup> Bet jums, bijantiems mano vardo, patekės teisumo saulė su gydančiais spinduliais. Jūs išeisite šokinėdami tarsi veršiukai, išleisti iš gardo.",
+			"21": "<sup>21</sup> Jūs sutrypsite nedorėlius, nes jie bus pelenai po jūsų kojų padais tą dieną, kai aš veiksiu, – sako Galybių VIEŠPATS.",
+			"22": "<sup>22</sup> Atminkite mano tarno Mozės Įstatymą, įsakymus ir potvarkius, kuriuos daviau jam prie Horebo, skirtus visam Izraeliui.",
+			"23": "<sup>23</sup> Žiūrėk! Pirma negu ateis ši didinga ir baisi diena, atsiųsiu jums pranašą Eliją.",
+			"24": "<sup>24</sup> Jis atvers tėvų širdis vaikams ir vaikų širdis tėvams taip, kad atėjęs neištikčiau viso krašto pražūtimi“."
+		}
+	}
+};
+module.exports = book;
