@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malahija",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Prerokba. – Beseda Gospodova Izraelu po Malahiju.",
+			"2": "<sup>2</sup> Ljubim vas, govori Gospod, in vi pravite: »V čem si nam izkazal ljubezen?« Ali ni bil Ezav brat Jakobov? govori Gospod, in vendar sem ljubil Jakoba,",
+			"3": "<sup>3</sup> Ezava pa sem sovražil. Njegove gore sem spremenil v puščavo in njegovo dediščino sem dal živalim v pustinji.",
+			"4": "<sup>4</sup> Če ti, Edom, praviš: »Mi smo bili sicer porušeni, toda zopet bomo pozidali, kar je porušeno,« govori na to Gospod nad vojskami: Naj le zidajo, jaz bom že porušil, in imenovali jih bodo »malopridna dežela« in »ljudstvo, ki se Bog nanj vedno srdi«.",
+			"5": "<sup>5</sup> Na lastne oči boste videli in sami rekli: »Gospod je velik tudi onstran Izraelove meje.«",
+			"6": "<sup>6</sup> Sin spoštuje očeta in služabnik se boji svojega Gospoda. Ako sem torej oče, kje je moja čast, in ako sem Gospod, kje je strah, ki mi gre? govori Gospod nad vojskami vam, duhovnikom, ki zaničujete moje ime. Vi pravite: »S čim zaničujemo tvoje ime?«",
+			"7": "<sup>7</sup> Ker darujete na mojem oltarju nečist kruh. Pravite: »S čim smo ga omadeževali?« Ker pravite: »Miza Gospodova ni vredna pozornosti.«",
+			"8": "<sup>8</sup> Ko pripeljete za daritev, kar je slepo, ni nič hudega, in ko pripeljete hromo in bolno, ni nič hudega? Pripelji pa to svojemu deželnemu oblastniku! Misliš, da mu bo všeč? Da se ozre nate? govori Gospod nad vojskami.",
+			"9": "<sup>9</sup> Zdaj torej, prosite vendar Boga, da se nas usmili! Po vaši roki se je to zgodilo. Ali vam bo še naklonjen? govori Gospod nad vojskami.",
+			"10": "<sup>10</sup> O da bi bil kdo med vami, ki bi zaprl vrata, da ne bi več zaman zažigali ognja na mojem oltarju! Nimam veselja z vami, govori Gospod nad vojskami; ne maram daritev iz vaših rok.",
+			"11": "<sup>11</sup> Ker od sončnega vzhoda do zahoda je moje ime veliko med narodi, in na vseh krajih se bo mojemu imenu zažigalo kadilo in se bo darovala čista daritev. Zakaj veliko je moje ime med narodi, govori Gospod nad vojskami.",
+			"12": "<sup>12</sup> Vi pa ga onečaščate, ko pravite: »Miza Gospodova sme biti nečista« in »Jestvine na njej niso tako važne!«",
+			"13": "<sup>13</sup> Tudi pravite: »Glej, kako mučno!« Zato vršite opravilo s prezirom, govori Gospod nad vojskami. Sèm prinašate za daritev, kar je ugrabljeno in kruljavo in bolno! Kako naj to sprejmem z veseljem iz vaših rok? govori Gospod.",
+			"14": "<sup>14</sup> Preklet malopridnež, ki ima v svoji čredi neoporečno žival, jo zaobljubi, potem pa Gospodu daruje kaj poškodovanega! Zakaj jaz sem velik Kralj, govori Gospod nad vojskami, in moje ime je strahu vredno med narodi!"
+		},
+		"2": {
+			"1": "<sup>1</sup> Zdaj torej, tale odločba za vas, o duhovniki!",
+			"2": "<sup>2</sup> Če ne poslušate in si ne vzamete k srcu, da bi dali čast mojemu imenu, govori Gospod nad vojskami, vržem prekletstvo na vas in prekolnem vaš blagoslov. Da, že sem ga preklel, ker si ne marate vzeti k srcu.",
+			"3": "<sup>3</sup> Glejte, zdrobil vam bom pleče in v obraz vam bom zagnal odpadke, odpadke vaših praznikov, in vas odstranim z njimi vred.",
+			"4": "<sup>4</sup> Tedaj boste spoznali, da sem vam dal ta opomin, ker sem sklenil zavezo z Levijem, govori Gospod nad vojskami.",
+			"5": "<sup>5</sup> Moja zaveza z njim je bila: življenje in blagostanje – in dal sem ga – in strah, da se me boji in ima spoštovanje pred mojim imenom.",
+			"6": "<sup>6</sup> Nauk resnice je bil v njegovih ustih, krivice ni bilo na njegovih ustnicah. Neoporečno in pošteno je hodil z menoj, in mnoge je odvrnil od hudega.",
+			"7": "<sup>7</sup> Zakaj ustnice duhovnika naj ohranijo spoznanje in iz njegovih ust se pričakuje pouk, ker je poslanec Gospoda nebesnih sil.",
+			"8": "<sup>8</sup> Vi pa ste krenili s pota; zakrivili ste, da so se mnogi spotaknili v postavi. Vi ste pogazili Levijevo zavezo, govori Gospod nad vojskami.",
+			"9": "<sup>9</sup> Zavoljo tega tudi jaz vas izročim v prezir in ponižanje vsemu ljudstvu, ker se ne držite mojih potov, temveč se v postavi ozirate na osebo.",
+			"10": "<sup>10</sup> Ali nimamo vsi enega Očeta? Ali nas ni vseh ustvaril en Bog? Zakaj se torej drug drugemu izneverjamo in se onečašča zaveza naših očetov?",
+			"11": "<sup>11</sup> Juda se je izneveril; gnusoba se je zgodila v Izraelu in v Jeruzalemu. Da, Juda je oskrunil svetišče, ki ga Gospod ljubi. Zaročil se je s hčerko tujega boga!",
+			"12": "<sup>12</sup> Gospod naj iztrebi moža, ki to dela, iz Jakobovih šotorov in iz srede njih, ki prinašajo darila Gospodu nebesnih sil!",
+			"13": "<sup>13</sup> Še drugo stvar delate. Gospodov oltar pokrivate s solzami, jokom in vzdihi, ker se nič več ne ozre na daritev in je ne sprejme z veseljem iz vaših rok.",
+			"14": "<sup>14</sup> In pravite: »Zakaj pač?« Ker je Gospod priča za tebe in ženo tvoje mladosti, ki si ji prelomil zvestobo, dasiravno je bila tvoja družica in tvoja zakonita žena.",
+			"15": "<sup>15</sup> Ali je ni naredil enega bitja, ki je telo in v njem duh? In kaj išče to eno bitje? Potomstvo od Boga! Varujte se tedaj zaradi svojega življenja in ne ravnajte nezvesto do žene svoje mladosti!",
+			"16": "<sup>16</sup> Zakaj sovražim ločitev zakona, govori Gospod, Izraelov Bog, in njega, ki pokriva s krivico svojo obleko, govori Gospod nad vojskami. Imejte torej razsodnost duha in se nikar ne izneverjajte!",
+			"17": "<sup>17</sup> S svojim besedičenjem utrujate Gospoda! Vprašujete: »S čim ga utrujamo?« Ker govorite: »Vsak, kdor dela hudo, je v Gospodovih očeh dober, taki so mu po volji!« ali: »Kje neki je Bog pravice?«"
+		},
+		"3": {
+			"1": "<sup>1</sup> Glejte, pošljem svojega angela, da pripravi pot pred menoj. In naglo bo stopil v svoje svetišče Gospod, ki ga iščete, angel zaveze, ki po njem hrepenite. Glej, prihaja, govori Gospod nad vojskami.",
+			"2": "<sup>2</sup> Toda kdo bo mogel prestati dan njegovega prihoda? Kdo bo ostal, ko se prikaže? Zakaj on je kakor livarjev ogenj, kakor lug pralcev.",
+			"3": "<sup>3</sup> Sedel bo kakor topilec in čistilec srebra, in očistil bo Levijeve sinove. Kakor zlato in srebro jih prečisti, da bodo darovali Gospodu daritve, kakor je prav.",
+			"4": "<sup>4</sup> Tedaj bo daritev Judova in jeruzalemska Bogu všeč, kakor v starodavnih časih in kakor v nekdanjih letih.",
+			"5": "<sup>5</sup> Približam se vam za sodbo in hitro bom pričeval zoper čarovnike in prešuštnike, zoper krivoprisežnike, zoper nje, ki stiskajo dninarja, vdovo, siroto, in tujcu kratijo pravico ter nimajo strahu pred menoj, govori Gospod nad vojskami.",
+			"6": "<sup>6</sup> Da, jaz, Jahve, se ne spreminjam, vi pa niste nehali biti Jakobovi sinovi.",
+			"7": "<sup>7</sup> Od dni svojih očetov odstopate od mojih zapovedi in jih ne izpolnjujete. Vrnite se k meni, in jaz se vrnem k vam, govori Gospod nad vojskami. Vi pa pravite: »V čem naj se vrnemo?«",
+			"8": "<sup>8</sup> Ali sme človek Boga goljufati? In vi me goljufate! Pravite: »V čem smo te goljufali?« Pri desetini in darovanjih!",
+			"9": "<sup>9</sup> Zato vas zadeva prekletstvo, ker me goljufate – vse ljudstvo!",
+			"10": "<sup>10</sup> Prinesite vso desetino v skladišče, da bo zaloga v moji hiši, in preizkusite me v tem, govori Gospod nad vojskami. Ali vam ne odprem zatvornic neba in ne zlijem na vas blagoslova do preobilja?",
+			"11": "<sup>11</sup> Pregnal vam bom kobilico, da vam sadu zemlje ne pokonča; in tudi vinska trta ne bo nerodovitna, govori Gospod nad vojskami.",
+			"12": "<sup>12</sup> In vsi narodi vas bodo blagrovali, ker boste dežela ugodja, govori Gospod nad vojskami.",
+			"13": "<sup>13</sup> Predrzno je vaše govorjenje zoper mene, govori Gospod nad vojskami. Pa pravite: »Kaj smo vendar govorili proti tebi?«",
+			"14": "<sup>14</sup> Govorili ste: »Prazno je služiti Bogu! Kaj imamo od tega, da izpolnjujemo njegove zapovedi in hodimo v spokorni obleki pred Gospodom nad vojskami?",
+			"15": "<sup>15</sup> Zdaj smo na tem, da blagrujemo prevzetneže, kajti uspevajo ti, ki ravnajo brezvestno. Čeprav Boga skušajo, vendar uspevajo!«",
+			"16": "<sup>16</sup> Tako so se bogaboječi med seboj pogovarjali: Gospod je prisluhnil in slišal. In pred njim so napisali spominsko knjigo za te, ki se ga boje in njegovo ime spoštujejo.",
+			"17": "<sup>17</sup> Ti bodo ob dnevu, ki ga pripravim, moj zaklad, govori Gospod nad vojskami. Imel bom z njimi usmiljenje, kakor je človek usmiljen do lastnega sina, ki mu služi.",
+			"18": "<sup>18</sup> Tedaj boste zopet videli razloček med pravičnim in grešnikom, med njim, ki služi Bogu, in njim, ki mu ne služi.",
+			"19": "<sup>19</sup> Zakaj glej, pride dan, razžarjen kakor peč; in vsi prevzetneži in vsi malopridneži bodo strnišče; dan, ki pride, jih bo sežgal, govori Gospod nad vojskami, tako da ne pusti od njih ne koreninice ne vejice!",
+			"20": "<sup>20</sup> Toda vam, ki se mojega imena bojite, zasveti sonce pravičnosti z rešenjem v svojih žarkih. Tedaj boste šli ven poskakujoč kakor junčki iz staje.",
+			"21": "<sup>21</sup> In boste pohodili grešnike, zakaj prah bodo pod stopali vaših nog, na dan, ki ga pripravim, govori Gospod nad vojskami.",
+			"22": "<sup>22</sup> Spominjajte se postave mojega služabnika Mojzesa, ki sem mu na Horebu predpisal zapovedi in pravice za vse izraelsko ljudstvo.",
+			"23": "<sup>23</sup> Glejte, pošljem vam Elija, preroka, preden pride dan Gospodov, veliki in strašni!",
+			"24": "<sup>24</sup> In bo zopet približal srce očetov sinovom in srce sinov očetom, da kje ne pridem in ne udarim dežele s prekletstvom."
+		}
+	}
+};
+module.exports = book;

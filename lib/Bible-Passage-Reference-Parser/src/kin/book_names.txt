@@ -1,0 +1,152 @@
+1Chr	1 Ngoma
+1Chr	1Chr
+1Cor	1 Abakorinto
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Yohana
+1John	1John
+1Kgs	1 Abami
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 Petero
+1Pet	1Pet
+1Sam	1 Samweli
+1Sam	1Sam
+1Thess	1 Abatesalonike
+1Thess	1Thess
+1Tim	1 Timoteyo
+1Tim	1Tim
+2Chr	2 Ngoma
+2Chr	2Chr
+2Cor	2 Abakorinto
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Yohana
+2John	2John
+2Kgs	2 Abami
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 Petero
+2Pet	2Pet
+2Sam	2 Samweli
+2Sam	2Sam
+2Thess	2 Abatesalonike
+2Thess	2Thess
+2Tim	2 Timoteyo
+2Tim	2Tim
+3John	3 Yohana
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	Ibyakozwe n'Intumwa
+Acts	Ibyakozwe n’Intumwa
+Acts	Acts
+Amos	Amosi
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Abakolosayi
+Col	Col
+Dan	Daniyeli
+Dan	Dan
+Deut	Gutegeka kwa Kabiri
+Deut	Deut
+Eccl	Umubwiriza
+Eccl	Eccl
+EpJer	EpJer
+Eph	Abefeso
+Eph	Eph
+Esth	Esiteri
+Esth	Esth
+Exod	Exod
+Exod	Kuva
+Ezek	Ezekiyeli
+Ezek	Ezek
+Ezra	Ezira
+Ezra	Ezra
+Gal	Abagalatiya
+Gal	Gal
+Gen	Itangiriro
+Gen	Gen
+GkEsth	GkEsth
+Hab	Habakuki
+Hab	Hab
+Hag	Hagayi
+Hag	Hag
+Heb	Abaheburayo
+Heb	Heb
+Hos	Hoseya
+Hos	Hos
+Isa	Yesaya
+Isa	Isa
+Jas	Yakobo
+Jas	Jas
+Jdt	Jdt
+Jer	Yeremiya
+Jer	Jer
+Job	Yobu
+Job	Job
+Joel	Yoweli
+Joel	Joel
+John	Yohana
+John	John
+Jonah	Jonah
+Jonah	Yona
+Josh	Yosuwa
+Josh	Josh
+Jude	Jude
+Jude	Yuda
+Judg	Abacamanza
+Judg	Judg
+Lam	Amaganya Ya Yeremiya
+Lam	Lam
+Lev	Abalewi
+Lev	Lev
+Luke	Luka
+Luke	Luke
+Mal	Malaki
+Mal	Mal
+Mark	Mariko
+Mark	Mark
+Matt	Matayo
+Matt	Matt
+Mic	Mika
+Mic	Mic
+Nah	Nahumu
+Nah	Nah
+Neh	Nehemiya
+Neh	Neh
+Num	Kubara
+Num	Num
+Obad	Obadiya
+Obad	Obad
+Phil	Abafilipi
+Phil	Phil
+Phlm	Filemoni
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Imigani
+Prov	Prov
+Ps	Zaburi
+Ps	Ps
+Rev	Ibyahishuwe
+Rev	Ibyahisuwe
+Rev	Rev
+Rom	Abaroma
+Rom	Rom
+Ruth	Rusi
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	Indirimbo Ya Salomo
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	Tito
+Tob	Tob
+Wis	Wis
+Zech	Zekariya
+Zech	Zech
+Zeph	Zefaniya
+Zeph	Zeph

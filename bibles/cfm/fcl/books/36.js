@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zefaniah",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Amon ih fapa Josiah in Judah siangpahrang a ṭuan laiah Bawipa ih thu cu Zefaniah hnenah a ra thleng. Zefaniah cu siangpahrang Hezekiah tesinfa a si ih a pupa pawl cu Amariah, Gedaliah le Kushi an si.",
+			"2": "<sup>2</sup> Bawipa in, “Leilung tlun ziang hmuahhmuah hi ka siatsuah ṭheh ding,",
+			"3": "<sup>3</sup> minung siseh, ramsa siseh, vate le nga tiangin ka tisiat ṭheh ding. Mi ṭha lo pawl ka dirhthlak hai ding. Minung cu ka cimit ding ih pakhat hman an luat lo ding. Bawipa keimah in ka ṭong zo.",
+			"4": "<sup>4</sup> “Judah mi le Jerusalem mi pawl ka hrem ding. Baal khuavang an biaknak a taangsun mi khal ka siatralter ding ih Baal khuavang a riantu khawvel puithiam pawl cu zohman in an thei nawn lo ding.",
+			"5": "<sup>5</sup> Inn parah kai tahrat in ni le thlapi le arsi a biatu pawl cu ka siatsuah ṭheh ding. Keimah i biatu le ka hmin rinsan in siatsertu a sinan Milkom khuavang hmin in siat a sertu lala cu ka siatsuah ding a si.",
+			"6": "<sup>6</sup> Keimah i tlansan ih i thlun nawn lotu le ka hnenah ra loin keimah thu i ra ron lotu pawl cu ka tisiat ṭheh ding,” tiah a ti.",
+			"7": "<sup>7</sup> Bawipa ih thuṭhennak ni cu a nai a si. Curuangah a hmaiah daiteón um uh. Bawipa in a miphun pawl cu thawinak ih pek dingah a tum ih Judah ram siatsuah dingah ral pawl a sawm a si.",
+			"8": "<sup>8</sup> Bawipa in, “Thawinak pek ni ahcun siangpahrang fapa pawl le bawi pawl le miphun dangih nunphung daan a thluntu pawl cu ka hrem hai ding.",
+			"9": "<sup>9</sup> Lawki mi vekin khuavang a biatu le an bawipa ih inn sungih thilri khatte ih a umnak dingah mi a thattu le ruk a rutu pawl cu ka hrem hai ding.",
+			"10": "<sup>10</sup> “Cuih ni ahcun Jerusalem ih Nga Kotka ah ṭah thawng nan thei ding. Tuah tharmi khawpi veng ah aihramnak nan thei ding ih tlangpar ah ri durdo ih a tlumi thawng nan thei ding.",
+			"11": "<sup>11</sup> Cumi nan theih tikah nannih khal ṭap uhla ai rero uh; nannih khawpi thuailam ih a umtu pawl cu; ziangahtile sumtuahtu pawl cu an thi ṭheh ding a si.",
+			"12": "<sup>12</sup> “Cuih caan ah mei-inn keng tahrat in Jerusalem cu ka hawl ding. Mah le mah zum-awzet le hnangamzet ih a umtu pawl, ‘Bawipa cun zianghman a tuah dah lo; a ṭha khal a tuah lo, a sia khal a tuah lo,’ a titu pawl cu ka hrem hai ding.",
+			"13": "<sup>13</sup> An lennak cu lon ṭheh a si ding ih an inn pawl cu siat ṭheh a si ding. An sak rero mi an inn pawl cu an hngak dah lo ding ih an phun rero mi sabit hri ih sabitti cu an in dah lo ding,” a ti.",
+			"14": "<sup>14</sup> Bawipa ih ni cu a nai zo: a naizet zo ih reilote ah a ra cing ding. Cuih ni cu siatnak ni a si ding, ziangahtile ralkap ral ṭha bik hman beidong in an ṭap ding.",
+			"15": "<sup>15</sup> Cuih ni cu thin ai-thok ni a si ding, harsatnak le vansaanglam ih um ni, siatsuah ni le hloral ni, thimnak ni le thinpih ni, ni dum le khawdur ni a si ding.",
+			"16": "<sup>16</sup> Raldonak thawmvang le tawtawrawt thawngin a khatmi ni, ralkap pawl in ralhruang in kulhmi khawpi le ralvennak innsang pawl an do ding ih an do phah ih an au-nak in a khatmi ni a si ding.",
+			"17": "<sup>17</sup> Bawipa in, “Minung parih siatralnak ka thlenter mi cu a nasa tuk ding ih mi hmuahhmuah mitcaw bangin an vak ding. Ka parih an sual tuk zo ruangah an thisen tidai bangin thlet a si ding ih an ruak cu leilung ah an thu an ṭawtralta ding a si,” tiah a ti.",
+			"18": "<sup>18</sup> Cuih ni, Bawipa in a thinhengnak a langter ni ahcun an sui le an ngun in zohman a run thei hai lo ding. A thinhengnak meisa in leilung pumpi hi a kang ding a si. Leilung tlun ih a ummi hmuahhmuah hi rinlopi in an nunnak a cemter ding a si."
+		},
+		"2": {
+			"1": "<sup>1</sup> Maw ningzah nei lo pawl, pangpar bangin nan vuai ih nan thih hlanah hin,",
+			"2": "<sup>2</sup> Bawipa ih thinhengnak cu mei alh vekih nan par a thlen hlan le a thin ai-thoknak a langter ni a thlen hlanah hin khuaruat thiam mi si thlang hnik uh.",
+			"3": "<sup>3</sup> Ram sungih nannih mi lungnem le thukham a thluntu pawl, Bawipa hnenah kir thlang uh. Thildik tuah uhla Bawipa hmaiah lungnem mi si uh. Bawipa in a thinhengnak a langter ni ah hremnak ihsin nan luat tla a si thei men.",
+			"4": "<sup>4</sup> Gaza khawpi sungah zohman an taang lo ding. Ashkelon mi an ṭio ding. Ashdod mi pawl cu ni hrek ah dawihlo ṭheh an si ding ih Ekron mi pawl cu an khawpi ihsin dawi ṭheh an si ding.",
+			"5": "<sup>5</sup> Nannih Filistin mi, tipikap ih a ummi pawl, nan cem a si! Bawipa in nan parah thurelnak a tuah zo. A lo tisiat ding ih pakhat hman nan luat lo ding.",
+			"6": "<sup>6</sup> Tifinriat kapih nan ram hi tuukhal riahbuk le tuuhruang pawl umnak hramlak ah a cang ding.",
+			"7": "<sup>7</sup> Nan ram hi Judah mi a taangsun pawl in an luah ding. Cutawkah an tuu an khal ding ih Ashkelon ih inn pawl ah an it ding. Bawipa an Pathian an hnenah a um ding ih mi neinung a siter sal ding.",
+			"8": "<sup>8</sup> Cungnungbik Bawipa in, “Moab mi le Ammon mi pawl in ka minung pawl an hmuhsuamnak le an nautatnak ka thei zo; an ram kan long ṭheh ding, tiih tluang an khawnnak tla ka thei zo.",
+			"9": "<sup>9</sup> Israel ih Pathian nung ka si vekin, Moab le Ammon cu Sodom le Gomorrah vekin siatsuah ṭheh an si ding tiah thu ka kam a si. Cikhur pawl umnak hmunah an cang ding. Kumkhua in a siat tata ding ih hrampi lawng a kho ding. A taangsun ka minung pawl in an siatsuah ding ih an ram cu an luah ding,” tiah a ti.",
+			"10": "<sup>10</sup> Cubangtuk in Moab mi le Ammon mi pawl cu an hngalhngawng, an puarthau ih Cungnungbik Bawipa ih minung pawl an hmuhsuam ruangah hrem an si ding.",
+			"11": "<sup>11</sup> Bawipa cu an hrangah ṭihnungza a si ding. Leilung tlunih khawzing pawl cu zianghman lo ah a tuah ṭheh ding. Miphun hmuahhmuah in amah cu an hmun le an ram ciar ah an biak ding.",
+			"12": "<sup>12</sup> Bawipa in Ethiopia mi pawl tla a thihter ding.",
+			"13": "<sup>13</sup> Bawipa in Assiria siatsuahnak ah a huham a hmang ding. Nineveh khawpi cu tidai um lonak nelrawn ah a cangter ding ih tlansan mi khawrop ah a cang ding.",
+			"14": "<sup>14</sup> Caw le tuu le ṭilva phunkip an bawhnak hmunah a cang ding. Hnawmpen lakah cun sumbuh an um ding ih sangkate ihsin an ai ding. Tlang-ak tla sangkapi ihsin an ai ding. Inn parih sidar thing hmuahhmuah cu lak ṭheh an si ding.",
+			"15": "<sup>15</sup> Ka cakzet tiah a puarthau mi le ka him tiah a ruat-awtu parah cubangtuk thil cu a thleng ding. Leilung tlunah kan khawpi hi a tum bik tiah khawsung mi pawl cun an ruat. An khawpi cu ramsa riahnak hmunṭhing ah a cang ding. A hmutu pawl cu an mangbang tukah an com dukdi ding ih an kuttum an hoi ding a si."
+		},
+		"3": {
+			"1": "<sup>1</sup> Jerusalem cu a cem a si! Khi khawpi borhhlawh le raltho duh khawpi, mahih minung a hrem rerotu khawpi cu!",
+			"2": "<sup>2</sup> Bawipa ih ṭong a ngai duh lo ih a nunsimnak tla a oih lo. A rinsannak cu Bawipa hnenah a re lo; Bawipa ih bomnak khal a dil lo.",
+			"3": "<sup>3</sup> A bawi pawl cu a huuk reromi kiosa vek an si; a thureltu bawi pawl cu cinghnia rilrawng vek an si; an hrong tukah thaizing tiang an deh mi malte hman a re thei lo pawl an si.",
+			"4": "<sup>4</sup> A profet pawl cu duhdah ih nung pawl an si. A puithiam pawl cun a zarh timi kha an buar ih Pathian daan kha anmah duhzawng in an her vivo.",
+			"5": "<sup>5</sup> Sikhalsehla khawpi sungah Bawipa cu a um. A dikmi lawng a tuah; a ṭha lomi a tuah dah lo. Zingtin pelh loin a minung pawl hnenah dingnak a thlenter. Asinain mi ṭha lo pawl cun thil ṭha lo an tuah thotho ih an ning khal a zak lo.",
+			"6": "<sup>6</sup> Bawipa in, “Miphun tampi ka siatralter ṭheh zo. An khawpi pawl ka siatsuah ṭheh ih an phar le an ralvennak innsang pawl cu hnawmpen ah ka canter ṭheh zo. Khawpi pawl an ṭiosan, khawpi lamzin pawl an ṭhing reprep; zohman an taang nawn lo.",
+			"7": "<sup>7</sup> Hi bangtuk hnuah cun ka minung pawl in in upat, in ṭihzah ding ih ka nunzirhnak tla an pom ding ih ka thuzirhmi pawl an hngilh nawn lo ding tiah ka ruat. Sikhalsehla a hlan keel in an nuncan cu a sia thotho.",
+			"8": "<sup>8</sup> “Hngak hrih uh! Miphun pawl sual ka puh ni tiang hngak hrih uh. Miphun tampi le uknak tampi ka thinhengnak a nasatzia an theihnak dingah hmunkhat ih finkhawm hai dingah ka ruat cat zo. Ka thin aithoknak in leilung pumpi hi meisa bangin a kang ṭheh ding.",
+			"9": "<sup>9</sup> “Cule miphun kip an hmurka ka thleng ding ih hmurka thiang thawn ka hnen lawngah thla an cam ding. An zatein ka thu an ngai ding.",
+			"10": "<sup>10</sup> Ram hlatpi Ethiopia ram tiva ral hman in ṭhekdarh a si mi ka minung pawl in ka hnenah thil pek ding an rak keng ding.",
+			"11": "<sup>11</sup> Cutikah nannih ka minung pawl, keimah in rak dodal ruangah ningzak in nan um nawn lo ding. Mi hngalhngawng le mi puarthau hmuahhmuah cu ka hloralter ṭheh hai ding ih nannih pawl in ka tlang thianghlim parah cun in dodal nawn lo ding.",
+			"12": "<sup>12</sup> Cutawkah mi lungnem le mi tangdor pawl, Bawipa ih hmin a rinsantu pawl ka taan ding.",
+			"13": "<sup>13</sup> Israel mi a taangsun pawl in zohnen hmanah thilsual an tuah nawn lo ding; thuphan an per nawn lo ding; an hmur le an lei in mibum khal an tum nawn lo ding. Daihnak le himnak thawn khua an sa ding ih zohman an ṭih nawn lo ding,” tiah a ti.",
+			"14": "<sup>14</sup> Maw Israel mi pawl, Lungawi in au uhla hla sa uh. Maw Jerusalem fanu, Na thinlung zate thawn lungawi in um aw.",
+			"15": "<sup>15</sup> Bawipa in a lo hremnak cu a bang zo; Na ral pawl a hlonhlo ṭheh zo. Bawipa, Israel ih siangpahrang cu nan hnenah a um; ṭihphan ding zianghman a um nawn lo.",
+			"16": "<sup>16</sup> Tikcu a ra thleng ding ih Jerusalem hnenah: “Maw Zion khawpi, zianghman phang hlah; Na kut tla na ṭih ruangah zawng ṭheh hlah seh.",
+			"17": "<sup>17</sup> Bawipa na Pathian cu na hnenah a um, A cahnak huham in nehnak a lo pek. Bawipa cu na parah a lung a hmui ding, A duhdawtnak ruangah nunnak thar a lo pe ding. Hla a sa ding ih na parah a lung a awi ding.",
+			"18": "<sup>18</sup> Puai tuah caan ih lungawi mi bangin,” an ti ding. Bawipa in, “Na harsatnak caan cu ka cemter zo; Na ningzahnak cu ka hlonhlo zo.",
+			"19": "<sup>19</sup> Tikcu a ra thleng ding ih, A lo hremtu pawl ka hrem ding. Ke-awl mi pawl ka run hai ding ih Ralkaih thawngtla mi pawl ka hruai kir ding. An mualphonak cu upat an conak ah ka tuah ding. Leitlun mi hmuahhmuah in an lawm hai ding.",
+			"20": "<sup>20</sup> Tikcu a ra thleng ding ih, ṭhekdarh mi na minung pawl ka hruaikir hai ding. Leilung pumpi ih hminthang ah ka lo tuah ding ih, Mi neinungzet ah ka lo tuah sal ding; Cumi cu na mit in na hmu ding” tiah a ti. Bawipa in a ṭong zo a si."
+		}
+	}
+};
+module.exports = book;

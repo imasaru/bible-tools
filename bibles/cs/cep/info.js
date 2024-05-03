@@ -200,7 +200,7 @@ var info = {
 		},
 		{
 			"name": "Jóel",
-			"numChapters": 3,
+			"numChapters": 4,
 			"synonyms": [
 				"Joel"
 			]
@@ -213,7 +213,7 @@ var info = {
 			]
 		},
 		{
-			"name": "Abdiasza",
+			"name": "Abdiáš",
 			"numChapters": 1,
 			"synonyms": [
 				"Obad"
@@ -270,7 +270,7 @@ var info = {
 		},
 		{
 			"name": "Malachiáš",
-			"numChapters": 4,
+			"numChapters": 3,
 			"synonyms": [
 				"Mal"
 			]

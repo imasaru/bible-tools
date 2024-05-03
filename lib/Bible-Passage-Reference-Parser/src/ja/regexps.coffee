@@ -294,7 +294,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Zeph"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:[セゼ](?:ファ(?:ニ(?:ヤ(?:しょ|書)|ア書?))?|[ハパ]ニヤ書|[ハパ]ニヤ|[ハパ])|Zeph|ツェフ)
+		(?:[セゼ](?:ファ(?:ニ(?:ヤ(?:しょ|書)?|ア書?))?|[ハパ]ニヤ書|[ハパ]ニヤ|[ハパ])|Zeph|ツェフ)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Hag"]
@@ -319,7 +319,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Mark"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:マルコ(?:による福音書|[の傳]福音書|福音書|[伝書])?|Mark)
+		(?:マ(?:ルコ(?:による福音書|[の傳]福音書|福音書|[伝書])?|コ)|Mark)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Luke"]
@@ -374,7 +374,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Eph"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:エ(?:フェソ(?:の信徒への手紙|人への手紙|書)?|[ヘペ]ソ人への手紙|[ヘペ]ソ(?:人への)?書|[ヘペ]ソ人へ)|Eph)
+		(?:エ(?:フェ(?:ソ(?:の信徒への手紙|人への手紙|書)?)?|[ヘペ]ソ人への手紙|[ヘペ]ソ(?:人への)?書|[ヘペ](?:ソ人へ)?)|Eph)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Phil"]

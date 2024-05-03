@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonias",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ti sao ni Jehova nga immay ken ni Sofonias nga anac ni Cusi, nga anac ni Gedalias, nga anac ni Amarias, nga anac ni Ezekias, cadagiti al-aldaw ni Josias, nga anac ni Amon, nga ari ti Juda.",
+			"2": "<sup>2</sup> Siac ikisapconto dagiti isu-amin a banbanag iti rabaw ti daga, cuna ni Jehova.",
+			"3": "<sup>3</sup> Ibusecto ti tao ken animal; ibusecto dagiti tumatayab ti langit, ken dagitiicican ti taaw, ken dagiti pacaitibcolan cadagiti nadangkes; ket dadaelecto ti tao iti rabaw ti daga, cuna ni Jehova.",
+			"4": "<sup>4</sup> Ket yunnatconto ti imac a maibusor iti Juda, ken cadagiti isu-amin nga agnaed ti Jerusalem; ket dadaelecto ti matda ni Baal iti daytoy a disso, ken ti nagan ti Kemarin agraman dagiti papadi;",
+			"5": "<sup>5</sup> Ken dagidiay agcarcararag iti buyot ti langit cadagiti tuctoc ti balay; ken dagidiay agcarcararag, nga agsapata gapu ken Jehova ken agsapata gapu ken Malcam:",
+			"6": "<sup>6</sup> Ken dagidiay agbawing iti isusurot ken Jehova; ken dagidiay saan a nagbiruc ken Jehova, wenno saan a nagsaludsud maipapan kencuana.",
+			"7": "<sup>7</sup> Agulimecca iti imatang ni Apo Jehova; ta ti aldaw ni Jehova asidegen: ta ni Jehova nangisagana iti maysa a daton, isu dinalusanna dagiti naawis.",
+			"8": "<sup>8</sup> Ket maaramidto iti aldaw ti daton ni Jehova, a dusaecto dagiti piprincipe, ken dagiti annac ti ari, ken amin a sicacawes iti pagan-anay a gangannaet.",
+			"9": "<sup>9</sup> Ket iti daydiay nga aldaw dusaecto amin dagidiay aglactaw iti dapian, a mangpusec iti balay ni apoda iti panangranggas ken allilaw.",
+			"10": "<sup>10</sup> Ket iti daydiay nga aldaw, cuna ni Jehova, addanto anabaab ti anug-og nga aggapu iti ruangan ti ican, ken dung-aw nga aggapu iti maicadua a paset, ken dackel a daranudor nga aggapu cadagiti turturod.",
+			"11": "<sup>11</sup> Agdung-awcayo, dacayo nga agnaed ti Mactes; ta isu-amin nga ili ti Canaan napacsuyanda, isu-amin dagidiay a napaawitan iti pirac madadael.",
+			"12": "<sup>12</sup> Ket maaramidto iti daydiay a pannawen, a sukimatecto ti Jerusalem babaen cadagiti pagsilawan; ket dusaecto dagiti tattao nga agtugaw cas iti arac iti arinsaedna, a cunada cadagiti pusoda, Ni Jehova saanto nga agaramid iti naimbag, saanto met nga agaramid iti dakes.",
+			"13": "<sup>13</sup> Ket ti sanicuada agbalinto a sinamsam, ket dagiti balbalayda agwalangwalang: wen, mangibangondanto cadagiti balbalay, ngem didanto agnaed cadacuada; ket mangmuladanto ti cauvasan, ngem didanto uminum iti aracna.",
+			"14": "<sup>14</sup> Ti dackel nga aldaw ni Jehova asideg, isu asideg ken napardas unay, ti met laeng timec ti aldaw ni Jehova: ti maingel a lalaki agickis a sipapait unay sadiay.",
+			"15": "<sup>15</sup> Daydiay nga aldaw isu ti aldaw ti pungtot, aldaw ti riribuc ken rigat, aldaw ti racrac ken langalang, aldaw ti sipnget ken lulem, aldaw dagiti ul-ulep ken napuscol a kinasipnget,",
+			"16": "<sup>16</sup> Aldaw ti tangguyob ken panagbuac, a maibusor cadagiti il-ili a nasarikedkedan, ken maibusor cadagiti torre iti pagsulian.",
+			"17": "<sup>17</sup> Ket yegconto ti rigat cadagiti tattao tapno magmagnada a cas bulsec a tattao, agsipud ta nagbasolda a maicaniwas ken ni Jehova; ket ti darada maiparucpocto a cas la tapuc, ken ti lasagda a cas iti ibleng.",
+			"18": "<sup>18</sup> Uray ti piracda uray ti balitocda didanto mabalin ti mangispal cadacuada iti aldaw ti pungtot ni Jehova; ngem ti isu-amin a daga malamutto iti apuy ti imonna: ta aramidennanto ti panungpalan, wen, nacakigkigtot a panungpalan, ti isu-amin nga agnaed iti daga."
+		},
+		"2": {
+			"1": "<sup>1</sup> Aguornongcayo, wen, aguornongcayo, O nacion nga awan ti bainna;",
+			"2": "<sup>2</sup> Iti casacbayan ti pannacaibanag ti naikedeng, iti casacbayan ti panaglabas ti aldaw a cas iti taep, iti casacbayan ti iyaay cadacayo ti narungsot a pungtot ni Jehova, iti casacbayan ti iyaay cadacayo ti aldaw ti pungtot ni Jehova.",
+			"3": "<sup>3</sup> Birukenyo ni Jehova, dacayo amin a naemma iti daga, a nagtungpal cadagiti bilbilinna; birukenyo ti kinalinteg, birukenyo ti kinaemma: nalabit a dacayo maitalimengcayto iti aldaw ti pungtot ni Jehova.",
+			"4": "<sup>4</sup> Ta ti Gaza mabaybay-anto, ket ti Ascalon walangwalangto: passiaendanto ti Asdod iti tengnga ti aldaw, ket ti Ecron maparutto.",
+			"5": "<sup>5</sup> Asi pay dagiti agnaed iti igid ti taaw, ti nacion ti Keretim! Ti sao ni Jehova maibusor cadacayo, O Canaan, a daga dagiti Filisteos; dadaelencanto, tapno awanto ti agnaed.",
+			"6": "<sup>6</sup> Ket ti igid ti taaw agbalinto a pagpaaraban, nga addaan cadagiti calapaw a maipaay cadagiti pastor ken pagyaponan cadagiti pangen.",
+			"7": "<sup>7</sup> Ket ti igid ti taaw agpaayto iti matda ti balay ti Juda; ipaarabdanto dagiti pangenda sadiay; cadagiti balbalay ti Ascalon agiddadanto iti rumabili; ta ni Jehova a Diosda sarungcarannanto ida, ket pagbaliwennanto ti pannacacayawda.",
+			"8": "<sup>8</sup> Nangngegco ti panangumsi ti Moab, ken dagiti pananglais dagiti annac ti Ammon, a pinangrabngisda iti ilic, ket intan-ocda dagiti bagbagida met laeng a maibusor iti beddengda.",
+			"9": "<sup>9</sup> Gapuna a cas sibibiagac, cuna ni Jehova dagiti buybuyot, a Dios ti Israel, Pudno unay a ti Moab caslanto iti Sodoma, ket dagiti annac ti Ammon casladanto iti Gomorra, tagicuaen dagiti sisiit, ken apaya ti asin, ken agnanayon a langalang: ti matda ti ilic aramidennanto ida a samsam, ket ti matda ti nacionco tawidennanto ida.",
+			"10": "<sup>10</sup> Daytoy addanto cadacuada a pagtangsitda, agsipud ta nangrabngisda ken intan-ocda dagiti bagbagida met laeng a maibusor iti ili ni Jehova dagiti buybuyot.",
+			"11": "<sup>11</sup> Ni Jehova nacakigkigtotto cadacuada; ta bisinannanto dagiti isu-amin a didios ti daga; ket dagiti tattao agdaydayawdanto kencuana, ti tumunggal maysa manipud iti dissona, isu-amin met laeng a purpuro dagiti nasnacion.",
+			"12": "<sup>12</sup> Dacayo met taga Etiopia, mataycayonto iti campilanco.",
+			"13": "<sup>13</sup> Ket yunnatnanto ti imana a maibusor iti amianan, ket dadaelennanto ti Asiria, ket aramidennanto ti Ninive a walangwalang, ken namaga a cas iti let-ang.",
+			"14": "<sup>14</sup> Ket dagiti arban agiddadanto iti tengngana, isu-amin dagiti animal dagiti nasnacion; ti pelicano ken ti anaping agpadpadanto a dumagus cadagiti capitalna; ti timecda umawengdanto cadagiti tawtawa; ti pannacawalangwalang addanto cadagiti dapdapian; ta lucasanna ti tinubay a cantingen.",
+			"15": "<sup>15</sup> Daytoy ti naragsac nga ili a nagnaed a sililiway, a nagcuna iti pusona, Addaac, ket awan ti sabali no saan a siac: Anian a panagbalinna a walangwalang, maysa a disso a pagiddaan dagiti an-animal! siasinoman a lumabas iti dennana agsanamticto, ket isinasna ti imana."
+		},
+		"3": {
+			"1": "<sup>1</sup> Asi pay daydiay nasungit ken narugit! Ti manangilupit nga ili!",
+			"2": "<sup>2</sup> Isu saan a nagtulnog iti timec; saan nga immawat iti panagisuro; saan a nagcammatalec ken ni Jehova; saan nga immasideg iti Diosna.",
+			"3": "<sup>3</sup> Dagiti piprincipena iti nagtengngaanna isuda dagiti ngumerngernger a leon; dagiti oc-ocomna isuda dagiti lobo ti rumabii; isuda dida mangitidda iti uray aniaman agingga iti bigat.",
+			"4": "<sup>4</sup> Dagiti mammadtona nadursocda ken manangallilawda a tattao; dagiti papadina binassawanganda ti santuario, sinalungasingda ti linteg.",
+			"5": "<sup>5</sup> Ni Jehova nalinteg iti nagtengngaanna; dinto agaramid iti kinadakes; iti tunggal bigat yegna ti kinajusticiana iti lawag, isu saan nga agcurang; ngem ti nakillo dina ammo ti bain.",
+			"6": "<sup>6</sup> Siac dadaelecto dagiti nasnacion; dagiti torre iti pagsulianda walangwalangda; pinaglangalangco dagiti calcalsadada, iti casta awan ti aglasat; dagiti il-ilida madadaelda, iti casta awan ti tao, casta met awan ti agnaed.",
+			"7": "<sup>7</sup> Kinunac, Isuna laeng nga agbutengca caniac; umawatca iti panangisuro, iti casta ti pagnaedanna dinto mapucaw; a mayalubog iti amin nga inkeddengco a maipapan kencuana: ngem timmacderda a nasapa ket pinadakesda dagiti amin nga aramidda.",
+			"8": "<sup>8</sup> Ngarud aguraycayo a maipaay caniac, cuna ni Jehova, agingga iti aldaw nga itatacderco a mangsamsam; ta ti panangikeddengco isu ti panangurnong cadagiti nasnacion, tapno maummongco coma dagiti pagpagarian, tapno ibucbocco cadacuada ti ungetco, ti met laeng narungsot a pungtotco; ta isu-amin a daga malamutto iti apuy ti imonco.",
+			"9": "<sup>9</sup> Iti casta isublicton cadagiti il-ili ti nadalus a pagsasao, tapno isuda amin awaganda coma ti nagan ni Jehova, tapno agservida a situtonos kencuana.",
+			"10": "<sup>10</sup> Manipud iti ballasiw dagiti carcarayan ti Etiopia dagiti agdawdawat caniac, ti anac met laeng a babai di inwarac, yegdanto ti daton caniac.",
+			"11": "<sup>11</sup> Iti daydiay nga aldaw saancanto a mabainan gapu cadagiti amin nga ar-aramidmo, a nagsalungasingam a maicaniwas caniac; ta iti casta iccatecton iti tengngam dagiti tattaom a sitatangsit nga agragragsac, ket dicanto tangsitenen iti nasantoan a bantayco.",
+			"12": "<sup>12</sup> Ngem tiddaecto iti tengngam ti maysa a naparigat ken napanglaw nga ili ket isuda agcamangdanto iti nagan ni Jehova.",
+			"13": "<sup>13</sup> Ti matda ti Israel didanto agaramid iti kinadakes, didanto met agsao cadagiti ul-ulbod; ti naulbod a dila saanto met a masaracan iti ngiwatda: ta isuda agtaraondanto ken agiddadanto, ket awanto ti mangpabuteng cadacuada.",
+			"14": "<sup>14</sup> Agcantaca, O anac a babai ti Sion; agdir-ica, O Israel; agrag-oca ken agragsacca iti isu-amin a puso, O anac a babai ti Jerusalem.",
+			"15": "<sup>15</sup> Ni Jehova iniccatna dagiti pannacaocommo, impuruacna ti cabusormo: ti Ari ti Israel, a ni met laeng Jehova, adda iti nagtengngaam; dicanto agbutengen iti dakes uray caano.",
+			"16": "<sup>16</sup> Iti daydiay nga aldaw macunanto iti Jerusalem, Dica agbuteng; O Sion, dica palubosan a cumapuy coma dagita im-imam.",
+			"17": "<sup>17</sup> Ni Jehova a Diosmo adda iti nagtengngaam, ti maingel a mangisalacanto; agrag-onto kenca a mabuyugan iti panagragragsac; aginananto iti ayatna; agragsacto kenca a mabuyugan iti panagcancanta.",
+			"18": "<sup>18</sup> Urnongecto dagidiay agladladingit nga agpaay iti nangayed a gimong, isuda a cucuam idi; a ti awit kencuana isu idi ti pannacaumumsi.",
+			"19": "<sup>19</sup> Adtoy, iti dayta a pannawen supapacacto dagiti isu-amin a mangpaladingit kenca: ket ispalecto daydiay pilay, ket yurnongconto daydiay napassia; ket pagbalinecto ida a madaydayaw ken mainaganan iti isu-amin a daga a nacaibabainanda idi.",
+			"20": "<sup>20</sup> Iti daydiay a pannawen iserreccanto, ken iti daydiay a pannawen urnongencanto; ta aramidencanto a nagan ken madaydayaw cadagiti isu-amin nga il-ili ti daga, intono pagbaliwec ti pannacacayawmo iti sango dagiti matayo, cuna ni Jehova."
+		}
+	}
+};
+module.exports = book;

@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	futhi
+$CHAPTER	isahluko
+$FF	ff
+$TITLE	title
+$TRANS	zul59
+$TO	kuye
+$VERSE	ivesi
+$UNICODE_BLOCK	Latin
+
+Gen	UGenesise	Genesise
+Exod	U-Eksodusi	Eksodusi	Eks
+Lev	ULevitikusi	Levitikusi	Levi
+Num	UNumeri	Numeri
+Deut	UDuteronomi	Duteronomi	Duter
+Josh	UJoshuwa	Joshuwa
+Judg	AbAhluleli	AbAhluleli
+Ruth	URuthe	Ruthe
+1Sam	1 uSamuweli	1 Samuweli	1 Sam
+2Sam	2 uSamuweli	2 Samuweli	2 Sam
+1Kgs	1 AmaKhosi	1 AmaKhosi
+2Kgs	2 AmaKhosi	2 AmaKhosi
+1Chr	1 iziKronike	1 IziKronike
+2Chr	2 iziKronike	2 IziKronike
+Ezra	U-Ezra	Ezra
+Neh	UNehemiya	Nehemiya
+Esth	U-Esteri	Esteri
+Job	UJobe	Jobe
+Ps	AmaHubo	AmaHubo	IHubo
+Prov	IzAga	IzAga
+Eccl	UmShumayeli	Mshumayeli
+Song	IsiHlabelelo seziHlabelelo	IsiHlabelelo SeziHlabelelo
+Isa	U-Isaya	Isaya
+Jer	UJeremiya	Jeremiya
+Lam	IsiLilo	IsiLilo
+Ezek	UHezekeli	Hezekeli	Hez
+Dan	UDaniyeli	Daniyeli
+Hos	UHoseya	Hoseya
+Joel	UJoweli	Joweli
+Amos	U-Amose	Amose
+Obad	U-Obadiya	Obadiya
+Jonah	UJona	Jona
+Mic	UMika	Mika
+Nah	UNahume	Nahume
+Hab	UHabakuki	Habakuki
+Zeph	UZefaniya	Zefaniya
+Hag	UHagayi	Hagayi
+Zech	UZakariya	Zakariya
+Mal	UMalaki	Malaki
+Matt	NgokukaMathewu	Mathewu	Math
+Mark	NgokukaMarku	Marku	Marko
+Luke	NgokukaLuka	Luka
+John	NgokukaJohane	Johane
+Acts	IzEnzo	IZenzo
+Rom	KwabaseRoma	AmaRoma	Rom	Roma
+1Cor	1 kwabaseKorinte	1 Korinte	1 Kor
+2Cor	2 kwabaseKorinte	2 Korinte	2 Kor
+Gal	KwabaseGalathiya	Galathiya
+Eph	Kwabase-Efesu	Efesu
+Phil	KwabaseFilipi	Filipi
+Col	KwabaseKolose	Kolose
+1Thess	1 kwabaseThesalonika	1 Thesalonika
+2Thess	2 kwabaseThesalonika	2 Thesalonika
+1Tim	1 kuThimothewu	1 Thimothewu
+2Tim	2 kuThimothewu	2 Thimothewu
+Titus	KuThithu	KuThithu
+Phlm	KuFilemoni	KuFilemoni
+Heb	KumaHeberu	KumaHeberu	Heb
+Jas	EkaJakobe	Jakobe
+1Pet	1 kaPetru	1 Petru
+2Pet	2 kaPetru	2 Petru
+1John	1 kaJohane	1 Johane
+2John	2 kaJohane	2 Johane
+3John	3 kaJohane	3 Johane
+Jude	EkaJuda	EkaJuda
+Rev	IsAmbulo	IsAmbulo	Isamb	Samb
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zefanja",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> In diesem Buch ist die Botschaft aufgeschrieben, die Zefanja vom Herrn empfing. Zefanjas Vater hieß Kuschi, seine weiteren Vorfahren waren Gedalja, Amarja und Hiskia. Seinerzeit regierte in Juda König Josia, der Sohn von Amon.",
+			"2": "<sup>2</sup> »So spricht der Herr: Mit Stumpf und Stiel werde ich alles ausrotten, was auf der Erde lebt:",
+			"3": "<sup>3</sup> Menschen und Vieh, die Vögel am Himmel und die Fische im Meer. Die Menschen, die von mir nichts wissen wollen, lasse ich vom Erdboden verschwinden und mit ihnen alles, was sie zur Auflehnung gegen mich verleitet hat. Darauf könnt ihr euch verlassen!",
+			"4": "<sup>4</sup> Auch gegen Juda und die Einwohner von Jerusalem erhebe ich meine Hand, um sie zu strafen. Ich lösche noch die letzte Spur von ihrem Götzendienst aus, mit den Priestern Baals und aller anderen Götzen ist es dann endgültig vorbei.",
+			"5": "<sup>5</sup> Ich vernichte alle, die auf den Dächern ihrer Häuser die Sterne anbeten, und ich ziehe jene zur Rechenschaft, die sich zwar vor mir niederwerfen und einen Eid in meinem Namen ablegen, gleichzeitig aber auf den Götzen Milkom schwören.",
+			"6": "<sup>6</sup> Alle sollen umkommen, die mir den Rücken kehren und denen ich gleichgültig geworden bin, ja, alle, die mit mir nichts zu tun haben wollen.«",
+			"7": "<sup>7</sup> Seid still vor Gott, dem Herrn! Denn der Tag, an dem er Gericht hält, steht vor der Tür. Schon bereitet er das Schlachtopfer vor und lädt Judas Feinde als Gäste zum Opfermahl ein.",
+			"8": "<sup>8</sup> Er sagt: »An diesem Tag ziehe ich die führenden Männer des Landes und die Königsfamilie zur Rechenschaft. Alle, die religiöse Bräuche fremder Völker übernehmen, müssen sich dann vor mir verantworten.",
+			"9": "<sup>9</sup> Ich übe Vergeltung an denen, die aus Ehrfurcht vor den Götzen niemals auf die Türschwelle treten, wenn sie in ein Haus gehen. Ich bestrafe alle, die durch Gewalt und Betrug für ihre Herren Schätze anhäufen.",
+			"10": "<sup>10</sup> An diesem Tag wird man vom Fischtor her Hilferufe hören, Angstschreie aus der Neustadt und lautes Schlachtgetümmel von den Hügeln. Darauf gebe ich, der Herr, mein Wort.",
+			"11": "<sup>11</sup> Ja, klagt nur, ihr Händler aus der Unterstadt, denn ich vernichte alle Kaufleute, die dort ihr Silber abwiegen!",
+			"12": "<sup>12</sup> Dann durchsuche ich Jerusalem mit Lampen und spüre alle auf, die selbstzufrieden in den Tag hineinleben. Sie gleichen einem Wein, der nie umgegossen wurde und dadurch verdorben ist. Sie denken: ›Mit dem Herrn brauchen wir nicht zu rechnen, von ihm kommt weder Gutes noch Böses.‹",
+			"13": "<sup>13</sup> Doch sie werden erleben, dass man ihren Besitz plündert und ihre Häuser zertrümmert. Wer ein neues Haus gebaut hat, wird nie darin wohnen; wer einen neuen Weinberg angelegt hat, wird nicht einen Tropfen Wein daraus trinken.«",
+			"14": "<sup>14</sup> Der große Gerichtstag des Herrn steht vor der Tür. Er kommt näher, immer näher. Hört! Selbst die Tapfersten schreien verzweifelt auf! Es ist ein schrecklicher Tag,",
+			"15": "<sup>15</sup> an dem sich Gottes ganzer Zorn entlädt, ein Tag voll Angst und Grauen. Überall herrschen Krieg und Verwüstung, schwarze Wolken verdunkeln den Himmel, und tiefe Finsternis breitet sich aus.",
+			"16": "<sup>16</sup> An diesem Tag erfüllen Kampfgeschrei und der Schall von Hörnern die Luft: Man bläst zum Sturm auf die Städte mit ihren hohen Mauern und Türmen.",
+			"17": "<sup>17</sup> Gott sagt: »Ich versetze die Menschen in so große Angst, dass sie hilflos wie Blinde umhertappen. Ihr Blut wird vergossen, so wie man Dreck wegschüttet, ihre Eingeweide werden fortgeworfen wie Kot. Das alles geschieht, weil sie gegen mich, den Herrn, gesündigt haben.",
+			"18": "<sup>18</sup> Wenn sich an diesem Tag mein Zorn entlädt, hilft ihnen auch all ihr Silber und Gold nicht mehr: Mein leidenschaftlicher Zorn bricht los wie ein Feuer und verwüstet die ganze Welt. Alle ihre Bewohner lasse ich ein schreckliches Ende finden.«"
+		},
+		"2": {
+			"1": "<sup>1</sup> Geht in euch und kommt endlich zur Besinnung! Ihr seid ein Volk, das keine Scham mehr kennt.",
+			"2": "<sup>2</sup> Kehrt um, bevor das eintrifft, was der Herr sich vorgenommen hat! Es wird höchste Zeit für euch! Bald ist der Tag da, an dem der glühende Zorn des Herrn euch trifft!",
+			"3": "<sup>3</sup> Ihr anderen aber, die ihr dem Herrn dient und nach seinen Geboten lebt: Bleibt bei ihm und strebt nach Gerechtigkeit und Demut! Vielleicht werdet ihr verschont, wenn sich der Zorn des Herrn über sein Volk entlädt.",
+			"4": "<sup>4</sup> Gaza wird zu einer menschenleeren Stadt, Aschkelon wird verwüstet. Die Einwohner von Aschdod werden am helllichten Tag verschleppt, und auch Ekron macht man dem Erdboden gleich.",
+			"5": "<sup>5</sup> Wehe euch, ihr Philister aus Kreta, ihr Bewohner der Küste! Der Herr lässt euch diese Botschaft ausrichten: »Kanaan, du Land der Philister, ich werde dich verwüsten! Keiner deiner Bewohner bleibt mehr übrig.",
+			"6": "<sup>6</sup> Der ganze Küstenstreifen wird nur noch als Weideland dienen. Hirten treiben ihre Schaf- und Ziegenherden zu den Zisternen,",
+			"7": "<sup>7</sup> und abends schlagen sie in den Ruinen von Aschkelon ihr Lager auf. Das ganze Land der Philister gehört dann den Überlebenden von Juda.« Ja, der Herr, ihr Gott, wird sich über die Judäer erbarmen und ihr Schicksal wieder zum Guten wenden!",
+			"8": "<sup>8</sup> Gott sagt: »Ich habe gehört, wie die Moabiter mein Volk verspotten und verhöhnen. Die Ammoniter prahlen damit, dass sie Israels Gebiet erobern werden.",
+			"9": "<sup>9</sup> Darum schwöre ich, der Herr, der allmächtige Gott Israels, so wahr ich lebe: Moab und Ammon wird es wie Sodom und Gomorra ergehen: Für alle Zeiten soll ihr Gebiet zu einer Wüste voller Salzgruben werden, von Unkraut überwuchert. Die Überlebenden meines Volkes werden die Moabiter und Ammoniter ausplündern und ihr Land in Besitz nehmen.«",
+			"10": "<sup>10</sup> Denn diese Völker waren stolz und überheblich, sie haben sich über das Volk des Herrn, des allmächtigen Gottes, lustig gemacht.",
+			"11": "<sup>11</sup> Doch er wird sie das Fürchten lehren, wenn er allen Göttern der Erde ein Ende bereitet. Schließlich wird jedes Volk in seinem Land den Herrn anbeten, selbst die Bewohner der fernsten Inseln.",
+			"12": "<sup>12</sup> »Auch euch, ihr Äthiopier, wird mein Schwert umbringen«, sagt der Herr.",
+			"13": "<sup>13</sup> Dem Norden wird es nicht besser ergehen. Drohend erhebt Gott seine Hand, um Assyrien zu vernichten. Er wird die Hauptstadt Ninive in Trümmer legen, sie so öde und menschenleer machen wie die Wüste.",
+			"14": "<sup>14</sup> Mitten in der Stadt lagern dann ganze Herden von Tieren, Wüstenkauz und Eule hausen nachts zwischen den zerborstenen Säulen. Aus den Fenstern krächzen Vögel, die Türschwellen sind mit Trümmern übersät, und die Täfelung aus Zedernholz liegt abgerissen auf dem Boden.",
+			"15": "<sup>15</sup> Das also wird aus der stolzen Stadt, deren Einwohner sich in Sicherheit wähnten und dachten: »Es gibt keine Stadt wie unsere!« Zur Wüste wird sie, zum Lagerplatz für wilde Tiere! Wer an ihr vorbeigeht, verhöhnt sie und schüttelt entsetzt den Kopf."
+		},
+		"3": {
+			"1": "<sup>1</sup> Wehe der Stadt, die sich dem Herrn widersetzt, der Stadt voller Bosheit und Gewalt!",
+			"2": "<sup>2</sup> Auf keine Warnung hört sie, keine Zurechtweisung nimmt sie ernst. Mit ihrem Gott will sie nichts zu tun haben; sie denkt nicht daran, dem Herrn zu vertrauen.",
+			"3": "<sup>3</sup> Ihre führenden Männer sind wie Löwen, die nach Beute brüllen; ihre Richter gleichen hungrigen Wölfen, die von ihrem Raub nichts bis zum nächsten Morgen übrig lassen.",
+			"4": "<sup>4</sup> Die Propheten sind leichtfertige Betrüger, die Priester entweihen das Heiligtum und legen Gottes Gesetz gerade so aus, wie es ihnen passt.",
+			"5": "<sup>5</sup> Dabei wohnt der Herr doch mitten unter ihnen! Er tut niemals etwas Böses, sondern Tag für Tag sorgt er für Recht; ja, auf ihn ist immer Verlass. Aber die Leute in Jerusalem kennen keine Scham; sie tun genau das, was Gottes Willen widerspricht.",
+			"6": "<sup>6</sup> Der Herr sagt: »Ich habe ganze Völker vernichtet und ihre Festungen niedergerissen. Die Städte sind zerstört und menschenleer, niemand geht mehr durch die Straßen.",
+			"7": "<sup>7</sup> Ich dachte: Diese Warnung werdet ihr doch nicht in den Wind schlagen! Jetzt werdet ihr endlich Ehrfurcht vor mir haben! Ich hoffte, ich müsste eure Heimat nicht verwüsten und die verdiente Strafe nicht an euch vollstrecken. Doch ihr habt es nur noch schlimmer getrieben!",
+			"8": "<sup>8</sup> Darum macht euch auf den Tag gefasst, an dem ich Gericht halte! Ja, ich werde mich auf euch stürzen wie ein Raubtier auf seine Beute. Mein Entschluss steht fest! Ich rufe alle Völker und Nationen zusammen, um mein Urteil an ihnen zu vollstrecken. Niemand wird meinem Zorn entrinnen, ja, mein leidenschaftlicher Zorn bricht los wie ein Feuer und verwüstet die ganze Welt. Darauf gebe ich, der Herr, mein Wort!«",
+			"9": "<sup>9</sup> »Dann aber werde ich dafür sorgen, dass alle Völker zu mir umkehren. Sie werden nie mehr die Namen ihrer Götzen in den Mund nehmen, sondern von nun an zu mir, dem Herrn, beten und mir einmütig dienen.",
+			"10": "<sup>10</sup> Sogar noch aus dem fernen Äthiopien werden sie mein zerstreutes Volk wie eine Opfergabe herbeibringen.",
+			"11": "<sup>11</sup> An jenem Tag braucht ihr Israeliten euch nicht mehr dafür zu schämen, dass ihr mir die Treue gebrochen und so viel Unheil angerichtet habt. Denn ich werde die selbstgerechten Prahler aus eurer Mitte beseitigen. Auf meinem heiligen Berg wird es niemanden mehr geben, der überheblich ist.",
+			"12": "<sup>12</sup> Dann leben in Israel nur noch bescheidene und demütige Menschen, die ihr ganzes Vertrauen auf mich, den Herrn, setzen.",
+			"13": "<sup>13</sup> Sie, die von meinem Volk übrig geblieben sind, hüten sich vor neuem Unrecht. Keine Lüge und kein betrügerisches Wort werden aus ihrem Mund kommen. Es geht ihnen so gut wie einer Schafherde auf saftiger Weide, nie mehr versetzt ein Feind sie in Angst und Schrecken.«",
+			"14": "<sup>14</sup> Freut euch, ihr Israeliten, jubelt laut, ihr Menschen auf dem Berg Zion! Singt und jauchzt aus vollem Herzen, ihr Einwohner von Jerusalem!",
+			"15": "<sup>15</sup> Der Herr hat das Urteil gegen euch aufgehoben; eure Feinde hat er hinweggefegt. Nun lebt er selbst als König Israels mitten unter euch. Kein Unglück wird euch mehr treffen.",
+			"16": "<sup>16</sup> An jenem Tag wird man der Stadt auf dem Berg Zion zurufen: »Habt keine Angst, ihr Einwohner von Jerusalem, lasst die Hände nicht mutlos sinken!",
+			"17": "<sup>17</sup> Der Herr, euer Gott, ist in eurer Mitte; und was für ein starker Retter ist er! Von ganzem Herzen freut er sich über euch. Weil er euch liebt, redet er nicht länger über eure Schuld. Ja, er jubelt, wenn er an euch denkt!«",
+			"18": "<sup>18</sup> Gott sagt: »Ich bringe alle nach Hause, die traurig sind, weil sie in der Fremde leben müssen und die großen Feste in Jerusalem nicht mitfeiern können. Was für eine Schande ist das für sie!",
+			"19": "<sup>19</sup> Doch wenn die Zeit reif ist, werde ich mit euren Unterdrückern abrechnen! Ich rette dich, mein vertriebenes Volk, und bringe selbst die Schwächsten noch heim. In den Ländern, in denen ihr jetzt noch gedemütigt werdet, wird man euch dann achten und ehren.",
+			"20": "<sup>20</sup> Ja, in jener Zeit werde ich euch sammeln und in euer Land zurückbringen. Ich wende euer Schicksal zum Guten und verschaffe euch hohes Ansehen bei allen Völkern der Erde. Ihr werdet es selbst noch erleben. Das verspreche ich, der Herr!«"
+		}
+	}
+};
+module.exports = book;

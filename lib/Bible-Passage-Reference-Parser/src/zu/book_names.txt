@@ -1,0 +1,218 @@
+1Chr	1 IziKronike
+1Chr	1 iziKronike
+1Chr	1Chr
+1Cor	1 kwabaseKorinte
+1Cor	1 Korinte
+1Cor	1 Kor
+1Cor	1Cor
+1Esd	1Esd
+1John	1 kaJohane
+1John	1 Johane
+1John	1John
+1Kgs	1 AmaKhosi
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 kaPetru
+1Pet	1 Petru
+1Pet	1Pet
+1Sam	1 uSamuweli
+1Sam	1 Samuweli
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 kwabaseThesalonika
+1Thess	1 Thesalonika
+1Thess	1Thess
+1Tim	1 kuThimothewu
+1Tim	1 Thimothewu
+1Tim	1Tim
+2Chr	2 IziKronike
+2Chr	2 iziKronike
+2Chr	2Chr
+2Cor	2 kwabaseKorinte
+2Cor	2 Korinte
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	2Esd
+2John	2 kaJohane
+2John	2 Johane
+2John	2John
+2Kgs	2 AmaKhosi
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 kaPetru
+2Pet	2 Petru
+2Pet	2Pet
+2Sam	2 uSamuweli
+2Sam	2 Samuweli
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 kwabaseThesalonika
+2Thess	2 Thesalonika
+2Thess	2Thess
+2Tim	2 kuThimothewu
+2Tim	2 Thimothewu
+2Tim	2Tim
+3John	3 kaJohane
+3John	3 Johane
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	IZenzo
+Acts	IzEnzo
+Acts	Acts
+Amos	U-Amose
+Amos	Amose
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	KwabaseKolose
+Col	Kolose
+Col	Col
+Dan	UDaniyeli
+Dan	Daniyeli
+Dan	Dan
+Deut	UDuteronomi
+Deut	Duteronomi
+Deut	Duter
+Deut	Deut
+Eccl	UmShumayeli
+Eccl	Mshumayeli
+Eccl	Eccl
+EpJer	EpJer
+Eph	Kwabase-Efesu
+Eph	Efesu
+Eph	Eph
+Esth	U-Esteri
+Esth	Esteri
+Esth	Esth
+Exod	U-Eksodusi
+Exod	Eksodusi
+Exod	Exod
+Exod	Eks
+Ezek	UHezekeli
+Ezek	Hezekeli
+Ezek	Ezek
+Ezek	Hez
+Ezra	U-Ezra
+Ezra	Ezra
+Gal	KwabaseGalathiya
+Gal	Galathiya
+Gal	Gal
+Gen	UGenesise
+Gen	Genesise
+Gen	Gen
+GkEsth	GkEsth
+Hab	UHabakuki
+Hab	Habakuki
+Hab	Hab
+Hag	UHagayi
+Hag	Hagayi
+Hag	Hag
+Heb	KumaHeberu
+Heb	Heb
+Hos	UHoseya
+Hos	Hoseya
+Hos	Hos
+Isa	U-Isaya
+Isa	Isaya
+Isa	Isa
+Jas	EkaJakobe
+Jas	Jakobe
+Jas	Jas
+Jdt	Jdt
+Jer	UJeremiya
+Jer	Jeremiya
+Jer	Jer
+Job	UJobe
+Job	Jobe
+Job	Job
+Joel	UJoweli
+Joel	Joweli
+Joel	Joel
+John	NgokukaJohane
+John	Johane
+John	John
+Jonah	Jonah
+Jonah	UJona
+Jonah	Jona
+Josh	UJoshuwa
+Josh	Joshuwa
+Josh	Josh
+Jude	EkaJuda
+Jude	Jude
+Judg	AbAhluleli
+Judg	Judg
+Lam	IsiLilo
+Lam	Lam
+Lev	ULevitikusi
+Lev	Levitikusi
+Lev	Levi
+Lev	Lev
+Luke	NgokukaLuka
+Luke	Luka
+Luke	Luke
+Mal	UMalaki
+Mal	Malaki
+Mal	Mal
+Mark	NgokukaMarku
+Mark	Marko
+Mark	Marku
+Mark	Mark
+Matt	NgokukaMathewu
+Matt	Mathewu
+Matt	Math
+Matt	Matt
+Mic	UMika
+Mic	Mika
+Mic	Mic
+Nah	UNahume
+Nah	Nahume
+Nah	Nah
+Neh	UNehemiya
+Neh	Nehemiya
+Neh	Neh
+Num	UNumeri
+Num	Numeri
+Num	Num
+Obad	U-Obadiya
+Obad	Obadiya
+Obad	Obad
+Phil	KwabaseFilipi
+Phil	Filipi
+Phil	Phil
+Phlm	KuFilemoni
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	IzAga
+Prov	Prov
+Ps	AmaHubo
+Ps	IHubo
+Ps	Ps
+Rev	IsAmbulo
+Rev	Isamb
+Rev	Samb
+Rev	Rev
+Rom	KwabaseRoma
+Rom	AmaRoma
+Rom	Roma
+Rom	Rom
+Ruth	URuthe
+Ruth	Ruthe
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	IsiHlabelelo SeziHlabelelo
+Song	IsiHlabelelo seziHlabelelo
+Song	Song
+Sus	Sus
+Titus	KuThithu
+Titus	Titus
+Tob	Tob
+Wis	Wis
+Zech	UZakariya
+Zech	Zakariya
+Zech	Zech
+Zeph	UZefaniya
+Zeph	Zefaniya
+Zeph	Zeph

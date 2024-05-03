@@ -66,16 +66,16 @@ Gal	Galater	Gal
 Eph	Epheser	Eph
 Phil	Philipper	Phil
 Col	Kolosser	Kol
-1Thess	$FIRST Thessalonicher	1. Thess
-2Thess	$SECOND Thessalonicher	2. Thess
+1Thess	$FIRST Thessalonicher	1. Thess	1 Ths
+2Thess	$SECOND Thessalonicher	2. Thess	2 Ths
 1Tim	$FIRST Timotheus	1. Tim
 2Tim	$SECOND Timotheus	2. Tim
 Titus	Titus	Tit
 Phlm	Philemon	Phlm	Phm
-Heb	Hebräer	Hebraeer	Hebr
+Heb	Hebräer	Hebraeer	Hebr	Hbr
 Jas	Jakobusbrief	Jakobus	Jak
-1Pet	$FIRST Petrus	1. Petr
-2Pet	$SECOND Petrus	2. Petr
+1Pet	$FIRST Petrus	1. Petr	1 Ptr
+2Pet	$SECOND Petrus	2. Petr	2 Ptr
 1John	$FIRST Johannes	1. Joh
 2John	$SECOND Johannes	2. Joh
 3John	$THIRD Johannes	3. Joh

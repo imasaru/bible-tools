@@ -1,0 +1,170 @@
+$FIRST	1	I
+$SECOND	2	II
+$THIRD	3	III
+$FOURTH	4	IV
+$AB	[a-e]
+$AND	en	asook
+$CHAPTER	hoofstuk	hfst.
+$FF	ff.
+$TITLE	title
+$TRANS	AFR53	AFR83
+$TO	tot
+$VERSE	vers	Bybelvers
+$UNICODE_BLOCK	Latin
+
+Gen	Genesis	Gen	Génesis
+Exod	Eksodus	Eks	Exodus
+Lev	Levitikus	Lev	Levítikus
+Num	Numeri	Num	Númeri
+Deut	Deuteronomium	Deut	Deuteronómium
+Josh	Josua	Jos
+Judg	Rigters	Rig
+Ruth	Rut	Rut
+1Sam	1 Samuel	1 Sam
+2Sam	2 Samuel	2 Sam
+1Kgs	1 Konings	1 Kon
+2Kgs	2 Konings	2 Kon
+1Chr	1 Kronieke	1 Kron
+2Chr	2 Kronieke	2 Kron
+Ezra	Esra	Esra
+Neh	Nehemia	Neh
+Esth	Ester	Est
+Job	Job	Job
+Ps	Psalms	Ps	Psalm
+Prov	Spreuke	Spr
+Eccl	Prediker	Pred
+Song	Hooglied	Hoogl
+Isa	Jesaja	Jes
+Jer	Jeremia	Jer
+Lam	Klaagliedere	Klaagl
+Ezek	Esegiël	Eseg
+Dan	Daniël	Dan
+Hos	Hosea	Hos	Hoséa
+Joel	Joël	Joël
+Amos	Amos	Am
+Obad	Obadja	Ob
+Jonah	Jona	Jona
+Mic	Miga	Miga
+Nah	Nahum	Nah
+Hab	Habakuk	Hab
+Zeph	Sefanja	Sef
+Hag	Haggai	Hag
+Zech	Sagaria	Sag
+Mal	Maleagi	Mal
+Matt	Matteus	Matt	Matthéüs
+Mark	Markus	Mark
+Luke	Lukas	Luk
+John	Johannes	Joh
+Acts	Handelinge	Hand
+Rom	Romeine	Rom
+1Cor	$FIRST Korintiërs	$FIRST Kor	$FIRST Korinthiërs
+2Cor	$SECOND Korintiërs	$SECOND Kor	$SECOND Korinthiërs
+Gal	Galasiërs	Gal	Galásiërs
+Eph	Efesiërs	Ef	Efésiërs
+Phil	Filippense	Fil
+Col	Kolossense	Kol
+1Thess	$FIRST Tessalonisense	$FIRST Tess	$FIRST Tessaonicense	$FIRST Thess
+2Thess	$SECOND Tessalonisense	$SECOND Tess	$SECOND Tessaonicense	$SECOND Thess
+1Tim	$FIRST Timoteus	$FIRST Tim	$FIRST Timótheüs
+2Tim	$SECOND Timoteus	$SECOND Tim	$SECOND Timótheüs
+Titus	Titus	Tit
+Phlm	Filemon	Filem
+Heb	Hebreërs	Heb
+Jas	Jakobus	Jak
+1Pet	$FIRST Petrus	$FIRST Pet
+2Pet	$SECOND Petrus	$SECOND Pet
+1John	$FIRST Johannes	$FIRST Joh
+2John	$SECOND Johannes	$SECOND Joh
+3John	$THIRD Johannes	$THIRD Joh
+Jude	Judas	Jud
+Rev	Openbaring	Op
+
+#Jonah,Job,Josh,Joel
+#Judg,Jude
+#Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc

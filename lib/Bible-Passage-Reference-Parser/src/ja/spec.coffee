@@ -1091,9 +1091,11 @@ describe "Localized book Zeph (ja)", ->
 		expect(p.parse("セハニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セパニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セファニア 1:1").osis()).toEqual("Zeph.1.1")
+		expect(p.parse("セファニヤ 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ゼハニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ゼパニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ゼファニア 1:1").osis()).toEqual("Zeph.1.1")
+		expect(p.parse("ゼファニヤ 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("Zeph 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セハニヤ 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セパニヤ 1:1").osis()).toEqual("Zeph.1.1")
@@ -1116,9 +1118,11 @@ describe "Localized book Zeph (ja)", ->
 		expect(p.parse("セハニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セパニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セファニア 1:1").osis()).toEqual("Zeph.1.1")
+		expect(p.parse("セファニヤ 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ゼハニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ゼパニヤ書 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ゼファニア 1:1").osis()).toEqual("Zeph.1.1")
+		expect(p.parse("ゼファニヤ 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("ZEPH 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セハニヤ 1:1").osis()).toEqual("Zeph.1.1")
 		expect(p.parse("セパニヤ 1:1").osis()).toEqual("Zeph.1.1")
@@ -1255,6 +1259,7 @@ describe "Localized book Mark (ja)", ->
 		expect(p.parse("マルコ伝 1:1").osis()).toEqual("Mark.1.1")
 		expect(p.parse("マルコ書 1:1").osis()).toEqual("Mark.1.1")
 		expect(p.parse("マルコ 1:1").osis()).toEqual("Mark.1.1")
+		expect(p.parse("マコ 1:1").osis()).toEqual("Mark.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("マルコによる福音書 1:1").osis()).toEqual("Mark.1.1")
 		expect(p.parse("マルコの福音書 1:1").osis()).toEqual("Mark.1.1")
@@ -1264,6 +1269,7 @@ describe "Localized book Mark (ja)", ->
 		expect(p.parse("マルコ伝 1:1").osis()).toEqual("Mark.1.1")
 		expect(p.parse("マルコ書 1:1").osis()).toEqual("Mark.1.1")
 		expect(p.parse("マルコ 1:1").osis()).toEqual("Mark.1.1")
+		expect(p.parse("マコ 1:1").osis()).toEqual("Mark.1.1")
 		`
 		true
 describe "Localized book Luke (ja)", ->
@@ -1615,6 +1621,9 @@ describe "Localized book Eph (ja)", ->
 		expect(p.parse("エヘソ書 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("エペソ書 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("Eph 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("エフェ 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("エヘ 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("エペ 1:1").osis()).toEqual("Eph.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("エフェソの信徒への手紙 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("エフェソ人への手紙 1:1").osis()).toEqual("Eph.1.1")
@@ -1629,6 +1638,9 @@ describe "Localized book Eph (ja)", ->
 		expect(p.parse("エヘソ書 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("エペソ書 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("EPH 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("エフェ 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("エヘ 1:1").osis()).toEqual("Eph.1.1")
+		expect(p.parse("エペ 1:1").osis()).toEqual("Eph.1.1")
 		`
 		true
 describe "Localized book Phil (ja)", ->

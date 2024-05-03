@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanja",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<span>1</span> Herrens ord kom till Sefanja, son till Kushi, son till Gedalja, son till Amarja, son till Hiskia, när Josia, Amons son, var kung i Juda.",
+			"2": "<span>2</span> Jag skall i grund förgöra allt på jordens yta,säger Herren.",
+			"3": "<span>3</span> Jag skall förgöra människor och djur,jag skall förgöra fåglarna under himlen och fiskarna i havetoch de som blir andra till fall,tillsammans med de ogudaktiga,ja, jag skall utrota människorna från jordens yta,säger Herren.",
+			"4": "<span>4</span> Jag skall sträcka ut handen mot Judaoch mot alla dem som bor i Jerusalem.Jag skall från denna plats utrota vad som finns kvar av Baal,avgudaprästernas namn tillsammans med prästerna,",
+			"5": "<span>5</span> dem som på taken tillber himlens härskaraoch dem som tillber och svär vid Herrenmen också svär vid Malkam,",
+			"6": "<span>6</span> dem som har vikit bort från Herren,och dem som aldrig har sökt Herreneller frågat efter honom.",
+			"7": "<span>7</span> Var stilla inför Herren, Herren!Ty Herrens dag är nära.Herren har tillrett ett slaktoffer,han har helgat dem han har inbjudit.",
+			"8": "<span>8</span> Och det skall ske på dagen för Herrens slaktofferatt jag skall straffa furstarna och kungasönernaoch alla som klär sig i utländska kläder.",
+			"9": "<span>9</span> Jag skall på den dagen straffaalla som hoppar över tröskeln, dem som fyller sin herres husmed våld och svek.",
+			"10": "<span>10</span> Och det skall ske på den dagen, säger Herren,att klagorop skall höras från Fiskarnas portoch jämmer från Nya stadenoch ett mäktigt dån från höjderna.",
+			"11": "<span>11</span> Jämra er, ni som bor i Mortelkvarteret,ty det är förbi med hela skaran av köpmän,utrotade är alla som handlar med silver.",
+			"12": "<span>12</span> Och det skall ske på den tidenatt jag skall leta igenom Jerusalem med lyktoroch straffa de män som nu lever där i lugn och rooch säger i sina hjärtan:\"Inte gör Herren något gottoch inte gör han något ont.\"",
+			"13": "<span>13</span> Och det skall ske att deras ägodelar skall lämnas till plundringoch deras hus läggas öde.De skall bygga hus men inte få bo i dem,de skall plantera vingårdar men inte få dricka vinet från dem.",
+			"14": "<span>14</span> Herrens stora dag är nära,ja, nära, och den kommer med hast.Hör, det är Herrens dag!Då ropar hjältarna i ångest.",
+			"15": "<span>15</span> En vredens dag är den dagen,en dag av ångest och nöd,en dag av ödeläggelse och förödelse,en dag av mörker och dimma,en dag av moln och dis,",
+			"16": "<span>16</span> en dag då ljud av horn och härskri höjsmot de befästa städernaoch de höga murtornen.",
+			"17": "<span>17</span> Då skall jag ge människorna en sådan ångestatt de går omkring som blinda,därför att de har syndat mot Herren.Deras blod skall spridas som stoftoch deras kroppar som orenlighet.",
+			"18": "<span>18</span> Varken deras silver eller deras guldskall kunna rädda dempå Herrens vredes dag.Av hans nitälskans eld skall hela jorden förtäras.Ty fullständigt och med hastskall han göra slut på alla dem som bor på jorden."
+		},
+		"2": {
+			"1": "<span>1</span> Församla er, ja, kom samman,du folk utan blygsel,",
+			"2": "<span>2</span> innan ännu beslutet genomförs- som agnar far den dagen fram -innan Herrens vredesglöd kommer över er,ja, innan Herrens vredes dag kommer över er.",
+			"3": "<span>3</span> Sök Herren,alla ni ödmjuka i landet,ni som gör vad han befaller.Sök rättfärdighet,sök ödmjukhet,kanske blir ni beskyddadepå Herrens vredes dag.",
+			"4": "<span>4</span> Gaza skall bli övergivetoch Askelon förvandlat till en ödemark.Asdod skall drivas ut mitt på ljusa dagenoch Ekron ryckas upp med rötterna.",
+			"5": "<span>5</span> Ve er som bor på landsträckan utmed havet,ni av kereteernas folk!Herrens ord är emot dig,Kanaan, du filisteernas land.Jag skall fördärva dig, så att ingen mer skall bo där.",
+			"6": "<span>6</span> Landsträckan utmed havet skall bli betesmarker,där herdarna har sina brunnaroch fåren sina fållor.",
+			"7": "<span>7</span> Den skall tillfalla kvarlevan av Juda hus.Där skall de föra sin boskap i bet.I Askelons hus skall de lägga sig om kvällen,ty Herren, deras Gud, skall se till democh göra slut på deras fångenskap.",
+			"8": "<span>8</span> Jag har hört hur Moab hånatoch Ammons barn talat föraktfulla ord,hur de hånat mitt folkoch handlat övermodigt mot deras land.",
+			"9": "<span>9</span> Därför, så sant jag lever,säger Herren Sebaot, Israels Gud:Moab skall bli som Sodomoch Ammons barn som Gomorra,ett tillhåll för nässloroch en saltgrop,en ödemark till evig tid.Kvarlevan av mitt folk skall plundra dem,ja, återstoden av mitt folk skall få dem till arvedel.",
+			"10": "<span>10</span> Så skall det gå dem för deras högmod,ty de har hånat Herren Sebaots folkoch handlat övermodigt mot dem.",
+			"11": "<span>11</span> Fruktansvärd skall Herren vara mot dem.Han skall förgöra alla jordens gudar,och alla folkens kustländer skall tillbe honom,varje folk på sin ort.",
+			"12": "<span>12</span> Också ni nubierskall genomborras av mitt svärd.",
+			"13": "<span>13</span> Han skall sträcka ut handen mot norr och fördärva Assuroch förvandla Nineve till en ödemark,torr som öknen.",
+			"14": "<span>14</span> Där skall hjordar lägra sig,alla slags vilda djur.Både pelikaner och hägrarskall om natten bo på dess pelarhuvuden.En röst skall eka i fönstrenoch förödelse skall vara på trösklarna,ty cederpanelen är bortriven.",
+			"15": "<span>15</span> Detta är den jublande stadensom satt så tryggoch tänkte för sig själv:\"Jag och ingen annan!\"Hur har den inte blivit en ödemark,ett tillhåll för vilda djur!Alla som går där fram skall vissla åt denoch slå ihop händerna."
+		},
+		"3": {
+			"1": "<span>1</span> Ve över den upproriskaoch orena staden,förtryckets stad!",
+			"2": "<span>2</span> Hon lyssnar inte till någon,hon tar inte emot tillrättavisning,på Herren förtröstar hon inteoch sin Gud nalkas hon ej.",
+			"3": "<span>3</span> Hennes styresmän därinne är rytande lejon,hennes domare är kvällens vargar,som ingenting spar till morgonen.",
+			"4": "<span>4</span> Hennes profeter är skrävlare,trolösa män.Hennes präster vanhelgar det som är heligtoch gör våld på lagen.",
+			"5": "<span>5</span> Herren är rättfärdig därinne,han gör inget orätt.Morgon efter morgon låter han sin rätt gå fram i ljuset,den uteblir aldrig.Men den orättfärdige vet inte av någon skam.",
+			"6": "<span>6</span> Jag utrotade hednafolk,deras murtorn förstördes,deras gator gjorde jag öde,och ingen gick där längre.Deras städer skövlades,och ingen människa, nej ingen enda bodde där.",
+			"7": "<span>7</span> Jag sade: \"O, att du ville frukta mig,och ta emot tuktan.\"Då skulle stadens boning inte utplånas,den skulle inte drabbas av allt detsom jag bestämt som straff.Men i stället steg de tidigt uppför att hinna med sina fördärvliga gärningar.",
+			"8": "<span>8</span> Vänta därför på mig, säger Herren,på den dag då jag står upp för att ta byte.Ty detta är mitt domslut: Jag skall förena folkoch samla kungarikenför att utgjuta över dem min förbittring,hela min vredes hetta.Ty av min nitälskans eld skall hela jorden förtäras.",
+			"9": "<span>9</span> Då skall jag ge folken renade läppar,och de skall alla åkalla Herrens namnoch tillsammans tjäna honom.",
+			"10": "<span>10</span> Från trakten bortom Nubiens floderskall mina tillbedjare, mitt förskingrade folk,frambära offer åt mig.",
+			"11": "<span>11</span> På den dagen skall du inte längre blygasför alla de överträdelsersom du har begått mot mig.Ty då skall jag avskilja från dig dem som jublar så segervisst hos dig,och du skall inte längreförhäva dig på mitt heliga berg.",
+			"12": "<span>12</span> Men jag skall lämna kvar i dig ett folksom är ödmjukt och svagt,och de skall förtrösta på Herrens namn.",
+			"13": "<span>13</span> Kvarlevan av Israelskall inte längre göra orätt,inte tala lögn,och i deras munskall inte finnas en falsk tunga.De skall finna föda och lägga sig nerutan att någon förskräcker dem.",
+			"14": "<span>14</span> Jubla, du dotter Sion,höj glädjerop, du Israel!Var glad och fröjda dig av hela ditt hjärta,du dotter Jerusalem!",
+			"15": "<span>15</span> Herren har tagit bort straffdomarna från dig,han har röjt din fiende ur vägen.Herren, Israels Konung, bor i dig.Du skall inte längre frukta något ont.",
+			"16": "<span>16</span> På den dagen skall det sägas till Jerusalem:\"Frukta inte, Sion,låt inte dina händer falla!",
+			"17": "<span>17</span> Herren, din Gud, bor i dig,en hjälte som frälsar.Han gläder sig över dig med lust,han tiger stilla i sin kärlek,han fröjdas över dig med jubel.\"",
+			"18": "<span>18</span> Jag skall samla demsom sörjer för högtidernas skull,dem som varit skilda från digoch nu bär föraktets börda.",
+			"19": "<span>19</span> Se, jag skall på den tidenta itu med alla som plågat dig.Jag skall frälsa de haltandeoch samla de fördrivna.Jag skall låta dem blitill lovsång och berömmelsepå hela jorden, där de var så hånade.",
+			"20": "<span>20</span> På den tiden skall jag föra er hem,ja, då skall jag föra er samman.Ty jag skall låta er blitill berömmelse och lovsång bland jordens alla folk,när jag gör slut på er fångenskapinför era ögon,säger Herren.\""
+		}
+	}
+};
+module.exports = book;

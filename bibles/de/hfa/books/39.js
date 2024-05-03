@@ -1,0 +1,68 @@
+var book = {
+	"name": "Maleachi",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> In diesem Buch ist die Botschaft des Herrn aufgeschrieben, die er Israel durch Maleachi verkünden ließ:",
+			"2": "<sup>2</sup> »Ich habe euch immer geliebt«, sagt der Herr zu euch, doch ihr erwidert: »Woran hätten wir denn deine Liebe zu uns erkennen können?« Darauf antwortet der Herr: »Waren nicht Jakob und Esau Brüder? Trotzdem habe ich Jakob geliebt,",
+			"3": "<sup>3</sup> aber Esau von mir gestoßen. Das Bergland von Edom, die Heimat von Esaus Nachkommen, machte ich zur Wüste, und jetzt hausen dort die Schakale.",
+			"4": "<sup>4</sup> Wenn die Edomiter sagen: ›Unsere Städte liegen in Trümmern, aber wir bauen sie wieder auf‹, dann entgegne ich, der Herr, der allmächtige Gott: ›Baut nur – ich werde alles wieder einreißen!‹ Ja, man wird ihr Gebiet ›Land der Gottlosigkeit‹ nennen und sie selbst ›Volk, auf dem für alle Zeiten Gottes Fluch lastet‹.",
+			"5": "<sup>5</sup> Ihr werdet mit eigenen Augen sehen, wie dies geschieht, und dann werdet ihr Israeliten bekennen: ›Der Herr zeigt seine Macht weit über Israels Grenzen hinaus!‹«",
+			"6": "<sup>6</sup> Ihr Priester, der Herr, der allmächtige Gott, klagt euch an: »Ein Sohn ehrt seinen Vater und ein Diener seinen Herrn. Ihr nennt mich euren Vater, doch wo bleibt die Ehre, die mir zusteht? Ihr nennt mich euren Herrn, doch wo ist eure Ehrfurcht vor mir? Ihr habt keine Achtung vor mir, und da fragt ihr auch noch: ›Wie kommst du darauf, dass wir dich nicht achten?‹",
+			"7": "<sup>7</sup> Auf meinem Altar bringt ihr Opfergaben dar, die ich für unrein erklärt habe. Und wieder fragt ihr: ›Wieso waren unsere Gaben unrein?‹ Nun, ihr meint, am Altar braucht ihr es nicht so genau zu nehmen.",
+			"8": "<sup>8</sup> Wenn ihr mir als Opfer ein blindes Tier darbringt, denkt ihr: ›Das ist nicht so schlimm!‹ Und wenn es ein lahmes oder krankes ist, meint ihr: ›Das macht nichts!‹ Bietet ein solches Tier doch einmal eurem Statthalter an! Ich, der Herr, der allmächtige Gott, frage euch: Glaubt ihr wirklich, er würde zufrieden mit euch sein und die Gabe freundlich annehmen?",
+			"9": "<sup>9</sup> Aber mich, euren Gott, wollt ihr mit solchen Opfern besänftigen und gnädig stimmen! Ihr meint doch nicht im Ernst, ich würde euch deswegen wieder annehmen?",
+			"10": "<sup>10</sup> Wenn doch nur einer von euch die Tempeltore zuschließen würde! Dann könntet ihr nicht mehr hineingehen und auf meinem Altar Opfer verbrennen, die ich sowieso nicht annehme. Ich habe genug von euch, und mit euren Gaben tut ihr mir keinen Gefallen! Das sage ich, der Herr, der allmächtige Gott.",
+			"11": "<sup>11</sup> In Ost und West wird mein Name verehrt, auf der ganzen Welt bringen mir die Menschen Opfergaben dar, die mir gefallen, und lassen den Rauch zu mir aufsteigen. Ja, die Völker ehren mich, den Herrn, den allmächtigen Gott.",
+			"12": "<sup>12</sup> Aber ihr zieht meinen Namen in den Schmutz, denn ihr sagt: ›Beim Altar des Herrn müssen wir es nicht so genau nehmen. Was wir dort opfern, muss nicht das Beste sein.‹",
+			"13": "<sup>13</sup> Und dann jammert ihr auch noch über euren Dienst im Tempel, nur widerwillig facht ihr die Glut auf dem Altar an! Lahme und kranke, ja sogar gestohlene Tiere bringt ihr als Opfer herbei. Soll ich, der Herr, mich etwa darüber auch noch freuen?",
+			"14": "<sup>14</sup> Verflucht sei jeder Betrüger, der mir ein fehlerhaftes Tier opfert, obwohl er mir ein makelloses männliches Tier aus seiner Herde versprochen hat! Denn ich bin ein großer König, ich bin der Herr, der allmächtige Gott, und werde zu Recht von den Völkern gefürchtet!"
+		},
+		"2": {
+			"1": "<sup>1</sup> Darum hört, ihr Priester, was ich von euch verlange:",
+			"2": "<sup>2</sup> Nehmt euch meine Worte zu Herzen und gebt mir die Ehre, die mir gebührt! Sonst wird euch mein Fluch treffen. Ja, ich verfluche die Gaben, mit denen ich euch gesegnet habe. Aber ihr wollt ja nicht hören; deshalb habe ich, der Herr, der allmächtige Gott, schon mit eurer Bestrafung begonnen.",
+			"3": "<sup>3</sup> Auch eure Nachkommen ziehe ich noch zur Rechenschaft. Ich schleudere euch die Eingeweide eurer Opfertiere ins Gesicht, und dann wird man euch mitsamt den Abfällen hinauswerfen.",
+			"4": "<sup>4</sup> Daran sollt ihr erkennen, dass ich, der Herr, der allmächtige Gott, euch nicht umsonst gewarnt habe. Denn ich will, dass mein Bund mit dem Stamm Levi weiter besteht.",
+			"5": "<sup>5</sup> Ich versprach ihnen Leben und Wohlergehen und hielt mich an meine Zusage. Damals achteten mich die Leviten, und mein Name erfüllte sie mit großer Ehrfurcht.",
+			"6": "<sup>6</sup> Dem Volk gaben sie meine Weisungen unverfälscht weiter, kein unrechtes Wort kam über ihre Lippen. Sie lebten aufrichtig nach meinem Willen und brachten viele dazu, von ihren falschen Wegen umzukehren.",
+			"7": "<sup>7</sup> Und das ist ja der Auftrag der Priester: Sie sollen den Menschen zeigen, wie man mich, den Herrn, erkennt. Wenn jemand einen Rat braucht, soll er bei ihnen Rat finden, denn ich, der allmächtige Gott, habe sie zu meinen Boten ernannt.",
+			"8": "<sup>8</sup> Ihr aber seid vom richtigen Weg abgewichen, eure falschen Weisungen haben viele Menschen zu Fall gebracht. So habt ihr den Bund gebrochen, den ich, der Herr, der allmächtige Gott, mit den Nachkommen von Levi geschlossen habe.",
+			"9": "<sup>9</sup> Ihr haltet euch nicht an meine Gebote und seid auch noch parteiisch, wenn ihr Recht sprecht. Darum will ich dafür sorgen, dass ihr vor dem ganzen Volk erniedrigt werdet. Ja, alle werden euch einmal verachten!«",
+			"10": "<sup>10</sup> Haben wir Israeliten nicht alle denselben Vater? Hat nicht der eine Gott uns alle geschaffen? Warum handeln wir dann so treulos aneinander und brechen den Bund, den der Herr mit unseren Vorfahren geschlossen hat?",
+			"11": "<sup>11</sup> Ja, das Volk von Juda hat dem Herrn die Treue gebrochen. In Jerusalem und im ganzen Land haben Männer etwas Abscheuliches getan: Sie haben Gottes geliebtes Heiligtum entweiht und Frauen aus fremden Völkern geheiratet, die andere Götter anbeten.",
+			"12": "<sup>12</sup> Der Herr wird diese Männer mitsamt ihren Familien aus der Gemeinschaft der Nachkommen Jakobs ausrotten. Da nützt es ihnen auch nichts, wenn sie ihn, den allmächtigen Gott, mit Opfergaben gnädig stimmen wollen.",
+			"13": "<sup>13</sup> Noch etwas gibt es euch vorzuwerfen: Ihr weint und stöhnt, ihr tränkt den Altar des Herrn mit Tränen, weil er von euren Opfern nichts mehr wissen will und sie nicht annimmt.",
+			"14": "<sup>14</sup> Ihr fragt nach dem Grund? Nun, der Herr selbst ist Zeuge dafür, wie ihr Männer eure Frauen verstoßen habt, mit denen ihr seit eurer Jugend verheiratet wart. Ihr habt ihnen die Treue gebrochen, obwohl ihr mit ihnen einen Bund fürs Leben geschlossen habt und sie immer an eurer Seite waren.",
+			"15": "<sup>15</sup> Hat Gott euch nicht zu einem Leib und einem Geist vereint? Und warum hat er das getan? Er wollte, dass eure Nachkommen zu seinem Volk gehören. Darum nehmt euch in Acht und haltet euch an den Treueeid, den ihr einst euren Frauen geschworen habt.",
+			"16": "<sup>16</sup> Denn der Herr, der allmächtige Gott Israels, sagt: »Ich hasse Ehescheidung, ja, ich verabscheue es, wenn ein Mann seiner Frau so etwas antut. Darum nehmt euch in Acht und brecht euren Frauen nicht die Treue!«",
+			"17": "<sup>17</sup> Ihr werdet dem Herrn lästig mit eurem Gerede. »Was für ein Gerede?«, fragt ihr. Nun, ihr behauptet: »Wer Unrecht tut, gefällt dem Herrn; ihn nimmt er an!« Oder ihr fragt: »Wo bleibt denn Gott? Warum greift er nicht ein, wenn er doch so gerecht ist?«"
+		},
+		"3": {
+			"1": "<sup>1</sup> Der Herr, der allmächtige Gott, antwortet: »Ich schicke meinen Boten voraus, der mein Kommen ankündigt und mir den Weg bereitet. Noch wartet ihr auf den Herrn, ihr wünscht euch den Boten herbei, der meinen Bund mit euch bestätigt. Ich sage euch: Er ist schon unterwegs! Ganz plötzlich werde ich, der Herr, in meinen Tempel einziehen.",
+			"2": "<sup>2</sup> Doch wer kann mein Kommen ertragen? Wer kann an diesem Tag vor mir bestehen? Ich werde für euch wie Feuer im Schmelzofen sein und wie scharfe Lauge im Waschtrog.",
+			"3": "<sup>3</sup> So wie man Gold und Silber schmilzt, um es zu läutern, so werde ich Levis Nachkommen von ihrer Schuld reinigen. Dann werden sie wieder zu mir gehören und mir in rechter Weise Opfer darbringen.",
+			"4": "<sup>4</sup> Ja, so wie früher, wie in längst vergangenen Zeiten, werden mir die Opfer wieder Freude bereiten, die mir die Menschen in Juda und Jerusalem darbringen.",
+			"5": "<sup>5</sup> Ich, der Herr, der allmächtige Gott, kündige euch an: Ich komme zum Gericht und mache kurzen Prozess mit den Zauberern und Ehebrechern, mit allen, die Meineide schwören, die ihre Arbeiter um den gerechten Lohn bringen und die Witwen, Waisen und Ausländer unterdrücken. Ja, ich selbst trete dann als Zeuge gegen alle von euch auf, die keine Ehrfurcht vor mir haben.«",
+			"6": "<sup>6</sup> »Ich, der Herr, habe mich nicht geändert. Ihr aber habt euch auch nicht geändert, ihr seid genau solche Betrüger wie euer Stammvater Jakob!",
+			"7": "<sup>7</sup> Ihr habt schon immer gegen meine Gebote verstoßen, so wie es eure Vorfahren taten. Kehrt doch endlich um zu mir! Dann werde auch ich mich euch wieder zuwenden! Das verspreche ich, der Herr, der allmächtige Gott. Ihr aber fragt: ›Warum sollen wir umkehren, was haben wir denn getan?‹",
+			"8": "<sup>8</sup> Ich antworte euch: Findet ihr es etwa richtig, wenn ein Mensch Gott betrügt? Doch genau das tut ihr die ganze Zeit! Ihr entgegnet: ›Womit haben wir dich denn betrogen?‹ Nun, ihr habt mir nicht den zehnten Teil eurer Ernte gegeben, und ihr habt den Priestern ihren Anteil an den Opfergaben verweigert.",
+			"9": "<sup>9</sup> Mein Fluch lastet schwer auf dem Volk, und trotzdem hört ihr nicht auf, mich allesamt zu hintergehen.",
+			"10": "<sup>10</sup> Ich, der Herr, der allmächtige Gott, fordere euch nun auf: Bringt den zehnten Teil eurer Erträge in vollem Umfang zu meinem Tempel, damit in den Vorratsräumen kein Mangel herrscht! Stellt mich doch auf die Probe und seht, ob ich meine Zusage halte! Denn ich verspreche euch, dass ich dann die Schleusen des Himmels wieder öffne und euch überreich mit meinem Segen beschenke.",
+			"11": "<sup>11</sup> Ich lasse es nicht mehr zu, dass Heuschreckenschwärme eure Felder und Weinberge kahl fressen und euch die Ernte verderben.",
+			"12": "<sup>12</sup> Dann werden alle Völker euch glücklich preisen, weil ihr in einem so herrlichen Land lebt! Darauf gebe ich, der Herr, der allmächtige Gott, mein Wort!«",
+			"13": "<sup>13</sup> »Ihr Israeliten redet überheblich und anmaßend über mich, den Herrn. Doch ihr fragt: ›Wieso, was sagen wir denn über dich?‹",
+			"14": "<sup>14</sup> Nun, ihr behauptet: ›Es bringt nichts, Gott zu dienen. Was haben wir schon davon, wenn wir uns nach seinen Weisungen richten und ihm zeigen, dass wir unsere Taten bereuen?",
+			"15": "<sup>15</sup> Wie gut haben es dagegen die Menschen, die ohne Gott leben. Sie tun Böses und haben auch noch Erfolg damit. Ja, sie kommen ungestraft davon, obwohl sie Gott frech die Stirn bieten!‹«",
+			"16": "<sup>16</sup> Dann aber redeten diejenigen miteinander, die noch Ehrfurcht vor dem Herrn hatten, und der Herr hörte ihnen genau zu. In einem Buch ließ er die Namen aller aufschreiben, die ihn achten und seinen Namen in Ehren halten. So sollten sie immer in Erinnerung bleiben.",
+			"17": "<sup>17</sup> Der Herr, der allmächtige Gott, sagt: »An dem Tag, an dem ich mein Urteil spreche, werden diese Menschen in besonderer Weise mein Eigentum sein. Ich will sie verschonen, so wie ein Vater seinen Sohn verschont, der ihm gehorcht.",
+			"18": "<sup>18</sup> Dann werdet ihr wieder den Unterschied sehen zwischen einem Menschen, der mir die Treue hält, und einem Gottlosen; ihr werdet erkennen, welche Folgen es hat, ob jemand mir dient oder nicht.",
+			"19": "<sup>19</sup> Ja, es kommt der Tag, an dem mein Zorn wie ein Feuer im Ofen sein wird und alle wie Stroh verbrennt, die sich frech gegen mich auflehnen. Nichts, kein einziger Halm bleibt dann mehr von ihnen übrig! Darauf gebe ich, der Herr, der allmächtige Gott, mein Wort!",
+			"20": "<sup>20</sup> Für euch aber, die ihr mir die Treue gehalten habt, wird an jenem Tag die Rettung kommen, so wie am Morgen die Sonne aufgeht. Sie wird euch Heilung bringen, und ihr werdet vor Freude springen wie Kälber, die aus dem Stall hinaus auf die Weide dürfen!",
+			"21": "<sup>21</sup> An dem Tag, an dem ich mein Urteil vollstrecke, werdet ihr die Gottlosen zertreten wie Staub unter euren Füßen! Das verspreche ich, der Herr, der allmächtige Gott.",
+			"22": "<sup>22</sup> Denkt immer an das Gesetz meines Dieners Mose! Richtet euch nach den Weisungen und Ordnungen, die ich ihm am Berg Horeb für das ganze Volk Israel gab!",
+			"23": "<sup>23</sup> Ihr werdet sehen: Noch bevor der große und schreckliche Tag kommt, an dem ich Gericht halte, schicke ich den Propheten Elia zu euch.",
+			"24": "<sup>24</sup> Er wird Eltern und Kinder wieder miteinander versöhnen, damit ich euch und euer Land nicht völlig vernichten muss, wenn ich komme.«"
+		}
+	}
+};
+module.exports = book;

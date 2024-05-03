@@ -10,6 +10,12 @@
 1Chr	1 i Kronika
 1Chr	1. Kronika
 1Chr	1 Kronika
+1Chr	1 e. Kron
+1Chr	1 i. Kron
+1Chr	1 e Kron
+1Chr	1 i Kron
+1Chr	1. Kron
+1Chr	1 Kron
 1Chr	1 Kr
 1Chr	1Chr
 1Cor	1 e. Korintasve
@@ -68,6 +74,12 @@
 1Pet	1 i Pjetrit
 1Pet	1. Pjetrit
 1Pet	1 Pjetrit
+1Pet	1 e. Pjet
+1Pet	1 i. Pjet
+1Pet	1 e Pjet
+1Pet	1 i Pjet
+1Pet	1. Pjet
+1Pet	1 Pjet
 1Pet	1 Pje
 1Pet	1 Pj
 1Pet	1Pet
@@ -113,6 +125,12 @@
 2Chr	2 i Kronika
 2Chr	2. Kronika
 2Chr	2 Kronika
+2Chr	2 e. Kron
+2Chr	2 i. Kron
+2Chr	2 e Kron
+2Chr	2 i Kron
+2Chr	2. Kron
+2Chr	2 Kron
 2Chr	2 Kr
 2Chr	2Chr
 2Cor	2 e. Korintasve
@@ -171,6 +189,12 @@
 2Pet	2 i Pjetrit
 2Pet	2. Pjetrit
 2Pet	2 Pjetrit
+2Pet	2 e. Pjet
+2Pet	2 i. Pjet
+2Pet	2 e Pjet
+2Pet	2 i Pjet
+2Pet	2. Pjet
+2Pet	2 Pjet
 2Pet	2 Pje
 2Pet	2 Pj
 2Pet	2Pet
@@ -226,6 +250,8 @@ Bar	Bar
 Bel	Bel
 Col	Kolosianeve
 Col	Kolosianëve
+Col	Kolosianet
+Col	Kolosianët
 Col	Col
 Col	Kol
 Dan	Danieli
@@ -239,6 +265,14 @@ Deut	Ligji i Përterirë
 Deut	Ligji i Përtërire
 Deut	Ligji i Përtërirë
 Deut	Ligji i përtërirë
+Deut	Lgj. Pert
+Deut	Lgj. Përt
+Deut	Lgj Pert
+Deut	Lgj Përt
+Deut	Lgj.Pert
+Deut	Lgj.Përt
+Deut	LgjPert
+Deut	LgjPërt
 Deut	Deut
 Deut	LiP
 Eccl	Predikuesi
@@ -261,6 +295,7 @@ Ezek	Ezekieli
 Ezek	Ezek
 Ezek	Eze
 Ezra	Esdra
+Ezra	Ezdra
 Ezra	Ezra
 Ezra	Esd
 Gal	Galatasve
@@ -273,6 +308,8 @@ Hab	Habakuku
 Hab	Hab
 Hag	Hagai
 Hag	Hag
+Heb	Hebrenjte
+Heb	Hebrenjtë
 Heb	Hebrenjve
 Heb	Heb
 Hos	Osea
@@ -295,6 +332,7 @@ Joel	Joeli
 Joel	Joel
 Joel	Jl
 John	Ungjilli i Gjonit
+John	Gjonin
 John	Gjoni
 John	John
 John	Gjo
@@ -332,6 +370,7 @@ Mark	Mark
 Matt	Ungjilli i Mateut
 Matt	Mateu
 Matt	Matt
+Matt	Mat
 Matt	Mt
 Mic	Mikea
 Mic	Mic
@@ -359,14 +398,18 @@ Prov	Fjalët e urta
 Prov	Prov
 Ps	Libri i Psalmeve
 Ps	Psalmet
+Ps	Psalmin
 Ps	Psalmi
 Ps	Ps
 Rev	Zbulesa
+Rev	Zbul
 Rev	Rev
 Rev	Zbu
 Rev	Zb
 Rom	Romakeve
 Rom	Romakëve
+Rom	Romaket
+Rom	Romakët
 Rom	Rom
 Ruth	Ruthi
 Ruth	Ruth

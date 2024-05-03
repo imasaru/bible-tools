@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanja",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> HET BOEK VAN DE PROFEET Zefanja Het woord van de HEERE dat gekomen is tot Zefanja, de zoon van Cusji, de zoon van Gedalia, de zoon van Amarja, de zoon van Hizkia, in de dagen van Josia, de zoon van Amon, de koning van Juda.",
+			"2": "<sup>2</sup> Ik zal alles volkomen wegvagen van de aardbodem, spreekt de HEERE.",
+			"3": "<sup>3</sup> Ik zal mens en dier wegvagen, Ik zal de vogels in de lucht en de vissen in de zee wegvagen en de struikelblokken, samen met de goddelozen; ja, Ik zal de mensen uitroeien van de aardbodem, spreekt de HEERE.",
+			"4": "<sup>4</sup> Ik zal Mijn hand uitstrekken tegen Juda en tegen alle inwoners van Jeruzalem. Ik zal van deze plaats uitroeien het overblijfsel van de Ba&auml;l, de naam van de afgodspriesters, met de priesters,",
+			"5": "<sup>5</sup> en hen die zich neerbuigen op de daken voor het leger aan de hemel, en hen die zich neerbuigen en zweren bij de HEERE &eacute;n zweren bij Malcam,",
+			"6": "<sup>6</sup> en die zich van de HEERE afkeren, bij Hem vandaan, en die de HEERE niet hebben gezocht en niet naar Hem hebben gevraagd. ",
+			"7": "<sup>7</sup> Wees stil voor het aangezicht van de Heere HEERE. Want nabij is de dag van de HEERE, ja, de HEERE heeft een offer bereid, Zijn genodigden geheiligd.",
+			"8": "<sup>8</sup> Het zal gebeuren op de dag van het offer van de HEERE dat Ik de vorsten zal straffen, en de koningskinderen, en allen die gekleed gaan in uitheemse kleding.",
+			"9": "<sup>9</sup> Ook zal Ik op die dag straffen allen die over de drempel springen, die het huis van hun heren vullen met geweld en bedrog.",
+			"10": "<sup>10</sup> En op die dag, spreekt de HEERE, zal er hulpgeroep klinken vanuit de Vispoort, gejammer vanuit het nieuwe gedeelte van de stad, en groot noodgeschrei vanuit de heuvels.",
+			"11": "<sup>11</sup> Weeklaag, inwoners van de Vijzelwijk, want heel het volk van kooplieden is omgebracht, allen die geld afwegen zijn uitgeroeid. ",
+			"12": "<sup>12</sup> En in die tijd zal het gebeuren dat Ik Jeruzalem met lampen zal doorzoeken. Ik zal de mannen straffen die dik worden op hun droesem, die in hun hart zeggen: De HEERE doet geen goed en Hij doet geen kwaad.",
+			"13": "<sup>13</sup> Daarom zal hun vermogen tot buit worden, hun huizen tot een woestenij. Zij zullen huizen bouwen, maar die niet bewonen; zij zullen wijngaarden planten, maar daarvan de wijn niet drinken.",
+			"14": "<sup>14</sup> De grote dag van de HEERE is nabij; hij is nabij en nadert zeer snel. Hoor, de dag van de HEERE! De held zal daar bitter schreeuwen!",
+			"15": "<sup>15</sup> Een dag van verbolgenheid is die dag, een dag van benauwdheid en angst, een dag van verwoesting en vernietiging, een dag van wolken en donkerheid, een dag van donkere wolken,",
+			"16": "<sup>16</sup> een dag van bazuingeschal en krijgsgeschreeuw tegen de versterkte steden en tegen de hoge hoektorens. ",
+			"17": "<sup>17</sup> Ik zal de mensen benauwen, zodat zij zullen gaan als de blinden, want zij hebben tegen de HEERE gezondigd. Hun bloed zal uitgegoten worden als stof en hun lichaam als uitwerpselen.",
+			"18": "<sup>18</sup> Ook hun zilver, ook hun goud zal hen niet kunnen redden op de dag van de verbolgenheid van de HEERE. Door het vuur van Zijn na-ijver zal heel dit land verteerd worden, want Hij zal zeker en spoedig een vernietigend einde maken aan alle inwoners van het land."
+		},
+		"2": {
+			"1": "<sup>1</sup> Onderzoek uzelf nauwkeurig, ja onderzoek uzelf, volk zonder verlangen,",
+			"2": "<sup>2</sup> voordat het besluit het licht ziet – een dag gaat als kaf voorbij – voordat over u komt de brandende toorn van de HEERE, voordat over u komt de dag van de toorn van de HEERE.",
+			"3": "<sup>3</sup> Zoek de HEERE, alle zachtmoedigen van het land, die Zijn recht uitvoeren. Zoek gerechtigheid, zoek zachtmoedigheid, misschien zult u dan verborgen worden op de dag van de toorn van de HEERE. ",
+			"4": "<sup>4</sup> Want Gaza zal verlaten worden en Askelon tot woestenij zijn; Asdod, midden op de dag zal men het verdrijven, en Ekron zal ontworteld worden.",
+			"5": "<sup>5</sup> Wee u, bewoners van het gebied aan de zee, volk van Kretenzers! Het woord van de HEERE is tegen u, Kana&auml;n, land van de Filistijnen! Ik zal u verdelgen, zodat er geen inwoner meer is.",
+			"6": "<sup>6</sup> Het gebied aan de zee zal worden tot weiden met putten voor herders en kooien voor kleinvee.",
+			"7": "<sup>7</sup> En het gebied zal zijn voor het overblijfsel van het huis van Juda, zodat zij daarin zullen weiden. 's Avonds zullen zij in de huizen van Askelon neerliggen, want de HEERE, hun God, zal naar hen omzien en een omkeer in hun gevangenschap brengen. ",
+			"8": "<sup>8</sup> Ik heb de smadelijke woorden van Moab gehoord en de beschimping door de Ammonieten, waarmee zij Mijn volk gesmaad hebben, zich verheven hebben tegen hun gebied.",
+			"9": "<sup>9</sup> Daarom, zo waar Ik leef, spreekt de HEERE van de legermachten, de God van Isra&euml;l: Voorzeker, Moab zal als Sodom worden en de Ammonieten als Gomorra: een distelveld, een zoutgroeve en een woestenij tot in eeuwigheid! De rest van Mijn volk zal hen plunderen, het overblijfsel van Mijn volk zal hen in erfelijk bezit nemen. ",
+			"10": "<sup>10</sup> Dit overkomt hun vanwege hun trots, omdat zij zich al honend verheven hebben tegen het volk van de HEERE van de legermachten.",
+			"11": "<sup>11</sup> Ontzagwekkend zal de HEERE voor hen zijn, want Hij zal alle goden van de aarde doen verschrompelen. Alle kustlanden van de heidenvolken zullen zich voor Hem neerbuigen, ieder vanuit zijn eigen woonplaats. ",
+			"12": "<sup>12</sup> Ook u, Cusjieten! Gevallen door Mijn zwaard zijn zij!",
+			"13": "<sup>13</sup> Hij zal ook Zijn hand uitstrekken tegen het noorden en Assyri&euml; doen ondergaan. Hij zal Ninev&eacute; tot een woestenij maken, dor als een woestijn.",
+			"14": "<sup>14</sup> In het midden ervan zullen kudden neerliggen, allerlei in groepen levende dieren. Zowel kauw als nachtuil zal op zijn kapitelen overnachten. Een stem zal door het venster zingen, puin zal op de drempel liggen, want het cederwerk is blootgelegd.",
+			"15": "<sup>15</sup> Dit is de uitgelaten stad, die zo onbezorgd woonde, die in haar hart zei: Ik en verder niemand. Hoe is zij tot een woestenij geworden, een rustplaats voor de wilde dieren! Ieder die erdoorheen trekt, sist van afschuw en gebaart met zijn hand."
+		},
+		"3": {
+			"1": "<sup>1</sup> Wee de rebelse, de besmette, de stad die onderdrukt!",
+			"2": "<sup>2</sup> Zij luistert niet naar de roepstem, geen vermaning aanvaardt zij. Op de HEERE vertrouwt zij niet, tot haar God nadert zij niet.",
+			"3": "<sup>3</sup> Haar vorsten zijn in haar midden brullende leeuwen. Haar rechters zijn avondwolven, die tegen de morgen niets meer te knagen hebben.",
+			"4": "<sup>4</sup> Haar profeten zijn lichtzinnig, mannen vol trouweloosheid. Haar priesters ontheiligen het heilige, zij doen de wet geweld aan.",
+			"5": "<sup>5</sup> De rechtvaardige HEERE is in haar midden, Hij doet geen onrecht. Elke morgen brengt Hij Zijn recht aan het licht, er ontbreekt niets aan. Maar wie onrecht doet, kent geen schaamte. ",
+			"6": "<sup>6</sup> Ik heb heidenvolken uitgeroeid, hun hoektorens zijn verwoest. Ik heb hun straten leeggemaakt, niemand trekt er nog doorheen. Hun steden liggen in puin; er is niemand meer, geen enkele inwoner.",
+			"7": "<sup>7</sup> Ik zei: Nu zult u Mij zeker vrezen, u zult de vermaning aanvaarden, opdat haar woning niet uitgeroeid zou worden, hoe Ik haar ook gestraft zou hebben. Toch waren zij er vroeg bij, zij hebben totaal verderfelijk gehandeld.",
+			"8": "<sup>8</sup> Daarom, verwacht Mij, spreekt de HEERE, op de dag dat Ik opsta om buit te halen, want Mijn oordeel is de heidenvolken te verzamelen, de koninkrijken bijeen te brengen, om over hen Mijn gramschap uit te storten, heel Mijn brandende toorn. Want door het vuur van Mijn na-ijver zal heel dit land verteerd worden.",
+			"9": "<sup>9</sup> Voorzeker, dan zal Ik bij de volken de lippen veranderen in reine lippen, zodat zij allen de Naam van de HEERE zullen aanroepen, om Hem schouder aan schouder te dienen.",
+			"10": "<sup>10</sup> Van over de rivieren van Cusj zullen zij die vurig tot Mij bidden, het volk, overal door Mij verspreid, Mijn offer brengen.",
+			"11": "<sup>11</sup> Op die dag zult u niet beschaamd zijn over al uw daden waarmee u tegen Mij in opstand kwam, want dan zal Ik hen uit uw midden wegdoen die uitgelaten zijn over uw hoogmoed. Voortaan zult u zich niet meer verheffen omwille van Mijn heilige berg.",
+			"12": "<sup>12</sup> Maar Ik zal in uw midden doen overblijven een ellendig en arm volk. Zij zullen op de Naam van de HEERE vertrouwen.",
+			"13": "<sup>13</sup> Het overblijfsel van Isra&euml;l zal geen onrecht doen en geen leugen spreken, en in hun mond zal niet gevonden worden een tong die bedriegt. Ja, zij zullen weiden en neerliggen, en niemand zal hun schrik aanjagen. ",
+			"14": "<sup>14</sup> Zing vrolijk, dochter van Sion! Juich, Isra&euml;l! Wees blij en spring op van vreugde met heel uw hart, dochter van Jeruzalem!",
+			"15": "<sup>15</sup> De HEERE heeft uw oordelen weggenomen, Hij heeft uw vijand weggevaagd. De Koning van Isra&euml;l, de HEERE, is in uw midden: u zult geen kwaad meer zien. ",
+			"16": "<sup>16</sup> Op die dag zal tegen Jeruzalem gezegd worden: Wees niet bevreesd; Sion, verlies de moed niet!",
+			"17": "<sup>17</sup> De HEERE, uw God, is in uw midden, een Held, Die verlossen zal. Hij zal Zich over u verheugen met blijdschap. Hij zal zwijgen in Zijn liefde. Hij zal Zich over u verblijden met gejuich.",
+			"18": "<sup>18</sup> Wie bedroefd zijn vanwege de samenkomst zal Ik verzamelen, zij zijn uit u; de smaad drukt als een last op hen.",
+			"19": "<sup>19</sup> Zie, in die tijd ga Ik optreden tegen al uw verdrukkers. Ik zal verlossen wie mank gaat, bijeenbrengen wie verdreven is. Ik zal hen maken tot lof en tot een naam in heel het land waar zij beschaamd waren.",
+			"20": "<sup>20</sup> In die tijd zal Ik u hierheen brengen, namelijk in de tijd dat Ik u zal bijeenbrengen. Voorzeker, Ik zal u maken tot een naam en tot lof onder alle volken van de aarde, wanneer Ik voor uw ogen een omkeer in uw gevangenschap breng, zegt de HEERE."
+		}
+	}
+};
+module.exports = book;

@@ -52,6 +52,7 @@
 1Pet	1 Petrus
 1Pet	1. Petr
 1Pet	1 Petr
+1Pet	1 Ptr
 1Pet	1Pet
 1Sam	Erste Samuel
 1Sam	1. Samuel
@@ -65,6 +66,7 @@
 1Thess	1. Thess
 1Thess	1 Thess
 1Thess	1Thess
+1Thess	1 Ths
 1Tim	Erste Timotheus
 1Tim	1. Timotheus
 1Tim	1 Timotheus
@@ -125,6 +127,7 @@
 2Pet	2 Petrus
 2Pet	2. Petr
 2Pet	2 Petr
+2Pet	2 Ptr
 2Pet	2Pet
 2Sam	Zweite Samuel
 2Sam	2. Samuel
@@ -138,6 +141,7 @@
 2Thess	2. Thess
 2Thess	2 Thess
 2Thess	2Thess
+2Thess	2 Ths
 2Tim	Zweite Timotheus
 2Tim	2. Timotheus
 2Tim	2 Timotheus
@@ -265,6 +269,7 @@ Heb	Hebraeer
 Heb	Hebraer
 Heb	Hebräer
 Heb	Hebr
+Heb	Hbr
 Heb	Heb
 Hos	Hosea
 Hos	Osee

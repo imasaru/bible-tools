@@ -1,0 +1,381 @@
+1Chr	လံာ်ကွဲးနီၣ်တၢ်အခီၣ်ထံးတဘ့ၣ်
+1Chr	လံၥ်ကွဲးနီၣ်တၢ်အခီၣ်ထံးတဘ့ၣ်
+1Chr	1. ကွဲးနီၣ်တၢ်
+1Chr	1 ကွဲးနီၣ်တၢ်
+1Chr	၁ ကွဲးနီၣ်တၢ်
+1Chr	1. ကွဲး
+1Chr	1 ကွဲး
+1Chr	၁ ကွဲး
+1Chr	1Chr
+1Cor	1. ကရံၣ်သူး
+1Cor	1 ကရံၣ်သူး
+1Cor	၁ ကရံၣ်သူး
+1Cor	1. ကရံၣ်
+1Cor	1 ကရံၣ်
+1Cor	၁ ကရံၣ်
+1Cor	1Cor
+1Esd	1Esd
+1John	1. ယိၥ်ဟၣ်သိၣ်တၢ်
+1John	1 ယိၥ်ဟၣ်သိၣ်တၢ်
+1John	၁ ယိၥ်ဟၣ်သိၣ်တၢ်
+1John	1. ယိၤဟၣ်
+1John	1 ယိၤဟၣ်
+1John	၁ ယိၤဟၣ်
+1John	1. ယိၤ
+1John	1 ယိၤ
+1John	1John
+1John	၁ ယိၤ
+1Kgs	လံာ်စီၤပၤအခီၣ်ထံးတဘ့ၣ်
+1Kgs	လံၥ်စီၤပၤအခီၣ်ထံးတဘ့ၣ်
+1Kgs	1. စီၤပၤ
+1Kgs	1 စီၤပၤ
+1Kgs	၁ စီၤပၤ
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1. ပ့းတရူး
+1Pet	1 ပ့းတရူး
+1Pet	၁ ပ့းတရူး
+1Pet	1. ပ့း
+1Pet	1 ပ့း
+1Pet	၁ ပ့း
+1Pet	1Pet
+1Sam	လံာ်စီၤၡမူၤအ့လးအခီၣ်ထံးတဘ့ၣ်
+1Sam	လံၥ်ၡမူၤအ့လးအခီၣ်ထံးတဘ့ၣ်
+1Sam	1ၡမူၤအ့လး
+1Sam	1. မူၤ
+1Sam	1 မူၤ
+1Sam	၁ မူၤ
+1Sam	1Sam
+1Thess	1. သ့းစၤလနံ
+1Thess	1 သ့းစၤလနံ
+1Thess	၁ သ့းစၤလနံ
+1Thess	1. သ့း
+1Thess	1Thess
+1Thess	1 သ့း
+1Thess	၁ သ့း
+1Tim	1. တံၤမသ့း
+1Tim	1 တံၤမသ့း
+1Tim	၁ တံၤမသ့း
+1Tim	1. တံၤ
+1Tim	1 တံၤ
+1Tim	၁ တံၤ
+1Tim	1Tim
+2Chr	လံာ်ကွဲးနီၣ်တၢ်ခံဘ့ၣ်တဘ့ၣ်
+2Chr	လံၥ်ကွဲးနီၣ်တၢ်ခံဘ့ၣ်တဘ့ၣ်
+2Chr	2. ကွဲးနီၣ်တၢ်
+2Chr	2 ကွဲးနီၣ်တၢ်
+2Chr	၂ ကွဲးနီၣ်တၢ်
+2Chr	2. ကွဲး
+2Chr	2 ကွဲး
+2Chr	၂ ကွဲး
+2Chr	2Chr
+2Cor	2. ကရံၣ်သူး
+2Cor	2 ကရံၣ်သူး
+2Cor	၂ ကရံၣ်သူး
+2Cor	2. ကရံၣ်
+2Cor	2 ကရံၣ်
+2Cor	၂ ကရံၣ်
+2Cor	2Cor
+2Esd	2Esd
+2John	2. ယိၥ်ဟၣ်သိၣ်တၢ်
+2John	2 ယိၥ်ဟၣ်သိၣ်တၢ်
+2John	၂ ယိၥ်ဟၣ်သိၣ်တၢ်
+2John	2. ယိၤဟၣ်
+2John	2 ယိၤဟၣ်
+2John	၂ ယိၤဟၣ်
+2John	2. ယိၤ
+2John	2 ယိၤ
+2John	2John
+2John	၂ ယိၤ
+2Kgs	လံာ်စီၤပၤခံဘ့ၣ်တဘ့ၣ်
+2Kgs	လံၥ်စီၤပၤခံဘ့ၣ်တဘ့ၣ်
+2Kgs	2. စီၤပၤ
+2Kgs	2 စီၤပၤ
+2Kgs	၂ စီၤပၤ
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2. ပ့းတရူး
+2Pet	2 ပ့းတရူး
+2Pet	၂ ပ့းတရူး
+2Pet	2. ပ့း
+2Pet	2 ပ့း
+2Pet	၂ ပ့း
+2Pet	2Pet
+2Sam	လံာ်စီၤၡမူၤအ့လးခံဘ့ၣ်တဘ့ၣ်
+2Sam	လံၥ်ၡမူၤအ့လးခံဘ့ၣ်တဘ့ၣ်
+2Sam	2ၡမူၤအ့လး
+2Sam	2. မူၤ
+2Sam	2 မူၤ
+2Sam	၂ မူၤ
+2Sam	2Sam
+2Thess	2. သ့းစၤလနံ
+2Thess	2 သ့းစၤလနံ
+2Thess	၂ သ့းစၤလနံ
+2Thess	2. သ့း
+2Thess	2Thess
+2Thess	2 သ့း
+2Thess	၂ သ့း
+2Tim	2. တံၤမသ့း
+2Tim	2 တံၤမသ့း
+2Tim	၂ တံၤမသ့း
+2Tim	2. တံၤ
+2Tim	2 တံၤ
+2Tim	၂ တံၤ
+2Tim	2Tim
+3John	3. ယိၤဟၣ်သိၣ်တၢ်
+3John	3 ယိၤဟၣ်သိၣ်တၢ်
+3John	၃ ယိၤဟၣ်သိၣ်တၢ်
+3John	3. ယိၤဟၣ်
+3John	3 ယိၤဟၣ်
+3John	၃ ယိၤဟၣ်
+3John	3. ယိၤ
+3John	3 ယိၤ
+3John	3John
+3John	၃ ယိၤ
+3Macc	3Macc
+4Macc	4Macc
+Acts	တၢ်မၢဖိမၤတၢ်
+Acts	မၤတၢ်
+Acts	Acts
+Amos	လံာ်ဧၤမိၣ်
+Amos	လံၥ်ဧၤမိၣ်
+Amos	Amos
+Amos	ဧၤ
+Bar	Bar
+Bel	Bel
+Col	ကလီးစဲ
+Col	ကလီး
+Col	Col
+Dan	လံာ်ဒၤနံးယ့လး
+Dan	လံၥ်ဒၤနံးယ့လး
+Dan	ဒၤနံးယ့လး
+Dan	Dan
+Dan	ဒၤ
+Deut	5. မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်
+Deut	5 မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်
+Deut	5.မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်
+Deut	၅ မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်
+Deut	5မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်
+Deut	၅မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်
+Deut	လံာ်သိၣ်လီၤသီလီၤတၢ်
+Deut	5. မိၤ
+Deut	5 မိၤ
+Deut	၅ မိၤ
+Deut	Deut
+Eccl	လံာ်ပှၤစံၣ်တဲၤတဲလီၤတၢ်
+Eccl	လံၥ်ၦၤစံၣ်တဲၤတဲလီၤတၢ်
+Eccl	Eccl
+Eccl	စံၣ်
+EpJer	EpJer
+Eph	အ့းဖ့းစူး
+Eph	Eph
+Eph	အ့း
+Esth	လံာ်နီၢ်အ့ၤစတၢ်
+Esth	လံၥ်နီၢ်အ့ၤစတၢ်
+Esth	Esth
+Esth	အ့ၤ
+Exod	လံၥ်စီၤမိၤၡ့ခံဘ့ၣ်တဘ့ၣ်
+Exod	လံာ်တၢ်ဟးထီၣ်ကွံာ်
+Exod	2. မိၤၡ့
+Exod	2 မိၤၡ့
+Exod	2.မိၤၡ့
+Exod	၂ မိၤၡ့
+Exod	2. မိၤ
+Exod	2မိၤၡ့
+Exod	၂မိၤၡ့
+Exod	2 မိၤ
+Exod	၂ မိၤ
+Exod	Exod
+Ezek	လံာ်ယဃ့းစက့လး
+Ezek	လံၥ်ယဃ့းစက့လး
+Ezek	ယဃ့းစက့လး
+Ezek	Ezek
+Ezek	ဃ့း
+Ezra	လံာ်စီၤဧ့စြၤ
+Ezra	လံၥ်ဧ့စြၤ
+Ezra	Ezra
+Ezra	ဧ့
+Gal	ကလၤတံ
+Gal	Gal
+Gal	ကလၤ
+Gen	လံၥ်စီၤမိၤၡ့အခီၣ်ထံးတဘ့ၣ်
+Gen	လံာ်တၢ်ကဲထီၣ်အခီၣ်ထံး
+Gen	1. မိၤၡ့
+Gen	1 မိၤၡ့
+Gen	1.မိၤၡ့
+Gen	၁ မိၤၡ့
+Gen	1မိၤၡ့
+Gen	၁မိၤၡ့
+Gen	Gen
+GkEsth	GkEsth
+Hab	ဃံၥ်ဃဘးကူၥ်
+Hab	လံာ်ဃဘးကူာ်
+Hab	ဃဘးကူၥ်
+Hab	Hab
+Hab	ဃဘး
+Hag	လံာ်ဃးကဲ
+Hag	လံၥ်ဃးကဲ
+Hag	Hag
+Hag	ဃး
+Heb	ဧ့ၤဘြံၤ
+Heb	Heb
+Heb	ဧ့ၤ
+Hos	လံာ်ဟိၤၡ့
+Hos	လံၥ်ဟိၤၡ့
+Hos	ဟိၤၡ့
+Hos	Hos
+Hos	ဟိၤ
+Isa	လံာ်ယၡါယၤ
+Isa	လံၥ်ယၡါယၤ
+Isa	ယၡါယၤ
+Isa	Isa
+Isa	ၡါ
+Jas	ယၤကိာ်
+Jas	ယၤကိၥ်
+Jas	Jas
+Jas	ယၤ
+Jdt	Jdt
+Jer	လံာ်ယံးရမံယၤ
+Jer	လံၥ်ယံးရမံယၤ
+Jer	ယံးရမံယၤ
+Jer	Jer
+Jer	ယံး
+Job	လံာ်စီၤယိၤဘး
+Job	လံၥ်ယိၤဘး
+Job	ယိၤဘး
+Job	Job
+Job	ဘး
+Joel	လံာ်ယိၤအ့လး
+Joel	လံၥ်ယိၤအ့လး
+Joel	Joel
+Joel	အ့
+John	လံာ်ယိၤဟၣ်
+John	ယိၤဟၣ်
+John	John
+John	ယိၤ
+Jonah	လံာ်ယိၤနါ
+Jonah	လံၥ်ယိၤနါ
+Jonah	Jonah
+Jonah	နါ
+Josh	လံာ်စီၤယိၤၡူ
+Josh	လံၥ်ယိၤၡူ
+Josh	ယိၤၡူ
+Josh	Josh
+Josh	ၡူ
+Jude	Jude
+Jude	ယူဒၤ
+Jude	ယူ
+Judg	လံာ်ပှၤစံၣ်ညီၣ်ကွီၢ်
+Judg	လံၥ်ၦၤစံၣ်ညီၣ်ကွီၢ်
+Judg	စံၣ်ညီၣ်
+Judg	Judg
+Lam	လံာ်သးသယုၢ်တၢ်
+Lam	လံၥ်သးသယုၢ်တၢ်
+Lam	Lam
+Lam	သး
+Lev	လံၥ်စီၤမိၤၡ့သၢဘ့ၣ်တဘ့ၣ်
+Lev	လံာ်တၢ်ဘူၣ်ထီၣ်ဘါထီၣ်
+Lev	3. မိၤၡ့
+Lev	3 မိၤၡ့
+Lev	3.မိၤၡ့
+Lev	၃ မိၤၡ့
+Lev	3. မိၤ
+Lev	3မိၤၡ့
+Lev	၃မိၤၡ့
+Lev	3 မိၤ
+Lev	၃ မိၤ
+Lev	Lev
+Luke	လံာ်လူၤကၣ်
+Luke	လူၤကၣ်
+Luke	Luke
+Luke	လူၤ
+Mal	လံာ်မၤလကံ
+Mal	လံၥ်မၤလကံ
+Mal	Mal
+Mal	မၤ
+Mark	လံာ်မၢ်ကူး
+Mark	မၢ်ကူး
+Mark	Mark
+Mark	မၢ်
+Matt	လံာ်မးသဲ
+Matt	Matt
+Matt	မးသဲ
+Matt	မသဲ
+Matt	မး
+Mic	လံာ်မံကၤ
+Mic	လံၥ်မံကၤ
+Mic	Mic
+Mic	မံ
+Nah	လံာ်နၤဃူၣ်
+Nah	လံၥ်နၤဃူၣ်
+Nah	Nah
+Nah	နၤ
+Neh	လံာ်စီၤနဃ့မယၤ
+Neh	လံၥ်နဃ့မယၤ
+Neh	Neh
+Neh	ဃ့
+Num	လံၥ်စီၤမိၤၡ့လွံၢ်ဘ့ၣ်တဘ့ၣ်
+Num	လံာ်တၢ်ဂံၢ်
+Num	4. မိၤၡ့
+Num	4 မိၤၡ့
+Num	4.မိၤၡ့
+Num	၄ မိၤၡ့
+Num	4. မိၤ
+Num	4မိၤၡ့
+Num	၄မိၤၡ့
+Num	4 မိၤ
+Num	၄ မိၤ
+Num	Num
+Obad	လံာ်ဧိၤဘါဒယၤ
+Obad	လံၥ်ဧိၤဘါဒယၤ
+Obad	Obad
+Obad	ဧိၤ
+Phil	ဖံလံးပံၤ
+Phil	ဖံလံး
+Phil	Phil
+Phlm	ဖံၤလ့မိၣ်
+Phlm	Phlm
+Phlm	ဖံၤ
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	လံာ်တၢ်ကူၣ်သ့အတၢ်ကတိၤ
+Prov	လံၥ်တၢ်ကတိၤဒိ
+Prov	ကတိၤဒိ
+Prov	Prov
+Prov	ကတိၤ
+Ps	လံၥ်စံးထီၣ်ပတြၢၤ
+Ps	စံးထီၣ်ပတြၢၤ
+Ps	စံး
+Ps	Ps
+Rev	လံာ်လီၣ်ဖျါ
+Rev	တၢ်လီၣ်ဖျါ
+Rev	လီၣ်
+Rev	Rev
+Rom	ရိမ့ၤ
+Rom	Rom
+Rom	ရိ
+Ruth	လံာ်နီၢ်ရူၤသး
+Ruth	လံၥ်နီၢ်ရူၤသး
+Ruth	Ruth
+Ruth	ရူၤ
+SgThree	SgThree
+Sir	Sir
+Song	လံာ်တၢ်သးဝံၣ်တဖၣ်အတၢ်သးဝံၣ်
+Song	လံၥ်တၢ်သးဝံၣ်တဖၣ်အတၢ်သးဝံၣ်
+Song	Song
+Song	တၢ်
+Sus	Sus
+Titus	Titus
+Titus	တံတူး
+Titus	တံ
+Tob	Tob
+Wis	Wis
+Zech	လံာ်စကၤရယၤ
+Zech	လံၥ်စကၤရယၤ
+Zech	စကၤရယၤ
+Zech	Zech
+Zech	ကၤ
+Zeph	လံာ်စဖါနယၤ
+Zeph	လံၥ်စဖါနယၤ
+Zeph	Zeph
+Zeph	ဖါ

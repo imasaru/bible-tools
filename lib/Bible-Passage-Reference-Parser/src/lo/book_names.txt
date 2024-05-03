@@ -1,0 +1,150 @@
+1Chr	1 ຂ່າວຄາວ
+1Chr	1Chr
+1Cor	1 ໂກຣິນໂທ
+1Cor	1 ໂກລິນໂທ
+1Cor	1Cor
+1Esd	1Esd
+1John	1 ໂຢຮັນ
+1John	1John
+1Kgs	1 ກະສັດ
+1Kgs	1Kgs
+1Pet	1 ເປໂຕ
+1Pet	1Pet
+1Sam	1 ຊາມູເອນ
+1Sam	1Sam
+1Thess	1 ເທຊະໂລນິກ
+1Thess	1Thess
+1Tim	1 ຕີໂມທຽວ
+1Tim	1Tim
+2Chr	2 ຂ່າວຄາວ
+2Chr	2Chr
+2Cor	2 ໂກຣິນໂທ
+2Cor	2 ໂກລິນໂທ
+2Cor	2Cor
+2Esd	2Esd
+2John	2 ໂຢຮັນ
+2John	2John
+2Kgs	2 ກະສັດ
+2Kgs	2Kgs
+2Pet	2 ເປໂຕ
+2Pet	2Pet
+2Sam	2 ຊາມູເອນ
+2Sam	2Sam
+2Thess	2 ເທຊະໂລນິກ
+2Thess	2Thess
+2Tim	2 ຕີໂມທຽວ
+2Tim	2Tim
+3John	3 ໂຢຮັນ
+3John	3John
+Acts	ກິດຈະ ການ
+Acts	ກິດຈະການ
+Acts	Acts
+Amos	ອາໂມດ
+Amos	Amos
+Bel	Bel
+Col	ໂກໂລຊາຍ
+Col	Col
+Dan	ດານີເອນ
+Dan	Dan
+Deut	ພຣະບັນຍັດສອງ
+Deut	Deut
+Eccl	ປັນຍາຈານ
+Eccl	Eccl
+EpJer	EpJer
+Eph	ເອເຟໂຊ
+Eph	Eph
+Esth	ເອສະເທີ
+Esth	Esth
+Exod	ອົບພະຍົບ
+Exod	Exod
+Ezek	ເອເຊກີ​ເອນ
+Ezek	ເອຊາກາຽນ
+Ezek	ເອຊາກຽນ
+Ezek	Ezek
+Ezra	ເອັດຊະຣາ
+Ezra	Ezra
+Gal	ຄາລາເຕຍ
+Gal	Gal
+Gen	ປະຖົມມະການ
+Gen	Gen
+GkEsth	GkEsth
+Hab	ຮາບາກຸກ
+Hab	Hab
+Hag	ຮັກກາຍ
+Hag	Hag
+Heb	ເຮັບເຣີ
+Heb	Heb
+Hos	ໂຮເຊອາ
+Hos	Hos
+Isa	ເອຊາຍາ
+Isa	ເອຊາຢາ
+Isa	Isa
+Jas	ຢາໂກໂບ
+Jas	Jas
+Jer	ເຢເຣມີຢາ
+Jer	Jer
+Job	Job
+Job	ໂຢບ
+Joel	ໂຢເອນ
+Joel	Joel
+John	ໂຢຮັນ
+John	John
+Jonah	Jonah
+Jonah	ໂຢນາ
+Josh	ໂຢຊວຍ
+Josh	Josh
+Jude	Jude
+Jude	ຢຸດາ
+Judg	ພວກຜູ້ປົກຄອງ
+Judg	Judg
+Lam	ເພງຄ່ຳຄວນ
+Lam	Lam
+Lev	ກົດລະບຽບການເລວີ
+Lev	Lev
+Luke	Luke
+Luke	ລູກາ
+Mal	ມາລາກີ
+Mal	Mal
+Mark	ມາຣະໂກ
+Mark	Mark
+Matt	ມັດທາຍ
+Matt	Matt
+Mic	ມີກາ
+Mic	Mic
+Nah	ນາຮູມ
+Nah	Nah
+Neh	ເນເຮມີຢາ
+Neh	Neh
+Num	ຈົດເຊັນບັນຊີ
+Num	Num
+Obad	ໂອບາດີຢາ
+Obad	Obad
+Phil	ຟີລິບປອຍ
+Phil	Phil
+Phlm	ຟີເລໂມນ
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	ສຸພາສິດ
+Prov	Prov
+Ps	ເພງສັນລະເສີນ
+Ps	Ps
+Rev	ພຣະນິມິດ
+Rev	ພະນິມິດ
+Rev	ພະນີມິດ
+Rev	Rev
+Rom	Rom
+Rom	ໂຣມ
+Ruth	ນາງຣຸດ
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	ຍອດເພງ
+Song	Song
+Titus	Titus
+Titus	ຕີໂຕ
+Wis	Wis
+Zech	ເຊຄາຣີຢາ
+Zech	Zech
+Zeph	ເຊຟານີຢາ
+Zeph	Zeph

@@ -12,41 +12,41 @@ $TO	-
 $VERSE	vèsè
 $UNICODE_BLOCK	Latin
 
-Gen	Jenèz	liv Konmansman an	Konmansman	Jen
+Gen	Jenèz	liv Konmansman an	Konmansman	Jen	Jnz
 Exod	Egzòd	liv delivrans lan	Delivrans	Egz
 Lev	Levitik	liv Prensip lavi nan Bondye	Lev
 Num	Nonb	liv Resansman an	Resansman	Res
 Deut	Detewonòm	Dezyèm liv Lalwa a	Deteronòm	Det
 Josh	Liv Jozye a	Jozye	Joz
-Judg	Jij	Liv Chèf yo
-Ruth	Liv Rit la	Rit
-1Sam	Premye liv Samyèl la	$FIRST Samyèl	1 Sam
-2Sam	Dezyèm liv Samyèl la	$SECOND Samyèl	2 Sam
+Judg	Jij	Liv Chèf yo	Jj
+Ruth	Liv Rit la	Rit	Ri
+1Sam	Premye liv Samyèl la	$FIRST Samyèl	$FIRST Sam
+2Sam	Dezyèm liv Samyèl la	$SECOND Samyèl	$SECOND Sam
 1Kgs	Premye liv Wa yo	$FIRST Wa
 2Kgs	Dezyèm liv Wa yo	$SECOND Wa
-1Chr	Premye liv Kwonik la	$FIRST Kwonik	$FIRST Istwa	1 Ist
-2Chr	Dezyèm liv Kwonik la	$SECOND Kwonik	$SECOND Istwa	2 Ist
+1Chr	Premye liv Kwonik la	$FIRST Kwonik	$FIRST Istwa	$FIRST Ist
+2Chr	Dezyèm liv Kwonik la	$SECOND Kwonik	$SECOND Istwa	$SECOND Ist
 Ezra	Liv Esdras la	Esdras	Esd
 Neh	Liv Neyemi an	Neyemi	Neemi	Ne
 Esth	Liv Estè a	Estè	Est
-Job	Liv Jòb la	Jòb
-Ps	Liv Sòm yo	Sòm
-Prov	Liv Pwovèb yo	Pwovèb	Pw
+Job	Liv Jòb la	Jòb	Jb
+Ps	Liv Sòm yo	Sòm	Sm
+Prov	Liv Pwovèb yo	Pwovèb	Pw	Pwvb
 Eccl	Eklezyas	Liv Filozòf la	Filozòf	Eklezyas - Liv Filozòf la	Ekl
-Song	Kantid de Kantik	Pi bèl Chante a	Chante Salomon	Chante
+Song	Kantid de Kantik	Pi bèl Chante a	Chante Salomon	Chante	Chan
 Isa	Liv Ezayi a	Ezayi	Ez
-Jer	Liv Jeremi an	Jeremi	Jer
+Jer	Liv Jeremi an	Jeremi	Jer	Jrm
 Lam	Lamantasyon	Chante pou plenn Sò lavil Jerizalèm	Plenn	Pl
-Ezek	Liv Ezekyèl la	Ezekyèl	Eze
+Ezek	Liv Ezekyèl la	Ezekyèl	Eze	Ezek
 Dan	Liv Danyèl la	Danyèl	Dan
 Hos	Liv Oze a	Oze
-Joel	Liv Jowèl la	Jowèl
-Amos	Liv Amòs la	Amòs
+Joel	Liv Jowèl la	Jowèl	Jwl
+Amos	Liv Amòs la	Amòs	Am
 Obad	Liv Abdyas la	Abdyas	Abdias	Abd
-Jonah	Liv Jonas la	Jonas
-Mic	Liv Miche a	Miche
-Nah	Liv Nawoum lan	Nawoum	Nawoun	Naw
-Hab	Liv Abakik la	Abakik	Abakouk	Abak
+Jonah	Liv Jonas la	Jonas	Jon
+Mic	Liv Miche a	Miche	Mich
+Nah	Liv Nawoum lan	Nawoum	Nawoun	Naw	Nawòm
+Hab	Liv Abakik la	Abakik	Abakouk	Abak	Abaki
 Zeph	Liv Sofoni an	Sofoni	Sof
 Hag	Liv Aje a	Aje
 Zech	Liv Zakari a	Zakari	Zak
@@ -56,26 +56,26 @@ Mark	Mak	Mk
 Luke	Lik	Lk
 John	Jan	Jn
 Acts	Travay apòt yo	Aksyon apòt yo	Akdèzapot	Travay	Tr
-Rom	Romen	Ròm
-1Cor	$FIRST Korentyen	$FIRST Korint	1 Kor
-2Cor	$SECOND Korentyen	$SECOND Korint	2 Kor
+Rom	Romen	Ròm	Wòm	Women	Wòm
+1Cor	$FIRST Korentyen	$FIRST Korint	$FIRST Kor	$FIRST Korent
+2Cor	$SECOND Korentyen	$SECOND Korint	$SECOND Kor	$SECOND Korent
 Gal	Galasyen	Galasi	Gal
-Eph	Efezyen	Efèz	Ef
+Eph	Efezyen	Efèz	Ef	Efz
 Phil	Filipyen	Filip	Fil
 Col	Kolosyen	Kolòs	Kol
-1Thess	$FIRST Tesalonikyen	$FIRST Tesalonik	1 Tes
-2Thess	$SECOND Tesalonikyen	$SECOND Tesalonik	2 Tes
-1Tim	$FIRST Timote	1 Tim
-2Tim	$SECOND Timote	2 Tim
+1Thess	$FIRST Tesalonikyen	$FIRST Tesalonik	$FIRST Tes
+2Thess	$SECOND Tesalonikyen	$SECOND Tesalonik	$SECOND Tes
+1Tim	$FIRST Timote	$FIRST Tim
+2Tim	$SECOND Timote	$SECOND Tim
 Titus	Tit
-Phlm	Filemon	Filem
+Phlm	Filemon	Filem	Flm
 Heb	Ebre	Eb
-Jas	Jak
+Jas	Jak	Jk
 1Pet	$FIRST P[iy]è
 2Pet	$SECOND P[iy]è
-1John	$FIRST Jan	1 Jn
-2John	$SECOND Jan	2 Jn
-3John	III Jan	3 Jan	3 Jn
+1John	$FIRST Jan	$FIRST Jn
+2John	$SECOND Jan	$SECOND Jn
+3John	III Jan	3 Jan	$THIRD Jn
 Jude	Jid
 Rev	Revelasyon	Apokalips	Rev
 Tob	Tob

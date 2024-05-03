@@ -1,0 +1,91 @@
+var book = {
+	"name": "Joere",
+	"numChapters": "3",
+	"chapters":
+	{
+		"1":
+		{
+			"1": "<sup>1</sup> Shoko raJehovha, rakasvika kuna Joweri mwanakomana waPetuweri.",
+			"2": "<sup>2</sup> \"Inzwai chinhu ichi, imwi vatana, murereke nzeve dzenyu, imwi mose mugere munyika ino. Ko zvakadai zvakamboitwa pamazuva enyu, kana pamazuva amadzibaba enyu here?",
+			"3": "<sup>3</sup> Udzai vana venyu izvozvo, vana venyu vaudzewo vana vavo, navana vavo vaudze rumwe rudzi runotevera.",
+			"4": "<sup>4</sup> Zvakasiyiwa nomuteteni, zvakadyiwa nemhashu; zvakasiyiwa nemhashu, zvakadyiwa negwatakwata; zvakasiyiwa negwatakwata, zvakadyiwa nomupedzachose.",
+			"5": "<sup>5</sup> Mukai, imwi vakabatwa nedoro, mucheme; ungudzai, imwi mose munomwa waini, nemhaka yewaini inonaka, nokuti yabviswa pamiromo yenyu.",
+			"6": "<sup>6</sup> Nokuti rumwe rudzi rwasvika panyika yangu, rwakasimba, rusingaverengwi; meno arwo meno eshumba, runa meno makuru eshumbakadzi.",
+			"7": "<sup>7</sup> Rwakaparadza muzambiringa wangu, nokuvhuna muonde wangu; rwakausvuura kwazvo, nokuuwisira pasi; matavi awo acheneswa.",
+			"8": "<sup>8</sup> Chemai semhandara yakazvisunga chiuno namasaga nokuda komurume woumhandara hwayo.",
+			"9": "<sup>9</sup> Chipiriso choupfu nechipiriso chinomwiwa zvabviswa paimba yaJehovha; vaprista, ivo vashumiri vaJehovha, vanochema.",
+			"10": "<sup>10</sup> Munda waparadzwa, nyika inochema; nokuti zviyo zvaparadzwa, waini itsva yapwa, mafuta apera.",
+			"11": "<sup>11</sup> Nyarai imwi varimi, ungudzai imwi varimi vemizambiringa, nokuda kwezviyo nebhari; nokuti zvakaberekwa neminda zvaparadzwa.",
+			"12": "<sup>12</sup> Muzambiringa wasvava, muonde unoshaiwa simba, mutamba nomuchindwewo, nomuapuri, nemiti yose yomunda yaoma; mufaro wavanakomana vavanhu wapera.",
+			"13": "<sup>13</sup> Zvisungei zviuno namasaga, mucheme imwi vaprista; ungudzai imwi vashumiri veatari; uyai muvate usiku hwose makapfeka masaga, imwi vashumiri vaMwari wangu; nokuti chipiriso choupfu nechipiriso chinomwiwa zvadziviswa paimba yaMwari wenyu.",
+			"14": "<sup>14</sup> Tsaurai zuva rokutsanya, danai vanhu kuungano yakatarwa, kokerai vakuru navose vagere panyika kuimba yaJehovha Mwari wenyu, mudane kuna Jehovha.",
+			"15": "<sup>15</sup> Aiwa, zuva iro here! Nokuti zuva raJehovha rava pedo, richasvika richiparadza richibva kuna waMasimbaose.",
+			"16": "<sup>16</sup> Ko zvokudya hazvina kubviswa pamberi pedu, nomufaro nokufarisisa paimba yaMwari wedu here !",
+			"17": "<sup>17</sup> Mbeu dzinoorera pasi pamavhinga adzo; matura aparadzwa, tsapi dzaputswa; nokuti zviyo zvafa.",
+			"18": "<sup>18</sup> Zvipfuwo zvinogomera sei! Mapoka emombe akanganiswa, nokuti hazvichina mafuro; zvirokwazvo, mapoka amakwai aparadzwa.",
+			"19": "<sup>19</sup> Aiwa, Jehovha, ndinodana kwamuri, nokuti moto wapedza mafuro erenje, murazvo wapisa miti yose yokusango.",
+			"20": "<sup>20</sup> Zvirokwazvo, mhuka dzokusango dzinochemera kwamuri, nokuti hova dzemvura dzapwa, uye moto wapedza mafuro erenje."
+		},
+		"2":
+		{
+			"1": "<sup>1</sup> \"Ridzai hwamanda paZiyoni, dzemhere pagomo rangu dzvene; vose vagere panyika ngavadedere nokuti zuva raJehovha rinouya, nokuti rava pedo;",
+			"2": "<sup>2</sup> richava zuva rerima nokusviba, zuva ramakore nerima guru, samambakwedza akawarirwa pamakomo; richauya ruri rudzi rukuru rune simba; rwakadaro haruna kumbovapo, uye harungazovipo shure kwavo, kusvikira pamakore amarudzi mazhinji avanhu.",
+			"3": "<sup>3</sup> Moto unoparadza pamberi pavo, murazvo unopfuta shure kwavo; nyika yakaita somunda weEdheni pamberi pavo, uye serenje rakaparadzwa shure kwavo; zvirokwazvo, hakuna wakapukunyuka kwavari.",
+			"4": "<sup>4</sup> Pakuonekwa kwavo vakafanana namabhiza; savatasvi vamabhiza, ndiko kumhanya kwavo.",
+			"5": "<sup>5</sup> Kuuruka kwavo pamusoro pamakomo kunoita somubvumo wengoro, somubvumo womurazvo womoto unoparadza mashanga, savanhu vane simba vakagadzirirwa kurwa.",
+			"6": "<sup>6</sup> Kana vachisvika, vanhu vose vanotya kwazvo, zviso zvose zvinocheneruka.",
+			"7": "<sup>7</sup> Vanomhanya savanhu vane simba, vanokwira rusvingo savarwi, vanotamba mumwe nomumwe nenzira yake, havatongotsauki pamisara yavo.",
+			"8": "<sup>8</sup> \"Havasundidzirani, mumwe nomumwe unofamba negwara rake; vanopwanya napakati penhumbi dzokurwa, vasingatsauki.",
+			"9": "<sup>9</sup> Vanowira guta, vanomhanyira pamusoro porusvingo, vanokwira vachipinda mudzimba, vanopinda napamahwindo sembavha.",
+			"10": "<sup>10</sup> Nyika inodedera pamberi pavo, denga rose rinobvunda, zuva nomwedzi zvinosviba, nyeredzi dzinodzora kupenya kwadzo.",
+			"11": "<sup>11</sup> Jehovha anobudisa izwi rake pamberi pehondo yake, nokuti hondo yake ihuru kwazvo; nokuti muiti wezvaakataura une simba; nokuti zuva raJehovha iguru, rinotyisa kwazvo, ndianiko angatsunga naro?",
+			"12": "<sup>12</sup> Kunyange zvakadaro ndizvo zvinotaura Jehovha nazvino tendeukirai kwandiri nomwoyo yenyu yose, muchitsanya, muchichema nokuungudza;",
+			"13": "<sup>13</sup> bvarurai mwoyo yenyu, murege kubvarura nguo dzenyu, mutendeukire kuna Jehovha Mwari wenyu; nokuti ane ngoni nenyasha, anononoka kutsamwa, ane tsitsi zhinji, uye anozvidemba pakuitira vanhu zvakaipa.",
+			"14": "<sup>14</sup> Ndiani angaziva , zvimwe angadzoka akazvidemba, akasiya mukomborero kana achibva, zvimwe chipiriso choupfu kana chipiriso chinomwiwa zvamungavigira Jehovha Mwari wenyu?",
+			"15": "<sup>15</sup> \"Ridzai, hwamanda paZiyoni, tsaurai zuva rokutsanya, danai vanhu kuungano yakatarwa;",
+			"16": "<sup>16</sup> kokerai vanhu, natsai ungano, kokerai vakuru, unganidzai vana, navanomwa pamazamu; chikomba ngachibude paimba yacho nomwenga paimba yake yokuvata.",
+			"17": "<sup>17</sup> Vaprista, ivo vashumiri vaJehovha, ngavacheme pakati pebiravira neatari, vati, `Aiwa, Jehovha, regai vanhu venyu, musaisa nhaka yenyu pakushoorwa, kuti marudzi avanhu avaseke;' vangareveiko pakati pamarudzi avanhu, vachiti, `Mwari wavo aripiko?' \"",
+			"18": "<sup>18</sup> Ipapo Jehovha akava negodo pamusoro penyika yake, akanzwira vanhu vake tsitsi.",
+			"19": "<sup>19</sup> Jehovha akapindura, akati kuvanhu vake, \"Tarirai, ndichakutumirai zviyo, newaini itsva, namafuta, mugoguta nazvo; handichakuitiyi chinhu chinoshoorwa pakati pamarudzi;",
+			"20": "<sup>20</sup> asi ndichabvisa kure nemwi hondo inobva kurutivi rwokumusoro, ndichiidzingira kunyika yakaoma yakaparadzwa, rutivi rwayo pamberi rwakatarira kugungwa rokumabvazuva, norutivi rwayo rweshure kugungwa rokumavirazuva; kunhuwa kwayo kuchakwira, norwema rwayo rwakaipa ruchakwira, nokuti yakaita zvinhu zvikuru.",
+			"21": "<sup>21</sup> Rega hako kutya, iwe nyika, fara ufarisise; nokuti Jehovha akaita zvinhu zvikuru.",
+			"22": "<sup>22</sup> Regai kutya, imwi mhuka dzesango; nokuti mafuro erenje anobukira, nokuti miti inobereka zvibereko zvayo, mionde nemizambiringa zvinovigira vanhu simba razvo.",
+			"23": "<sup>23</sup> Naizvozvo farai, imwi vana veZiyoni, mufarisise muna Jehovha Mwari wenyu; nokuti anokupai mudzidzisi wokururama, uye anokunisirai mvura, mvura yokutanga nemvura yokuteverera, nomwedzi wokutanga.",
+			"24": "<sup>24</sup> Mapuriro achazara nezviyo, uye zvisviniro zvichapafuma waini namafuta.",
+			"25": "<sup>25</sup> Ndichakudzoseraizve makore amakadyirwa nemhashu, negwatakwata, nomupedzachose, nomuteteni, iyo hondo yangu huru yandakatuma pakati penyu.",
+			"26": "<sup>26</sup> Muchadya zvakawanda, mukarumbidza zita raJehovha Mwari wenyu, wakakuitirai zvinoshamisa; vanhu vangu havangatongonyadziswi nokusingaperi.",
+			"27": "<sup>27</sup> Ipapo muchaziva kuti ndiri pakati paIsiraeri, kuti ndini Jehovha Mwari wenyu, uye kuti hakuna mumwe; vanhu vangu havangatongonyadziswi nokusingaperi.",
+			"28": "<sup>28</sup> \"Zvino shure kwaizvozvo ndichadurura Mweya wangu pamusoro penyama yose; vanakomana venyu navanasikana venyu vachaporofita, vatana venyu vacharota hope, namajaya enyu achaona zviratidzo;",
+			"29": "<sup>29</sup> ndichadururawo Mweya wangu pamusoro pavaranda napamusoro pavashandiri namazuva iwayo.",
+			"30": "<sup>30</sup> Ndicharatidza zvishamiso kudenga napanyika, zvinoti: Ropa nomoto neshongwe dzoutsi.",
+			"31": "<sup>31</sup> Zuva richashanduka rima, mwedzi uchashanduka ropa, zuva guru raJehovha rinotyisa risati rasvika.",
+			"32": "<sup>32</sup> Zvino ani naani anodana zita raJehovha acharwirwa; nokuti pagomo reZiyoni napaJerusaremu ndipo pachava navakapukunyuka, sezvakataura Jehovha, napakati pavakasara ndipo pachava vakadamwa naJehovha."
+		},
+		"3":
+		{
+			"1": "<sup>1</sup> \"Nokuti tarirai, namazuva iwayo nenguva iyo, kana ndichidzosa kutapwa kwaJudha neJerusaremu,",
+			"2": "<sup>2</sup> ndichaunganidza marudzi ose avanhu, nokuaburusira kumupata waJehoshafati; ndichavatongapo pamusoro pavanhu vangu napamusoro penhaka yangu Isiraeri, vakaparadzirwa navo pakati pamarudzi avanhu; vakagovana nyika yangu,",
+			"3": "<sup>3</sup> vakakanda mijenya pamusoro pavanhu vangu, vakatenga chifeve nomukomana, vakatengesa musikana vachipiwa waini, kuti vaimwe.",
+			"4": "<sup>4</sup> Zvirokwazvo, imwi Tire neSidhoni nenyika dzose dzaFirisitia, munoreveiko kwandiri? Munoda kunditsiva here? Kana mukanditsiva, ndichakudzoserai zvamakaita pamisoro yenyu pakarepo nokukasira.",
+			"5": "<sup>5</sup> Zvamakatora sirivha yangu nendarama yangu, mukandoisa mutemberi dzenyu zvinhu zvangu zvakanaka zvinodikamwa,",
+			"6": "<sup>6</sup> mukatengesa vana vaJudha navana veJerusaremu kuvanakomana vavaGiriki, kuti muvabvisire kure nenyika yavo;",
+			"7": "<sup>7</sup> tarirai, ndichavamutsa panzvimbo kwamakandovatengesa, ndidzosere pamisoro yenyu zvamakaita;",
+			"8": "<sup>8</sup> ndichatengesa vanakomana venyu navanasikana venyu mumaoko avana vaJudha, ivo vachandovatengesa kuvanhu veShebha, kurudzi ruri kure, nokuti Jehovha akataura izvozvo.",
+			"9": "<sup>9</sup> \"Paridzirai izvozvi pakati pamarudzi; zvigadzirirei kurwa; kurudzirai varume vane simba; varwi vose ngavaswedere, vaende kundorwa.",
+			"10": "<sup>10</sup> Pfurai mapadza enyu ive minondo, namapanga enyu okuchekerera miti ave mapfumo; asine simba ngaati, `Ndine simba.'",
+			"11": "<sup>11</sup> Chimbidzikai, muuye, imwi marudzi ose akapoteredza, muungane; imwi Jehovha, mhare dzenyu ngadziburukireko.",
+			"12": "<sup>12</sup> Marudzi avanhu ngaamuke, aende kumupata waJehoshafati; nokuti ndipo pandichagara ndichitonga marudzi ose akapoteredza.",
+			"13": "<sup>13</sup> lsai jeko renyu mumunda, nokuti zviyo zvaibva; uyai musvine, nokuti chisviniro chewaini chazara, zvisviniro zvinopafuma; nokuti kushata kwavo kwakura.",
+			"14": "<sup>14</sup> Vazhinji-zhinji, vazhinji-zhinji varipo mumupata wokutonga! Nokuti zuva raJehovha rava pedo mumupata wokutonga.",
+			"15": "<sup>15</sup> Zuva nomwedzi zvasviba, nyeredzi dzinobvisa kupenya kwadzo.",
+			"16": "<sup>16</sup> Jehovha achaomba ari paZiyoni, achanzwisa izwi rake ari paJerusaremu; denga rose nenyika zvichadengenyeka; asi Jehovha uchava utiziro hwavanhu vake, nenhare yavana vaIsiraeri.",
+			"17": "<sup>17</sup> Ipapo muchaziva kuti ndini Jehovha, Mwari wenyu, agere paZiyoni, iro gomo rangu dzvene; ipapo Jerusaremu richava guta dzvene, hakuna vatorwa vanozopfuura napo.",
+			"18": "<sup>18</sup> Zvino nezuva iro makomo achadonha waini inotapira, zvikomo zvichayerera mukaka, uye hova dzose dzaJudha dzichayerera mvura zhinji; mumba maJehovha muchabuda tsime, richadiridza mupata weShitimi.",
+			"19": "<sup>19</sup> Ijipiti richava dongo, uye Edhomu richava renje rakaparadzwa, nemhaka yesimba rakaitirwa vana vaJudha, zvavakateura ropa risina mhosva panyika yavo.",
+			"20": "<sup>20</sup> Asi Judha vachavapo nokusingaperi, uye Jerusaremu kusvikira kumarudzi namarudzi.",
+			"21": "<sup>21</sup> Ndichapembedza ropa ravo randisina kumbopembedza; nokuti Jehovha anogara paZiyoni.\""
+		}
+	}
+
+};
+module.exports = book;

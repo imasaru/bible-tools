@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonea",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Mehleng ya puso ya Josiya, mora wa Amona, kgosi ya Juda, lentswe la Morena la fihla ho Sofonea, mora wa Kushi, Kushi ya tswalwang ke Gedaleya, Gedaleya ya tswalwang ke Amariya, Amariya ya tswalwang ke Hesekiya.",
+			"2": "<sup>2</sup> “Tsohle tse lefatsheng ke tla di fedisa,” ho rialo Morena.",
+			"3": "<sup>3</sup> “Ke tla timetsa batho, ke timetse diphoofolo, ke timetse nonyana tse fofang sepakapakeng, ditlhapi tsa lewatle le tsona ke di timetse. Ke tla fedisa dikgopiso mmoho le ba kgopo, batho bohle lefatsheng le bona ke ba timetse,” ho rialo Morena.",
+			"4": "<sup>4</sup> “Ke tla otlolla tsoho la ka, ke le otlollele hodima Juda, ke le otlollele le hodima Jerusalema. Masalla wohle a Baale ke tla a fedisa, ke a fedise sebakeng sena, le baprista ba bohata ke ba fedise;",
+			"5": "<sup>5</sup> bona ba obamang ba le hodima matlo, bona ba obamang, ba kgumamela dinaledi, ba kgumamela kgwedi, ba kgumamela letsatsi, bona ba obamang, ba hlapanye ka bitso la Morena, empa ba ntse ba hlapanya le ka Milekome.",
+			"6": "<sup>6</sup> Batho bana ke ba furaletseng Morena, ba mo furalla, ba se ke ba mmatla, leha e le hona ho ipiletsa ho yena.",
+			"7": "<sup>7</sup> Kgutsang ha le le kapele ho Morena, kapele ho Morena Modimo, hobane tsatsi la Morena le atametse. Morena o sa lokisitse sehlabelo, le bamemuwa ba hae o sa ba kgethile.",
+			"8": "<sup>8</sup> Mohla Morena a etsang sehlabelo, ke tla otla mahosana le bara ba kgosi, le bohle ba apereng meaparo esele.",
+			"9": "<sup>9</sup> Mohla tsatsi leo ke tla otla, ke otle ba sa hateng kosene ya monyako, ke otle ba tlatsang ntlo ya mong bona, ba e tlatse ka tse hapilweng ka dikgoka, ba e tlatse ka tse hapilweng ka bolotsana.",
+			"10": "<sup>10</sup> “Mohla tsatsi leo,” ho rialo Morena, “mokgosi o tla utlwahala Monyakong wa Ditlhapi, seboko se utlwahale se etswa motsemotjha, le modumo o moholo o utlwahale maralleng.",
+			"11": "<sup>11</sup> Bokollang, lona ba ahileng tlase ho motse, hoba bahwebi bohle ba lona ba tla fediswa, bohle ba ananyang ka silefera ba timetswe.",
+			"12": "<sup>12</sup> Ka nako eo Jerusalema ke tla e lekola, ke e lekole ke e kgantshitse ka mabone; ke otle bohle ba dutseng ba iketlile, ba kang maritsa a veine a qitile, ba duletseng ho bua ka pelo, ba re: ‘Morena a ke ke be a etsa letho, a ke ke be a etsa botle leha e le bobe.’",
+			"13": "<sup>13</sup> Matlotlo a bona a tla lobelwa, matlo a bona a heletswe, e be masupi. Matlo a bona wona ba tla a haha, empa ha ba ka ke ba dula ho wona; morara le wona ba tla o hloma, empa veine ya wona ha ba ka ke ba e nwa.”",
+			"14": "<sup>14</sup> “Tsatsi le leholo la Morena le atametse, le tla le potlakile, Utlwang, tsatsi la Morena ke leo! Mohlabani o tla howa a se na tshepo.",
+			"15": "<sup>15</sup> Tsatsi leo ke tsatsi la kgalefo, ke tsatsi la tlokotsi le la mahlomola, ke tsatsi la timelo le la tshenyeho, ke tsatsi la lefifi la bo-nka-ntjana, tsatsi le phetheselang maru, maru a matshomatsho!",
+			"16": "<sup>16</sup> Ke tsatsi la lenaka ho houtsa, ke tsatsi la mokgosi wa ntwa, ke tsatsi la ho futuhela metse, la ho futuhela marako, marako a tshireletso!",
+			"17": "<sup>17</sup> Ke tla bakela batho mahlomola, tsela ba e phopholetse sa difofu, hoba ba entse sebe, ba sitetswe Morena. Madi a bona a tla tsholoha sa lehlabathe, mala a bona a petletsehe sa bolokwe.",
+			"18": "<sup>18</sup> Mohla tsatsi leo la kgalefo ya Morena, silefera ya bona, esita le yona kgauta, tsena ha di ka ke tsa tseba ho ba pholosa. Kgalefo ya Morena e tukang malakabe, e tla tlokoma, e tjhese lefatshe lohle. Baahi bohle ba lefatshe o tla ba timetsa, a ba timetse hang, ka ho panya ha ntshi.”"
+		},
+		"2": {
+			"1": "<sup>1</sup> “Lona tjhaba se hlabisang dihlong, phuthehang, le kgobokane,",
+			"2": "<sup>2</sup> nako e boletsweng e eso fihle, tsatsi leo le le fefola sa mmoko; pele kgalefo ya Morena e le fihlela, tsatsi la kgalefo ya Morena le le tjhabela.",
+			"3": "<sup>3</sup> Lona ba ikokobetsang ba lefatshe, lona ba mamelang taelo ya Morena, batlang Morena, le mmatlisise. Batlang ho loka, le batle boikokobetso; mohlomong le ka sireletseha mohla tsatsi la kgalefo ya Morena.”",
+			"4": "<sup>4</sup> “Baahi ba Gasa ba tla e baleha, Ashekelone e sale e le masupi. Baahi ba Ashedode ba tla phaladiswa, ba phaladiswe hara motsheare wa lengeta, Ekerone yona ebe e a ripitlwa.",
+			"5": "<sup>5</sup> Le madimabe lona ba ahileng bopong la lewatle, le madimabe lona tjhaba sa Bakerete! Morena ke yena ya o qosang, wena Kanana, naha ya Bafilesita, ke tla o ripitla, ho be ho hlokwe le masalla.",
+			"6": "<sup>6</sup> Naha e bopong la lewatle e tla ba makgulo, e tla ba ya badisa le ya meraka.",
+			"7": "<sup>7</sup> E tla ba ya masalla a ba ntlo ya Juda, moo a alosetsang mehlape ya wona teng. Mantsiboya a tla botha ka matlung a Ashekelone, Morena Modimo wa wona, a a baballe, a a buseletse boiketlo ba wona.”",
+			"8": "<sup>8</sup> “Mahlapa a Bamoabe ke a utlwile, nyefolo tsa Baamone le tsona ka di utlwa, ka utlwa ha ba hlapaola tjhaba sa ka, ba ithorisetsa ho kena meeding ya sona.",
+			"9": "<sup>9</sup> Ka baka leo, ke a hlapanya,” ho rialo Morena wa mabotho, Morena Modimo wa Iseraele. “Moabe e tla ba jwaloka Sodoma, Amone yona e be jwaloka Gomora, naha e tletseng bobatsi le matjheko a letswai, naha e fetohileng nanaola ya mehla yohle. Masalla a tjhaba sa ka a tla e lobela, ba phonyohileng ba tjhaba sa ka ba e hape.",
+			"10": "<sup>10</sup> Ona ke moputso wa boikgohomoso ba bona, kaha ba hlapaotse tjhaba sa Morena wa mabotho, ba se hlapaola ba ba ba ithorisa.",
+			"11": "<sup>11</sup> Ho bona Morena o tla tshabeha, a fedise medingwana yohle ya lefatshe. Tjhaba tsohle tse mabopong di tla mo kgumamela, motho ka mong a mo kgumamele a le ha habo.”",
+			"12": "<sup>12</sup> “Le lona Bakushe le tla timetswa, sabole ya Morena e le bolaye.”",
+			"13": "<sup>13</sup> Morena o tla otlolla tsoho la hae, a le otlollele leboya, a le otlolle, a timetse Asiria, a timetse Ninife, e fotohe nanaola, e sale e omeletse e ka lehwatata.",
+			"14": "<sup>14</sup> Mohlape o tla botha hona moo, le phoofolo tsa naha ka mefuta ya tsona. Sephooko le sephookwana di tla robala teng, di robale kahodima ditshiya, tshiya tse ntseng di eme; bo-makgohlo ba hihitse ba le difesetereng, kupukupu ya mobu e thibile menyako, hobane kedare tsa yona di tla be di wele.",
+			"15": "<sup>15</sup> Ke wona motse wane o motlehadi, o neng o ituletse ka kgotso, o neng o ikgohomosa ka ho re: “Ke nna feela, ha ho na e mong.” O fetohile lesupi le lekaakang! O fetohile letsaba la dibatana! Bo-mofeta-ka-tsela ba a o makalla, ba letsa molodi, ba opa diatla!"
+		},
+		"3": {
+			"1": "<sup>1</sup> O madimabe motse wa Jerusalema, motse wa batlatlapi, motse wa bafetohedi o silafetseng!",
+			"2": "<sup>2</sup> Motse ona ha o mamele keletso, kgalemelo le yona ha o e amohele; esita le Morena ha o mo tshepe, ha o ikatametse ho Modimo wa wona.",
+			"3": "<sup>3</sup> Mahosana a wona ke tau tse purumang baahlodi ba wona ke phiri tse jang bosiu, ere bo esa di be di jele di qetile.",
+			"4": "<sup>4</sup> Baporofeta ba wona ke baikakasi, ke banna ba tletseng bolotsana; baprista ba wona ba silafaditse Sehalalelo, molao le wona ba ba ba o tlola.",
+			"5": "<sup>5</sup> Ho loka ha Morena ho teng motseng ona, ha a ka ke a etsa bokgopo ba letho. Kamehla ha ho esa o diha kahlolo, kamehla ha bo esa ha a fose, empa ya kgopo ha a hlajwe ke dihlong.",
+			"6": "<sup>6</sup> “Matjhaba wohle ke a timeditse, qhobosheane tsa wona ka di heletsa. Diterata tsa wona di setse feela, ha ho le ya mong ya tsamayang ho tsona. Metse ya tsona yohle e ripitlilwe, ha ho sa na le motho, ha ho sa na moahi.",
+			"7": "<sup>7</sup> Ka na ka bua ho baahi ba motse, ka re: ‘Ruri le sa tla be le ntlhomphe, le qetelle le mametse kgalemo ya ka, e le hore leaho la lona le se ripitlwe, le kahlolo tsa ka di se le wele hodimo.’ Empa ba nna ba hahamala, ba hahamala ho ya pele, ba eketsa ketso tse bodileng tsa bona.",
+			"8": "<sup>8</sup> Kahoo nkemeleng,” ho rialo Morena, “le nkemele ho fihlela ha ke le qosa. Ke na le morero wa ho phutha ditjhaba, wa ho di phutha le mebuso ya tsona, ke hlatsetse kgalefo ya ka hodima tsona, e leng bohale ba ka bo tukang malakabe. Lefatshe lohle le tla timetswa ka mollo, ka mollo wa kgalefo ya ka ya ho boulela.",
+			"9": "<sup>9</sup> Mohlang oo ke tla fedisa puo tse mpe tsa ditjhaba, bohle ba tle ba ipiletse ho Morena, ba mo sebeletse ba le ntsweleng.",
+			"10": "<sup>10</sup> Ho tloha ka nqane ho noka ya Kushe, tjhaba sa ka se qhalakaneng se tla nkgumamela, se ntlisetse dinyehelo.",
+			"11": "<sup>11</sup> Mohla tsatsi leo ha o na ho ba dihlong ka baka la ho ntshitelwa ha hao. Ba ithorisang ka boikakaso ba hao ke tla ba fedisa kahare ho wena; o ke ke wa hlola o ikgohomosa, o le thabeng ya ka e halalelang.",
+			"12": "<sup>12</sup> Tjhaba se mosa, se ikokobetsang, se tla o salla se ntse se phela, se ntse se phela, se tshepile Morena.",
+			"13": "<sup>13</sup> Masalla a Iseraele a ke ke a etsa bokgopo, leha e le hona ho bua mashano; a ke ke a thetsa ka maleme a wona. Masalla ao a tla fula, a bothe, ho se na ya ka hlolang a a tshosa.”",
+			"14": "<sup>14</sup> Wena Moradi wa Sione, bina haholo! Wena Iseraele, howeletsa haholo! Wena Moradi wa Jerusalema, thaba haholo, ka pelo ya hao yohle, nyakalla haholo!",
+			"15": "<sup>15</sup> Morena o fedisitse kahlolo ya hao, o timeditse le tsona dira tsa hao. Morena, Kgosi ya Iseraele, o na le wena, ha o ka ke wa tshoha koduwa.",
+			"16": "<sup>16</sup> Mohla tsatsi leo ba tla re ho Jerusalema: “Wena Sione, o se ke be wa tshaba, matsoho a hao a fele a tiye!",
+			"17": "<sup>17</sup> Morena Modimo wa hao, o na le wena, ke senatlahadi se tla o lwanela. O tla o thabela ka nyakallo, a o rate ka lerato la sebele, a howeletse, a o hlabele medidietsane, a e hlabe sa mohla tsatsi la mokete.”",
+			"18": "<sup>18</sup> “Ke tla phutha ba neng ba llela mekete, ba llela mekete e halalelang, e leng ba neng ba le hole, hole le wena, ba neng ba jere sekgobo sa hao.",
+			"19": "<sup>19</sup> Mohla tsatsi leo ke tla otla, ke otle bohle ba o hateletseng; ke tla pholosa ba holofetseng, ke phuthe ba neng ba qhalakane. Hohle moo ba neng ba tlontlolotswe teng, thabo le tlotla di tla ba aparela.",
+			"20": "<sup>20</sup> Mohla tsatsi leo ke tla le kgobokanya, ke le kgobokanye, le kgutlele hae. Thabo le tlotla di tla le aparela, le le hara tjhaba tsohle tsa lefatshe, mohla ke le kgutlisetsang ha habo lona, ke le kgutlisa le ntse le tadimile,” ho rialo Morena."
+		}
+	}
+};
+module.exports = book;

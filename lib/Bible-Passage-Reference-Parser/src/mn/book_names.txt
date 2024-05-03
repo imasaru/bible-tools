@@ -1,0 +1,307 @@
+1Chr	Шастирын дээд
+1Chr	Ша. Дэээд
+1Chr	1 Шастир
+1Chr	Ша Дэээд
+1Chr	Ш. дээд
+1Chr	Ш дээд
+1Chr	1 Шас
+1Chr	1 Шс
+1Chr	1Chr
+1Chr	Шдээ
+1Cor	1 Коринт
+1Cor	1 Кор
+1Cor	1 Ко
+1Cor	1Cor
+1Esd	1Esd
+1John	1 Иохан
+1John	1 Иох
+1John	1John
+1John	1 Ио
+1Kgs	Хаадын дээд
+1Kgs	Ха. Дээд
+1Kgs	Х. Дээд
+1Kgs	Ха Дээд
+1Kgs	1 Хаад
+1Kgs	Х Дээд
+1Kgs	Хдээд
+1Kgs	1 Ха
+1Kgs	1Kgs
+1Kgs	Хдээ
+1Macc	1Macc
+1Pet	1 Петр
+1Pet	1 Пет
+1Pet	1 Пе
+1Pet	1 Пр
+1Pet	1 Пт
+1Pet	1Pet
+1Sam	1 Самуел
+1Sam	1 Сам
+1Sam	1 См
+1Sam	1Sam
+1Thess	1 Тесалоник
+1Thess	1Thess
+1Thess	1 Тес
+1Thess	1 Тс
+1Tim	1 Тимот
+1Tim	1 Тим
+1Tim	1 Ти
+1Tim	1 Тм
+1Tim	1Tim
+2Chr	Шастирын дэд
+2Chr	2 Шастир
+2Chr	Ша. Дэд
+2Chr	Ш. дэд
+2Chr	Ша Дэд
+2Chr	2 Шас
+2Chr	Ш дэд
+2Chr	2 Шс
+2Chr	2Chr
+2Chr	Шдэд
+2Cor	2 Коринт
+2Cor	2 Кор
+2Cor	2 Ко
+2Cor	2Cor
+2Esd	2Esd
+2John	2 Иохан
+2John	2 Иох
+2John	2John
+2John	2 Ио
+2Kgs	Хаадын дэд
+2Kgs	Ха. Дэд
+2Kgs	2 Хаад
+2Kgs	Х. Дэд
+2Kgs	Ха Дэд
+2Kgs	Х Дэд
+2Kgs	2 Ха
+2Kgs	2Kgs
+2Kgs	Хдэд
+2Macc	2Macc
+2Pet	2 Петр
+2Pet	2 Пет
+2Pet	2 Пе
+2Pet	2 Пр
+2Pet	2 Пт
+2Pet	2Pet
+2Sam	2 Самуел
+2Sam	2 Сам
+2Sam	2 См
+2Sam	2Sam
+2Thess	2 Тесалоник
+2Thess	2Thess
+2Thess	2 Тес
+2Thess	2 Тс
+2Tim	2 Тимот
+2Tim	2 Тим
+2Tim	2 Ти
+2Tim	2 Тм
+2Tim	2Tim
+3John	3 Иохан
+3John	3 Иох
+3John	3John
+3John	3 Ио
+3Macc	3Macc
+4Macc	4Macc
+Acts	Acts
+Acts	Үилс
+Acts	Үйлс
+Acts	Үил
+Acts	Үйл
+Amos	Amos
+Amos	Амос
+Amos	Амо
+Amos	Ам
+Bar	Bar
+Bel	Bel
+Col	Колоссаи
+Col	Колоссай
+Col	Col
+Col	Кол
+Dan	Даниел
+Dan	Dan
+Dan	Дан
+Deut	Дэд хууль
+Deut	Д. Хууль
+Deut	Д Хууль
+Deut	Дэд х
+Deut	Deut
+Deut	Д.Х
+Deut	ДХ
+Deut	Дх
+Eccl	Номлогчиин үгс
+Eccl	Номлогчийн үгс
+Eccl	Ном. үг
+Eccl	Ном үг
+Eccl	Eccl
+Eccl	Ном
+EpJer	EpJer
+Eph	Ефес
+Eph	Eph
+Eph	Еф
+Esth	Естер
+Esth	Esth
+Esth	Ест
+Exod	Египетээс гарсан нь
+Exod	Гэтлэл
+Exod	Ег.гар
+Exod	Ег. Г
+Exod	Еггар
+Exod	Exod
+Exod	Ег Г
+Exod	Егга
+Exod	Гэт
+Exod	Ег
+Ezek	Езекиел
+Ezek	Ezek
+Ezek	Езек
+Ezek	Езе
+Ezek	Езк
+Ezra	Ezra
+Ezra	Езра
+Ezra	Езр
+Ezra	Ез
+Gal	Галат
+Gal	Gal
+Gal	Гал
+Gen	Эхлэл
+Gen	Gen
+Gen	Эхл
+Gen	Эх
+GkEsth	GkEsth
+Hab	Хабаккук
+Hab	Hab
+Hab	Хаб
+Hag	Хаггаи
+Hag	Hag
+Hag	Хаг
+Heb	Евреи
+Heb	Еврей
+Heb	Heb
+Heb	Евр
+Hos	Хосеа
+Hos	Hos
+Hos	Хос
+Isa	Исаиа
+Isa	Isa
+Isa	Иса
+Jas	Иаков
+Jas	Jas
+Jas	Иак
+Jas	Ик
+Jdt	Jdt
+Jer	Иеремиа
+Jer	Jer
+Jer	Иер
+Job	Job
+Job	Иов
+Joel	Joel
+Joel	Иоел
+Joel	Иое
+John	Иохан
+John	John
+John	Иох
+Jonah	Jonah
+Jonah	Иона
+Jonah	Ион
+Josh	Иошуа
+Josh	Josh
+Josh	Иош
+Jude	Jude
+Jude	Иуда
+Jude	Иуд
+Judg	Шүүгчид
+Judg	Judg
+Judg	Шүү
+Lam	Гашуудал
+Lam	Lam
+Lam	Гаш
+Lev	Левит
+Lev	Леви
+Lev	Lev
+Lev	Лев
+Lev	Лв
+Luke	Luke
+Luke	Лук
+Luke	Лк
+Mal	Малахи
+Mal	Mal
+Mal	Мал
+Mark	Mark
+Mark	Марк
+Mark	Мар
+Mark	Мк
+Matt	Матаи
+Matt	Матай
+Matt	Matt
+Matt	Мат
+Matt	Мт
+Mic	Мика
+Mic	Mic
+Mic	Мик
+Nah	Нахум
+Nah	Наху
+Nah	Nah
+Nah	Нах
+Neh	Нехемиа
+Neh	Neh
+Neh	Нех
+Num	Тооллого
+Num	Num
+Num	Тоо
+Num	То
+Obad	Обадиа
+Obad	Obad
+Obad	Оба
+Phil	Филиппои
+Phil	Филиппой
+Phil	Phil
+Phil	Фил
+Phil	Флп
+Phlm	Филемон
+Phlm	Phlm
+Phlm	Филе
+Phlm	Фил
+Phlm	Флм
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Сургаалт үгс
+Prov	Сур. үгс
+Prov	Сур үгс
+Prov	Сур. үг
+Prov	Су. үг
+Prov	Сур үг
+Prov	Су үг
+Prov	Сурүг
+Prov	Prov
+Prov	Сур
+Ps	Дуулал
+Ps	Дуул
+Ps	Дуу
+Ps	Ps
+Rev	Илчлэлт
+Rev	Илчлэл
+Rev	Rev
+Rev	Илч
+Rom	Rom
+Rom	Ром
+Ruth	Ruth
+Ruth	Рут
+SgThree	SgThree
+Sir	Sir
+Song	Соломоны дуун
+Song	Со дуун
+Song	Со. дуу
+Song	Со дуу
+Song	Song
+Song	Сол
+Song	Сд
+Sus	Sus
+Titus	Titus
+Titus	Тит
+Tob	Tob
+Wis	Wis
+Zech	Зехариа
+Zech	Zech
+Zech	Зех
+Zeph	Зефаниа
+Zeph	Zeph
+Zeph	Зеф

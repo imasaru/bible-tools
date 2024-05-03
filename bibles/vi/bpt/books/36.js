@@ -1,0 +1,66 @@
+var book = {
+	"name": "Xê-pha-ni-a",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Đây là lời CHÚA phán cùng Xô-phô-ni trong đời Giô-xia, con Am-môn làm vua Giu-đa. Xô-phô-ni là con Cu-si, cháu Ghê-đa-lia. Ghê-đa-lia là con A-ma-ria, cháu Ê-xê-chia.",
+			"2": "<sup>2</sup> Ngày xét xử của Chúa\nCHÚA phán, “Ta sẽ quét sạch mọi thứ trên đất ,”",
+			"3": "<sup>3</sup> “Ta sẽ quét sạch người và súc vật;\nTa sẽ tiêu diệt chim trời, cá biển.\nTa sẽ tàn hại kẻ ác và tội lỗi của nó,\nvà sẽ diệt loài người khỏi mặt đất,”\nCHÚA phán vậy.",
+			"4": "<sup>4</sup> Tương lai của Giu-đa\n“Ta sẽ trừng phạt Giu-đa\nvà mọi người sống trong Giê-ru-sa-lem.\nTa sẽ cất khỏi nơi đây mọi dấu vết về Ba-anh,\ncác thầy tế lễ giả, và các thầy tế lễ khác.",
+			"5": "<sup>5</sup> Ta sẽ tiêu diệt những kẻ lên mái nhà\nđể bái lạy các ngôi sao ,\ncùng những kẻ thờ phụng\nvà thề thốt trong danh CHÚA\nlẫn thần Mô-léc,",
+			"6": "<sup>6</sup> những kẻ quay bỏ CHÚA,\nnhững kẻ không theo Ngài\nhoặc cầu xin Ngài hướng dẫn.",
+			"7": "<sup>7</sup> Hãy im lặng trước mặt CHÚA là Thượng-Đế,\nvì ngày Chúa phán xử dân chúng sắp đến.\nCHÚA đã chuẩn bị sinh tế;\nvà đã thánh hoá các khách được mời .",
+			"8": "<sup>8</sup> Vào ngày dâng sinh tế cho CHÚA,\nta, CHÚA, sẽ trừng phạt các hoàng thân\nvà hoàng tử cùng những kẻ\năn mặc y phục ngoại quốc.",
+			"9": "<sup>9</sup> Trong ngày đó ta sẽ trừng phạt\nnhững kẻ theo thói tục dị đoan ngoại quốc ,\nnhững kẻ mang sự hung bạo\nvà lường gạt vào nhà của chủ mình .”",
+			"10": "<sup>10</sup> CHÚA phán, “Trong ngày đó,\nsẽ có tiếng kêu khóc từ Cổng Cá.\nTiếng than vãn sẽ phát ra\ntừ khu mới của thành phố,\nvà sẽ có tiếng đổ ầm vang dội từ các đồi.",
+			"11": "<sup>11</sup> Hỡi các ngươi là những kẻ ở nơi phố chợ,\nhãy kêu khóc,\nvì mọi thương gia sẽ chết;\ncác lái buôn bạc sẽ không còn.",
+			"12": "<sup>12</sup> Vào lúc đó, ta, CHÚA sẽ lấy đèn rọi kiếm trong Giê-ru-sa-lem.\nTa sẽ trừng phạt những kẻ tự mãn,\nnhững kẻ cho rằng,\n‘CHÚA sẽ không giúp chúng ta,\nhay trừng phạt chúng ta đâu.’",
+			"13": "<sup>13</sup> Tài sản chúng nó sẽ bị đánh cắp,\nnhà cửa chúng nó sẽ bị tiêu diệt.\nChúng sẽ xây nhà,\nnhưng không được ở trong đó.\nChúng sẽ trồng vườn nho,\nnhưng không được uống rượu\ntừ vườn nho mình.”",
+			"14": "<sup>14</sup> Ngày xét xử của Chúa\nNgày Chúa xét xử sắp đến rồi;\nngày ấy sẽ đến mau chóng.\nSẽ có tiếng khóc thảm sầu\nvào ngày của CHÚA;\nngay đến chiến sĩ cũng than khóc.",
+			"15": "<sup>15</sup> Vì đó là ngày thịnh nộ,\nngày kinh hoàng và khốn khó,\nngày hủy diệt và điêu tàn,\nngày đen tối ảm đạm,\nngày mây mù và âm u,",
+			"16": "<sup>16</sup> giống như thời chiến tranh,\nkhi dân chúng nghe kèn và tù và,\nthổi lên trong các thành có vách kiên cố!",
+			"17": "<sup>17</sup> Chúa phán, “Ta sẽ khiến đời sống dân chúng ra cơ cực;\nhọ sẽ lần mò như kẻ mù,\nvì họ đã phạm tội cùng CHÚA.\nHuyết họ sẽ đổ ra như bụi đất,\ncòn ruột gan họ sẽ bị ném bỏ như rác rưởi.",
+			"18": "<sup>18</sup> Vào ngày đó, Thượng-Đế sẽ tỏ ra cơn thịnh nộ Ngài,\ndù vàng hay bạc cũng không cứu được họ.\nCơn thịnh nộ Chúa như lửa;\nNgài sẽ tiêu diệt mọi người trên đất.”"
+		},
+		"2": {
+			"1": "<sup>1</sup> Chúa kêu gọi mọi người ăn năn\nHãy nhóm lại, tập họp lại,\ntất cả các ngươi là dân tộc\nmà Thượng Đế không thích.",
+			"2": "<sup>2</sup> Hãy nhóm lại trước khi quá trễ,\ntrước khi các ngươi bị thổi bay tứ tung như trấu,\ntrước khi cơn thịnh nộ ghê gớm của Chúa đến cùng các ngươi,\ntrước ngày giận dữ của Ngài\nđến cùng các ngươi.",
+			"3": "<sup>3</sup> Hỡi tất cả các ngươi là kẻ khiêm nhường,\nhãy đến cùng CHÚA,\nnhững ai vâng luật lệ Ngài.\nHãy làm điều phải.\nHọc tập đức khiêm nhường.\nMay ra các ngươi sẽ thoát chết\ntrong ngày CHÚA nổi thịnh nộ.",
+			"4": "<sup>4</sup> Phi-li-tin sẽ bị trừng phạt\nSẽ không còn ai sống sót trong thành Ga-xa,\nthành Ách-kê-lôn sẽ bị tiêu diệt.\nĐến trưa thì Ách-đốt sẽ hoang vắng ,\ncòn dân cư Éc-rôn  sẽ bị đuổi đi.",
+			"5": "<sup>5</sup> Khốn cho các ngươi\nlà kẻ sống bên bờ Địa-trung-hải,\nhỡi các ngươi là người Phi-li-tin!\nLời CHÚA phán nghịch các ngươi,\nhỡi Ca-na-an, xứ của dân Phi-li-tin.\n“Ta sẽ tiêu diệt các ngươi\nđến nỗi không còn ai sống sót.”",
+			"6": "<sup>6</sup> Vùng đất dọc theo Địa-trung-hải\nnơi các ngươi sinh sống,\nsẽ trở thành đồng cỏ, ruộng nương cho kẻ chăn chiên.",
+			"7": "<sup>7</sup> Nó sẽ thuộc về con cháu Giu-đa\nlà kẻ còn sống sót.\nHọ sẽ thả chiên mình ăn cỏ ở đó,\nvà ngủ đêm trong các nhà cửa\ncủa Ách-kê-lôn.\nCHÚA là Thượng-Đế của họ\nsẽ chăm sóc họ\nvà phục hồi đời sống của họ.",
+			"8": "<sup>8</sup> Mô-áp và Am-môn sẽ bị trừng phạt\nTa đã nghe lời nhục mạ\nđến từ xứ Mô-áp\nvà những tiếng đe dọa\ncủa dân Am-môn.\nChúng đã sỉ nhục dân ta\nvà hăm dọa chiếm xứ của dân ta.",
+			"9": "<sup>9</sup> Vì thế Đấng Toàn Năng,\nThượng-Đế của Ít-ra-en phán,\n“Thật như ta hằng sống,\nMô-áp sẽ bị tiêu diệt như Xô-đôm,\ncòn Am-môn sẽ như Gô-mô-rơ—\nchỉ còn lại một đống cỏ dại,\nmột hầm muối, một nơi đổ nát đời đời.\nNhững dân còn sống sót của ta\nsẽ chiếm đoạt những gì họ muốn từ chúng nó;\ndân còn sót lại của ta sẽ chiếm xứ chúng nó.”",
+			"10": "<sup>10</sup> Đó là giá mà Mô-áp và Am-môn\nphải trả về tội tự phụ,\nvì chúng đã sỉ nhục và chế giễu\ndân tộc của CHÚA Toàn Năng.",
+			"11": "<sup>11</sup> CHÚA sẽ khiến chúng hoảng sợ,\nvì Ngài sẽ tiêu diệt các thần trên đất.\nRồi mọi người ở những nơi xa xôi\nsẽ đều thờ phụng Ngài.",
+			"12": "<sup>12</sup> Cút và A-xy-ri sẽ bị tiêu diệt\n“Các ngươi là dân Cút sẽ bị gươm ta giết.”",
+			"13": "<sup>13</sup> Rồi CHÚA sẽ quay nghịch phương Bắc\nvà tiêu diệt A-xy-ri.\nNgài sẽ biến Ni-ni-ve trở thành hoang tàn\nvà khô khan như sa mạc.",
+			"14": "<sup>14</sup> Các bầy súc vật\nsẽ nằm nghỉ ngơi nơi đó, cùng với các dã thú.\nChim cú và quạ sẽ đậu\ntrên các trụ đá.\nChim cú sẽ kêu lên qua cửa sổ,\nQuạ sẽ đậu trên các ngạch cửa chính,\nChúng sẽ mổ và phá hư\ncác đồ trang hoàng\ntrên những tấm vách gỗ\ncủa các toà nhà.",
+			"15": "<sup>15</sup> Nó từng là thành nhộn nhịp và vui vẻ.\nMọi người tưởng rằng mình an toàn.\nChúng cho rằng Ni-ni-ve là thành lớn nhất thế giới,\nnhưng nó sẽ bị tiêu hủy,\ntrở thành nơi ở cho muông thú.\nNgười qua kẻ lại đều huýt sáo, lắc đầu chế giễu nó,\nkhi nhìn thấy nó bị tiêu điều."
+		},
+		"3": {
+			"1": "<sup>1</sup> Giê-ru-sa-lem sẽ bị trừng phạt\nKhốn cho thành Giê-ru-sa-lem\nđộc ác, ương ngạnh,\nlà thành tự hại dân cư mình.",
+			"2": "<sup>2</sup> Nó không chịu vâng lời ai;\nkhông ai dạy nó làm điều phải được.\nNó không tin cậy CHÚA;\ncũng chẳng thờ phụng Thượng Đế mình.",
+			"3": "<sup>3</sup> Các viên chức nó như sư tử gầm thét.\nCác quan quyền nó như chó sói đói hung hăng\ntấn công vào chiều tà,\nvà đến sáng hôm sau\nchẳng chừa lại món gì.",
+			"4": "<sup>4</sup> Các nhà tiên tri nó kiêu căng;\nhọ là những kẻ không thể tin cậy được.\nCác thầy tế lễ nó không tôn kính\nnhững vật thánh;\nCố tình xuyên tạc lời giáo huấn\ncủa Thượng-Đế.",
+			"5": "<sup>5</sup> Nhưng CHÚA là Đấng công bằng,\nNgài đang ngự trong thành đó.\nNgài không làm điều quấy.\nMỗi sáng Ngài cai trị dân chúng\nmột cách công minh;\nNgày nào CHÚA cũng xét xử công bằng.\nNhưng kẻ ác không biết xấu hổ\nvề điều mình làm.",
+			"6": "<sup>6</sup> Ta đã tiêu diệt các dân;\ncác tháp canh nó đã bị sụp đổ rồi.\nTa khiến cho phố xá nó vắng tanh\nđể không còn ai đi lại nơi đó nữa.\nCác thành phố của chúng nó điêu tàn;\nkhông còn ai ở.",
+			"7": "<sup>7</sup> Ta nói điều nầy để các ngươi\nkính nể ta và nghe lời dạy dỗ của ta.\nNếu các ngươi học bài học ấy\nthì các ngươi sẽ không bị tiêu diệt.\nNhưng chúng vẫn cứ hăm hở\nlàm chuyện ác.",
+			"8": "<sup>8</sup> CHÚA phán, “Hãy chờ đó.\nMột ngày nào ta sẽ đứng lên\nlàm nhân chứng.\nTa đã quyết định thu gom các dân\nvà tập họp các nước.\nTa sẽ trút cơn giận ta trên chúng nó,\ntrút hết cơn thịnh nộ ta.\nCơn thịnh nộ ta sẽ như lửa đốt cháy cả thế gian.",
+			"9": "<sup>9</sup> Một ngày mới cho dân Chúa\nRồi ta sẽ khiến các dân tộc khác nói ngôn ngữ rõ ràng,\nvà kêu cầu danh CHÚA.\nChúng sẽ cùng nhau thờ phụng ta,\nvai sánh vai như một đoàn dân.",
+			"10": "<sup>10</sup> Dân chúng sẽ đổ về từ nguồn sông Nin;\ndân tản mác của ta\nsẽ mang lễ vật đến cho ta.",
+			"11": "<sup>11</sup> Hỡi Giê-ru-sa-lem,\nngươi sẽ không còn bị xấu hổ\nvề những điều ngươi làm nghịch lại ta,\nvì ta sẽ loại bỏ giữa ngươi\nnhững kẻ huênh hoang;\nsẽ chẳng còn có kẻ kiêu căng nữa\ntrên núi thánh  ta.",
+			"12": "<sup>12</sup> Nhưng ta sẽ để lại trong thành ngươi\nnhững kẻ hiền từ và khiêm nhường,\ntất cả đều sẽ tin cậy CHÚA.",
+			"13": "<sup>13</sup> Những kẻ còn sống sót trong Ít-ra-en\nsẽ không làm quấy và nói dối nữa;\nsẽ không dùng miệng mình gạt dân chúng.\nHọ sẽ ăn ngủ bình yên,\nKhông còn ai làm cho họ sợ hãi.”",
+			"14": "<sup>14</sup> Bài ca hân hoan\nHỡi Giê-ru-sa-lem, hãy hát lên.\nÍt-ra-en ơi, hãy lớn tiếng reo vui!\nGiê-ru-sa-lem ơi, hãy hớn hở\nvà hết lòng mừng rỡ.",
+			"15": "<sup>15</sup> CHÚA đã thôi trừng phạt ngươi;\nNgài đã đuổi kẻ thù ngươi đi rồi.\nCHÚA là Vua của Ít-ra-en, ở cùng ngươi.\nNgươi sẽ không còn lo sợ bị hãm hại nữa.",
+			"16": "<sup>16</sup> Trong ngày đó,\nGiê-ru-sa-lem sẽ được khuyên bảo,\n“Hỡi thành Giê-ru-sa-lem, đừng sợ.\nĐừng buông xuôi.",
+			"17": "<sup>17</sup> CHÚA là Thượng-Đế đang ở cùng ngươi;\nĐấng Toàn Năng sẽ giải cứu ngươi.\nNgài sẽ vui về ngươi.\nNgươi sẽ an nghỉ trong tình yêu Ngài;\nNgài sẽ hát và hớn hở về ngươi.”",
+			"18": "<sup>18</sup> “Ta sẽ cất sự buồn rầu đã dành cho ngươi,\nlà điều khiến ngươi xấu hổ.",
+			"19": "<sup>19</sup> Lúc đó ta sẽ trừng phạt\nnhững kẻ đã làm hại ngươi.\nTa sẽ giải cứu dân ta là kẻ què quặt,\nvà thu nhóm dân ta\nlà kẻ đã bị ruồng rẫy.\nTa sẽ ban cho họ lời ca ngợi\nvà sự tôn trọng\nở những nơi nào họ đã bị làm nhục.",
+			"20": "<sup>20</sup> Lúc đó ta sẽ triệu tập ngươi lại;\nvà sẽ mang ngươi trở về nhà.\nTa sẽ ban cho ngươi những lời ca tụng\nvà sự tôn trọng từ khắp mọi dân\nkhi ta khiến ngươi sung túc trở lại,\ntrước mắt các dân,” CHÚA phán vậy."
+		}
+	}
+};
+module.exports = book;

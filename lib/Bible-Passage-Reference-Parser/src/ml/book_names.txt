@@ -1,0 +1,302 @@
+1Chr	1.. ദിനവൃത്താന്തം
+1Chr	1. ദിനവൃത്താന്തം
+1Chr	1 ദിനവൃത്താന്തം
+1Chr	1.. ദിന
+1Chr	1. ദിന
+1Chr	1 ദിന
+1Chr	1Chr
+1Cor	1.. കൊരിന്ത്യർ
+1Cor	1. കൊരിന്ത്യർ
+1Cor	1 കൊരിന്ത്യർ
+1Cor	1.. കൊരി
+1Cor	1. കൊരി
+1Cor	1 കൊരി
+1Cor	1Cor
+1Esd	1Esd
+1John	1.. യോഹന്നാൻ
+1John	1. യോഹന്നാൻ
+1John	1 യോഹന്നാൻ
+1John	1.. യോഹ
+1John	1. യോഹ
+1John	1 യോഹ
+1John	1John
+1Kgs	1.. രാജാക്കന്മാർ
+1Kgs	1. രാജാക്കന്മാർ
+1Kgs	1 രാജാക്കന്മാർ
+1Kgs	1.. രാജാ
+1Kgs	1. രാജാ
+1Kgs	1 രാജാ
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1.. പത്രൊസ്
+1Pet	1. പത്രൊസ്
+1Pet	1 പത്രൊസ്
+1Pet	1.. പതാസ്
+1Pet	1. പതാസ്
+1Pet	1 പതാസ്
+1Pet	1Pet
+1Sam	1.. ശമൂവേൽ
+1Sam	1. ശമൂവേൽ
+1Sam	1 ശമൂവേൽ
+1Sam	1.. ശമു
+1Sam	1. ശമു
+1Sam	1 ശമു
+1Sam	1Sam
+1Sam	1ശമു
+1Thess	1.. തെസ്സലൊനീക്യർ
+1Thess	1. തെസ്സലൊനീക്യർ
+1Thess	1 തെസ്സലൊനീക്യർ
+1Thess	1.. തെസ്സ
+1Thess	1. തെസ്സ
+1Thess	1 തെസ്സ
+1Thess	1Thess
+1Tim	1.. തിമൊഥെയൊസ്
+1Tim	1. തിമൊഥെയൊസ്
+1Tim	1.. തിമൊഥയൊസ്
+1Tim	1 തിമൊഥെയൊസ്
+1Tim	1. തിമൊഥയൊസ്
+1Tim	1 തിമൊഥയൊസ്
+1Tim	1.. തിമൊ
+1Tim	1. തിമൊ
+1Tim	1 തിമൊ
+1Tim	1Tim
+2Chr	2.. ദിനവൃത്താന്തം
+2Chr	2. ദിനവൃത്താന്തം
+2Chr	2 ദിനവൃത്താന്തം
+2Chr	2.. ദിന
+2Chr	2. ദിന
+2Chr	2 ദിന
+2Chr	2Chr
+2Cor	2.. കൊരിന്ത്യർ
+2Cor	2. കൊരിന്ത്യർ
+2Cor	2 കൊരിന്ത്യർ
+2Cor	2.. കൊരി
+2Cor	2. കൊരി
+2Cor	2 കൊരി
+2Cor	2Cor
+2Esd	2Esd
+2John	2.. യോഹന്നാൻ
+2John	2. യോഹന്നാൻ
+2John	2 യോഹന്നാൻ
+2John	2.. യോഹ
+2John	2. യോഹ
+2John	2 യോഹ
+2John	2John
+2Kgs	2.. രാജാക്കന്മാർ
+2Kgs	2. രാജാക്കന്മാർ
+2Kgs	2 രാജാക്കന്മാർ
+2Kgs	2.. രാജാ
+2Kgs	2. രാജാ
+2Kgs	2 രാജാ
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2.. പത്രൊസ്
+2Pet	2. പത്രൊസ്
+2Pet	2 പത്രൊസ്
+2Pet	2.. പതാസ്
+2Pet	2. പതാസ്
+2Pet	2 പതാസ്
+2Pet	2Pet
+2Sam	2.. ശമൂവേൽ
+2Sam	2. ശമൂവേൽ
+2Sam	2 ശമൂവേൽ
+2Sam	2.. ശമു
+2Sam	2. ശമു
+2Sam	2 ശമു
+2Sam	2Sam
+2Sam	2ശമു
+2Thess	2.. തെസ്സലൊനീക്യർ
+2Thess	2. തെസ്സലൊനീക്യർ
+2Thess	2 തെസ്സലൊനീക്യർ
+2Thess	2.. തെസ്സ
+2Thess	2. തെസ്സ
+2Thess	2 തെസ്സ
+2Thess	2Thess
+2Tim	2.. തിമൊഥെയൊസ് 2.. തിമൊ
+2Tim	2. തിമൊഥെയൊസ് 2.. തിമൊ
+2Tim	2.. തിമൊഥെയൊസ് 2. തിമൊ
+2Tim	2 തിമൊഥെയൊസ് 2.. തിമൊ
+2Tim	2. തിമൊഥെയൊസ് 2. തിമൊ
+2Tim	2.. തിമൊഥെയൊസ് 2 തിമൊ
+2Tim	2 തിമൊഥെയൊസ് 2. തിമൊ
+2Tim	2. തിമൊഥെയൊസ് 2 തിമൊ
+2Tim	2 തിമൊഥെയൊസ് 2 തിമൊ
+2Tim	2.. തിമൊഥയൊസ്
+2Tim	2. തിമൊഥയൊസ്
+2Tim	2 തിമൊഥയൊസ്
+2Tim	2Tim
+3John	3.. യോഹന്നാൻ
+3John	3. യോഹന്നാൻ
+3John	3 യോഹന്നാൻ
+3John	3.. യോഹ
+3John	3. യോഹ
+3John	3 യോഹ
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	അപ്പ. പ്രവര്‍ത്തനങ്ങള്‍
+Acts	അപ്പ പ്രവര്‍ത്തനങ്ങള്‍
+Acts	അപ്പൊ. പ്രവൃത്തികൾ
+Acts	അപ്പൊ പ്രവൃത്തികൾ
+Acts	പ്രവൃത്തികൾ
+Acts	അ. പ്ര
+Acts	അ പ്ര
+Acts	അ.പ്ര
+Acts	Acts
+Acts	അ. പ
+Acts	അപ്ര
+Acts	അ പ
+Acts	അ.പ
+Acts	അപ
+Amos	ആമോസ്
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	കൊലൊസ്സ്യർ
+Col	കൊളോസോസ്
+Col	കൊലൊ
+Col	Col
+Dan	ദാനീയേൽ
+Dan	ദാനീ
+Dan	Dan
+Deut	ആവർത്തനപുസ്തകം
+Deut	ആവർത്തനം
+Deut	Deut
+Deut	ആവർ
+Deut	ആവ
+Eccl	സഭാപ്രസംഗി
+Eccl	Eccl
+EpJer	EpJer
+Eph	എഫെസ്യർ
+Eph	എഫേസോസ്
+Eph	Eph
+Eph	എഫെ
+Esth	എസ്ഥേർ
+Esth	Esth
+Exod	പുറപ്പാടു്
+Exod	പുറപ്പാട്
+Exod	Exod
+Exod	പുറ
+Ezek	യെഹെസ്കേൽ
+Ezek	യേഹേസ്കേൽ
+Ezek	Ezek
+Ezra	എസ്രാ
+Ezra	Ezra
+Gal	ഗലാത്തിയാ
+Gal	ഗലാത്യർ
+Gal	Gal
+Gal	ഗലാ
+Gen	ഉല്പ്പത്തി
+Gen	ഉല്പത്തി
+Gen	ഉല്പ
+Gen	Gen
+GkEsth	GkEsth
+Hab	ഹബക്കൂക്‍
+Hab	ഹബക്കൂൿ
+Hab	Hab
+Hag	ഹഗ്ഗായി
+Hag	Hag
+Heb	എബ്രായർ
+Heb	എബ്രാ
+Heb	Heb
+Hos	ഹോശേയ
+Hos	Hos
+Isa	യെശയ്യാവു
+Isa	യെശയ്യാവ്
+Isa	യെശയ്യാ
+Isa	Isa
+Isa	യെശ
+Jas	യാക്കോബ്
+Jas	യാക്കോ
+Jas	Jas
+Jdt	Jdt
+Jer	യിരെമ്യാവു
+Jer	യിരേമ്യാവു
+Jer	യിരെ
+Jer	Jer
+Job	ഇയ്യോബ്
+Job	ഇയ്യോ
+Job	Job
+Joel	യോവേൽ
+Joel	Joel
+John	യോഹന്നാൻ
+John	John
+John	യോഹ
+Jonah	Jonah
+Jonah	യോനാ
+Josh	യോശുവ
+Josh	Josh
+Jude	യുദാസ്
+Jude	Jude
+Jude	യൂദാ
+Judg	ന്യായാധിപന്മാർ
+Judg	Judg
+Lam	വിലാപങ്ങൾ
+Lam	Lam
+Lev	ലേവ്യപുസ്തകം
+Lev	Lev
+Luke	ലൂക്കൊസ്
+Luke	ലൂക്കോസ്
+Luke	ലൂക്കൊ
+Luke	Luke
+Mal	മലാഖി
+Mal	Mal
+Mark	മർക്കൊസ്
+Mark	മർക്കൊ
+Mark	Mark
+Matt	മത്തായി
+Matt	മത്താ
+Matt	Matt
+Mic	മീഖാ
+Mic	Mic
+Nah	നഹൂം
+Nah	Nah
+Neh	നെഹെമ്യാവു
+Neh	Neh
+Num	സംഖ്യാപുസ്തകം
+Num	സംഖ്യാ
+Num	Num
+Obad	ഓബദ്യാവു
+Obad	Obad
+Phil	ഫിലിപ്പിയർ
+Phil	ഫിലിപ്പി
+Phil	Phil
+Phil	ഫിലി
+Phlm	ഫിലേമോൻ
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	സദൃശ്യവാക്യങ്ങൾ
+Prov	സദൃശവാക്യങ്ങൾ
+Prov	Prov
+Prov	സദൃശ
+Ps	സങ്കീർത്തനങ്ങൾ
+Ps	സങ്കീ
+Ps	Ps
+Rev	വെളിപ്പാടു
+Rev	വെളിപാട്
+Rev	വെളി
+Rev	Rev
+Rom	റോമർ
+Rom	Rom
+Rom	റോമ
+Ruth	രൂത്ത്
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	ഉത്തമ ഗീതം
+Song	ഉത്തമഗീതം
+Song	Song
+Sus	Sus
+Titus	തീത്തൊസ്
+Titus	തീത്തൊ
+Titus	Titus
+Tob	Tob
+Wis	Wis
+Zech	സെഖർയ്യാവു
+Zech	സെഖര്യാവു
+Zech	സെഖര്യാവ്
+Zech	സെഖര്യാ
+Zech	Zech
+Zeph	സെഫന്യാവു
+Zeph	Zeph

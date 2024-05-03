@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanija",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Riječ Jahvina upućena Sefaniji, sinu Kušija, sina Gedalijina, sina Amarjina, sina Ezekijina, u vrijeme Jošije, sina Amonova, kralja judejskoga.",
+			"2": "<sup>2</sup> \"Da, sve ću zbrisati s lica zemlje\" - riječ je Jahvina!",
+			"3": "<sup>3</sup> \"Izbrisat ću ljude i zvijeri, ptice nebeske i ribe morske, učinit ću da padnu bezbožnici, istrijebit ću ljude s lica zemlje\" - riječ je Jahvina!",
+			"4": "<sup>4</sup> \"Podignut ću ruku na Judu i na sve stanovnike Jeruzalema i istrijebit ću iz ovoga mjesta ostatak Baalov, ime služitelja idolskih sa svećenicima njegovim;",
+			"5": "<sup>5</sup> one koji se klanjaju na krovovima vojsci nebeskoj, one koji se klanjaju pred Jahvom a zaklinju se Milkomom;",
+			"6": "<sup>6</sup> one koji su se odmetnuli od Jahve, koji ne traže Jahvu i nimalo za nj ne mare.",
+			"7": "<sup>7</sup> Tišina pred Jahvom Gospodom, jer je dan Jahvin blizu! Da, Jahve je prigotovio žrtvu, posvetio je svoje uzvanike.",
+			"8": "<sup>8</sup> \"U dan žrtve Jahvine, kaznit ću knezove, sinove kraljeve, i sve koji se oblače na način tuđinski.",
+			"9": "<sup>9</sup> Kaznit ću u taj dan sve koji preko praga poskakuju, koji Dom Gospodara svojega pune nasiljem i prijevarom.",
+			"10": "<sup>10</sup> \"U onaj dan\" - riječ je Jahvina - \"vapaj će se podići od Ribljih vrata, urlici iz novog dijela grada, silna lomljavina sa brežuljaka.",
+			"11": "<sup>11</sup> Kukajte, stanovnici makteški, jer je satrt sav narod kanaanski, zbrisani su svi mjerači srebra.",
+			"12": "<sup>12</sup> I u to vrijeme pretražit ću Jeruzalem sa zubljama i pohodit ću kaznom ljude koji miruju na svojoj vinskoj droždini i u svom srcu govore: `Jahve ne može učiniti ni dobro ni zlo.`",
+			"13": "<sup>13</sup> Blago njihovo bit će prepušteno pljački, njihove kuće pustošenju. Oni su gradili kuće - neće u njima stanovati; sadili su vinograde - iz njih vina neće piti.",
+			"14": "<sup>14</sup> Blizu je dan Jahvin, veliki! Blizu je i žurno dolazi! Gorak je glas dana Jahvina: tada će i junak zajaukati.",
+			"15": "<sup>15</sup> Dan gnjeva, onaj dan! Dan tjeskobe i nevolje! Dan užasa i pustošenja! Dan pomrčine i naoblake! Dan tmina i magluština!",
+			"16": "<sup>16</sup> Dan trubljavine i bojne vike na gradove utvrđene i na visoka kruništa.",
+			"17": "<sup>17</sup> \"Prepustit ću ljude nevoljama i vrludat će kao slijepci (jer su protiv Jahve sagriješili), krv će se njihova prosuti kao prašina, njihova trupla bit će bačena kao smeće.",
+			"18": "<sup>18</sup> Ni njihovo srebro ni njihovo zlato neće ih spasiti.\" U dan gnjeva Jahvina oganj njegove revnosti svu će zemlju sažeći. Jer on će uništiti, zatrti sve stanovnike zemlje."
+		},
+		"2": {
+			"1": "<sup>1</sup> Saberite se, skupite, narode bestidni",
+			"2": "<sup>2</sup> prije nego budete izgnani kao pljeva koja se u dan rasprši, prije nego stigne na vas plamen i gnjev Jahvin, prije nego stigne na vas dan gnjeva Jahvina.",
+			"3": "<sup>3</sup> Tražite Jahvu, svi skromni na zemlji, svi koji izvršavate odredbe njegove! Tražite pravdu, tražite poniznost: vi ćete možda biti zaštićeni u dan gnjeva Jahvina.",
+			"4": "<sup>4</sup> Da, Gaza će postati pustinja, Aškelon pustoš. Ašdod u puklo podne bit će izgnan, Ekron iz temelja iščupan.",
+			"5": "<sup>5</sup> Teško stanovnicima obale morske, narodu kretskome! Evo riječi Jahvine protivu vas: \"Ja ću te poniziti, zemljo Filistejaca, uništit ću te, istrijebit ću sve tvoje stanovnike!",
+			"6": "<sup>6</sup> I postat ćeš ispaša, pasište pastirsko i ograda za stado.",
+			"7": "<sup>7</sup> I taj kraj pripast će u dio Ostatku doma Judina; tu će oni izvoditi blago na pašu; uvečer se odmarati u kućama aškelonskim, jer će ih pohoditi Jahve, Bog njihov, i on će promijeniti sudbinu njihovu.",
+			"8": "<sup>8</sup> Čuo sam uvredu Moabovu i podrugivanja sinova Amonovih kad su vrijeđali moj narod i ponosili se zemljištem svojim.",
+			"9": "<sup>9</sup> \"Zato, života mi moga!\" - riječ je Jahve nad Vojskama, Boga Izraelova: \"Moab će postati kao Sodoma i sinovi Amonovi kao Gomora: polje obraslo koprivom, hrpa soli pustoš dovijeka. Ostatak moga naroda oplijenit će ih, preostatak moga naroda zaposjest će ih.",
+			"10": "<sup>10</sup> To će biti cijena za njihovu oholost jer su se uznosili i rugali narodu Jahve nad Vojskama.",
+			"11": "<sup>11</sup> Za njih će Jahve biti strašan: kad uništi sve bogove zemaljske, pred njim će se pokloniti - svaki na svojoj zemlji - svi otoci naroda.",
+			"12": "<sup>12</sup> I vi, Etiopljani: \"Vi ćete biti probijeni mojim mačem.",
+			"13": "<sup>13</sup> Zatim će svoju ruku dići protiv Sjevera i razrušit će zemlju asirsku, od Ninive će pustoš učiniti, suhu pustoš kao pustinja.",
+			"14": "<sup>14</sup> Usred nje će stado ležati, zvijeri svakojake; čaplje i pelikani počivat će noću na glavicama stupova, sova će hukati na prozoru, gavran graktati na pragu.",
+			"15": "<sup>15</sup> To li je veseli grad koji je stolovao u miru, koji je u svom srcu govorio: \"Ja, i jedino ja!\" Gledaj! Postade razvalina, brlog zvjerinji! Svi koji pokraj njega prolaze zvižde i mašu rukama."
+		},
+		"3": {
+			"1": "<sup>1</sup> Teško nepokornom, okaljanom, nasilničkom gradu!",
+			"2": "<sup>2</sup> On nikada nije čuo poziva, nikada nije prihvatio pouku; Jahvi on se nikada nije povjerio; svome Bogu nije se nikada približio.",
+			"3": "<sup>3</sup> Njegovi su knezovi usred njega - lavovi koji riču; njegovi su suci - vuci večernji koji do jutra nisu kosti glodali;",
+			"4": "<sup>4</sup> proroci su njegovi - razmetljivci, puki lažljivci, svećenici njegovi skvrne Svetište, krše Zakon.",
+			"5": "<sup>5</sup> Usred njega, Jahve je pravedan - on ne čini nepravde; svako jutro iznosi svoju pravicu, u praskozorje ne izostaje; ali bezbožnik srama ne poznaje.",
+			"6": "<sup>6</sup> \"Uništio sam narode, razorena su kruništa kula njihovih, poharao sam njihove ulice: nema više prolaznika! Razoreni su njihovi gradovi: nema ljudi, nema stanovnika!",
+			"7": "<sup>7</sup> Govorio sam: `Ti ćeš se mene ipak bojati, prigrlit ćeš pouku; u njihovim očima ne mogu nestati toliki moji pohodi.` Ali ne! - oni su žurno pokvarili sva djela svoja.",
+			"8": "<sup>8</sup> Zato mene čekajte - riječ je Jahvina - do dana kad ustanem kao tužilac; jer ja sam odredio da se sakupe narodi, da se saberu kraljevstva, da na vas gnjev svoj izlijem, svu gorčinu svoje srdžbe: u vatri moje ljubomore bit će sva zemlja sažgana.",
+			"9": "<sup>9</sup> Dat ću narodima čiste usne, da svi mogu zazivati ime Jahvino i služiti mu jednodušno.",
+			"10": "<sup>10</sup> S druge obale rijeka etiopskih prinosit će mi žrtvene darove moji štovaoci.",
+			"11": "<sup>11</sup> U onaj dan nećeš se sramiti svih svojih nedjela koja si protiv mene počinio, jer ću ukloniti iz tebe tvoje ohole hvalisavce; i nećeš se više šepiriti na Svetoj gori mojoj,",
+			"12": "<sup>12</sup> jer ću pustiti da u tebi opstane samo skroman i čedan narod, i u imenu Jahvinu tražit će okrilje",
+			"13": "<sup>13</sup> Ostatak Izraelov. Oni neće više činiti nepravdu, neće više govoriti laži; u njihovim ustima neće se više naći jezik prijevarni. Moći će pasti i odmarati se, i nitko im neće smetati.",
+			"14": "<sup>14</sup> Klikći od radosti, Kćeri sionska, viči od veselja, Izraele! Veseli se i raduj se iz sveg srca, Kćeri jeruzalemska!",
+			"15": "<sup>15</sup> Jahve te riješio tvoje osude, neprijatelje tvoje uklonio! Jahve, kralj Izraelov, u sredini je tvojoj! Ne boj se više zla!",
+			"16": "<sup>16</sup> U onaj dan reći će se Jeruzalemu: \"Ne boj se, Sione! Neka ti ne klonu ruke!",
+			"17": "<sup>17</sup> Jahve, Bog tvoj, u sredini je tvojoj, silni spasitelj! On će se radovati tebi pun veselja, obnovit će ti svoju ljubav, kliktat će nad tobom radosno",
+			"18": "<sup>18</sup> kao u dan svečani. Odvratio sam od tebe nevolju da na sebi više ne nosiš sramotu.",
+			"19": "<sup>19</sup> Evo svladavam sve tvoje tlačitelje. U ono vrijeme izbavit ću sve hrome, sabrat ću prognane, pribavit im hvalu i diku po svoj zemlji gdje ih sramota bijaše dopala.",
+			"20": "<sup>20</sup> U ono vrijeme ja ću vas dovesti, u ono vrijeme ja ću vas sabrati! Tada ću vam dati hvalu i diku među narodima zemlje, kad okrenem vašu sudbinu pred vašim očima\" - govori Jahve."
+		}
+	}
+};
+module.exports = book;

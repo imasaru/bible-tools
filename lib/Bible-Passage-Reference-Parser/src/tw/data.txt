@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	ne
+$CHAPTER	ti
+$FF	ff
+$TITLE	title
+$TRANS	asw
+$TO	kosi
+$VERSE	nkyekyem
+$UNICODE_BLOCK	Latin
+
+Gen	Gyenesis	1 Mose	1Mos	1Mo	Gen	Gyen
+Exod	Eksodɔs	2 Mose	2Mos	2Mo	Ex	Exo	Exod	Eks
+Lev	Lewitikɔs	3 Mose	3Mos	3Mo	Lev	Lew
+Num	Numeri	4 Mose	4Mos	4Mo	Num
+Deut	Deuteronomium	5 Mose	Deut
+Josh	Yosua	Yosua	Josh
+Judg	Atemmufoɔ	Atemmufo	Atem
+Ruth	Rut	Rut
+1Sam	1 Samuel	1 Samuel	1 Sam
+2Sam	2 Samuel	2 Samuel	2 Sam
+1Kgs	1 Ahemfo	1 Ahemfo	1 Ahe
+2Kgs	2 Ahemfo	2 Ahemfo	2 Ahe
+1Chr	1 Berɛsosɛm	1 Beresosɛm	1 Ber
+2Chr	2 Berɛsosɛm	2 Beresosɛm	2 Ber
+Ezra	Esra	Ɛsra	Es
+Neh	Nehemia	Nehemia	Neh
+Esth	Ester	Ɛster
+Job	Hiob	Hiob
+Ps	Nnwom	Dw
+Prov	Mmebusɛm
+Eccl	Ɔsɛnkafoɔ	Ɔsɛnkafo
+Song	Nnwom mu dwom	Nnwom Mu Dwom
+Isa	Yesaia	Yes
+Jer	Yeremia	Yer
+Lam	Kwadwom
+Ezek	Hesekiel	Hes
+Dan	Daniel	Dan
+Hos	Hosea	Hos
+Joel	Yoel	Yoɛl
+Amos	Amos	Amos
+Obad	Obadia
+Jonah	Yona
+Mic	Mika
+Nah	Nahum
+Hab	Habakuk
+Zeph	Sefania
+Hag	Hagai
+Zech	Sakaria
+Mal	Malaki
+Matt	Mateo	Mat	Mt
+Mark	Marko	Mar	Mrk
+Luke	Luka	Luk	Lk
+John	Yohane	Yoh
+Acts	Asomafoɔ	Asomafo	Asom
+Rom	Romafoɔ	Romafo	Rom
+1Cor	1 Korintofoɔ	1 Korintofo	1 Kor	1Kor
+2Cor	2 Korintofoɔ	2 Korintofo	2 Kor	2Kor
+Gal	Galatifoɔ	Galatifo	Gal
+Eph	Efesofoɔ	Efesofo	Efe
+Phil	Filipifoɔ	Filipifo	Flp
+Col	Kolosefoɔ	Kolosefo	Kol
+1Thess	1 Tesalonikafoɔ	1 Tesalonikafo	1 Tesa
+2Thess	2 Tesalonikafoɔ	2 Tesalonikafo	2 Tesa
+1Tim	1 Timoteo	1 Timoteo	1 Tim
+2Tim	2 Timoteo	2 Timoteo	2 Tim
+Titus	Tito	Tit
+Phlm	Filemon
+Heb	Hebrifoɔ	Hebrifo	Heb
+Jas	Yakobo	Yak
+1Pet	1 Petro	1 Petro	1 Pet	2Pet	1Pt
+2Pet	2 Petro	2 Petro	2 Pet	2Pet	2Pt
+1John	1 Yohane	1 Yoh
+2John	2 Yohane	2 Yoh
+3John	3 Yohane	3 Yoh
+Jude	Yuda
+Rev	Adiyisɛm	Adi
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

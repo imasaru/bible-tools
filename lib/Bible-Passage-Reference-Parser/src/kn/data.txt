@@ -1,0 +1,275 @@
+$FIRST	1	೧
+$SECOND	2	೨
+$THIRD	3	೩
+$FOURTH	4
+$AB	[a-e]
+$AND	ಮತ್ತು
+$CHAPTER	ಅಧ್ಯಾಯ	ಅಧ್ಯಾಯಗಳು
+$FF	ff
+$TITLE	title
+$TRANS	krv
+$TO	ಗೆ	ರಿಂದ
+$VERSE	ಪದ್ಯ
+$UNICODE_BLOCK	Latin
+
+Gen	ಆದಿಕಾಂಡ	ಆದಿ	ಆ.ಕಾ	ಆ.ಕಾಂಡ
+Exod	ವಿಮೋಚನಕಾಂಡ	ವಿಮೋ	ವಿ.ಕಾ	ವಿ.ಕಾಂಡ
+Lev	ಯಾಜಕಕಾಂಡ	ಯಾಜ
+Num	ಅರಣ್ಯಕಾಂಡ	ಅರಣ್ಯ	ಸಂಖ್ಯಾಕಾಂಡ	ಯಾಕಾಂಡ
+Deut	ಧರ್ಮೋಪದೇಶಕಾಂಡ	ಧರ್ಮೋ	ಧ.ಕಾ	ಧ.ಕಾಂಡ
+Josh	ಯೆಹೋಶುವ	ಯೆಹೋ
+Judg	ನ್ಯಾಯಸ್ಥಾಪಕರು	ನ್ಯಾಯ
+Ruth	ರೂತಳು	ರೂತ
+1Sam	1 ಸಮುವೇಲನು	1 ಸಮು	೧ ಸಮುವೇಲನು	1 ಸಮುವೇಲ
+2Sam	2 ಸಮುವೇಲನು	2 ಸಮು	೨ ಸಮುವೇಲನು	2 ಸಮುವೇಲ
+1Kgs	1 ಅರಸುಗಳು	1 ಅರಸು	೧ ಅರಸುಗಳು
+2Kgs	2 ಅರಸುಗಳು	2 ಅರಸು	೨ ಅರಸುಗಳು
+1Chr	1 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ	1 ಪೂರ್ವ	೧ ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ	$FIRST ಪೂ.ವೃ.ಕಾ
+2Chr	2 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ	2 ಪೂರ್ವ	೨ ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ	$SECOND ಪೂ.ವೃ.ಕಾ
+Ezra	ಎಜ್ರನು	ಎಜ್ರ
+Neh	ನೆಹೆಮೀಯ	ನೆಹೆ
+Esth	ಎಸ್ತೇರಳು	ಎಸ್ತೇ
+Job	ಯೋಬನು	ಯೋಬ	ಯೋಬನು ಗ್ರಂಥ
+Ps	ಕೀರ್ತನೆಗಳು	ಕೀರ್ತ	ಕೀರ್ತನೆ
+Prov	ಜ್ಞಾನೋಕ್ತಿಗಳು	ಜ್ಞಾನೋ	ಜ್ಞಾ
+Eccl	ಪ್ರಸಂಗಿ	ಪ್ರಸ
+Song	ಪರಮಗೀತ	ಪ.ಗೀ.	ಪರಮಗೀತೆ
+Isa	ಯೆಶಾಯ	ಯೆಶಾ	ಪ್ರವಾದಿ ಯೆಶಾಯನ ಗ್ರಂಥ
+Jer	ಯೆರೆಮೀಯ	ಯೆರೆ	ಪ್ರವಾದಿ ಯೆರೆಮೀಯನ ಗ್ರಂಥ
+Lam	ಪ್ರಲಾಪಗಳು	ಪ್ರಲಾ
+Ezek	ಯೆಹೆಜ್ಕೇಲ	ಯೆಹೆ	ಪ್ರವಾದಿ ಯೆಜೆಕಿಯೇಲನ ಗ್ರಂಥ
+Dan	ದಾನಿಯೇಲನು	ದಾನಿ	ಪ್ರವಾದಿ ದಾನಿಯೇಲನ ಗ್ರಂಥ
+Hos	ಹೋಶೇಯ	ಹೋಶೇ	ಪ್ರವಾದಿ ಹೋಶೇಯನ ಗ್ರಂಥ
+Joel	ಯೋವೇಲ	ಯೋವೇ	ಪ್ರವಾದಿ ಯೋವೇಲನ ಗ್ರಂಥ
+Amos	ಆಮೋಸ	ಆಮೋ	ಪ್ರವಾದಿ ಆಮೋಸನ ಗ್ರಂಥ
+Obad	ಓಬದ್ಯ	ಓಬ	ಪ್ರವಾದಿ ಓಬದ್ಯನ ಗ್ರಂಥ
+Jonah	ಯೋನ	ಯೋನ	ಪ್ರವಾದಿ ಯೋನನ ಗ್ರಂಥ
+Mic	ಮೀಕ	ಮೀಕ	ಪ್ರವಾದಿ ಮೀಕನ ಗ್ರಂಥ
+Nah	ನಹೂಮ	ನಹೂ	ಪ್ರವಾದಿ ನಹೂಮನ ಗ್ರಂಥ
+Hab	ಹಬಕ್ಕೂಕ	ಹಬ	ಪ್ರವಾದಿ ಹಬಕ್ಕೂಕನ ಗ್ರಂಥ
+Zeph	ಚೆಫನ್ಯ	ಚೆಫ	ಪ್ರವಾದಿ ಜೆಫನ್ಯನ ಗ್ರಂಥ
+Hag	ಹಗ್ಗಾಯ	ಹಗ್ಗಾ	ಪ್ರವಾದಿ ಹಗ್ಗಾಯನ ಗ್ರಂಥ
+Zech	ಜೆಕರ್ಯ	ಜೆಕ	ಪ್ರವಾದಿ ಜೆಕರ್ಯನ ಗ್ರಂಥ
+Mal	ಮಲಾಕಿಯ	ಮಲಾ	ಪ್ರವಾದಿ ಮಲಾಕಿಯನ ಗ್ರಂಥ
+Matt	ಮತ್ತಾಯ	ಮತ್ತಾ
+Mark	ಮಾರ್ಕ
+Luke	ಲೂಕ
+John	ಯೋಹಾನ	ಯೋಹಾ	ಯೊವಾನ್ನ
+Acts	ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು	ಅ. ಕೃ.	ಪ್ರೇಷಿತರ ಕಾರ್ಯಕಲಾಪಗಳು
+Rom	ರೋಮಾಪುರದವರಿಗೆ	ರೋಮಾ	ರೋಮನರಿಗೆ	ರೋಮ
+1Cor	1 ಕೊರಿಂಥದವರಿಗೆ	1 ಕೊರಿ	೧ ಕೊರಿಂಥಿಯರಿಗೆ	$FIRST ಕೊರಿಂಥ
+2Cor	2 ಕೊರಿಂಥದವರಿಗೆ	2 ಕೊರಿ	೨ ಕೊರಿಂಥಿಯರಿಗೆ	$SECOND ಕೊರಿಂಥ
+Gal	ಗಲಾತ್ಯದವರಿಗೆ	ಗಲಾ	ಗಲಾತ್ಯರಿಗೆ	ಗಲಾತ್ಯ
+Eph	ಎಫೆಸದವರಿಗೆ	ಎಫೆ	ಎಫೆಸಿಯರಿಗೆ	ಎಫೆಸ
+Phil	ಫಿಲಿಪ್ಪಿಯವರಿಗೆ	ಫಿಲಿಪ್ಪಿ	ಫಿಲಿಪ್ಪಿಯರಿಗೆ	ಫಿಲಿ
+Col	ಕೊಲೊಸ್ಸೆಯವರಿಗೆ	ಕೊಲೊ	ಕೊಲೊಸ್ಸೆಯರಿಗೆ
+1Thess	1 ಥೆಸಲೋನಿಕದವರಿಗೆ	1 ಥೆಸ	೧ ಥೆಸಲೋನಿಯರಿಗೆ
+2Thess	2 ಥೆಸಲೋನಿಕದವರಿಗೆ	2 ಥೆಸ	೨ ಥೆಸಲೋನಿಯರಿಗೆ
+1Tim	1 ತಿಮೊಥೆಯನಿಗೆ	1 ತಿಮೊ	೧ ತಿಮೊಥೇಯನಿಗೆ	$FIRST ತಿಮೊಥಿ
+2Tim	2 ತಿಮೊಥೆಯನಿಗೆ	2 ತಿಮೊ	೨ ತಿಮೊಥೇಯನಿಗೆ	$SECOND ತಿಮೊಥಿ
+Titus	ತೀತನಿಗೆ	ತೀತ
+Phlm	ಫಿಲೆಮೋನನಿಗೆ	ಫಿಲೆ
+Heb	ಇಬ್ರಿಯರಿಗೆ	ಇಬ್ರಿ	ಹಿಬ್ರಿಯರಿಗೆ	ಇಬ್ರಿಯ
+Jas	ಯಾಕೋಬನು	ಯಾಕೋ
+1Pet	1 ಪೇತ್ರನು	1 ಪೇತ್ರ	೧ ಪೇತ್ರನು
+2Pet	2 ಪೇತ್ರನು	2 ಪೇತ್ರ	೨ ಪೇತ್ರನು
+1John	1 ಯೋಹಾನನು	1 ಯೋಹಾ	೧ ಯೊವಾನ್ನನು	$FIRST ಯೋಹಾನ
+2John	2 ಯೋಹಾನನು	2 ಯೋಹಾ	೨ ಯೊವಾನ್ನನು	$SECOND ಯೋಹಾನ
+3John	3 ಯೋಹಾನನು	3 ಯೋಹಾ	೩ ಯೊವಾನ್ನನು	$THIRD ಯೋಹಾನ
+Jude	ಯೂದನು	ಯೂದ
+Rev	ಪ್ರಕಟನೆ	ಪ್ರಕ
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

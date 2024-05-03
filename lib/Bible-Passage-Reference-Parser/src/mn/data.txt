@@ -1,0 +1,276 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$FIFTH	5
+$AB	[a-e]
+$AND	болон
+$CHAPTER	бүлэг
+$FF	ff
+$TITLE	Гарчиг
+$TRANS	AB2013
+$TO	do
+$VERSE	шүлэг
+$UNICODE_BLOCK	Cyrillic
+
+Gen	Эхлэл	Эх	Эхл
+Exod	Египетээс гарсан нь	Гэтлэл	Ег	Гэт	Егга	Ег.гар	Ег. Г
+Lev	Левит	Леви	Лев	Лв
+Num	Тооллого	Тоо	То
+Deut	Дэд хууль	Дх	Дэд х	Д. Хууль	Д.Х.
+Josh	Иошуа	Иош
+Judg	Шүүгчид	Шүү
+Ruth	Рут	Рут
+1Sam	1 Самуел	1 См	1 Сам
+2Sam	2 Самуел	2 См	2 Сам
+1Kgs	Хаадын дээд	1 Хаад	Хдээ	1 Ха	Хдээд	Х. Дээд	Ха. Дээд
+2Kgs	Хаадын дэд	2 Хаад	Хдэд	2 Ха	Х. Дэд	Ха. Дэд
+1Chr	Шастирын дээд	1 Шастир	Шдээ	1 Шс	1 Шас	Ш. дээд	Ша. Дэээд
+2Chr	Шастирын дэд	2 Шастир	Шдэд	2 Шс	2 Шас	Ш. дэд	Ша. Дэд
+Ezra	Езра	Езр	Ез
+Neh	Нехемиа	Нех
+Esth	Естер	Ест
+Job	Иов	Иов
+Ps	Дуулал	Дуу	Дуул
+Prov	Сургаалт үгс	Сур	Сурүг	Сур. үгс	Су. үг	Сур. үг
+Eccl	Номлогчийн үгс	Ном	Ном үг	Ном. үг
+Song	Соломоны дуун	Сол	Сд	Со дуун	Со. дуу
+Isa	Исаиа	Иса
+Jer	Иеремиа	Иер
+Lam	Гашуудал	Гаш
+Ezek	Езекиел	Езе	Езк	Езек
+Dan	Даниел	Дан
+Hos	Хосеа	Хос
+Joel	Иоел	Иое
+Amos	Амос	Амо	Ам
+Obad	Обадиа	Оба
+Jonah	Иона	Ион
+Mic	Мика	Мик
+Nah	Нахум	Наху	Нах
+Hab	Хабаккук	Хаб
+Zeph	Зефаниа	Зеф
+Hag	Хаггаи	Хаг
+Zech	Зехариа	Зех
+Mal	Малахи	Мал
+Matt	Матай	Мат	Мт
+Mark	Марк	Мар	Мк
+Luke	Лук	Лук	Лк
+John	Иохан	Иох
+Acts	Үйлс	Үйл
+Rom	Ром	Ром
+1Cor	1 Коринт	1 Ко	1 Кор
+2Cor	2 Коринт	2 Ко	2 Кор
+Gal	Галат	Гал
+Eph	Ефес	Еф
+Phil	Филиппой	Фил	Флп
+Col	Колоссай	Кол
+1Thess	1 Тесалоник	1 Тес	1 Тс
+2Thess	2 Тесалоник	2 Тес	2 Тс
+1Tim	1 Тимот	1 Ти	1 Тм	1 Тим
+2Tim	2 Тимот	2 Ти	2 Тм	2 Тим
+Titus	Тит	Тит
+Phlm	Филемон	Фил	Флм	Филе
+Heb	Еврей	Евр
+Jas	Иаков	Иак	Ик
+1Pet	1 Петр	1 Пе	1 Пт	1 Пет	1 Пр
+2Pet	2 Петр	2 Пе	2 Пт	2 Пет	2 Пр
+1John	1 Иохан	1 Ио	1 Иох
+2John	2 Иохан	2 Ио	2 Иох
+3John	3 Иохан	3 Ио	3 Иох
+Jude	Иуда	Иуда	Иуд
+Rev	Илчлэлт	Илчлэл	Илч
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

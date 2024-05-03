@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	bad
+$CHAPTER	lynnong
+$FF	ff
+$TITLE	khb
+$TRANS	khb
+$TO	sha
+$VERSE	dkhot
+$UNICODE_BLOCK	Latin
+
+Gen	Jenesis	Jen	Genesis
+Exod	Eksodos	Eksod
+Lev	Lebitikos	Leb
+Num	Jingkhein	Jingkheiñ	Jingk
+Deut	Deuteronomi	Deut
+Josh	Joshua	Josh
+Judg	Ki Nongbishar	Nongbishar	Nongb
+Ruth	Ruth	Ruth
+1Sam	1 ?Samuel	1 ?Sam
+2Sam	2 ?Samuel	2 ?Sam
+1Kgs	1 Ki Syiem	1 ?Syiem
+2Kgs	2 Ki Syiem	2 ?Syiem
+1Chr	1 Ki Khronikl	1 ?Khronikl	1 ?Khro
+2Chr	2 Ki Khronikl	2 ?Khronikl	2 ?Khro
+Ezra	Esra	Esra
+Neh	Nehemaiah	Nehemaïah	Nehe
+Esth	Esther	Esth
+Job	Job	Job
+Ps	Ki Salm	Salm	Salm
+Prov	Ki Proberb	Proberb	Prob
+Eccl	U Eklesiastis	Ekklesiastis	Ekle
+Song	Ka Jingrwai U Solomon	Jingrwai Solomon	Jingrwai
+Isa	Isaiah	Isaïah	Isa
+Jer	Jeremaiah	Jeremaïah	Jer	Jeremiah
+Lam	Ka JIngrwai Sngewsynei	Sngewsynei	Sngewsynei
+Ezek	Esekiel	Ezek
+Dan	Daniel	Dan
+Hos	Hosia	Hos	Hosea
+Joel	Joel	Joel
+Amos	Amos	Amos
+Obad	Obadaiah	Obadaïah	Obad
+Jonah	Jonah	Jon
+Mic	Mikah	Mik
+Nah	Nahum	Nah
+Hab	Habakkuk	Hab	Habakuk
+Zeph	Sephanaiah	Sephanaïah	Seph
+Hag	Haggai	Hag
+Zech	Sekharaiah	Sekharaïah	Sekh	Sekhariah
+Mal	Malakhi	Mal
+Matt	Mathaios	Mathaïos	Mt
+Mark	Markos	Mk
+Luke	Loukas	Lk	Lukas
+John	Ioannis	Ïoannis	Io	Ioanis
+Acts	Ki Kam Ki Apostol	Ki Kam	Ki Kam
+Rom	Ka Shithi Sha Ki Nongrom	Rom	Rom
+1Cor	1 Sha Ki Nong Korinth	1 ?Korinth	1 ?Kor
+2Cor	2 Sha Ki Nong Korinth	2 ?Korinth	2 ?kor
+Gal	Sha ki Galatia	Galatia	Gal
+Eph	Sha Ki Ephesos	Ephesos	Eph
+Phil	Sha Ki Philipi	Philippi	Phil
+Col	Sha Ki Kolosai	Kolossai	Kol	Kolosai
+1Thess	1 Sha Ki Thessaloni	1 Thessaloni	1 Thes
+2Thess	2 Sha Ki Thessaloni	2 Thessaloni	2 Thes
+1Tim	1 Sha U Timothi	1 ?Timothi	1 ?Tim
+2Tim	2 Sha U Timothi	2 ?Timothi	2 ?Tim
+Titus	Sha U Titos	Titos	Tit
+Phlm	Sha U Philemon	Philemon	Phile
+Heb	Sha Ki Hebru	Hebru	Heb
+Jas	U Jakob	Jakob	Jkb
+1Pet	1 U Petros	1 Petros	1 Pet
+2Pet	2 U Petros	2 Petros	2 Pet
+1John	1 ?Ioannis	1 ?Ïoannis	1 ?Io
+2John	2 ?Ioannis	2 ?Ïoannis	2 ?Io
+3John	3 ?Ioannis	3 ?Ïoannis	3 ?Io
+Jude	U Judah	Judah	Juda
+Rev	Ka Jingpynpaw	Jingpynpaw	Jpw
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

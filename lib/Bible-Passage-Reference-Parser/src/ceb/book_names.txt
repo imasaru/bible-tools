@@ -73,6 +73,8 @@
 1Tim	1 Kang Timoteo
 1Tim	1. Timoteo
 1Tim	1 Timoteo
+1Tim	1. Tim
+1Tim	1 Tim
 1Tim	1Tim
 2Chr	2. Mga Cronica
 2Chr	2. Mga Cronika
@@ -149,6 +151,8 @@
 2Tim	2 Kang Timoteo
 2Tim	2. Timoteo
 2Tim	2 Timoteo
+2Tim	2. Tim
+2Tim	2 Tim
 2Tim	2Tim
 3John	3. Juan
 3John	3 Juan
@@ -159,6 +163,7 @@
 Acts	Buhat sa mga Apostoles
 Acts	Ang Mga Binuhatan
 Acts	Binuhatan
+Acts	Buhat
 Acts	Acts
 Acts	Bin
 Amos	Amos
@@ -191,6 +196,7 @@ Esth	Ester
 Esth	Esth
 Exod	Eksodo
 Exod	Exodus
+Exod	Exodo
 Exod	Exod
 Exod	Exo
 Ezek	Ezequiel
@@ -256,6 +262,7 @@ Lev	Lebitiko
 Lev	Lev
 Luke	Sulat ni San Lucas
 Luke	Lucas
+Luke	Lukas
 Luke	Luke
 Luke	Lu
 Mal	Malaquias
@@ -264,13 +271,16 @@ Mal	Malakias
 Mal	Mal
 Mark	Sulat ni San Marcos
 Mark	Marcos
+Mark	Markos
 Mark	Mark
 Mark	Mc
 Mark	Mk
 Matt	Sulat ni San Mateo
 Matt	Mateo
 Matt	Matt
+Matt	Mat
 Matt	Mt
+Mic	Miqueias
 Mic	Miqueas
 Mic	Mika
 Mic	Mic
@@ -293,6 +303,7 @@ Phil	Mga Taga-Filipos
 Phil	Taga-Filipos
 Phil	Filipos
 Phil	Phil
+Phil	Fil
 Phlm	Kang Filemon
 Phlm	Kang Filemón
 Phlm	Filemon
@@ -308,6 +319,7 @@ Ps	Salmo
 Ps	Sal
 Ps	Ps
 Rev	Gipadayag
+Rev	Pin
 Rev	Rev
 Rom	Mga Taga-Roma
 Rom	Roma

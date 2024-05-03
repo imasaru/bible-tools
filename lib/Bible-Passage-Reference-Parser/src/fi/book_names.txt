@@ -4,6 +4,7 @@
 1Chr	I. Aikakirja
 1Chr	1 Aikakirja
 1Chr	I Aikakirja
+1Chr	1. Aikak
 1Chr	1 Aikak
 1Chr	1 Aik
 1Chr	1Chr
@@ -25,6 +26,7 @@
 1Cor	I. Korinttilaisille
 1Cor	1 Korinttilaisille
 1Cor	I Korinttilaisille
+1Cor	1. Kor
 1Cor	1 Kor
 1Cor	1Cor
 1Esd	Ensimmainen Esra
@@ -47,6 +49,7 @@
 1John	I. Johanneksen
 1John	1 Johanneksen
 1John	I Johanneksen
+1John	1. Joh
 1John	1 Joh
 1John	1John
 1Kgs	Ensimmainen Kuninkaiden kirja
@@ -61,6 +64,7 @@
 1Kgs	I. Kuninkaiden
 1Kgs	1 Kuninkaiden
 1Kgs	I Kuninkaiden
+1Kgs	1. Kun
 1Kgs	1 Kun
 1Kgs	1Kgs
 1Macc	Ensimmainen makkabilaiskirja
@@ -83,6 +87,7 @@
 1Pet	I. Pietarin
 1Pet	1 Pietarin
 1Pet	I Pietarin
+1Pet	1. Piet
 1Pet	1 Piet
 1Pet	1Pet
 1Sam	Ensimmainen Samuelin kirja
@@ -97,6 +102,7 @@
 1Sam	I. Samuelin
 1Sam	1 Samuelin
 1Sam	I Samuelin
+1Sam	1. Sam
 1Sam	1 Sam
 1Sam	1Sam
 1Thess	Ensimmainen Kirje tessalonikalaisille
@@ -117,6 +123,7 @@
 1Thess	I. Tessalonikalaisille
 1Thess	1 Tessalonikalaisille
 1Thess	I Tessalonikalaisille
+1Thess	1. Tess
 1Thess	1 Tess
 1Thess	1Thess
 1Tim	Ensimmainen Kirje Timoteukselle
@@ -137,6 +144,7 @@
 1Tim	1 Timoteuskirje
 1Tim	I Timoteukselle
 1Tim	I Timoteuskirje
+1Tim	1. Tim
 1Tim	1 Tim
 1Tim	1Tim
 2Chr	Toinen Aikakirja
@@ -144,6 +152,7 @@
 2Chr	2. Aikakirja
 2Chr	II Aikakirja
 2Chr	2 Aikakirja
+2Chr	2. Aikak
 2Chr	2 Aikak
 2Chr	2 Aik
 2Chr	2Chr
@@ -162,6 +171,7 @@
 2Cor	2. Korinttilaisille
 2Cor	II Korinttilaisille
 2Cor	2 Korinttilaisille
+2Cor	2. Kor
 2Cor	2 Kor
 2Cor	2Cor
 2Esd	Toinen Esra
@@ -197,6 +207,7 @@
 2Kgs	2. Kuninkaiden
 2Kgs	II Kuninkaiden
 2Kgs	2 Kuninkaiden
+2Kgs	2. Kun
 2Kgs	2 Kun
 2Kgs	2Kgs
 2Macc	Toinen makkabilaiskirja
@@ -216,6 +227,7 @@
 2Pet	2. Pietarin
 2Pet	II Pietarin
 2Pet	2 Pietarin
+2Pet	2. Piet
 2Pet	2 Piet
 2Pet	2Pet
 2Sam	Toinen Samuelin kirja
@@ -228,6 +240,7 @@
 2Sam	2. Samuelin
 2Sam	II Samuelin
 2Sam	2 Samuelin
+2Sam	2. Sam
 2Sam	2 Sam
 2Sam	2Sam
 2Thess	Toinen Kirje tessalonikalaisille
@@ -245,6 +258,7 @@
 2Thess	2. Tessalonikalaisille
 2Thess	II Tessalonikalaisille
 2Thess	2 Tessalonikalaisille
+2Thess	2. Tess
 2Thess	2 Tess
 2Thess	2Thess
 2Tim	Toinen Kirje Timoteukselle
@@ -262,6 +276,7 @@
 2Tim	II Timoteuskirje
 2Tim	2 Timoteukselle
 2Tim	2 Timoteuskirje
+2Tim	2. Tim
 2Tim	2 Tim
 2Tim	2Tim
 3John	Kolmas Johanneksen kirje
@@ -274,6 +289,7 @@
 3John	III Johanneksen
 3John	3. Johanneksen
 3John	3 Johanneksen
+3John	3. Joh
 3John	3 Joh
 3John	3John
 3Macc	Kolmas makkabilaiskirja
@@ -330,6 +346,7 @@ Deut	5. Mooseksen
 Deut	V. Mooseksen
 Deut	5 Mooseksen
 Deut	V Mooseksen
+Deut	5. Moos
 Deut	5 Moos
 Deut	Deut
 Eccl	Saarnaajan kirja
@@ -359,6 +376,7 @@ Exod	II. Mooseksen
 Exod	2. Mooseksen
 Exod	II Mooseksen
 Exod	2 Mooseksen
+Exod	2. Moos
 Exod	2 Moos
 Exod	Exod
 Ezek	Hesekielin kirja
@@ -386,6 +404,7 @@ Gen	1. Mooseksen
 Gen	I. Mooseksen
 Gen	1 Mooseksen
 Gen	I Mooseksen
+Gen	1. Moos
 Gen	1 Moos
 Gen	Gen
 GkEsth	Kreikkalainen Esterin kirja
@@ -467,6 +486,7 @@ Lev	III. Mooseksen
 Lev	III Mooseksen
 Lev	3. Mooseksen
 Lev	3 Mooseksen
+Lev	3. Moos
 Lev	3 Moos
 Lev	Lev
 Luke	Evankeliumi Luukkaan mukaan
@@ -508,6 +528,7 @@ Num	IV. Mooseksen
 Num	4. Mooseksen
 Num	IV Mooseksen
 Num	4 Mooseksen
+Num	4. Moos
 Num	4 Moos
 Num	Num
 Obad	Obadjan kirja

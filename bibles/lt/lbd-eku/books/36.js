@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonijo",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> VIEŠPATIES žodis Ezekijo sūnaus Amarijos sūnaus Gedalijos sūnaus Kušio sūnui Sofonijui Judo karaliaus Amono sūnaus Jošijo dienomis.",
+			"2": "<sup>2</sup> Šluote nušluosiu visa nuo žemės paviršiaus, – tai VIEŠPATIES žodis. –",
+			"3": "<sup>3</sup> Nušluosiu žmones ir gyvulius, nušluosiu padangių paukščius ir jūros žuvis. Parblokšiu nedorėlius, išnaikinsiu žmoniją nuo žemės paviršiaus, – tai VIEŠPATIES žodis. –",
+			"4": "<sup>4</sup> Pakelsiu ranką prieš Judą ir prieš visus Jeruzalės gyventojus. Išnaikinsiu iš šios vietos visas Baalo liekanas ir patį stabmeldžių kunigų vardą,",
+			"5": "<sup>5</sup> visus, kurie ant stogų garbina dangaus Galybes, visus, kurie garbina ir prisiekia VIEŠPAČIUI, bet prisiekia ir Melechui,",
+			"6": "<sup>6</sup> visus, kurie paliko VIEŠPATĮ ir nei VIEŠPATIES ieško, nei jo paiso.",
+			"7": "<sup>7</sup> Tylėk Viešpaties DIEVO akivaizdoje! Juk VIEŠPATIES diena arti; VIEŠPATS parengė kruviną auką, pašventė savo svečius.",
+			"8": "<sup>8</sup> VIEŠPATIES kruvinos aukos dieną nubausiu didžiūnus bei karaliaus sūnus ir visus, kurie rengiasi svetimšalių apdarais.",
+			"9": "<sup>9</sup> Tą dieną nubausiu visus, kurie šoka per slenkstį, pripildo savo valdovo namus smurto ir apgavysčių.",
+			"10": "<sup>10</sup> Ir tą dieną, – tai VIEŠPATIES žodis, – bus girdėti šauksmai nuo Žuvų vartų, aimanos iš Antrojo kvartalo, didelis bildesys nuo kalvų.",
+			"11": "<sup>11</sup> Aimanuoja Machtešo gyventojai, nes žuvo visi pirkliai; visi, kas sveria sidabrą, sunaikinti.",
+			"12": "<sup>12</sup> Tą dieną išnaršysiu Jeruzalę su žiburiu ir nubausiu žmones, kurie patenkinti ilsisi ant savo nuosėdų, manydami savo širdyse: „VIEŠPATS nedarys gero, bet nedarys nė pikto“.",
+			"13": "<sup>13</sup> Bus išplėšti jų turtai ir sunaikinti jų namai. Nors jie statosi namus, juose negyvens, nors jie veisia vynuogynus, jų vyno negers.",
+			"14": "<sup>14</sup> Didžioji VIEŠPATIES diena jau arti, arti ir sparčiai artėja. Klausykis, VIEŠPATIES diena! „Ji karti!“ – galiūnas ten klykia!",
+			"15": "<sup>15</sup> Tai bus pykčio diena, sielvarto ir skausmo diena, pražūties ir siaubo diena, tamsos ir sutemų diena, juodų debesų diena,",
+			"16": "<sup>16</sup> diena rago garsų ir kovos šauksmų prie įtvirtintų miestų ir didingų tvirtovių bokštų.",
+			"17": "<sup>17</sup> Sukelsiu žmonėms tokį sielvartą, kad jie vaikščios lyg akli. Kadangi jie nusidėjo VIEŠPAČIUI, jų kraujas bus išpilamas kaip dulkės ir jų viduriai išverčiami kaip mėšlas.",
+			"18": "<sup>18</sup> VIEŠPATIES pykčio dieną nepajėgs jų išgelbėti nei auksas, nei sidabras. Jo pavyduliavimo ugnyje bus sunaikinta visa žemė. Visišką ir baisų galą jis padarys visiems žemės gyventojams."
+		},
+		"2": {
+			"1": "<sup>1</sup> Susieikite, susirinkite, begėde tauta,",
+			"2": "<sup>2</sup> kol nesate išpustyti kaip pelai pavėjui, kol jūsų neištiko degantis VIEŠPATIES pyktis, kol neatėjo VIEŠPATIES įniršio diena.",
+			"3": "<sup>3</sup> Ieškokite VIEŠPATIES, visi krašto nuolankieji, kurie vykdote jo teisingumą; siekite teisumo, siekite nuolankumo, kad galėtumėte rasti prieglobstį VIEŠPATIES įniršio dieną.",
+			"4": "<sup>4</sup> Gaza bus apleista, Aškelonas virs dykyne, Ašdodo gyventojai viduryje dienos bus išvaryti, Ekronas išgriautas iki pamatų.",
+			"5": "<sup>5</sup> Vargas jums, pajūrio gyventojai, keretų tauta! VIEŠPATIES žodis prieš jus, Kanaane, filistinų šalie! Naikinsiu tave, ir tu liksi be gyventojų.",
+			"6": "<sup>6</sup> Tu, keretų pajūri, virsi ganyklomis, piemenų lankomis ir kaimenių aptvarais.",
+			"7": "<sup>7</sup> Pajūris priklausys Judo namų likučiui. Prie jūros jie ganys, o vakare Aškelono namuose guldys savo kaimenes, nes VIEŠPATS, jų Dievas, juos aplankys ir sugrąžins iš nelaisvės.",
+			"8": "<sup>8</sup> Girdėjau Moabo patyčias ir Amono užgaules, kai jie tyčiojosi iš mano tautos ir užgauliojo jų kraštą.",
+			"9": "<sup>9</sup> Todėl, kaip aš gyvas, – tai Galybių VIEŠPATIES, Izraelio Dievo žodis, – Moabas bus kaip Sodoma, o Amonas kaip Gomora: dilgėlių laukas, druskos dauba, amžina dykynė. Mano tautos likutis juos plėš, mano genties išlikusieji juos paveldės.",
+			"10": "<sup>10</sup> Tai bus už jų išdidumą, nes jie tyčiojosi ir didžiavosi prieš Galybių VIEŠPATIES tautą.",
+			"11": "<sup>11</sup> VIEŠPATS sukels jiems siaubą, padaręs bejėgius visus žemės dievus. Tuomet jį pagarbins, kiekvienas savo vietoje, visi tautų pajūriai ir salos.",
+			"12": "<sup>12</sup> Ir jūs, kušitai, būsite mano kalavijo išžudyti.",
+			"13": "<sup>13</sup> Jis pakels ranką šiaurės link ir sunaikins Asiriją; jis pavers Ninevę dykyne, tokia išdžiūvusia kaip dykuma.",
+			"14": "<sup>14</sup> Joje ilsėsis bandos ir visi laukiniai žvėrys; ant stulpų tūps kuosos ir pelėdos; bus girdėti ūbavimas lange, o varnas kranks ant slenksčio, nes bus nuplėštos kedro lentelės.",
+			"15": "<sup>15</sup> Ar tai tas linksmasis miestas, kuris gyveno saugiai ir manė širdyje: „Aš esu, ir be manęs nėra kito“? Kokia dykyne jis virto, laukinių gyvūnų guoliu! Kas tik praeina pro šalį, tas švilpia ir grūmoja kumščiu."
+		},
+		"3": {
+			"1": "<sup>1</sup> Vargas maištaujančiam, užterštam, valdingam miestui!",
+			"2": "<sup>2</sup> Jis neklausė jokio balso, nepriėmė jokio pamokymo. Jis nepasitikėjo VIEŠPAČIU, nesiartino prie savo Dievo.",
+			"3": "<sup>3</sup> Jo pareigūnai – lyg riaumojantys liūtai, teisėjai – lyg vakaro vilkai, kurie nieko nepalieka rytui.",
+			"4": "<sup>4</sup> Jo pranašai – įžūlūs, klastingi bičiuliai; jo kunigai suteršia, kas šventa, ir iškraipo Įstatymą.",
+			"5": "<sup>5</sup> Bet VIEŠPATS jame teisus, jis nedaro, kas neteisinga. Savo teisingumą jis atskleidžia kas rytą taip ištikimai, kaip ištikima aušra, bet nedorėlis nepažįsta gėdos.",
+			"6": "<sup>6</sup> Sunaikinau tautas, jų gynybos bokštai sugriauti. Kalaviju taip iššlaviau jų gatves, kad nebėra kam jomis vaikščioti. Jų miestai sunaikinti, be žmonių, be gyventojų.",
+			"7": "<sup>7</sup> Tariau: „Tikrai tas miestas bijos manęs, priims pamoką ir neišleis iš akių nieko, ką jam padariau“. Tačiau jie su dar didesniu noru darė tai, kas suteršia visus jų darbus.",
+			"8": "<sup>8</sup> Todėl laukite manęs, – tai VIEŠPATIES žodis, – laukite dienos, kai pakilsiu kaip kaltintojas. Aš nusprendžiau surinkti gentis, sutelkti karalystes ir išlieti ant jų savo pyktį, visą mano įniršio karštį, nes mano pavyduliavimo ugnyje bus sudeginta visa žemė.",
+			"9": "<sup>9</sup> Tuomet pakeisiu ir nuvalysiu tautų lūpas, kad jos visos galėtų šauktis VIEŠPATIES vardo ir sutartinai jam tarnauti.",
+			"10": "<sup>10</sup> Iš anapus Kušo upių mano garbintojai, mano išblaškytieji, atneš man atnašas.",
+			"11": "<sup>11</sup> Tą dieną nebebūsi sugėdinta dėl visų savo darbų, kuriais maištavai prieš mane, nes pašalinsiu iš tavęs išdidžiuosius pagyrūnus. Nebeaukštinsi daugiau savęs ant mano šventojo kalno.",
+			"12": "<sup>12</sup> Paliksiu tavo viduryje nuolankią ir kuklią tautą. VIEŠPATIES vardas bus jiems prieglauda,",
+			"13": "<sup>13</sup> ir aš išsaugosiu Izraelio likutį. Jie blogai nebesielgs ir nebekalbės netiesos. Apgaulingam liežuviui jų burnose nebebus vietos. Tuomet jie ganysis ir ilsėsis, ir nebebus kam jų gąsdinti.",
+			"14": "<sup>14</sup> Krykštauk iš džiaugsmo, Siono dukterie, šauk, Izraeli! Visa širdimi džiaukis ir džiūgauk, dukterie Jeruzale!",
+			"15": "<sup>15</sup> VIEŠPATS atšaukė tau skirtą nuosprendį, jis nušlavė šalin tavo priešus. Izraelio karalius, pats VIEŠPATS yra tavyje; tau daugiau nebereikės bijoti nelaimės.",
+			"16": "<sup>16</sup> Tą dieną Jeruzalei bus sakoma: „Nebijok, Sione, nenuleisk rankų!“",
+			"17": "<sup>17</sup> VIEŠPATS, tavo Dievas, pergalę teikiantis galiūnas, yra tavyje: jis noriai džiaugsis tavimi, atnaujins tave mylėdamas ir džiūgaus dėl tavęs giedodamas,",
+			"18": "<sup>18</sup> kaip džiūgaujama iškilmių dieną. Atitolinsiu nuo tavęs nelaimę, dėl kurios tu kentėjai pajuoką.",
+			"19": "<sup>19</sup> Tikėk manimi! Tuo metu padarysiu galą visiems, kurie tave engė. Išgelbėsiu raišuosius, surinksiu paklydusiuosius ir permainysiu jų gėdą į gyrių ir garbę visoje žemėje.",
+			"20": "<sup>20</sup> Tuo metu parvesiu jus namo ir tuo laiku jus surinksiu. Padarysiu jus garbingus ir giriamus visose žemės tautose, kai sugrąžinsiu jums matant tremtinius, – sako VIEŠPATS."
+		}
+	}
+};
+module.exports = book;

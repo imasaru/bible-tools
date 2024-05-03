@@ -109,9 +109,11 @@ describe "Localized book Num (fj)", ->
 	it "should handle book: Num (fj)", ->
 		`
 		expect(p.parse("Na Kedra I Wiliwili 1:1").osis()).toEqual("Num.1.1")
+		expect(p.parse("T/Lekutu 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("Num 1:1").osis()).toEqual("Num.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("NA KEDRA I WILIWILI 1:1").osis()).toEqual("Num.1.1")
+		expect(p.parse("T/LEKUTU 1:1").osis()).toEqual("Num.1.1")
 		expect(p.parse("NUM 1:1").osis()).toEqual("Num.1.1")
 		`
 		true

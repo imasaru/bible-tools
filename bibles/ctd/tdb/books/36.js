@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zefaniah",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Amon’ tapa Josiah, Judah gam kumpi ahih laitakin, Topa in Zefaniah’ tungah hih thu a pia hi. Zefaniah’ pa Kushi hi a, Kushi’ pa Gedaliah hi a, Gedaliah’ pa Amariah hi a, Amariah’ pa pen Kumpi Hezekiah ahi hi",
+			"2": "<sup>2</sup> Topa in hih bangin thu gen a, “Leitung a om na khempeuh ka susia ding hi.",
+			"3": "<sup>3</sup> Mihing le ganhing, vana leeng vasa le tui sunga ngasa, a vekpi-in ka susia ding hi. Migilote ka susia ding a, leitung a om mihing khempeuh ka susia ding hi. Topa ahi keimah in hih thu ka gen khin hi.",
+			"4": "<sup>4</sup> “Judah gammi khempeuh susia mangin, Jerusalem khuami khempeuh ka sumai ding hi. Baal milim biakna a them banglai khempeuh le tua milim na a sem siampite ahi a, keima siampite ahi zongin, a vekpi-in ka sumai ding hi.",
+			"5": "<sup>5</sup> Innkhum zangah kahto-in, ni, kha, le aksi a bia mi khempeuh ka susia ding a, keimah hong bia-in, keima tungah thuman ding gen napi-in, Milkom pasian’ min tawh a kiciam teiteite zong, ka susia ding hi.",
+			"6": "<sup>6</sup> Lam pialin, kei hong zui nawn lote, thudong dingin kei kiangah hong pai nawn lote, ka susia ding hi,” a ci hi.",
+			"7": "<sup>7</sup> Topa Pasian’ mai-ah gamdai takin om un! Topa’ ni hong naita hi. Topa in biakna-a sa gawh bangin a mite a go dingin kithawi a, a gawh ding mite siansuah khin hi.",
+			"8": "<sup>8</sup> Topa in hih bangin thu gen a, “Tua bangin mite a kigawh ni-in, uliante le kumpipa’ tapate, le gamdangte’ ngeina a zuite khempeuh, gim ka pia ding hi.",
+			"9": "<sup>9</sup> Lawki mite bangin biakinn sungah a lamte, khemna le thahna tawh a ngah uh vante tawh, a topa uh’ inn a dimsakte khempeuh, tua ni mahin gim ka pia ding hi,” a ci hi.",
+			"10": "<sup>10</sup> Topa in hih bangin thu gen a, “Jerusalem khua-a om Ngasa Kulh kongpi-ah mite’ kikona na za ding uh a, tua khuapi Veng Nihna sungah mite’ kahna le mual neute tungah a puak zaizai na za ding uh hi.",
+			"11": "<sup>11</sup> Khuapi Veng Nuainung sungah a teng mite aw, hih bang gamlumna na zak uh ciangin kapin thum un. Bang hang hiam cih leh sumbukte khempeuh si ding uh hi.",
+			"12": "<sup>12</sup> “Tua laitakin Jerusalem khuasung meivak tawh ka zong ding a, thuphawk loin, a ngeina bangun omcip a, ‘Topa in a pha hitaleh a sia hitaleh bangmah bawl ngei lo hi,’ a ci mite, gim ka pia ding hi.",
+			"13": "<sup>13</sup> Amau’ neihsa khempeuh kisut ding a, a innte uh kisuksiatsak ding hi. Inn a lam hangun a sungah teng kha lo ding uh a, leenggui a suan hangun a leenggahzu dawn kha lo ding uh hi,” a ci hi.",
+			"14": "<sup>14</sup> Topa’ ni hong naita a, nai mahmahin hong tung hathat hi. Tua Topa’ ni hong tun ciangin galhang pente nangawn cimawhin kap ding uh hi.",
+			"15": "<sup>15</sup> Tua ni pen heh mahmah ni, lungkham sinkham ni, tuahsia-in kisuksiat gawp ni, khua zingin mai mial ni, meiipi kai-in huihpi nun’ ni,",
+			"16": "<sup>16</sup> galdona ding peengkul a kitum ni, kulhnei khuapite le a tausangte a kisimna-in galkapte a kiko ni hi ding hi.",
+			"17": "<sup>17</sup> Topa in hih bangin thu gen a, “Mihingte tungah lungkhamna lianpi ka tungsak ding a, amaute in mittaw bangin khua a zawt ding uh hi. Keima tungah amaute hong khial uh ahih manin, a sisan uh tui bangin kithehthang ding a, a luanghawm uh leilakah muatcip ding hi,” a ci hi.",
+			"18": "<sup>18</sup> Topa’ heh thuk ni hong tun ciangin a ngun le a khamte un amaute honkhia zo lo ding hi. Ama hehna meikuang in leitung khempeuh kangtum ding a, thakhat thu-in leitung a teng mi khempeuh a sumai ding hi."
+		},
+		"2": {
+			"1": "<sup>1</sup> A maizum thei lo minam aw, hoihtakin thu ngaihsun in.",
+			"2": "<sup>2</sup> Ansi bangin hong kizapkhiat ma, Topa’ hehna na tungah hong tuk ma, Topa in a hehna hong lah hun a tun ma-in thu ngaihsunin kikheel in.",
+			"3": "<sup>3</sup> Kiniamkhiatin, Topa’ thupiakna a mang Judah gammi khempeuh aw, Topa’ kiang zuan un. A manin gamta unla, kiniamkhiat un. Tua hileh Topa’ hehna hong kilat ciangin, tua hehna hangin gimna panin na peng khathei ding uh hi.",
+			"4": "<sup>4</sup> Gaza khuapi-ah kuamah om nawn lo ding a, Ashkelon khuapi kisusia ding hi. Ashdod khuamite suntangpi-in kihawlkhia ding a, Ekron khuamite kipaikhiatpih mang ding hi.",
+			"5": "<sup>5</sup> Tuipi gei-ah a gual ten, no Filistia gammite aw, gimna na ngah ding uh hi. Filistia mite’ tenna Kanaan leitang aw, Topa in nang tungah thu hong khenzo hi. Mi khempeuh a beimang dongin hong susia ding hi.",
+			"6": "<sup>6</sup> Tuipi gei-a om leitang aw, tuute’ gamtatna mun, gamlak na suak lel ding hi.",
+			"7": "<sup>7</sup> Judah mi a omlaite in na gam sung luah ding uh a, amaute in tuucinna-in nei-in, Ashkelon khuasunga om innte sungah zanin lum ding uh hi. Topa ahi amaute’ Pasian in amaute ompih ding a, citheisakkik ding hi.",
+			"8": "<sup>8</sup> Vanglian Topa in hih bangin thu gen a, “Moab mite in ka mite a simmawhna, Ammon mite in ka mite a zahkona le ka mite’ gam a sutgawp dingin, a kisaktheih paunate uh ka za khin hi.",
+			"9": "<sup>9</sup> Kei pen a nungta Israel Pasian ka hih mah bangin, Moab mite, Sodom mite bangin kisusia-in, Ammon mite, Gomorrah mite bangin kisusia-in, a gam sung uhah lingkung bek pozo-in, a gam uh cikhuk tawh kidimin a sia tawntung suakin, a suaktalai ka mite in a neihsa uh sutin, a gam uh a laksak tak kei leh, ci-in ka kiciam hi,” a ci hi.",
+			"10": "<sup>10</sup> Amaute in Vanglian Topa’ mite simmawhin kihisak uh ahih manin, a kiphatsakna hangun Moab mite le Ammon mite in hih bangin gim thuak ding uh hi.",
+			"11": "<sup>11</sup> Topa in amaute lausakgawp ding a, leitung pasian-te, neubawl gawp ding hi. Tua ciangin minam khempeuh in amau’ gam ciat panun amah bia ding uh hi.",
+			"12": "<sup>12</sup> No Ethiopia mite zong, Topa in hong that ding hi.",
+			"13": "<sup>13</sup> Topa in leilu lamah a khut hong zanin Assiria gam susia ding a, Nineveh khuapi susia gawpin sehnel gam a suaksak ding hi.",
+			"14": "<sup>14</sup> Tuu le bawnghonte tua khua sungah lumin, gan namkim khawk a suak ding hi. Gunva le gunvapite bangtung zawlah tuangin, tawlet-ah keising khuangin, sangkil tungah va-ak ham ding hi. Taamtak sing tawh a kilam innte maimang ding hi.",
+			"15": "<sup>15</sup> A vangliatna a kisaktheihpih, lungmuang takin a om khuapi, tu-a bangin piang ding hi. Leitungah amau’ khuapi a lian penin ngaihsun uh hi. Tua hinapi-in gamlak suakin, gamsate’ omna suak ta hi. A mu mi khempeuh in lamdang sa-in kigaih ding uh hi."
+		},
+		"3": {
+			"1": "<sup>1</sup> Ama mite mah nengniamin, thumang loin a tatsia, Jerusalem khuapi in gimna ngah ding hi.",
+			"2": "<sup>2</sup> Topa’ thu ngai nuam lo a, a thuhilhna sang nuam lo hi. Topa muang nuam lo a, a Pasian naih nuam lo hi.",
+			"3": "<sup>3</sup> A uliante, humpinelkai gilkial bang a, a thukhente, keivom gilkial bang uh hi. Zingsang khuavak mateng a saguh nek a nusia nuam lo, a huaiham gamsate tawh kibang uh hi.",
+			"4": "<sup>4</sup> A kamsangte kihisak uh a, kamsang citak hi lo uh hi. A siampite in a siangtho nate ninsak uh a, amau angsung ding bek a khualna-un Pasian’ thukham lehhei uh hi.",
+			"5": "<sup>5</sup> Ahi zongin tua khuapi sungah Topa omin, a thuman na bek sem a, a khialin gamta ngei lo hi. Zingsang simin mihingte tungah pelh ngei loin thutang lak hi. Ahi zongin tua lai-a mihing thuman lote, a sia-in gamta teitei uh a, maizumna mel theithei lo uh hi.",
+			"6": "<sup>6</sup> Topa in hih bangin thu gen a, “A kiphasak mite ka nilkhia a, a gal panmunte uh ka susia hi. A kongzing lampite uh ka kinusiacipsak a, tua lampi kuamah in tawn nawn lo hi. A khuapi uh kisia gawpin kinusia a, a sungah kuamah om nawn lo hi.",
+			"7": "<sup>7</sup> Tua ahih manin ka mite in kei hong zahtakin ka thuhilhna ngai ding uh a, mangngilh lo ding uh hi, ci-in ka ngaihsun hi. Ahi zongin a gamtatsiat ngei bangun gamtalai veve uh hi,” a ci hi.",
+			"8": "<sup>8</sup> Topa in hih bangin thu gen a, “Tua ahih ciangin minamte ka mawhsak ni hun dong kei hong ngak phot dih un. Minamte le kumpi gamte kaikhawmin, ka hehna ka thuaksak ding, ka lungsim ka khensat khin hi. Ka hehluatna meikuang tawh leitung khempeuh kangtum ding hi.",
+			"9": "<sup>9</sup> “Tua ciangin minamte’ lungsim ka hei ding a, amaute in keima tung bekah thu hong ngenin, lungsim kikhatin ka na hong sem ding uh hi.",
+			"10": "<sup>10</sup> A gamlapi Ethiopia gam pekah a om, a kithehthang ka mite nangawn in biakna hong puak ding uh hi.",
+			"11": "<sup>11</sup> Tua hun ciangin ka mite in kei nong lehdona hangun maizumna ding bangmah om nawn lo ding hi. Note lak panin a kiphasak, a kihisak mite ka hawlkhia ding a, Jerusalem khua-a ka mual siangtho tungah kei nong lehdo nawn kei ding uh hi.",
+			"12": "<sup>12</sup> Note lakah a kiniamkhiat, mineute bek, ka suaktasak lai ding a, keima tungah huhna hong ngen ding uh hi.",
+			"13": "<sup>13</sup> Israel mi a omlai sunte, midangte tungah gilo nawn lo ding uh a, zuauthu gen nawn loin, mi khem ding zong ngaihsun nawn lo ding uh hi. Amaute cithei-in lungmuangin om ding uh a, kuamah kihta nawn loin om ding uh hi,” a ci hi.",
+			"14": "<sup>14</sup> Zion tanu aw, nakpitakin la sa inla, Israel aw, lungdamin kiko in. Jerusalem tanu aw, na lungsim khempeuh tawh lungdam in.",
+			"15": "<sup>15</sup> Topa in na galte hong phiatkhiatsak khin a, hong langpang khempeuh hong hawlkhiatsak khin hi. Topa ahi Israel kumpipa nang tawh hong om a, na launa ding bangmah om nawn lo hi.",
+			"16": "<sup>16</sup> Tua ni ciangin Jerusalem khuapi kiangah, “Zion khuapi aw, lau kei in. Na khut thazawsak kei in,” kici ding hi.",
+			"17": "<sup>17</sup> Topa na Pasian un note hong ompih a, ama vangliatna in hong gualzosak hi. Note tungah Topa lungkim ding a, ama hong itna tawh hong thakbawl ding hi. Note’ hangin Topa lungdamin la sa ding a,",
+			"18": "<sup>18</sup> pawi hun sungah mi a lungdamte bang ding hi. Topa in hih bangin thu gen a, “Note a dingin a lauhuai thu ka beisak khin a, na mindaina teng uh kong paihkhiatsak khin hi.",
+			"19": "<sup>19</sup> En un, tua hun ciangin no a hong bawlsiate gim ka pia ding a, a khebaite honkhia-in, a kipaikhiatpih mite ka ciahpihkik ding hi. Amau’ maizumna uh minthanna ka suaksak ding a, mi khempeuh in amaute a phat ding uh hi.",
+			"20": "<sup>20</sup> Tua hun ciangin, a kithehthang na mite uh kong kaikhawm ding a, leitung mi khempeuh in note hong phat ding uh hi. A tawpna-ah note na cithei kik ding uh hi,” Topa in ci hi, a ci hi."
+		}
+	}
+};
+module.exports = book;

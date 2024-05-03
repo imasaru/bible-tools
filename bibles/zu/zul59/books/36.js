@@ -1,0 +1,66 @@
+var book = {
+	"name": "UZefaniya",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Izwi likaJehova elafika kuZefaniya indodana kaKushi kaGedaliya ka-Amariya kaHezekiya ezinsukwini zikaJosiya indodana ka-Amoni, inkosi yakwaJuda.",
+			"2": "<sup>2</sup> “Ngiyakuqothula nokuqothula konke, kusuke ebusweni bomhlaba,” usho uJehova.",
+			"3": "<sup>3</sup> “Ngiyakuqothula abantu nezilwane, ngiqothule izinyoni zezulu nezinhlanzi zaselwandle, ngikhubekise ababi, nginqume abantu ebusweni bomhlaba,” usho uJehova.",
+			"4": "<sup>4</sup> “Ngiyakwelula isandla sami phezu kukaJuda naphezu kwabo bonke abakhileyo eJerusalema, nginqume insali kaBali kule ndawo, negama labapristi bezithixo kanye nabapristi,",
+			"5": "<sup>5</sup> nabakhuleka kulo ibandla lasezulwini phezu kwezindlu, nabakhuleka kuJehova bemfunga, befunga futhi uMilkomu,",
+			"6": "<sup>6</sup> nababuyile ekumlandeleni uJehova, nabangamfunanga uJehova bengabuzanga ngaye.",
+			"7": "<sup>7</sup> Thula phambi kobuso beNkosi uJehova, ngokuba usuku lukaJehova luseduze; uJehova ulungisile umhlatshelo, ungcwelisile abamenyiweyo bakhe.",
+			"8": "<sup>8</sup> Kuyakuthi ngosuku lomhlatshelo kaJehova, ngihambele izikhulu, namadodana enkosi, nabo bonke abembethe isambatho sabezizwe.",
+			"9": "<sup>9</sup> Ngalolo suku ngiyakuhambela bonke abeqa umbundu, begcwalisa indlu yamakhosi abo ngobudlova nangenkohliso.",
+			"10": "<sup>10</sup> “Ngalolo suku,” usho uJehova, “kuyakuba khona izwi lokukhala, livela eSangweni Lezinhlanzi, nokuhhewula, kuvela eNxenyeni Yesibili, nokufahlazeka okukhulu, kuvela emagqumeni.",
+			"11": "<sup>11</sup> Hhewulani nina enakhe esiGqulweni, ngokuba bonke abantu abathengisayo bachithekile, bonke abathweswe isiliva banqunyiwe.",
+			"12": "<sup>12</sup> Kuyakuthi ngaleso sikhathi ngicwaninge iJerusalema ngezibani, ngihambele abantu abajiyile enhleseni yabo, abathi ezinhliziyweni zabo: UJehova akenzi okuhle, akenzi nokubi.",
+			"13": "<sup>13</sup> Ingcebo yabo iyakuba yimpango, nezindlu zabo incithakalo; bayakwakha izindlu, kepha abayikuhlala kuzo, batshale izivini, bangaliphuzi kodwa iwayini lazo.",
+			"14": "<sup>14</sup> “Usuku olukhulu lukaJehova luseduze; luseduze, lushesha kakhulu; umsindo wosuku lukaJehova uyababa, neqhawe liyahhewula khona.",
+			"15": "<sup>15</sup> Lolo suku lungusuku lolaka, usuku lokuhlupheka nolosizi, usuku lwencithakalo nolokuyize, usuku lobumnyama nolwesigayegaye, usuku lwamafu nolobumnyama obukhulu,",
+			"16": "<sup>16</sup> usuku lwecilongo nolokuhlaba umkhosi ngasemizini ebiyelweyo nasemibhoshongweni yasezingosini.",
+			"17": "<sup>17</sup> Ngiyakucindezela abantu, bahambe njengezimpumputhe, ngokuba bonile kuJehova; igazi labo liyakuthululwa njengothuli, nenyama yabo njengomquba.",
+			"18": "<sup>18</sup> Nasiliva labo nagolide labo akuyikuba namandla okubophula ngosuku lwentukuthelo lukaJehova, kepha umhlaba wonke uyakudliwa ngumlilo womhawu wakhe, ngokuba uyakuqeda, yebo, aqede ngokuzumayo bonke abakhileyo ezweni.”"
+		},
+		"2": {
+			"1": "<sup>1</sup> Buthanani, yebo, buthana, sizwe esingenamahloni,",
+			"2": "<sup>2</sup> isimiso singakazali lolo suku ludlula njengamakhoba lungakanehleli ulaka oluvuthayo lukaJehova, lungakafiki phezu kwenu usuku lolaka lukaJehova.",
+			"3": "<sup>3</sup> Funani uJehova nina nonke bathobekileyo bomhlaba enisebenzile ukwahlulela kwakhe; funani ukulunga; funani ukuthobeka; mhlawumbe niyakusitshekelwa ngosuku lolaka lukaJehova.",
+			"4": "<sup>4</sup> Ngokuba iGaza liyakushiywa, i-Ashikeloni libe yincithakalo; bayakulixosha i-Ashidodi emini, i-Ekroni lisishulwe.",
+			"5": "<sup>5</sup> Wo kwabakhileyo ngasogwini lolwandle, isizwe samaKhereti! Izwi likaJehova liphezu kwakho, Khanani, lizwe lamaFilisiti. “Ngiyakukuchitha ukuze kungabikho ohlala khona.”",
+			"6": "<sup>6</sup> Ugu lolwandle luyakuba ngamadlelo, lube nemigodi yabelusi nezibaya zezimvu.",
+			"7": "<sup>7</sup> Ugu luyakuba ngolwensali yendlu yakwaJuda, yaluse kulo; ezindlini zase-Ashikeloni bayakubuthisa kusihlwa, ngokuba uJehova uNkulunkulu wabo uyakubahambela, abuyise ukuthunjwa kwabo.",
+			"8": "<sup>8</sup> “Ngiyizwile inhlamba yakwaMowabi nezithuko zabantwana bakwa-Amoni abathuke ngazo abantu bami, bazikhulisela imikhawulo yabo.",
+			"9": "<sup>9</sup> Ngalokho, kuphila kwami,” usho uJehova Sebawoti, uNkulunkulu ka-Israyeli, uthi: “Impela uMowabi uyakuba njengeSodoma, nabantwana bakwa-Amoni njengeGomora, izwe lezimbabazane nelemigodi kasawoti nencithakalo yaphakade; insali yabantu bami iyakubaphanga, nabaseleyo besizwe sami bayakudla ifa labo.”",
+			"10": "<sup>10</sup> Lokhu kuyakuba sesikhundleni sokuziphakamisa kwabo, ngokuba bathukile, bazikhulisela abantu bakaJehova Sebawoti.",
+			"11": "<sup>11</sup> UJehova uyakwesabeka phezu kwabo, ngokuba uyakuzacisa bonke onkulunkulu bomhlaba, bakhuleke kuye, kube yilowo nalowo endaweni yakhe, zonke iziqhingi zezizwe.",
+			"12": "<sup>12</sup> “Nani maKushe niyakubulawa ngenkemba yami.”",
+			"13": "<sup>13</sup> Uyakwelulela isandla sakhe ngasenyakatho, achithe i-Asiriya, alenze iNineve libe yincithakalo, lome njengehlane.",
+			"14": "<sup>14</sup> Imihlambi iyakubuthisa phakathi kwalo, zonke izilwane zesizwe, ivuba nonondwebu kuhlale ebusuku ezihlokweni zezinsika zalo, isikhova sikhale emafasiteleni, kube khona incithakalo emigulugulwini, ngokuba wambulile okwemisedari.*",
+			"15": "<sup>15</sup> Yiwo umuzi owajabula wahlala ulondekile, owathi enhliziyweni yawo: Mina ngikhona, akakho omunye; yeka ukuphenduka kwawo incithakalo nendawo yokubuthisa kwezilwane! Bonke abadlula kuwo bayakuncimfa, banikine isandla sabo."
+		},
+		"3": {
+			"1": "<sup>1</sup> Wo kohlubukileyo nongcolileyo, muzi ocindezelayo!",
+			"2": "<sup>2</sup> Awuzwa zwi, awamukeli ukulaywa, awumethembi uJehova, awusondelanga kuNkulunkulu wawo.",
+			"3": "<sup>3</sup> Izikhulu zawo phakathi kwawo ziyizingonyama ezibhongayo; abahluleli bawo bayizimpisi zokuhlwa; abashiyeli lutho ingomuso.",
+			"4": "<sup>4</sup> Abaprofethi bawo bangamayiyane nabakhohlisi; abapristi bawo bayingcolisile indlu engcwele, bawudlovulile umthetho.",
+			"5": "<sup>5</sup> UJehova ulungile phakathi kwawo, akenzi okubi; ekuseni njalo uveza ukwahlulela kwakhe ekukhanyeni, akuphuthi; kepha abangalungile abazi amahloni.",
+			"6": "<sup>6</sup> “Nginqumile izizwe, imibhoshongo yazo yasezingosini ichithekile; ngichithile izitaladi zazo ukuze kungadluli muntu; imizi yazo iqothuliwe ukuze kungabikho muntu, kungabikho ohlala kuyo.",
+			"7": "<sup>7</sup> Ngathi: ‘Nokho uyakungesaba, wamukele ukulaywa.’ Indawo yawo yokuhlala ayiyikunqunywa, kungenzeki konke engiwumisele khona; kepha bavuka ekuseni, benza okubi.",
+			"8": "<sup>8</sup> Ngalokho, ngilindeleni,” usho uJehova, “kuze kube lusuku engivuka ngalo ukuba ngiphange, ngokuba kuyisinqumo sami ukubutha izizwe ukuba ngiqoqe imibuso, ukuze ngithulule phezu kwabo intukuthelo yami, lonke ulaka lwami oluvuthayo, ngokuba wonke umhlaba uyakudliwa ngumlilo womhawu wami.",
+			"9": "<sup>9</sup> “Ngokuba lapho ngiyakunika abantu izindebe ezihlanzekileyo, ukuze bonke babize igama likaJehova, bamkhonze nganhliziyonye.",
+			"10": "<sup>10</sup> Kusukela phesheya kwemifula yaseKushe abanxusa kimi, indodakazi yabahlakazekileyo bami, bayakuletha umnikelo wami.",
+			"11": "<sup>11</sup> Ngalolo suku awusayikuba namahloni ngazo zonke izenzo zakho ophambuke ngazo kimi, ngokuba khona ngiyakususa phakathi kwakho abazidla ngokujabula, awusayikuziphakamisa entabeni yami engcwele.",
+			"12": "<sup>12</sup> Kepha ngiyakushiya phakathi kwakho abantu abahluphekayo nabampofu; bayakwethemba igama likaJehova.",
+			"13": "<sup>13</sup> Insali yakwa-Israyeli ayisayikwenza okubi, ingakhulumi amanga, kungafunyanwa emlonyeni wabo ulimi olukhohlisayo; yebo, bayakwaluka, babuthise, kungekho obesabisayo.”",
+			"14": "<sup>14</sup> Hlabelela ngokujabula, ndodakazi yaseSiyoni, umemeze, Israyeli, uthokoze, wethabe ngenhliziyo yonke, ndodakazi yaseJerusalema.",
+			"15": "<sup>15</sup> UJehova ususile ukwahlulelwa kwakho, uxoshile izitha zakho. INkosi yakwa-Israyeli, uJehova, iphakathi kwakho; awusayikwesaba okubi.",
+			"16": "<sup>16</sup> Ngalolo suku kuyakuthiwa kulo iJerusalema: “Ungesabi, Siyoni! Izandla zakho mazingadangali.",
+			"17": "<sup>17</sup> UJehova uNkulunkulu wakho uphakathi kwakho, iqhawe eliyakukusindisa; uyakujabula ngawe ngentokozo, athule othandweni lwakhe, ethabe ngawe ngokuhlabelela.”",
+			"18": "<sup>18</sup> “Abadabuka ngemikhosi ngiyakubabutha, ababahlukene nawe, usathwele ihlazo.",
+			"19": "<sup>19</sup> Bhekani, ngaleso sikhathi ngiyakuphatha bonke abakuhluphayo, ngisindise abaqhugayo, ngibuthe abaxoshiweyo, ngibenze indumiso negama abahlazo labo lalisemhlabeni wonke.",
+			"20": "<sup>20</sup> Ngaleso sikhathi ngiyakuningenisa, ngaleso sikhathi ngiyakunibutha, ngokuba ngiyakunenza igama nendumiso phakathi kwabantu bonke bomhlaba, lapho ngibuyisa ukuthunjwa kwenu phambi kwamehlo enu,” usho uJehova."
+		}
+	}
+};
+module.exports = book;

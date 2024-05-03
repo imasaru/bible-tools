@@ -1,0 +1,185 @@
+1Chr	1 বংশাবলি।
+1Chr	1 বংশাবলি
+1Chr	১ বংশাবলি
+1Chr	1Chr
+1Cor	1 করিন্থীয়
+1Cor	১ করিন্থীয়
+1Cor	1Cor
+1Esd	1Esd
+1John	1 যোহন
+1John	১ যোহন
+1John	1John
+1Kgs	1 রাজাবলি।
+1Kgs	1 রাজাবলি
+1Kgs	১ রাজাবলি
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 পিতর
+1Pet	১ পিতর
+1Pet	1Pet
+1Sam	1 শমূয়েলে
+1Sam	1 শমূয়েল
+1Sam	১ শমূয়েল
+1Sam	1Sam
+1Thess	1 থিষলনীকীয়
+1Thess	১ থিষলনীকীয়
+1Thess	1Thess
+1Tim	1 তীমথিয়ে
+1Tim	1 তীমথিয়
+1Tim	১ তীমথিয়
+1Tim	1Tim
+2Chr	2 বংশাবলি।
+2Chr	2 বংশাবলি
+2Chr	২ বংশাবলি
+2Chr	2Chr
+2Cor	2 করিন্থীয়
+2Cor	২ করিন্থীয়
+2Cor	2Cor
+2Esd	2Esd
+2John	2 যোহন
+2John	২ যোহন
+2John	2John
+2Kgs	2 রাজাবলি।
+2Kgs	2 রাজাবলি
+2Kgs	২ রাজাবলি
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 পিতর
+2Pet	২ পিতর
+2Pet	2Pet
+2Sam	2 শমূয়েলে।
+2Sam	2 শমূয়েল
+2Sam	২ শমূয়েল
+2Sam	2Sam
+2Thess	2 থিষলনীকীয়
+2Thess	২ থিষলনীকীয়
+2Thess	2Thess
+2Tim	2 তীমথিয়ে
+2Tim	2 তীমথিয়
+2Tim	২ তীমথিয়
+2Tim	2Tim
+3John	3 যোহন
+3John	৩ যোহন
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	প্রেরিত
+Acts	Acts
+Amos	Amos
+Amos	আমোষ
+Bar	Bar
+Bel	Bel
+Col	কলসীয়
+Col	Col
+Dan	দানিয়েল
+Dan	Dan
+Deut	দ্বিতীয় বিবরণ।
+Deut	দ্বিতীয় বিবরণ
+Deut	Deut
+Eccl	উপদেশক
+Eccl	Eccl
+EpJer	EpJer
+Eph	ইফিষীয়
+Eph	Eph
+Esth	ইষ্টের
+Esth	Esth
+Exod	যাত্রাপুস্তক
+Exod	যাত্রা
+Exod	Exod
+Ezek	যিহিষ্কেল
+Ezek	Ezek
+Ezra	ইষ্রা।
+Ezra	ইষ্রা
+Ezra	Ezra
+Gal	গালাতীয়
+Gal	Gal
+Gen	আদিপুস্তক
+Gen	Gen
+Gen	আদি
+GkEsth	GkEsth
+Hab	হবক্‌কূক
+Hab	Hab
+Hag	হগয়
+Hag	Hag
+Heb	ইব্রীয়
+Heb	Heb
+Hos	হোশেয়
+Hos	Hos
+Isa	যিশাইয়
+Isa	Isa
+Jas	যাকোব
+Jas	Jas
+Jdt	Jdt
+Jer	যিরমিয়
+Jer	Jer
+Job	ইয়োব
+Job	Job
+Joel	যোয়েল
+Joel	Joel
+John	John
+John	যোহন
+Jonah	Jonah
+Jonah	যোনা
+Josh	যিহোশূয়
+Josh	Josh
+Jude	যিহূদা
+Jude	Jude
+Judg	বিচারকর্ত্তৃগণ
+Judg	Judg
+Lam	বিলাপ
+Lam	Lam
+Lev	লেবীয় পুন্তক।
+Lev	লেবীয়
+Lev	Lev
+Luke	Luke
+Luke	লূক
+Mal	মালাখি
+Mal	Mal
+Mark	মার্ক
+Mark	Mark
+Matt	Matt
+Matt	মথি
+Mic	মীখা
+Mic	Mic
+Nah	নহূম
+Nah	Nah
+Neh	নহিমিয়
+Neh	Neh
+Num	গণনাপুস্তক।
+Num	গণনা
+Num	Num
+Obad	ওবদিয়
+Obad	Obad
+Phil	ফিলিপীয়
+Phil	Phil
+Phlm	ফিলীমন
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	হিতোপদেশ
+Prov	Prov
+Ps	গীতসংহিতা
+Ps	গীত
+Ps	Ps
+Rev	প্রকাশিত বাক্য
+Rev	প্রকাশিত
+Rev	Rev
+Rom	রোমীয়
+Rom	Rom
+Ruth	রূতের বিবরণ
+Ruth	Ruth
+Ruth	রূত
+SgThree	SgThree
+Sir	Sir
+Song	পরমগীত
+Song	Song
+Sus	Sus
+Titus	Titus
+Titus	তীত
+Tob	Tob
+Wis	Wis
+Zech	সখরিয়া
+Zech	সখরিয়
+Zech	Zech
+Zeph	সফনিয়
+Zeph	Zeph

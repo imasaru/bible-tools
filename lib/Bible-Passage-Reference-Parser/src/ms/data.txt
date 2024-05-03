@@ -46,7 +46,7 @@ Joel	Yoel	Yl
 Amos	Amos	Am
 Obad	Obaja	Ob
 Jonah	Yunus	Yun
-Mic	Mikha	Mi
+Mic	Mikha	Mi	Mikah
 Nah	Nahum	Nah
 Hab	Habakuk	Hab
 Zeph	Zefanya	Zef
@@ -57,7 +57,7 @@ Matt	Matius	Mat
 Mark	Markus	Mrk
 Luke	Lukas	Luk
 John	Yohanes	Yoh
-Acts	Kisah Rasul-rasul	Kisah Para Rasul	Kis
+Acts	Kisah Rasul-rasul	Kisah Para Rasul	Kis	Kisah
 Rom	Roma	Rm
 1Cor	$FIRST Korintus	$FIRST Kor
 2Cor	$SECOND Korintus	$SECOND Kor
@@ -184,3 +184,4 @@ PrMan
 =Jdt
 =Bar
 =Sus
+Kunci utama untuk pertumbuhan rohani

@@ -167,6 +167,7 @@
 4Macc	4Macc
 Acts	Kisah Rasul-rasul
 Acts	Kisah Para Rasul
+Acts	Kisah
 Acts	Acts
 Acts	Kis
 Amos	Amos
@@ -261,6 +262,7 @@ Mark	Mrk
 Matt	Matius
 Matt	Matt
 Matt	Mat
+Mic	Mikah
 Mic	Mikha
 Mic	Mic
 Mic	Mi

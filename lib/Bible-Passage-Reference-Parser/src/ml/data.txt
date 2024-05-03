@@ -1,0 +1,275 @@
+$FIRST	1	1.
+$SECOND	2	2.
+$THIRD	3	3.
+$FOURTH	4	4.
+$AB	[a-e]
+$AND	ഒപ്പം
+$CHAPTER	അധ്യായം
+$FF	ff
+$TITLE	title
+$TRANS	mlb
+$TO	ടു
+$VERSE	വാക്യം
+$UNICODE_BLOCK	Latin
+
+Gen	ഉല്പത്തി	ഉല്പ	ഉല്പ്പത്തി
+Exod	പുറപ്പാടു്	പുറപ്പാട്	പുറ
+Lev	ലേവ്യപുസ്തകം
+Num	സംഖ്യാപുസ്തകം	സംഖ്യാ
+Deut	ആവർത്തനം	ആവർത്തനപുസ്തകം	ആവർ	ആവ
+Josh	യോശുവ
+Judg	ന്യായാധിപന്മാർ
+Ruth	രൂത്ത്
+1Sam	$FIRST ശമൂവേൽ	$FIRST ശമു	1ശമു
+2Sam	$SECOND ശമൂവേൽ	$SECOND ശമു	2ശമു
+1Kgs	$FIRST രാജാക്കന്മാർ	$FIRST രാജാ
+2Kgs	$SECOND രാജാക്കന്മാർ	$SECOND രാജാ
+1Chr	$FIRST ദിനവൃത്താന്തം	$FIRST ദിന
+2Chr	$SECOND ദിനവൃത്താന്തം	$SECOND ദിന
+Ezra	എസ്രാ
+Neh	നെഹെമ്യാവു
+Esth	എസ്ഥേർ
+Job	ഇയ്യോബ്	ഇയ്യോ
+Ps	സങ്കീർത്തനങ്ങൾ	സങ്കീ
+Prov	സദൃശ്യവാക്യങ്ങൾ	സദൃശവാക്യങ്ങൾ	സദൃശ
+Eccl	സഭാപ്രസംഗി
+Song	ഉത്തമ ഗീതം	ഉത്തമഗീതം
+Isa	യെശയ്യാ	യെശയ്യാവു	യെശ	യെശയ്യാവ്
+Jer	യിരേമ്യാവു	യിരെമ്യാവു	യിരെ
+Lam	വിലാപങ്ങൾ
+Ezek	യേഹേസ്കേൽ	യെഹെസ്കേൽ
+Dan	ദാനീയേൽ	ദാനീ
+Hos	ഹോശേയ
+Joel	യോവേൽ
+Amos	ആമോസ്
+Obad	ഓബദ്യാവു
+Jonah	യോനാ
+Mic	മീഖാ
+Nah	നഹൂം
+Hab	ഹബക്കൂക്‍	ഹബക്കൂൿ
+Zeph	സെഫന്യാവു
+Hag	ഹഗ്ഗായി
+Zech	സെഖർയ്യാവു	സെഖര്യാവു	സെഖര്യാവ്	സെഖര്യാ
+Mal	മലാഖി
+Matt	മത്തായി	മത്താ
+Mark	മർക്കൊസ്	മർക്കൊ
+Luke	ലൂക്കോസ്	ലൂക്കൊസ്	ലൂക്കൊ
+John	യോഹന്നാൻ	യോഹ
+Acts	പ്രവൃത്തികൾ	അപ്പ. പ്രവര്‍ത്തനങ്ങള്‍	അപ്പൊ. പ്രവൃത്തികൾ	അ.പ	അ. പ	അ.പ്ര	അ. പ്ര
+Rom	റോമർ	റോമ
+1Cor	$FIRST കൊരിന്ത്യർ	$FIRST കൊരി
+2Cor	$SECOND കൊരിന്ത്യർ	$SECOND കൊരി
+Gal	ഗലാത്യർ	ഗലാത്തിയാ	ഗലാ
+Eph	എഫെസ്യർ	എഫേസോസ്	എഫെ
+Phil	ഫിലിപ്പിയർ	ഫിലിപ്പി	ഫിലി
+Col	കൊലൊസ്സ്യർ	കൊളോസോസ്	കൊലൊ
+1Thess	$FIRST തെസ്സലൊനീക്യർ	$FIRST തെസ്സ
+2Thess	$SECOND തെസ്സലൊനീക്യർ	$SECOND തെസ്സ
+1Tim	$FIRST തിമൊഥെയൊസ്	$FIRST തിമൊ	$FIRST തിമൊഥയൊസ്
+2Tim	$SECOND തിമൊഥെയൊസ് $SECOND തിമൊ	$SECOND തിമൊഥയൊസ്
+Titus	തീത്തൊസ്	തീത്തൊ
+Phlm	ഫിലേമോൻ
+Heb	എബ്രായർ	എബ്രാ
+Jas	യാക്കോബ്	യാക്കോ
+1Pet	$FIRST പത്രൊസ്	$FIRST പതാസ്
+2Pet	$SECOND പത്രൊസ്	$SECOND പതാസ്
+1John	$FIRST യോഹന്നാൻ	$FIRST യോഹ
+2John	$SECOND യോഹന്നാൻ	$SECOND യോഹ
+3John	$THIRD യോഹന്നാൻ	$THIRD യോഹ
+Jude	യൂദാ	യുദാസ്	യൂദാ
+Rev	വെളിപ്പാടു	വെളിപാട്	വെളി
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

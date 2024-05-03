@@ -1,0 +1,66 @@
+var book = {
+	"name": "UZEFANIYA",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Nali ilizwi *likaNdikhoyo elafika kuZefaniya unyana kaKushi, unyana kaGedaliya, unyana ka-Amariya, unyana kaHezekiya. Ngoko ke kwakungethuba lolawulo lukaJosiya unyana ka-Amon owayengukumkani kwaJuda.",
+			"2": "<sup>2</sup> “Ndosuka nditshayele konke nje, ndikhucule konke ehlabathini.” Nguwo lowo umlomo *kaNdikhoyo.",
+			"3": "<sup>3</sup> “Ndotshayela nje umntu nesilwanyana. Ewe, ndozitshabalalisa iintaka esibhakabhakeni, ndenjenjalo nasezintlanzini zolwandle. Ndobasusa abakhohlakeleyo bezizikhubekiso, ndimnqamle kuphele umntu ehlabathini.” Nguwo lowo umlomo kaNdikhoyo.",
+			"4": "<sup>4</sup> “Isandla sam ndosolulela kuJuda nakubo bonke abemi beJerusalem, ndiwanqamle kule ndawo amasalela kaBhali, ndiwacime amagama abanquli-zithixo kunye nababingeleli bazo –",
+			"5": "<sup>5</sup> nditsho bona abo baguqa phezu kwezindlu benqula iinkwenkwezi, abo baguqayo bafunge uNdikhoyo, ukanti ke bakwafunga noMalkam,",
+			"6": "<sup>6</sup> abo bakreqileyo ekulandeleni uNdikhoyo, abo bangasamfuni nganto uNdikhoyo, kungekho nanto bayibuzayo kuye.",
+			"7": "<sup>7</sup> Ewe, yithini cwaka phambi kweNkosi uNdikhoyo; kaloku imini kaNdikhoyo isemnyango. Yena ulilungisile idini, ubangcwalisile abo abamemileyo.",
+			"8": "<sup>8</sup> Ngaloo mini yedini likaNdikhoyo ndiya kuwohlwaya amatshawe, ndibabethe oonyana bokumkani nâbo bavatha impahla yasemzini.",
+			"9": "<sup>9</sup> Ngaloo mini ndiya kubohlwaya bonke abatsiba umgubasi womnyango, abazalisa indlu yothixo wabo ngogonyamelo kunye nenkohliso.",
+			"10": "<sup>10</sup> “Ngaloo mini,” nguwo lowo umlomo kaNdikhoyo, “kovakala isikhalo ngakwiSango leeNtlanzi, ibe sisijwili ngakuMzi oMtsha, kuvakale isithonga ngasezindulini.",
+			"11": "<sup>11</sup> Yenzani isijwili, nina bahlala esigingqini. Bonke abarhwebi botshatyalaliswa, bavuthululwe abashishina ngesiliva.",
+			"12": "<sup>12</sup> Ngelo xesha ndophath' izibane ndiphicothe iJerusalem, ndibohlwaye abo bangakhathalele nto, abo bafana newayini enentlenge, abathi: ‘UNdikhoyo soze enze nto, nditsho nokuba intle okanye imbi.’",
+			"13": "<sup>13</sup> Ubutyebi babo buya kuxhatshazwa, izindlu zabo zona zibhodlozwe. Boba ngazakha ke izindlu, kodwa bangaze bahlale kuzo. Ewe, bozilima izidiliya, kodwa bangaze basele wayini yazo.”",
+			"14": "<sup>14</sup> Isondele imini enkulu *kaNdikhoyo; ewe, isondele, yaye iza ngokukhawuleza. Yivani! Isikhalo soba krakra ngemini kaNdikhoyo – nditsho imikhwazo yamagorha ngaloo mini.",
+			"15": "<sup>15</sup> Leyo yoba yimini yengqumbo, imini yokuxhwaleka nosizi, umhla wentshabalalo nembubho, umhla wobumnyama nesithokothoko, imini yamafu nomnyam' ombonde-mbonde,",
+			"16": "<sup>16</sup> umhla wesigodlo nentlaba-mkhosi ebhekisa kwizixeko ezinqatyisiweyo nakwezo nqaba ziphakamileyo.",
+			"17": "<sup>17</sup> Abantu ndobazisela inkxwaleko; bosuka bafathule ngathi ziimfama. Kaloku bamonile uNdikhoyo. Igazi labo lophalala njengothuli, imizimba yabo ivuthuluke njengobulongwe.",
+			"18": "<sup>18</sup> Soze yabasindisa igolide nesiliva yabo ngaloo mini yengqumbo kaNdikhoyo. Umhlaba wotshiswa wonke ngumlilo wekhwele lakhe. Uya kubenzela isiphelo esipheleleyo nesikhawulezileyo bonke abemi behlabathi."
+		},
+		"2": {
+			"1": "<sup>1</sup> Qokelelanani nihlanganisane, sizwendini esingenantloni,",
+			"2": "<sup>2</sup> lingekafiki ixesha elimisiweyo, imini eyonitshayela njengomququ, ingekanifikeli ingqumbo eshushu kaNdikhoyo, ningekafunyanwa ngumhla wengqumbo yakhe.",
+			"3": "<sup>3</sup> Mfuneni uNdikhoyo, bemi abathobekileyo behlabathi, nina benza umyalelo wakhe. Zingelan' ubulungisa nentobeko, mhlawumbi nokhuseleka ngemini yomsindo kaNdikhoyo.",
+			"4": "<sup>4</sup> IGaza yolil' ibhungane, iAshkelon isale ingamabhodlo. Kanye emin' emaqanda iAshdode iya kuqongqothwa, ke yona iEkron incothulwe.",
+			"5": "<sup>5</sup> Yeha ke, nina bemi ngaselwandle! Yeha ke, nina maKreti! Ilizwi *likaNdikhoyo lichasene nani: “Wena Kanana, mhlaba wamaFilistiya, ndokutshabalalisa, kungabikho namnye umi kuwe.”",
+			"6": "<sup>6</sup> Loo mhlaba ungaselwandle, apho kumi amaKreti, woba zizikhundla zabelusi nezibaya zeegusha.",
+			"7": "<sup>7</sup> Umhlaba lowo woba ngowamasalela endlu kaJuda; khona bozuza amadlelo. Ngokuhlwa bolala kwizindlu zaseAshkelon; kaloku uNdikhoyo uThixo wabo wobanonophela, abenze badle ngendeb' endala.",
+			"8": "<sup>8</sup> “Ndizivile izithuko zikaMowabhi, ngokunjalo nezingcikivo zoonyana baka-Amon. Ewe, babathukile abantu bam, bangenelela emideni yabo.",
+			"9": "<sup>9</sup> Ngoko ke, ndikhonje, ndiyafunga,” nguwo lowo umlomo kaNdikhoyo onamandla onke, uThixo kaSirayeli: “Inene, iMowabhi yofana nqwa neSodom, ama-Amon abe njengeGomora, indawo yokhula nemihadi yetyuwa. Yoba yinkangala ngonaphakade. Amasalela abantu bam aya kubaxhaphaza; ewe, amasalela esizwe sam owudla ilifa umhlaba wabo.”",
+			"10": "<sup>10</sup> Yonke loo nto ingenxa yekratshi labo, ngenxa yokuthuka nokuphoxisa ngabantu bakaNdikhoyo onamandla onke.",
+			"11": "<sup>11</sup> UNdikhoyo woba ngorhwaqelisayo kubo, kuba wozitshabalalisa *izithixo zelizwe. Izizwe macala onke ziya kumnqula; bebonke ke kwimihlaba yabo.",
+			"12": "<sup>12</sup> “Nani ngokwenu, maKushe, niya kubulawa ngekrele lam.”",
+			"13": "<sup>13</sup> Uya kusolula isandla sakhe kwelangasentla, ayitshabalalise iAsiriya, ayenze ibe linxuwa iNiniva, isale iyinkangala enjengentlango.",
+			"14": "<sup>14</sup> Iya kubutha phakathi kwayo imihlambi; ewe, yoba likhaya lazo zonke iindidi zezilwanyana. Soba lapho isikhova nesihulu-hulu, side silale kuloo miwewe, zikhwazane kwezo festile, ibe emnyango iyinkunkuma yodwa, imiqadi yomsedare isele izé.",
+			"15": "<sup>15</sup> Koba njalo okwesixeko esonwabileyo, esisoloko sihleli sikhuselekile. Kaloku sona sasisithi: “Ndim ndodwa; akukho wumbi.” Ndlela le singamabobosi ngayo! Ngoku seyilikhaya lamarhamncwa. Ke abadlulayo bobetha umlozi, babambe ongezantsi."
+		},
+		"3": {
+			"1": "<sup>1</sup> Yeha ke, mvukelindini uxabhelekileyo, sixekondini sabacinezeli!",
+			"2": "<sup>2</sup> Kaloku asithobeli mntu; ewe, asiva kululekwa. Sona asimthembi *noNdikhoyo; asisondeli nokusondela kuThixo waso.",
+			"3": "<sup>3</sup> Sitsho ngâbo balawuli baso, izinto ezibhavuml' okweengonyama. Abagwebi banjengeengcuka zangorhatya, izinto ezingashiyi nethambo eli elinokukhukhuzwa ngengomso.",
+			"4": "<sup>4</sup> *Abashumayeli bakhona zizintw' ezingenazimilo, abafo abaqamela ngobuqhetseba. Ababingeleli bayayixabhela ingcwele; ewe, bona bayawuvukela umthetho.",
+			"5": "<sup>5</sup> Ke uNdikhoyo uphakathi kwaso, yena olilungisa elingenzi bugwenxa. Uphak' ubulungisa ntsasa zonke; akukho nanye imini asilela ngayo. Ke bona abagwenxa abazi nehlazo eli.",
+			"6": "<sup>6</sup> “Mna ndizinqamle izizwe, ndazivuthulula iinqaba zazo, ndatsho kwalil' ibhungane ezitalatweni zabo. Akusekho nomntu lo odlulayo; ewe, izixeko zabo zitshatyalalisiwe. Ngenene akusekho bani useleyo, kungekho namnye ummi kuyo.",
+			"7": "<sup>7</sup> Bendisithi iJerusalem iya kundoyika, ikwamkele ukululekwa, nendawo yokuhlala kwayo inganqanyulwa, nditsho konke endayibonelela ngako. Kambe ke basuka baxhinela phambili besenza loo mikhuba yabo mibi.",
+			"8": "<sup>8</sup> “Ngoko ke lindelani kum,” utsho uNdikhoyo, “nijonge usuku endothimba ngalo. Ndosuka ndiziqokelele izizwe, ndizihlanganisele ndawonye izikumkani, ndizigalele ngomsindo wam, ndiyibhokoxele kuzo ingqumbo yam eshushu, ihlabathi liphela litshabalale, ndililenye ngomlilo womsindo wekhwele lam.",
+			"9": "<sup>9</sup> “Nezizwe ke ndosuka ndiziguqule ukuze zonke zimnqule uNdikhoyo; ewe, zimbuse ngamxhelo mnye.",
+			"10": "<sup>10</sup> “Abakhonzi bam, abantu bam abasarhazekileyo, bophuma phesheya komlambo waseKushe, bandizisele iminikelo.",
+			"11": "<sup>11</sup> “Ngaloo mini aniyi kudana ngobugwenxa enibenze kum, kuba ndobasusa kwesi sixeko abo baziqhayisa ngekratshi. Soze niphinde nidelele kuloo ntaba yam ingcwele.",
+			"12": "<sup>12</sup> Ke kaloku ndonishiyela abantu abanobulali nabathobekileyo, abantu abakholosa ngegama likaNdikhoyo.",
+			"13": "<sup>13</sup> “Amasalela kaSirayeli soze anxaxhe. Akasayi kuthetha buxoki, kungàfunyanwa nankohliso emilonyeni yabo. Aya kutya angqengqe, kungabikho bani unokuwoyikisa.”",
+			"14": "<sup>14</sup> Khawuhlabel' ingoma, ntombi inguZiyon; uyiyizele, wena Sirayeli! Vuya uchwayite ngentliziyo yakho yonke – ndixela wena, ntombi inguJerusalem!",
+			"15": "<sup>15</sup> *UNdikhoyo usirhoxisile isigwebo sakho, neentshaba zakho uzijikile. Ke yena uNdikhoyo, uKumkani kaSirayeli, ungakuwe; soz' uphinde uboyike ububi.",
+			"16": "<sup>16</sup> Ngaloo mini kothiwa kwiJerusalem: “Musa ukoyika, Ziyon! Mazingabi namkhinkqi izandla zakho.",
+			"17": "<sup>17</sup> UNdikhoyo uThixo wakho unawe; uligorha elisindisayo. Yena unemihlali ngawe, enovuyo; uya kukuthulisa ngothando lwakhe; ugcoba ngawe eyiyizela,",
+			"18": "<sup>18</sup> ngathi ngabantu ngomhla wetheko.” Kaloku uNdikhoyo uthi: “Ndonikhusela kuyo intlekele, ningabi saba sisingcikivo.",
+			"19": "<sup>19</sup> Uyabona, ngelo xesha ndiya kuphathana nabo abo bakucinezeleyo. Ndiya kusihlangula isiqhwala, ndibaqokelele abo basarhazekileyo. Ndiya kubanika udumo nokuhlonelwa kuloo mazwe onke ababehlaziswa kuwo.",
+			"20": "<sup>20</sup> Ngelo xesha ndoniqokelela; ewe, ndinibuyisele ekhaya, ndinithi jize ngesidima nendumiso kuzo zonke izizwe zehlabathi, xa ndinibuyisela kundalashe. Nani ke noyibona loo nto ngala wenu amehlo!” Utsho uNdikhoyo."
+		}
+	}
+};
+module.exports = book;

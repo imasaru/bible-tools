@@ -19,7 +19,7 @@ $VERSE	versekre	versek	vers.
 $UNICODE_BLOCK	Latin
 
 Gen	Mózes I	Teremtés	Ter	$FIRST Mózes	1 Mó?z
-Exod	Mózes II	Kivonulás	Kiv	$SECOND Mózes	2 Mó?z
+Exod	Mózes II	Kivonulás	Kiv	$SECOND Mózes	2 Mó?z	Ex
 Lev	Mózes III	Leviták	Lev	$THIRD Mózes	3 Mó?z
 Num	Mózes IV	Számok	Szám	$FOURTH Mózes	4 Mó?z
 Deut	Mózes V	Második törvénykönyv	Mózes ötödik könyve	MTörv	5 Mózes	5 Mó?z
@@ -30,21 +30,21 @@ Ruth	Rut	Ruth
 2Sam	Sámuel II	$SECOND Sámuel	$SECOND Sám
 1Kgs	Királyok I	$FIRST Királyok	$FIRST Kir
 2Kgs	Királyok II	$SECOND Királyok	$SECOND Kir
-1Chr	Krónikák I	$FIRST Krónika	$FIRST Krón
-2Chr	Krónikák II	$SECOND Krónika	$SECOND Krón
-Ezra	Ezsdrás	Ezs?d
-Neh	Nehemiás	Neh
+1Chr	Krónikák I	$FIRST Krónika	$FIRST Krón	$FIRST Kr
+2Chr	Krónikák II	$SECOND Krónika	$SECOND Krón	$SECOND Kr
+Ezra	Ezsdrás	Ezs	Ezsd	Ezsdr
+Neh	Nehemiás	Neh	Nehémiás
 Esth	Eszter	Eszt
 Job	Jób
-Ps	Zsoltárok	Zsolt
-Prov	Példabeszédek	Péld
-Eccl	Prédikátor	Préd
-Song	Salamon éneke	Énekek éneke	Én
-Isa	Izajás	Éz?saiás	Iz	Ézs
+Ps	Zsoltárok	Zsolt	Zsoltár
+Prov	Példabeszédek	Péld	Pld
+Eccl	Prédikátor	Préd	Pr
+Song	Salamon éneke	Énekek éneke	Én	Énekek
+Isa	Izajás	Éz?saiás	Iz	Ézs	Ésa
 Jer	Jeremiás	Jer
 Lam	Jeremiás siralmai	Siralmak	Siralm?	Jeremiás sir
-Ezek	Ezékiel	Ez
-Dan	Dániel	Dán
+Ezek	Ezékiel	Ez	Ezék
+Dan	Dániel	Dán	Dn
 Hos	Ozeás	Oz	Hóseás	Hós
 Joel	Jóel	Joel	Jóél	Jo
 Amos	Ámós	Ámosz	Ám	Ámos
@@ -53,7 +53,7 @@ Jonah	Jónás	Jón
 Mic	Mikeás	Mik
 Nah	Náhum	Náh
 Hab	Habakuk	Habakkuk	Hab
-Zeph	Szofoniás	Zofóniás	Szefaniás	Szof	Sofoniás
+Zeph	Szofoniás	Zofóniás	Szefaniás	Szof	Sofoniás	Zof
 Hag	Aggeus	Haggai	Haggeus	Ag
 Zech	Zakariás	Zak
 Mal	Malakiás	Mal
@@ -61,24 +61,24 @@ Matt	Máté	Mt
 Mark	Márk	Mk
 Luke	Lukács	Lk
 John	János	Jn
-Acts	Cselekedetek	Apostolok cselekedetei	Az apostolok cselekedetei	Az ApCsel	Ap. Csel	Apostolok
-Rom	Rómaiakhoz	Róma?
+Acts	Cselekedetek	Apostolok cselekedetei	Az apostolok cselekedetei	Az ApCsel	Ap. Csel	Apostolok	Csel
+Rom	Rómaiakhoz	Róma?	Rm
 1Cor	$FIRST Korinthusiakhoz	$FIRST Kor	$FIRST Korintusi	$FIRST Korinthus
 2Cor	$SECOND Korinthusiakhoz	$SECOND Kor	$SECOND Korintusi	$SECOND Korinthus
 Gal	Galatákhoz	Galata	Gal
 Eph	Efezusiakhoz	Epheszosziakhoz	Ef	Efézusiakhoz	Efezus	Efezus
 Phil	Flippiekhez	Philippibeliekhez	Filippi	Fil	Filippiekhez
 Col	Kolosszébeliekhez	Kolosséiakhoz	Kolosszeieknek	Kolossé	Kol
-1Thess	$FIRST Thesszalonika	$FIRST Tesszalonikaiakhoz	$FIRST Thesszalonikaiakhoz	$FIRST Th?essz	$FIRST Tesszalonika
-2Thess	$SECOND Thesszalonika	$SECOND Tesszalonikaiakhoz	$SECOND Thesszalonikaiakhoz	$SECOND Th?essz	$SECOND Tesszalonika
-1Tim	$FIRST Timótheosz	$FIRST Timóteushoz	$FIRST Timóteusnak	$FIRST Timóteus	$FIRST Tim
-2Tim	$SECOND Timótheosz	$SECOND Timóteushoz	$SECOND Timóteusnak	$SECOND Timóteus	$SECOND Tim
+1Thess	$FIRST Thesszalonika	$FIRST Tesszalonikaiakhoz	$FIRST Thesszalonikaiakhoz	$FIRST Thessz	$FIRST Tessz	$FIRST Tesszalonika
+2Thess	$SECOND Thesszalonika	$SECOND Tesszalonikaiakhoz	$SECOND Thesszalonikaiakhoz	$SECOND Thessz	$SECOND Tessz	$SECOND Tesszalonika
+1Tim	$FIRST Timótheosz	$FIRST Timóteushoz	$FIRST Timóteusnak	$FIRST Timóteus	$FIRST Tim	$FIRST Timótheus
+2Tim	$SECOND Timótheosz	$SECOND Timóteushoz	$SECOND Timóteusnak	$SECOND Timóteus	$SECOND Tim	$SECOND Timótheus
 Titus	Titusz?hoz	Titusz?	Tit
 Phlm	Filemonhoz	Philemonhoz	Filemon	Filem
 Heb	Héber levél	Zsidókhoz írt levél	Zsidókhoz	Zsidók	Zsid
 Jas	Jakab	Jak
-1Pet	$FIRST Péter	$FIRST Pét
-2Pet	$SECOND Péter	$SECOND Pét
+1Pet	$FIRST Péter	$FIRST Pét	$FIRST Pt
+2Pet	$SECOND Péter	$SECOND Pét	$SECOND Pt
 1John	$FIRST János	János I	$FIRST Jn
 2John	$SECOND János	János II	$SECOND Jn
 3John	$THIRD János	János III	$THIRD Jn

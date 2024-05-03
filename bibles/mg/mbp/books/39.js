@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malakia",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> TENY faminaniana avy tamin’i Jehovah nampitondrainy an’i Malakia ho amin’ny Isiraely.",
+			"2": "<sup>2</sup> Efa tia anareo Aho, hoy Jehovah; nefa hoy hianareo: Inona no nentinao nitia anay? Tsy rahalahin’i Jakoba va Esao? hoy Jehovah; nefa Jakoba no tiako,",
+			"3": "<sup>3</sup> fa Esao no halako, ka nataoko tany lao ny tendrombohiny, ary ny lovany natolotro ho an’ny amboadia any an-efitra.",
+			"4": "<sup>4</sup> Na dia hoy aza Edoma: Torotoro izahay, nefa mbola hamboarinay indray ny efa rava, dia izao no lazain’i Jehovah, Tompon’ny maro: Ireo dia hanamboatra, fa Izaho kosa handrava; ary dia hatao hoe tanin’ny faharatsiana, dia firenena tezeran’i Jehovah mandrakizay, ireo.",
+			"5": "<sup>5</sup> Ary ny masonareo no hahita, ka dia hiteny hianareo hanao hoe: Jehovah dia lehibe any an-koatry ny tanin’ny Isiraely.",
+			"6": "<sup>6</sup> Ny zanaka manaja ny rainy, ary ny mpanompo ny tompony; koa raha Ray Aho, aiza ary izay hajako? ary raha Tompo Aho, aiza izay tahotra Ahy? hoy Jehovah, Tompon’ny maro, aminareo, ry mpisorona, izay manamavo ny anarako, nefa manao hoe: Amin’inona no anamavoanay ny anaranao?",
+			"7": "<sup>7</sup> Amin’ny fitondrana hanina voaloto ho eo amin’ny alitarako. Nefa hianareo manao hoe: Amin’inona no andotoanay Anao? Amin’ny fanaovanareo hoe: Ny latabatr’i Jehovah dia fanazimbazimba.",
+			"8": "<sup>8</sup> Ary raha jamba no entinareo hovonoina hatao fanatitra,–tsy ratsy hoe izany! Ary raha mandringa sy marary no entinareo,–tsy ratsy hoe izany! Atero ho an’ny governora manapaka anao ange izany,–moa hahazo sitraka na fitia aminy va hianao? hoy Jehovah Tompon’ny maro.",
+			"9": "<sup>9</sup> Koa masìna hianareo, andeha mifona amin’Andriamanitra hamindrany fo amintsika–fa ny tànanareo no nahatonga izany,–moa hankasitraka va Izy noho ny aminareo? hoy Jehovah, Tompon’ny maro.",
+			"10": "<sup>10</sup> Enga anie ka hisy aminareo handrindrina ny varavarana ka tsy handrehitra afo foana eo ambonin’ny alitarako! Tsy hankasitraka anareo Aho, na ta-handray fanatitra amin’ny tànanareo, hoy Jehovah, Tompon’ny maro.",
+			"11": "<sup>11</sup> Fa hatramin’ny fiposahan’ny masoandro ka hatramin’ny filentehany dia lehibe ny anarako any amin’ny jentilisa, ary any amin’ny tany rehetra no handoroana ditin-kazo manitra sy hanaterana fanatitra madio ho an’ny anarako; fa lehibe any amin’ny jentilisa ny anarako, hoy Jehovah, Tompon’ny maro.",
+			"12": "<sup>12</sup> Fa hianareo kosa manamavo izany amin’ny fanaovanareo hoe: Voaloto ny latabatr’i Jehovah, ary ny haniny aterina eo dia tsinontsinona.",
+			"13": "<sup>13</sup> Hoy koa hianareo: Tsy mba hasasarana lahy! ary ikifonanareo izany, hoy Jehovah, Tompon’ny maro; entinareo ny nalaina an-keriny sy ny mandringa sy ny marary, ka dia aterinareo ho fanatitra; moa ta-handray izany amin’ny tànanareo va Aho? hoy Jehovah.",
+			"14": "<sup>14</sup> Fa voaozona ny mpamitaka, izay manana ondrilahy ao amin’ny ondriny, ary mivoady, nefa mamono zavatra misy kilema hatao fanatitra ho an’ny Tompo. Fa Mpanjaka lehibe Aho, hoy Jehovah, Tompon’ny maro, ary ny anarako dia mahatahotra any amin’ny jentilisa."
+		},
+		"2": {
+			"1": "<sup>1</sup> ARY ankehitriny, ry mpisorona, dia ho aminareo izao didy izao:",
+			"2": "<sup>2</sup> Raha tsy hihaino na handatsaka am-po ka hanome voninahitra ny anarako hianareo, hoy Jehovah, Tompon’ny maro, dia halefako hamely anareo ny ozona, ka hozoniko ny tso-drano ataonareo; eny, efa voaozoko sahady izany, satria tsy nandatsaka am-po hianareo.",
+			"3": "<sup>3</sup> Indro, hasiako teny mafy ny voa afafinareo, ary hofafazako tain-droroha ny tavanareo, dia ny tain-droroha avy amin’ny andro firavoravoanareo; ary hailika miaraka aminy hianareo.",
+			"4": "<sup>4</sup> Dia ho fantatrareo fa nampitondra izany didy izany ho aminareo Aho, mba haharetan’ny fanekeko amin’i Levy, hoy Jehovah, Tompon’ny maro.",
+			"5": "<sup>5</sup> Ny fanekeko taminy dia fiainana sy fiadanana; ary nomeko azy ho fahatahorana izany, ka dia natahotra Ahy sy nangovitra teo anatrehan’ny anarako izy.",
+			"6": "<sup>6</sup> Ny lalàn’ny fahamarinana no teo am-bavany, ary tsy mba nisy tsi-fahamarinana teo amin’ny molony; tamin’ny fiadanana sy ny fahitsiana no niarahany nandeha tamiko, ary maro no nampialainy tamin’ny heloka.",
+			"7": "<sup>7</sup> Fa ny molotry ny mpisorona tokony hitahiry fahalalana, ary ny lalàna hotadiavina eo am-bavany, satria irak’i Jehovah, Tompon’ny maro, izy.",
+			"8": "<sup>8</sup> Fa hianareo kosa dia efa nivily làlana sady nampahatafintohina olona maro ny amin’ny lalàna ary namadika ny fanekena amin’i Levy, hoy Jehovah; Tompon’ny maro.",
+			"9": "<sup>9</sup> Ary Izaho kosa dia efa nanolotra anareo ho fanazimbazimba sy ho fanao tsinontsinona eo anatrehan’ny vahoaka rehetra, noho ny tsy nitandremanareo ny làlako sy ny nizahanareo tavan’olona ny amin’ny lalàna.",
+			"10": "<sup>10</sup> TSY mpiombon-dray va isika rehetra? Tsy Andriamanitra iray ihany va no nahary antsika? Koa nahoana no samy mivadika amin’ny rahalahintsika avy isika ka mamadika ny fanekena tamin’ny razantsika?",
+			"11": "<sup>11</sup> Ny Joda efa namitaka, ary misy fahavetavetana atao ao amin’ny Isiraely sy eto Jerosalema; fa ny Joda efa nandoto ny fitoera-masin’i Jehovah, izay tiany, sady efa nanambady ny zanakavavin’ny andriamani-kafa.",
+			"12": "<sup>12</sup> Enga anie ka hofongoran’i Jehovah hiala amin’ny lain’i Jakoba ny lehilahy izay manao izany, na iza na iza, sy izay manatitra fanatitra ho an’i Jehovah, Tompon’ny maro.",
+			"13": "<sup>13</sup> Ary faharoan’izany, dia izao koa no ataonareo: Saronanareo ranomaso sy fitomaniana ary fisentoana ny alitaran’i Jehovah, ka tsy mba jereny intsony ny fanatitra, ary tsy handray fankasitrahana avy amin’ny tànanareo Izy.",
+			"14": "<sup>14</sup> Nefa hoy hianareo: Nahoana? Satria Jehovah no vavolombelona ny aminao sy ny vadin’ny fahatanoranao izay nofitahinao, na dia namanao sady vady efa vita fanekena taminao aza izy.",
+			"15": "<sup>15</sup> Moa tsy nisy anankiray nanao izany va, nefa mbola nanam-panahy ihany? Fa inona andrefa no notadiavin’ilay anankiray? Taranaka araka an’Andriamanitra. Koa dia tandremo ny fanahinareo, ary aoka tsy hisy hamitaka ny vadin’ny fahatanorany.",
+			"16": "<sup>16</sup> Fa halako ny fisaoram-bady, hoy Jehovah, Andriamanitry ny Isiraely, sy ny fanosenana fampahoriana amin’ny fitafiany, hoy Jehovah, Tompon’ny maro; koa tandremo ny fanahinareo, ary aza mamitaka hianareo.",
+			"17": "<sup>17</sup> EFA manasatra an’i Jehovah amin’ ny teninareo hianareo. Nefa hoy hianareo: Amin’inona moa no anasaranay Azy? Amin’ny fanaovanareo hoe: Izay rehetra manao ratsy dia tsara eo imason’i Jehovah ka ankasitrahany, na amin’ny hoe: Aiza Andriamanitry ny fitsarana?"
+		},
+		"3": {
+			"1": "<sup>1</sup> Indro, haniraka ny irako Aho, ary izy hanamboatra làlana eo alohako; ary ny Tompo Izay tadiavinareo dia ho avy tampoka ho eo an-tempoliny; ary ny Anjelin’ ny fanekena Izay irinareo, dia, indro, tamy Izy, hoy Jehovah, Tompon’ny maro.",
+			"2": "<sup>2</sup> Nefa iza no mahatanty ny andro hihaviany? Ary iza no mahajanona, raha miseho Izy? Fa Izy dia tahaka ny afon’ny mpandrendrika sy ny savonin’ny mpanasa lamba.",
+			"3": "<sup>3</sup> Ary hipetraka handrendrika sy hanadio volafotsy Izy; eny, hanadio ny taranak’i Levy Izy sy handrendrika azy toy ny fandrendrika volamena sy volafotsy, ka dia ho an’i Jehovah ireny ho mpanatitra fanatitra amim-pahamarinana.",
+			"4": "<sup>4</sup> Dia ho mamin’i Jehovah ny fanatitry ny Joda sy Jerosalema toy ny tamin’ny andro fahiny sy toy ny tamin’ny taona taloha.",
+			"5": "<sup>5</sup> Ary hanatona anareo ho fitsarana Aho ka ho vavolombelona faingana hanameloka ny mpanana ody sy ny mpijangajanga sy ny mpianian-tsy to sy ny mpampahory ny mpikarama amin’ny karamany mbamin’ny mpitondratena sy ny kamboty ary izay mampahory ny vahiny; fa tsy matahotra Ahy izy, hoy Jehovah, Tompon’ny maro.",
+			"6": "<sup>6</sup> Fa Izaho Jehovah dia tsy miova, ary hianareo, ry taranak’i Jakoba, dia tsy fongana.",
+			"7": "<sup>7</sup> Hatramin’ny andron’ny razanareo dia efa niala tamin’ny didiko hianareo ka tsy nitandrina azy. Miverena amiko, dia mba hiverina ho aminareo kosa Aho, hoy Jehovah, Tompon’ny maro. Nefa hoy hianareo: Ahoana àry no ho fiverinay?",
+			"8": "<sup>8</sup> Handroba an’Andriamanitra va ny olona, no mandroba Ahy hianareo? Nefa hoy hianareo: Amin’inona moa no androbanay Anao? Amin’ny fahafolon-karena sy ny fanatitra.",
+			"9": "<sup>9</sup> Voaozona amin’ny ozona hianareo nefa Izaho no robainareo, dia izao hianareo rehetra iray firenena izao.",
+			"10": "<sup>10</sup> Entonareo ny fahafolon-karena rehetra ho ao amin’ny trano firaketako, mba hasian-kanina ao an-tranoko, ary izahao toetra amin’izany Aho, hoy Jehovah, Tompon’ny maro, raha tsy hovohàko ny varavaran’ny lanitra ho anareo ka hampidinako fitahiana manana amby ampy ho anareo.",
+			"11": "<sup>11</sup> Ary hasiako teny mafy ny valala noho ny aminareo, ka tsy hanimba ny vokatry ny tany intsony ireny, ka dia hahavanom-boa ny voalobokareo any an-tsaha, hoy Jehovah, Tompon’ny maro.",
+			"12": "<sup>12</sup> Ary hianareo hataon’ny firenena rehetra hoe sambatra; fa ho tany mahafinaritra hianareo, hoy Jehovah, Tompon’ny maro.",
+			"13": "<sup>13</sup> Ny teninareo dia mahery mamely Ahy, hoy Jehovah. Nefa hoy hianareo: Inona no resakay nentinay namely Anao?",
+			"14": "<sup>14</sup> Tamin’ny nanaovanareo hoe: Zava-poana ny manompo an’Andriamanitra; ary inona moa no soa efa azo tamin’ny fitandremantsika izay nasainy notandremana sy tamin’ny nandehanantsika nitafy lamba fisaonana teo anatrehan’i Jehovah, Tompon’ny maro.",
+			"15": "<sup>15</sup> Ary ankehitriny isika dia midera ny mpirehareha hoe sambatra; eny, voaorina tsara izay nanao ratsy, sady efa naka fanahy an’Andriamanitra izy, nefa afa-nandositra ihany.",
+			"16": "<sup>16</sup> Ary tamin’izany izay natahotra an’i Jehovah dia samy niresaka tamin’ny namany avy; ary Jehovah nihaino ka nandre izany; ary nisy boky nosoratana teo anatrehany ho fahatsiarovana izay matahotra an’i Jehovah sy mihevitra ny anarany.",
+			"17": "<sup>17</sup> Ary ho rakitra soa ho Ahy ireny amin’ny andro izay hotendreko, hoy Jehovah, Tompon’ny maro, ary ho antra azy Aho toy ny olona antra ny zanani-lahy izay manompo azy.",
+			"18": "<sup>18</sup> Ka dia ho hitanareo indray ny tsi-fitovian’ny marina sy ny meloka, dia ny manompo an’Andriamanitra sy ny tsy manompo Azy.",
+			"19": "<sup>19</sup> Fa, indro, avy ny andro, mandoro toy ny fatana fandoroana izy; ary ny mpirehareha rehetra sy ny mpanao ratsy rehetra dia ho vodivary; ka dia handoro azy ny andro izay ho avy, hoy Jehovah, Tompon’ny maro, ka tsy hasiany miangana, na ny fàkany na ny sampany.",
+			"20": "<sup>20</sup> Ary hiposaka aminareo, izay matahotra ny anarako, ny Masoandron’ny fahamarinana, manana fanasitranana ao amin’ny tànany; ary hivoaka hianareo ka hifalihavanja toy ny zanak’omby mifahy;",
+			"21": "<sup>21</sup> ary hohitsahinareo ny ratsy fanahy; fa ho lavenona eo ambanin’ny faladianareo izy amin’ny andro izay hotendreko, hoy Jehovah, Tompon’ny maro.",
+			"22": "<sup>22</sup> Tsarovinareo ny làlan’i Mosesy mpanompoko, izay nandidiako azy tao Horeba ny amin’ny Isiraely rehetra, dia ny didy sy ny fitsipika.",
+			"23": "<sup>23</sup> Indro, Izaho haniraka an’i Elia mpaminany ho aminareo, dieny tsy mbola tonga ny andron’i Jehovah, ilay lehibe sady mahatahotra:",
+			"24": "<sup>24</sup> ary izay hampody ny fon’ny ray ho amin’ny zanaka, ary ny fon’ny zanaka ho amin’ny rainy, fandrao ho avy Aho hamely ny tany amin’ny fandringanana."
+		}
+	}
+};
+module.exports = book;

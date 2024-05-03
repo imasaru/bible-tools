@@ -182,6 +182,7 @@
 1Tim	1 தீமோத்தேயு
 1Tim	1 தீமோத்
 1Tim	1 திமொ
+1Tim	1 தீமோ
 1Tim	1Tim
 2Chr	நாளாகமத்தின் இரண்டாம் புத்தகம்
 2Chr	2 குறிப்பேடு
@@ -592,6 +593,7 @@
 2Tim	2 தீமோத்தேயு
 2Tim	2 தீமோத்
 2Tim	2 திமொ
+2Tim	2 தீமோ
 2Tim	2Tim
 3John	யோவான் எழுதிய முன்றாம் திருமுகம்
 3John	Yovan Elutiya Munravatu Nirupam
@@ -861,6 +863,7 @@ Ezek	Ecekkiyel
 Ezek	Ecekkiyēl
 Ezek	Ecēkkiyel
 Ezek	Ecēkkiyēl
+Ezek	எசேக்
 Ezek	Ezek
 Ezek	எசே
 Ezra	எஸ்றாவின் புத்தகம்
@@ -921,6 +924,7 @@ Heb	Epireyarukku Eḻutiya Nirupam
 Heb	எபிரெயருக்கு எழுதிய நிருபம்
 Heb	எபிரேயருக்கு எழுதிய கடிதம்
 Heb	Epireyarukku
+Heb	எபிரெயர்
 Heb	எபிரேயர்
 Heb	எபிரே
 Heb	Heb
@@ -1396,6 +1400,7 @@ Rev	Veḷippatuttiṉa
 Rev	Veḷippaṭuttina
 Rev	Veḷippaṭuttiṉa
 Rev	திருவெளிப்பாடு
+Rev	வெளிப்படுத்தல்
 Rev	திவெ
 Rev	வெளி
 Rev	Rev
@@ -1499,6 +1504,7 @@ Zeph	Ceppaniya
 Zeph	Ceppaniyā
 Zeph	Ceppaṉiya
 Zeph	Ceppaṉiyā
+Zeph	செப்பணியா
 Zeph	செப்பனியா
 Zeph	Zeph
 Zeph	செப்

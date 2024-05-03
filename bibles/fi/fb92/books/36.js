@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sefanja",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Herran sana, joka tuli Sefanjalle Juudan kuninkaan Josian, Amonin pojan, päivinä. Sefanja oli Kusin poika; hänen isoisänsä oli Gedalja, tämän isä oli Amarja ja tämän Hiskia.",
+			"2": "<sup>2</sup> – Minä tuhoan kaiken, tempaan kaiken pois maan päältä, sanoo Herra.",
+			"3": "<sup>3</sup> Minä tuhoan ihmiset ja eläimet, teen lopun taivaan linnuista ja meren kaloista, minä kaadan jumalattomat ja hävitän ihmiset maan päältä, sanoo Herra.",
+			"4": "<sup>4</sup> Minä ojennan käteni Juudaa vastaan ja kaikkia Jerusalemin asukkaita vastaan. Tästä kaupungista minä hävitän tyystin Baalin palvelun ja epäjumalia palvelevien pappien muiston.",
+			"5": "<sup>5</sup> Minä hävitän ne, jotka kumartavat katoilla taivaan joukoille, ne, jotka kumartavat Herraa mutta vannovat Milkomin nimeen,",
+			"6": "<sup>6</sup> ne, jotka ovat luopuneet Herrasta, jotka eivät etsi Herraa eivätkä kysy hänen tahtoaan.",
+			"7": "<sup>7</sup> Hiljaa Herran Jumalan edessä! Lähellä on Herran päivä, hän on valmistanut teurasuhrinsa, pyhittänyt kutsuvieraansa.",
+			"8": "<sup>8</sup> Uhriateriani päivänä minä, Herra, rankaisen hallitusmiehiä ja kuninkaallisia ja kaikkia, jotka pukeutuvat vierasmaalaisten tavoin.",
+			"9": "<sup>9</sup> Minä rankaisen sinä päivänä kaikkia, jotka pelkäävät astua kynnykselle mutta eivät pelkää täyttää isäntänsä taloa ryöstösaaliilla, jonka ovat väkivallalla ja petoksella hankkineet.",
+			"10": "<sup>10</sup> Sinä päivänä – sanoo Herra – kuuluu huuto Kalaportilta, vaikerrus uudesta kaupunginosasta ja valtava ryske kukkuloilta.",
+			"11": "<sup>11</sup> Valittakaa, te Maktesin kauppiaat, sillä teidät tuhotaan ja kaikki, jotka hopeaa punnitsevat, hävitetään.",
+			"12": "<sup>12</sup> Siihen aikaan minä, Herra, tutkin Jerusalemin tarkoin soihduilla valaisten ja rankaisen niitä miehiä, jotka juomisen pöhöttäminä lojuvat raskaan viininsä ääressä ja sanovat itsekseen: »Ei Herra tee hyvää eikä pahaa.»",
+			"13": "<sup>13</sup> Heidän omaisuutensa ryöstetään, heidän talonsa hävitetään. Vaikka he ovat rakentaneet taloja, he eivät saa asua niissä, vaikka he ovat istuttaneet viinitarhoja, he eivät saa juoda niiden viiniä.",
+			"14": "<sup>14</sup> Lähellä on Herran suuri päivä, se lähestyy, kiireesti se rientää. Ettekö kuule pauhua – nyt on Herran päivä! Rohkea soturikin huutaa pelosta.",
+			"15": "<sup>15</sup> Se päivä on vihan päivä, hädän ja ahdistuksen päivä, onnettomuuden ja hävityksen päivä, pimeyden ja synkeyden päivä, pilven ja sumun päivä,",
+			"16": "<sup>16</sup> pasuunan äänen ja sotahuudon päivä. Se vyöryy varustettuja kaupunkeja vastaan, korkeita torneja vastaan.",
+			"17": "<sup>17</sup> Minä painan ihmiset ahtaalle, he harhailevat kuin sokeat. Minua vastaan he ovat tehneet syntiä, siksi heidän vertaan vuodatetaan, se valuu virtanaan maahan. Heidän ruumiitaan viruu joka puolella kuin lantakasoja.",
+			"18": "<sup>18</sup> Heidän hopeansa ja kultansa eivät voi heitä pelastaa Herran vihan päivänä. Hänen vihansa tuli tuhoaa koko maan, sillä lopun, kauhistuttavan lopun, hän tekee kaikista maan asukkaista."
+		},
+		"2": {
+			"1": "<sup>1</sup> Kokoontukaa vain, pitäkää yhtä, kaikki te häikäilemättömät,",
+			"2": "<sup>2</sup> ennen kuin Herran päätös toteutuu ja te lennätte pois kuin akanat tuulessa, ennen kuin teidän päällenne tulee Herran vihan hehku, ennen kuin teille koittaa Herran vihan päivä.",
+			"3": "<sup>3</sup> Mutta te maan nöyrät, jotka noudatatte Herran oikeutta, etsikää Herraa. Etsikää vanhurskautta, etsikää nöyryyttä, niin te ehkä löydätte suojan Herran vihan päivänä.",
+			"4": "<sup>4</sup> Gaza jää tyhjäksi, Askelon autioksi, Asdodin asukkaat ajetaan pois keskellä päivää ja Ekron tuhotaan.",
+			"5": "<sup>5</sup> Voi rannikon asukkaita, kreettien kansaa! Teistä Herra sanoo: – Minä nöyryytän sinut, Filistean maa, ja teen lopun asukkaistasi.",
+			"6": "<sup>6</sup> Rantamaa jää laitumeksi ja lammasten tarhoiksi.",
+			"7": "<sup>7</sup> Ja ne, jotka ovat jäljellä Juudan heimosta, saavat rannikon haltuunsa. He paimentavat siellä laumojaan ja majoittuvat iltaisin Askelonin taloihin. Herra, heidän Jumalansa, pitää heistä huolen, hän kääntää heidän kohtalonsa.",
+			"8": "<sup>8</sup> Minä olen kuullut, miten Moab on häväissyt kansaani, miten Ammon on sitä herjannut, miten röyhkeästi ne ovat uhonneet ja ylvästelleet.",
+			"9": "<sup>9</sup> Sen tähden sanoo Herra Sebaot, Israelin Jumala: – Niin totta kuin minä elän, Moabin käy kuin Sodoman ja ammonilaisten kuin Gomorran asukkaiden. Rikkaruohot peittävät heidän maansa, siitä tulee suolakenttä, ikuisesti autio. Ne, jotka ovat jääneet jäljelle kansastani, ryöstävät sitä ja ottavat sen haltuunsa.",
+			"10": "<sup>10</sup> Näin käy noiden kansojen ylpeyden tähden, sillä ne ovat herjanneet Herran Sebaotin kansaa ja ylvästelleet röyhkeästi.",
+			"11": "<sup>11</sup> Pelottava on Herran voima, hän on hävittävä kaikki jumalat maan päältä. Koko maanpiiri kumartaa häntä, kaukaiset rannat ja saaretkin.",
+			"12": "<sup>12</sup> Myös teidät, nubialaiset, Herran miekka on kaatava.",
+			"13": "<sup>13</sup> Herra ojentaa kätensä pohjoista kohti ja hävittää Assyrian, hän tekee Niniven autioksi, kuivaksi kuin aavikko.",
+			"14": "<sup>14</sup> Eläimet asettuvat sinne suurin joukoin, villieläimet laumoittain. Siilit ja huuhkajat yöpyvät sortuneitten pylväitten seassa. Oudot äänet kuuluvat ikkuna-aukoista, kynnyksillä vallitsee hävitys, setrilaudoitus on revitty irti.",
+			"15": "<sup>15</sup> Tämä oli iloinen kaupunki, joka eli turvassa ja sanoi itsekseen: »Minä, vain minä.» Kuinka autioksi se onkaan tullut, eläinten lymypaikaksi! Ohikulkijat nostavat torjuen kätensä ja viheltävät kauhistuneina."
+		},
+		"3": {
+			"1": "<sup>1</sup> Voi uppiniskaista ja veren saastuttamaa, väkivaltaista kaupunkia!",
+			"2": "<sup>2</sup> Ketään se ei ole totellut, ei ole ottanut opikseen kuritusta. Herraan se ei luottanut, ei kääntynyt Jumalansa puoleen.",
+			"3": "<sup>3</sup> Sen hallitusmiehet ovat ärjyviä leijonia, sen tuomarit hämärässä saalistavia susia – eivät jätä luutakaan aamuksi.",
+			"4": "<sup>4</sup> Sen profeetat ovat röyhkeitä, petollisia miehiä. Sen papit saastuttavat pyhän ja johtavat kansaa opetuksellaan harhaan.",
+			"5": "<sup>5</sup> Mutta Herra, joka asuu sen muurien sisällä, on vanhurskas, hän ei tee vääryyttä. Joka aamu hän antaa oikeutensa valoksi, ei se jää tulematta. Mutta ne, jotka tekevät vääryyttä, eivät silti tunne häpeää.",
+			"6": "<sup>6</sup> – Minä olen hävittänyt kansoja, tuhonnut muurit ja tornit, tehnyt kadut autioiksi, vaille kulkijoita. Minä olen lyönyt kaupungit raunioiksi, ketään ei jäänyt jäljelle, ei yhtäkään ihmistä.",
+			"7": "<sup>7</sup> Minä ajattelin: Nyt sinä, Jerusalem, vihdoinkin pelkäät minua, otat kurituksen opiksesi ja pidät mielessäsi kaiken sen, mitä olen sinulle säätänyt. Mutta aamuvarhaisesta alkaen sinun asukkaasi tekevät pelkkää pahaa.",
+			"8": "<sup>8</sup> Sen tähden odottakaa minua – sanoo Herra – odottakaa sitä päivää, jolloin nousen syyttäjäksi. Olen päättänyt koota kansat, kutsun valtakunnat sinua vastaan vuodattaakseni hehkuvan vihani sinun päällesi. Vihani tuli on tuhoava koko maan.",
+			"9": "<sup>9</sup> Vielä minä, Herra, annan kansoille uuden mielen, ja niin ne puhuvat puhtain huulin, huutavat avuksi minun nimeäni, kaikki ne palvelevat minua.",
+			"10": "<sup>10</sup> Nubian jokien takaa hajallaan asuvat palvelijani tuovat minulle uhrilahjoja.",
+			"11": "<sup>11</sup> Tuona päivänä sinun, Jerusalem, ei tarvitse enää hävetä, vaikka olet rikkonut minua vastaan. Silloin minä poistan keskuudestasi kaikki julkeat ja ylimieliset, ylpeät minä karkotan pyhältä vuoreltani.",
+			"12": "<sup>12</sup> Nöyrät ja köyhät minä jätän sinne asumaan, kansan, joka turvaa Herran nimeen.",
+			"13": "<sup>13</sup> Ne, jotka ovat jäljellä Israelista, eivät tee pahaa eivätkä valehtele, heidän suustaan ei lähde petollista sanaa. He paimentavat laumojaan ja elävät rauhassa, eikä kukaan ahdista heitä.",
+			"14": "<sup>14</sup> Iloitse, tytär Siion, huuda riemusta, Israel! Juhli ja laula täysin sydämin, tytär Jerusalem!",
+			"15": "<sup>15</sup> Herra ottaa pois tuomiosi ja karkottaa vihollisesi. Herra, Israelin kuningas, on keskelläsi, sinun ei tarvitse pelätä mitään pahaa.",
+			"16": "<sup>16</sup> Sinä päivänä sanotaan Jerusalemille: – Älä pelkää, Siion, älä anna kättesi hervota!",
+			"17": "<sup>17</sup> Herra, Jumalasi, on sinun kanssasi, hän on voimallinen, hän auttaa. Sinä olet hänen ilonsa, rakkaudessaan hän tekee sinut uudeksi, hän iloitsee, hän riemuitsee sinusta.",
+			"18": "<sup>18</sup> Minä, Herra, tuon takaisin ne, jotka murehtivat kaukana sieltä, missä kansani kokoontuu. Sinä olet heidän kotinsa, Jerusalem. Minä otan pois sinun päältäsi häpeän kuorman.",
+			"19": "<sup>19</sup> Katso, kun tuo aika tulee, minä tuhoan kaikki sortajasi. Minä pelastan sinut, tuon ontuvat ja karkotetut kotiin. Kaikkialla, missä he ovat kantaneet häpeää, minä nostan heidät kunniaan.",
+			"20": "<sup>20</sup> Silloin minä kokoan teidät ja tuon teidät takaisin. Minä nostan teidät kunniaan kaikkien kansojen keskuudessa. Minä käännän teidän kohtalonne, te saatte nähdä sen omin silmin, sanoo Herra."
+		}
+	}
+};
+module.exports = book;

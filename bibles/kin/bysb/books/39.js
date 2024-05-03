@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malaki",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Ijambo ry'Uwiteka yahanuriye Abisirayeli aritumye Malaki.",
+			"2": "<sup>2</sup> “Narabakunze, ni ko Uwiteka avuga, nyamara murabaza muti ‘Wadukunze ute?’ ” Uwiteka ati “Esawu ntiyari mukuru wa Yakobo se? Ariko rero nakunze Yakobo",
+			"3": "<sup>3</sup> Esawu ndamwanga, imisozi ye nyihindura amatongo, gakondo ye nyiha imbwebwe zo mu kidaturwa.”",
+			"4": "<sup>4</sup> Naho Edomu aravuga ati “Dukubiswe hasi ariko tuzagaruka twubake ahari amatongo.” Uwiteka Nyiringabo aravuga ati “Bazubaka ariko jye nzasenya, kandi abantu bazabita Igihugu cyo gukiranirwa, kandi ubwoko Uwiteka ahora arakarira iteka ryose.",
+			"5": "<sup>5</sup> N'amaso yanyu azabyirebera namwe muvuge muti ‘Uwiteka ahimbazwe birenze urugabano rwa Isirayeli.’",
+			"6": "<sup>6</sup> “Umwana yubaha se n'umugaragu akubaha shebuja, none niba ndi so mwanyubashye mute? Cyangwa se niba ndi shobuja, igitinyiro cyanjye kiri he mwa batambyi mwe, basuzugura izina ryanjye? Ni ko Uwiteka Nyiringabo abaza. Nyamara murabaza muti ‘Izina ryawe twarisuzuguye dute?’",
+			"7": "<sup>7</sup> Ni uko mwatuye ibyokurya bihumanye ku gicaniro cyanjye. Maze mukabaza muti ‘Twaguhumanishije iki?’ Mwavuze yuko ameza y'Uwiteka ari amanyagisuzuguriro.",
+			"8": "<sup>8</sup> Kandi iyo mutambye impumyi, mugira ngo nta cyo bitwaye, n'iyo mutambye icumbagira n'irwaye na bwo ngo nta cyo bitwaye. Mbese bene iyo wayitura shobuja, aho yagushima cyangwa yakwemera kukwakira? Ni ko Uwiteka Nyiringabo abaza.",
+			"9": "<sup>9</sup> “Noneho nimusabe Imana imbabazi itubabarire, kuko ari mwe mubiduhesha. Aho hari uwo muri mwe yakwakira? Ni ko Uwiteka Nyiringabo abaza.",
+			"10": "<sup>10</sup> Icyampa hakagira uwo muri mwe ukinga inzugi, mukarorera gucanira ku gicaniro cyanjye ubusa! Simbishimira na hato, ni ko Uwiteka Nyiringabo avuga, kandi sinzemera ituro muntuye.",
+			"11": "<sup>11</sup> Uhereye aho izuba rirasira ukageza aho rirengera izina ryanjye rirakomeye mu banyamahanga, kandi ahantu hose bosereza izina ryanjye imibavu, bakantura amaturo aboneye kuko izina ryanjye rikomeye mu banyamahanga. Ni ko Uwiteka Nyiringabo avuga.",
+			"12": "<sup>12</sup> Ariko mwebwe murarisuzugura, kuko muvuga muti ‘Ameza y'Uwiteka arahumanye, kandi ibyokurya byo kuri ayo meza ni ibinyagisuzuguriro.’",
+			"13": "<sup>13</sup> Kandi mujya muvuga muti ‘Uyu murimo uraruhanya’, ndetse murawinuba, ni ko Uwiteka Nyiringabo avuga. Kandi muzana icyo munyaze ku maboko n'igicumbagira n'ikirwaye, ayo ni yo maturo muntura. Mbese ibyo muzana bene ibyo nabyakira? Ni ko Uwiteka abaza.",
+			"14": "<sup>14</sup> Ariko havumwe uriganya, ufite isekurume mu mukumbi we akayihiga, yajya guhigura Uwiteka akamuhigura ifite inenge, kuko ndi Umwami ukomeye, ni ko Uwiteka Nyiringabo avuga, kandi izina ryanjye ni irinyagitinyiro mu banyamahanga."
+		},
+		"2": {
+			"1": "<sup>1</sup> “Nuko rero mwa batambyi mwe, iri tegeko ni mwe nditegetse.",
+			"2": "<sup>2</sup> Nimwanga kumva mukanga kuryitaho, ntimuheshe izina ryanjye icyubahiro nzabavuma wa muvumo ndetse n'imigisha yanyu nzayivuma, na ko maze kuyivuma kuko mutitaye ku itegeko ryanjye. Ni ko Uwiteka Nyiringabo avuga.",
+			"3": "<sup>3</sup> Dore nzahana imbuto zanyu ari mwe mubinteye, kandi nzabasīga amayezi ku maso, n'ay'ibitambo byanyu muzayoranwa na yo.",
+			"4": "<sup>4</sup> Ubwo ni bwo muzamenya ko ari jye wategetse iri tegeko nkariboherereza, kugira ngo isezerano nasezeranye na Lewi ridakuka. Ni ko Uwiteka Nyiringabo avuga.",
+			"5": "<sup>5</sup> “Isezerano nasezeranye na we ryari ubugingo n'amahoro, nabimuhereye kugira ngo anyubahe, maze aranyubaha ahindishwa umushyitsi n'izina ryanjye.",
+			"6": "<sup>6</sup> Itegeko ry'ukuri ryabaga mu kanwa ke, kandi mu minwa ye nta gukiranirwa kwahumvikanaga. Yagendanaga nanjye mu mahoro no mu byo gukiranuka, yahinduraga benshi bakareka ibyaha.",
+			"7": "<sup>7</sup> Kuko akanwa k'umutambyi gakwiriye guhamya iby'ubwenge, kandi abantu bakwiriye kuba ari we bashakiraho amategeko, kuko ari we ntumwa y'Uwiteka Nyiringabo.",
+			"8": "<sup>8</sup> “Ariko mwebwe murateshutse muyoba inzira, mwagushije benshi mu by'amategeko, mwishe isezerano rya Lewi. Ni ko Uwiteka Nyiringabo avuga.",
+			"9": "<sup>9</sup> Nanjye ni cyo gitumye mbahindura abanyagisuzuguriro, mugahinyurwa imbere y'abantu bose kuko mutakomeje inzira zanjye, ahubwo mukarobanura ku butoni mu by'amategeko.",
+			"10": "<sup>10</sup> “Mbese twese ntidusangiye data? Imana yaturemye si imwe? Ni iki gituma umuntu wese ariganya mwene se, tukica isezerano rya ba sogokuruza?",
+			"11": "<sup>11</sup> Yuda yarariganije, kandi bakoze ibizira muri Isirayeli n'i Yerusalemu. Yuda yacumuye ku buturo bwera Uwiteka akunda, kuko yarongoye umukobwa w'imana y'inyamahanga.",
+			"12": "<sup>12</sup> Ukora bene ibyo, ari uhamagara cyangwa uwitaba, Uwiteka azamuca mu mahema ya Yakobo, amucane n'utura Uwiteka Nyiringabo amaturo.",
+			"13": "<sup>13</sup> “Kandi hariho n'ibindi mukora: mutwikira igicaniro cy'Uwiteka amarira no kuboroga, mugasuhuza imitima, bigatuma atita ku maturo mutura, ntayakire ngo anezerwe.",
+			"14": "<sup>14</sup> Nyamara mukabaza muti ‘Impamvu ni iki?’ Impamvu ni uko Uwiteka yabaye umugabo wo guhamya ibyawe, n'iby'umugore wo mu busore bwawe wariganije nubwo yari mugenzi wawe, akaba n'umugore mwasezeranye isezerano.",
+			"15": "<sup>15</sup> Mbese ntiyaremye umwe, naho yari afite umwuka usagutse? Icyatumye arema umwe ni iki? Ni uko yashakaga urubyaro rwubaha Imana. Nuko rero murinde imitima yanyu hatagira uriganya umugore wo mu busore bwe.",
+			"16": "<sup>16</sup> Kuko nanga gusenda, ni ko Uwiteka Imana ya Isirayeli ivuga, nanga n'umuntu utwikiriza urugomo umwambaro we. Ni ko Uwiteka Nyiringabo avuga. Nuko rero murinde imitima yanyu mwe kuriganya.",
+			"17": "<sup>17</sup> “Mwaruhije Uwiteka n'amagambo yanyu, nyamara murabaza muti ‘Twamuruhije dute?’ Kuko muvuga yuko umuntu wese ukora ibyaha ari mwiza imbere y'Uwiteka, kandi muti ‘Arabanezererwa’, cyangwa muti ‘Imana ica imanza iri he?’"
+		},
+		"3": {
+			"1": "<sup>1</sup> “Dore nzatuma integuza yanjye, izambanziriza intunganyirize inzira. Umwami mushaka azāduka mu rusengero rwe, kandi intumwa y'isezerano mwishimana dore iraje. Ni ko Uwiteka Nyiringabo avuga.",
+			"2": "<sup>2</sup> “Ni nde uzabasha kwihangana ku munsi wo kuza kwe? Kandi ni nde uzahagarara ubwo azaboneka? Kuko ameze nk'umuriro w'umucuzi, n'isabune y'abameshi.",
+			"3": "<sup>3</sup> Kandi azicara nk'ucura ifeza akayitunganya akayimaramo inkamba, azatunganya abahungu ba Lewi, abacenshure nk'uko bacenshura izahabu n'ifeza, maze bazature Uwiteka amaturo bakiranutse.",
+			"4": "<sup>4</sup> Maze amaturo y'i Buyuda n'i Yerusalemu azanezeze Uwiteka, nk'uko yamunezezaga mu minsi ya kera no mu myaka yashize.",
+			"5": "<sup>5</sup> “Kandi nzabegera nce urubanza, nzabanguka gushinja abarozi n'abasambanyi n'abarahira ibinyoma, n'abima abakozi ibihembo byabo, bakarenganya abapfakazi n'impfubyi, bakagirira nabi umunyamahanga kandi ntibanyubahe. Ni ko Uwiteka Nyiringabo avuga.",
+			"6": "<sup>6</sup> “Kuko jyewe Uwiteka ntabwo mpinduka, ni cyo gituma abahungu ba Yakobo mutamarwaho.",
+			"7": "<sup>7</sup> “Uhereye mu bihe bya ba sogokuruza banyu muhora muteshuka, mukareka amategeko yanjye ntimuyitondere. Nimungarukire, nanjye ndabagarukira. Ni ko Uwiteka Nyiringabo avuga. Nyamara murabaza muti ‘Tuzagaruka dute?’",
+			"8": "<sup>8</sup> Mbese umuntu yakwima Imana ibyayo? Ariko mwebwe mwarabinyimye. Nyamara murabaza muti ‘Twakwimye iki?’ Mwanyimye imigabane ya kimwe mu icumi n'amaturo,",
+			"9": "<sup>9</sup> muvumwa wa muvumo kuko ishyanga ryose uko mungana mwanyimye ibyanjye.",
+			"10": "<sup>10</sup> Nimuzane imigabane ya kimwe mu icumi ishyitse mubishyire mu bubiko, inzu yanjye ibemo ibyokurya. Ngaho nimubingeragereshe, ni ko Uwiteka Nyiringabo avuga, murebe ko ntazabagomororera imigomero yo mu ijuru, nkabasukaho umugisha mukabura aho muwukwiza.",
+			"11": "<sup>11</sup> Nzahana indyanyi nyibahora, ntizarimbura imyaka yo ku butaka bwanyu, kandi n'umuzabibu wanyu ntuzaragarika imbuto mu murima igihe cyawo kitaragera. Ni ko Uwiteka Nyiringabo avuga.",
+			"12": "<sup>12</sup> Kandi amahanga yose azabita abanyamahirwe, kuko muzaba igihugu kinezeza. Ni ko Uwiteka Nyiringabo avuga.",
+			"13": "<sup>13</sup> “Amagambo mwamvuze yari akomeye, ni ko Uwiteka avuga, nyamara murabaza muti ‘Twakuvuze iki?’",
+			"14": "<sup>14</sup> Mwavuze yuko gukorera Imana ari nta mumaro, kandi muti ‘Byatumariye iki ubwo twitonderaga amategeko yayo, tukagendera imbere y'Uwiteka Nyiringabo twambaye ibyo kwirabura?",
+			"15": "<sup>15</sup> Noneho abibone ni bo twita abanyamahirwe, ni koko abakora ibyaha barakomezwa, ndetse bagerageza Imana bagakizwa.’ ”",
+			"16": "<sup>16</sup> Maze abubahaga Uwiteka baraganiraga, Uwiteka agatega amatwi akumva, nuko igitabo kikandikirwa imbere ye cy'urwibutso rw'abubahaga Uwiteka bakita ku izina rye.",
+			"17": "<sup>17</sup> Uwiteka Nyiringabo aravuga ati “Bazaba abanjye umunsi nzakoreraho bazaba amatungo yanjye bwite, nzabababarira nk'uko umuntu ababarira umwana we umukorera.",
+			"18": "<sup>18</sup> Ubwo ni bwo muzagaruka mukamenya gutandukanya abakiranutsi n'abanyabyaha, abakorera Imana n'abatayikorera.",
+			"19": "<sup>19</sup> “Dore hazaba umunsi utwika nk'itanura ry'umuriro, abibone bose n'inkozi z'ibibi zose bazaba ibishingwe, maze habe umunsi uzabatwika bashire, ni ko Uwiteka Nyiringabo avuga, ntuzabasigira umuzi cyangwa ishami.",
+			"20": "<sup>20</sup> Ariko mwebweho abubaha izina ryanjye, Izuba ryo gukiranuka rizabarasira rifite gukiza mu mababa yaryo, maze muzasohoka mukinagire nk'inyana zo mu kiraro.",
+			"21": "<sup>21</sup> Kandi muzaribatira abanyabyaha hasi, bazaba ivu munsi y'ibirenge byanyu ku munsi nzabikoreraho. Ni ko Uwiteka Nyiringabo avuga.",
+			"22": "<sup>22</sup> “Nimwibuke amategeko y'umugaragu wanjye Mose, ayo namutegekeye i Horebu yari ay'Abisirayeli bose, yari amategeko n'amateka.",
+			"23": "<sup>23</sup> “Dore nzaboherereza umuhanuzi Eliya, umunsi w'Uwiteka ukomeye kandi uteye ubwoba utaragera.",
+			"24": "<sup>24</sup> Uwo ni we uzasanganya imitima y'abana n'iya ba se, kugira ngo ntazaza kurimbuza isi umuvumo.”"
+		}
+	}
+};
+module.exports = book;

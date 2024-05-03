@@ -17,7 +17,7 @@ $UNICODE_BLOCK	Latin
 Gen	[GH]enesis	Gen
 Exod	Exodo	Exodus	Exo	Ex
 Lev	Le[bv]itico	Lebitikus	Le[bv]
-Num	Mga Bilang	B[ae]midbar	Bil	Blg
+Num	Mga Bilang	B[ae]midbar	Bil	Blg	Bilang
 Deut	Deuteronomiy?o	D[ei]?yuteronomyo	Deuteronomi?y?a	Deuteronomio?	Dt	Deut
 Josh	Josué	Joshua	Jos
 Judg	Mga Hukom	Huk	Hukom
@@ -32,26 +32,26 @@ Ezra	Esdras	Ezra
 Neh	Nehemía[hs]	Neh
 Esth	Esth?er	Est
 Job	Job
-Ps	Mga Salmo	Mga Awit	Awit
+Ps	Mga Salmo	Mga Awit	Awit	Salmo
 Prov	Mga Kawikaan	Kaw	Kawikaan
 Eccl	Ecclesiastes	Mangangaral	E[ck]les[iy]astés	E[ck]lis[iy]astes	Kohelet	Manga	Ang Mangangaral	Ec
 Song	Awit ng mga Awit	Awit ni S[ao]lomón	Ang Awit ni S[ao]lomón	Kantiko	Kantikulo	Aw ni S	Ang Awit ng mga Awit	A. ng A.	A ng A
-Isa	Isaía[hs]?	Isa?
+Isa	Isaía[hs]?	Isa?	Isaias
 Jer	Jeremia[hs]	Sulat ni Jeremias	Aklat ni Jeremia[hs]	H[ei]r[ei]m[iy]as	Jer
 Lam	Mga Panaghoy	Mga Lamentasyon	Aklat ng Pagtaghoy	Aklat ng Pananaghoy	Panag	Panaghoy
 Ezek	E[sz]ek[iy]el	Ezequiel	Eze
 Dan	Daniel	Dan
 Hos	Osei?a[hs]?	Hosei?as?	Hos	Os
 Joel	Joel	Yole
-Amos	Amós
+Amos	Amós	Amos
 Obad	Obadia[hs]	Abdías	Oba
-Jonah	Joná[hs]?	Jon
-Mic	Mikas	Miqueas	Mi[ck]ah?	Mikey?as	Mikieas	Mik
-Nah	Nahúm	Nah
+Jonah	Joná[hs]?	Jon	Jonas
+Mic	Mikas	Miqueas	Mi[ck]ah?	Mikey?as	Mikieas	Mik	Micas
+Nah	Nahúm	Nah	Nahum
 Hab	Habacuc	Habakk?uk	Hab
 Zeph	Sofonías	Zephania[hs]	Se[fp]anias?	Ze[fp]anias	Zef
 Hag	Agg?eo	Hagg?eo	Hagg?ai	Agai	Hag
-Zech	[SZ]acarías	Zechariah	Zac
+Zech	[SZ]acarías	Zechariah	Zac	Zacarias
 Mal	Malakias	Malaquías	Malachi	Mal
 Matt	Mateo	Ebanghelyo ni Mateo	Ebanghelyo ayon kay Mateo	Ebanghelyo ni San Mateo	Mabuting Balita ayon kay San Mateo	Mabuting Balita ayon kay Mateo	Ma?t
 Mark	Mar[ck]os	Ebanghelyo ni Mar[ck]os	Ebanghelyo ayon kay Marcos	Ebanghelyo ni San Mar[ck]os	Mabuting Balita ayon kay San Mar[ck]os	Mabuting Balita ayon kay Mar[ck]os	Mc	Mar
@@ -59,11 +59,11 @@ Luke	Lu[ck]as	Ebanghelyo ayon kay Lu[ck]as	Ebanghelyo ayon kay San Lu[ck]as	Eban
 John	Juan	Ebanghelyo ayon kay Juan	Ebanghelyo ayon kay San Juan	Ebanghelyo ni San Juan	Mabuting Balita ayon kay San Juan	Mabuting Balita ayon kay Juan	Jn
 Acts	Mga Gawa	Mga Gawa ng mga Alagad	Mga Gawa ng mga Apostol	Mga Gawa ng mga Apostoles	Gawa ng Apostoles	Gawa ng mga Apostol	Mga Gawain	Ebanghelyo ng Espiritu Santo	Mabuting Balita ayon sa Espiritu Santo	Mabuting Balita ng Espiritu Santo	Gw	Gawa
 Rom	Mga Taga-? Roma	Sulat sa mga Romano	Ro	Roma	Taga-? Roma
-1Cor	$FIRST Mga Taga-? Corinto	$FIRST [CK]orinti?o	Ika-? 1 Sulat sa mga Corinti?o	$FIRST Sulat sa mga Corinti?o	1 Cor
-2Cor	$SECOND Mga Taga-? Corinto	$SECOND [CK]orinti?o	Ika-? 2 Sulat sa mga Corinti?o	SECOND Sulat sa mga Corinti?o	2 Cor
+1Cor	$FIRST Mga Taga-? Corinto	$FIRST [CK]orinti?o	Ika-? 1 Sulat sa mga Corinti?o	$FIRST Sulat sa mga Corinti?o	1 Cor	$FIRST Corinto	$FIRST Corinth
+2Cor	$SECOND Mga Taga-? Corinto	$SECOND [CK]orinti?o	Ika-? 2 Sulat sa mga Corinti?o	SECOND Sulat sa mga Corinti?o	2 Cor	$SECOND Corinto	$SECOND Corinth
 Gal	Mga Taga-? Galacia	Sulat sa mga taga Galacia	Sulat sa mga Galacia	Mga Taga-? Galasya	Galasyano	Gal?	Taga-? Galacia	Galacia
-Eph	Mga Taga-? E[fp]esi?o	Sulat sa mga E[fp]esi?o	Mga E[fp]esi?o	E[fp]esi?o	Ef	Taga-? E[fp]esi?o
-Phil	Mga Taga-? [FP]ilipos	Sulat sa mga [FP]ilipense	Mga [FP]ilipense	Sulat sa mga Pilipyano	Mga Pilipyano	[FP]ilipos	Fil	Taga-? [FP]ilipos
+Eph	Mga Taga-? E[fp]esi?o	Sulat sa mga E[fp]esi?o	Mga E[fp]esi?o	E[fp]esi?o	Ef	Taga-? E[fp]esi?o	Efeso
+Phil	Mga Taga-? [FP]ilipos	Sulat sa mga [FP]ilipense	Mga [FP]ilipense	Sulat sa mga Pilipyano	Mga Pilipyano	[FP]ilipos	Fil	Taga-? [FP]ilipos	Filipios
 Col	Mga Taga-? [CK]olosas	Sulat sa mga [CK]olon?sense	Mga [CK]olon?sense	[CK]olosas	Co	Taga-? Colosas
 1Thess	$FIRST Mga Taga-? Tesaloni[ck]a	$FIRST Mga Tesaloni[cs]ense	$FIRST Tesaloni[ck]a	$FIRST Tesaloni[cs]ense	1 Th?es
 2Thess	$SECOND Mga Taga-? Tesaloni[ck]a	$SECOND Mga Tesaloni[cs]ense	$SECOND Tesaloni[ck]a	$SECOND Tesaloni[cs]ense	2 Th?es
@@ -260,7 +260,7 @@ Ezek,Ezra	Ez
 *Wis	Karunungan	Kar
 *Sir	Sirac	Sir
 *Bar	Baruc	Bar
-*PrAzar	Panalangin ni Azarias	
+*PrAzar	Panalangin ni Azarias
 *Sus	Susana	Su
 *Bel	Bel at ang Dragon	Bel
 *SgThree	Awit ng Tatlong Kabataan	Aw ng 3 Kab
@@ -271,4 +271,4 @@ Ezek,Ezra	Ez
 *4Macc	4 Mga Macabeo	4 Mcb
 *1Esd	1 Esdras	1 Esd
 *2Esd	2 Esdras	2 Esd
-*PrMan	Panalangin ni Manases	
+*PrMan	Panalangin ni Manases

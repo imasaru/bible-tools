@@ -106,6 +106,8 @@ PrMan	Manassen rukouksen	Man ru
 
 
 # Order
+=2Pet
+=1Pet
 =Gen
 =Exod
 =Bel
@@ -179,8 +181,6 @@ PrMan	Manassen rukouksen	Man ru
 =Phlm
 =Heb
 =Jas
-=2Pet
-=1Pet
 =Jude
 =Tob
 =Jdt
@@ -193,20 +193,20 @@ PrMan	Manassen rukouksen	Man ru
 
 # Preferred names
 # OSIS	Long	Short	Shorter	Single (Ps)
-*Gen	1 Mooseksen	1 Moos
-*Exod	2 Mooseksen	2 Moos
-*Lev	3 Mooseksen	3 Moos
-*Num	4 Mooseksen	4 Moos
-*Deut	5 Mooseksen	5 Moos
+*Gen	1. Mooseksen	1. Moos	1 Mooseksen	1 Moos
+*Exod	2. Mooseksen	2. Moos	2 Mooseksen	2 Moos
+*Lev	3. Mooseksen	3. Moos	3 Mooseksen	3 Moos
+*Num	4. Mooseksen	4. Moos	4 Mooseksen	4 Moos
+*Deut	5. Mooseksen	5. Moos	5 Mooseksen	5 Moos
 *Josh	Joosuan	Joos
 *Judg	Tuomarien	Tuom
 *Ruth	Ruutin	Ruut
-*1Sam	1 Samuelin	1 Sam
-*2Sam	2 Samuelin	2 Sam
-*1Kgs	1 Kuninkaiden	1 Kun
-*2Kgs	2 Kuninkaiden	2 Kun
-*1Chr	1 Aikakirja	1 Aikak
-*2Chr	2 Aikakirja	2 Aikak
+*1Sam	1 Samuelin	1. Sam	1 Samuelin	1 Sam
+*2Sam	2 Samuelin	2. Sam	2 Samuelin	2 Sam
+*1Kgs	1 Kuninkaiden	1. Kun	1 Kuninkaiden	1 Kun
+*2Kgs	2 Kuninkaiden	2. Kun	2 Kuninkaiden	2 Kun
+*1Chr	1 Aikakirja	1. Aikak	1 Aikakirja	1 Aikak
+*2Chr	2 Aikakirja	2. Aikak	2 Aikakirja	2 Aikak
 *Ezra	Esran	Esr
 *Neh	Nehemian	Neh
 *Esth	Esterin	Est
@@ -238,25 +238,25 @@ PrMan	Manassen rukouksen	Man ru
 *John	Johanneksen	Joh
 *Acts	Teot	Ap.t
 *Rom	Roomalaisille	Room
-*1Cor	1 Korinttilaisille	1 Kor
-*2Cor	2 Korinttilaisille	2 Kor
+*1Cor	1. Korinttilaisille	1. Kor	1 Korinttilaisille	1 Kor
+*2Cor	2. Korinttilaisille	2. Kor	2 Korinttilaisille	2 Kor
 *Gal	Galatalaisille	Gal
 *Eph	Efesolaisille	Ef
 *Phil	Filippiläisille	Fil
 *Col	Kolossalaisille	Kol
-*1Thess	1 Tessalonikalaisille	1 Tess
-*2Thess	2 Tessalonikalaisille	2 Tess
-*1Tim	1 Timoteukselle	1 Tim
-*2Tim	2 Timoteukselle	2 Tim
+*1Thess	1. Tessalonikalaisille	1. Tess	1 Tessalonikalaisille	1 Tess
+*2Thess	2. Tessalonikalaisille	2. Tess	2 Tessalonikalaisille	2 Tess
+*1Tim	1. Timoteukselle	1. Tim	1 Timoteukselle	1 Tim
+*2Tim	2. Timoteukselle	2. Tim	2 Timoteukselle	2 Tim
 *Titus	Titukselle	Tit
 *Phlm	Filemonille	Filem
 *Heb	Heprealaisille	Hepr
 *Jas	Jaakobin	Jaak
-*1Pet	1 Pietarin	1 Piet
-*2Pet	2 Pietarin	2 Piet
-*1John	1 Johanneksen	1 Joh
-*2John	2 Johanneksen	2 Joh
-*3John	3 Johanneksen	3 Joh
+*1Pet	1. Pietarin	1. Piet	1 Pietarin	1 Piet
+*2Pet	2. Pietarin	2. Piet	2 Pietarin	2 Piet
+*1John	1. Johanneksen	1. Joh	1 Johanneksen	1 Joh
+*2John	2. Johanneksen	2. Joh	2 Johanneksen	2 Joh
+*3John	3. Johanneksen	3. Joh	3 Johanneksen	3 Joh
 *Jude	Juudaksen	Juud
 *Rev	Ilmestys	Ilm
 *Tob	Tobitin	Tob

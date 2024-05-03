@@ -1,0 +1,276 @@
+$FIRST	1	I
+$SECOND	2	II
+$THIRD	3	III
+$FOURTH	4	IV
+$AB	[a-e]
+$AND	kwaye
+$CHAPTER	isahluko
+$FF	ff
+$TITLE	title
+$TRANS	xho96
+$TO	ukuya
+$VERSE	ivesi
+$UNICODE_BLOCK	Latin
+$PREFIXNUM	I	U	Isi	Aba	Ka	Yoo	Yezi	Ii	Imi	Ka	Kwabase	Eka	Oo	Izi	Kuma	Ku
+
+Gen	$PREFIXNUM?Genesis	Gen
+Exod	$PREFIXNUM?Eksodus	Eks
+Lev	$PREFIXNUM?Levitikus	Lev
+Num	$PREFIXNUM?Numeri	Num
+Deut	$PREFIXNUM?Duteronomi	Dut
+Josh	$PREFIXNUM?Yoshuwa	Josh	Yosh
+Judg	$PREFIXNUM?Gwebi	Abagw
+Ruth	$PREFIXNUM?Rute	Rut
+1Sam	$PREFIXNUM?Samuweli $FIRST	$FIRST $PREFIXNUM?Samuweli	$FIRST Sam	$FIRST Samuel
+2Sam	$PREFIXNUM?Samuweli $SECOND	$SECOND $PREFIXNUM?Samuweli	$SECOND Sam	$SECOND Samuel
+1Kgs	$PREFIXNUM?Kumkani $FIRST	$FIRST $PREFIXNUM?Kumkani
+2Kgs	$PREFIXNUM?Kumkani $SECOND	$SECOND $PREFIXNUM?Kumkani
+1Chr	$PREFIXNUM?Kronike $FIRST	$FIRST $PREFIXNUM?Kumkani
+2Chr	$PREFIXNUM?Kronike $SECOND	$SECOND $PREFIXNUM?Kumkani
+Ezra	$PREFIXNUM?Ezra	Ezr?
+Neh	$PREFIXNUM?Nehemiya	Neh
+Esth	$PREFIXNUM?Estere	Est?
+Job	$PREFIXNUM?Yobhi	Yob
+Ps	$PREFIXNUM?Ndumiso	$PREFIXNUM?Nd	Indumiso
+Prov	$PREFIXNUM?Zekeliso	IMiz
+Eccl	$PREFIXNUM?Ntshumayeli	Intsh
+Song	$PREFIXNUM?Ngoma Yazo Iingoma
+Isa	$PREFIXNUM?Isaya
+Jer	$PREFIXNUM?Yeremiya
+Lam	$PREFIXNUM?Lilo
+Ezek	$PREFIXNUM?Hezekile	Hez
+Dan	$PREFIXNUM?Daniyeli
+Hos	$PREFIXNUM?Hoseya
+Joel	$PREFIXNUM?Yoweli
+Amos	$PREFIXNUM?Amosi
+Obad	$PREFIXNUM?Obhadiya
+Jonah	$PREFIXNUM?Yona
+Mic	$PREFIXNUM?Mika
+Nah	$PREFIXNUM?UNahum
+Hab	$PREFIXNUM?Habhakuki
+Zeph	$PREFIXNUM?Zefaniya
+Hag	$PREFIXNUM?Hagayi
+Zech	$PREFIXNUM?Zekariya
+Mal	$PREFIXNUM?Malaki
+Matt	$PREFIXNUM?Mateyu	Mat
+Mark	$PREFIXNUM?Marko
+Luke	$PREFIXNUM?Luka
+John	$PREFIXNUM?Yohane	Yoh
+Acts	$PREFIXNUM?Zenzo
+Rom	$PREFIXNUM?Roma
+1Cor	$PREFIXNUM?Korinte $FIRST	$FIRST Kor
+2Cor	$PREFIXNUM?Korinte $SECOND	$SECOND Kor
+Gal	$PREFIXNUM?Galati
+Eph	$PREFIXNUM?Efese
+Phil	$PREFIXNUM?Filipi	Filipu
+Col	$PREFIXNUM?Kolose	Kol
+1Thess	$PREFIXNUM?Tesalonika $FIRST	$FIRST Te?s	$FIRST Tesalonika
+2Thess	$PREFIXNUM?Tesalonika $SECOND	$SECOND Te?s	$SECOND Tesalonika
+1Tim	$PREFIXNUM?Timoti $FIRST	$FIRST Tim
+2Tim	$PREFIXNUM?Timoti $SECOND	$SECOND Tim
+Titus	$PREFIXNUM?Tito
+Phlm	$PREFIXNUM?Filemon
+Heb	$PREFIXNUM?Hebhere
+Jas	$PREFIXNUM?Yakobi
+1Pet	$PREFIXNUM?Petros $FIRST	$FIRST Pe?tr?
+2Pet	$PREFIXNUM?Petros $SECOND	$SECOND Pe?tr?
+1John	$PREFIXNUM?Yohane $FIRST	$FIRST Yo?h	$FIRST Yohane
+2John	$PREFIXNUM?Yohane $SECOND	$SECOND Yo?h	$SECOND Yohane
+3John	$PREFIXNUM?Yohane $THIRD	$THIRD Yo?h	$THIRD Yohane
+Jude	$PREFIXNUM?Yuda
+Rev	$PREFIXNUM?Tyhilelo	$PREFIXNUM?Ty
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+Jonah,Job,Josh,Joel
+Judg,Jude
+Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan

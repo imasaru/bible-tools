@@ -284,6 +284,7 @@
 Acts	Công vụ các Sứ đồ
 Acts	Công vụ Tông đồ
 Acts	Công Vụ
+Acts	Công-vụ
 Acts	Sứ đồ
 Acts	Acts
 Acts	Công
@@ -305,6 +306,7 @@ Dan	Đa
 Deut	Phục truyền luật lệ ký
 Deut	Phục Truyền Luật Lệ
 Deut	Phục Truyền
+Deut	Phục-truyền
 Deut	Đệ nhị luật
 Deut	Deut
 Deut	Phục
@@ -343,6 +345,7 @@ Gal	Ga-la-ti
 Gal	Galát
 Gal	Gal
 Gen	Sáng thế ký
+Gen	Sáng-thế Ký
 Gen	Sáng Thế
 Gen	Sáng
 Gen	Gen
@@ -468,15 +471,18 @@ Phlm	Phlm
 PrAzar	PrAzar
 PrMan	PrMan
 Prov	Châm ngôn
+Prov	Châm-ngôn
 Prov	Châm
 Prov	Prov
 Ps	Thánh vịnh
 Ps	Thi Thiên
+Ps	Thi-thiên
 Ps	Thánh Thi
 Ps	Thi
 Ps	Ps
 Rev	Khải Huyền của John
 Rev	Khải Huyền
+Rev	Khải-huyền
 Rev	Khải thị
 Rev	Khải
 Rev	Rev

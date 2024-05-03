@@ -117,6 +117,7 @@ Nah	Nah
 Neh	Niemaia
 Neh	Neh
 Num	Na Kedra I Wiliwili
+Num	T/Lekutu
 Num	Num
 Obad	Opetaia
 Obad	Obad

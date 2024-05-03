@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofonias",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<span>1</span> Ang pulong ni Jehova nga midangat kang Sofonias ang anak nga lalake ni Cushi, ang anak nga lalake ni Gedalias, ang anak nga lalake ni Amarias, ang anak nga lalake ni Ezechias, sa mga adlaw ni Josias ang anak nga lalake ni Ammon, nga hari sa Juda.",
+			"2": "<span>2</span> Akong pagaut-uton sa hingpit gayud ang tanang mga butang gikan sa nawong sa yuta, nagaingon si Jehova.",
+			"3": "<span>3</span> Akong pagaut-uton ang tawo ug ang mananap; akong pagaut-uton ang mga langgam sa kalangitan, ug ang mga isda sa dagat, ug ang mga kapangdolanan sa mga dautan; ug akong pagaputlon ang tawo gikan sa nawong sa yuta, nagaingon si Jehova.",
+			"4": "<span>4</span> Ug akong pagatuy-oron ang akong kamot batok sa Juda, ug batok sa tanang mga pumoluyo sa Jerusalem; ug pagaputlon ko ang kabilin ni Baal gikan niining dapita, ug ang ngalan sa Chemarim uban sa mga sacerdote;",
+			"5": "<span>5</span> Ingon man pagaputlon ko sila nga nanagsimba sa mga panon sa langit nga anaa sa mga atop sa balay; ug sila nga nanagsimba, nga nanumpa kang Jehova ug nanumpa pinaagi sa ngalan ni Malcam;",
+			"6": "<span>6</span> Ug sila nga mingtalikod sa pagsunod kang Jehova; ug kadtong wala mangita kang Jehova, ni magpangutana mahitungod kaniya.",
+			"7": "<span>7</span> Maghilum ka sa presencia sa Ginoong Jehova; kay ang adlaw ni Jehova ania na; kay si Jehova nag-andam na ug usa ka halad, iyang gigahin ang iyang dinapit.",
+			"8": "<span>8</span> Ug mahitabo sa adlaw sa paghalad alang kang Jehova, nga akong pagasilotan ang mga principe, ug ang mga anak nga lalake sa hari, ug ang tanan nga nanagsul-ob sa bisti sa dumuloong.",
+			"9": "<span>9</span> Ug niadtong adlawa akong pagasilotan kadtong tanan nga managlukso sa bakanan sa pultahan , nga nagapuno sa balay sa ilang agalon sa pagpanlupig ug paglimbong.",
+			"10": "<span>10</span> Ug niadtong adlawa, nagaingon si Jehova, adunay tingog sa usa ka singgit gikan sa ganghaan nga pangisdaan, ug dinangoy-ngoy gikan sa ikaduhang puloy-anan, ug ang dakung dinaguok sa pagkahugno gikan sa kabungtoran.",
+			"11": "<span>11</span> Managdangoy-ngoy kamo , kamo nga mga pumoluyo sa Mactes; kay ang tanang mga tawo sa Canaan gilaglag; gipamatay ang tanan nga nagadala sa salapi.",
+			"12": "<span>12</span> Ug mahitabo niadtong panahona, nga pagasusihon ko ang Jerusalem uban ang mga lamparahan; ug pagasilotan ko ang mga tawo nga minglugdang diha sa ilang linugdang sa vino, nga ming-ingon diha sa ilang kasingkasing: Si Jehova dili magbuhat ug maayo, ni magbuhat siya ug dautan.",
+			"13": "<span>13</span> Ug ang ilang bahandi mahimong inagaw, ug ang ilang mga balay mangalumpag; oo, sila managtukod ug mga balay, apan dili nila pagapuy-an: ug sila managtanum kaparrasan, apan dili makainum sa vino niana.",
+			"14": "<span>14</span> Ang dakung adlaw ni Jehova haduol kini nagakahaduol na ug nagadali sa hilabihan gayud, bisan ang tingog sa adlaw ni Jehova; ang makusganong tawo nagasinggit didto sa mapait gayud.",
+			"15": "<span>15</span> Kanang adlawa mao ang adlaw sa kaligutgut, adlaw sa kasamok ug sa kasakit, adlaw sa kalaglagan ug sa kalumpagan, adlaw sa kangitngit ug sa kadulom, adlaw sa mga panganod ug sa mabagang kangitngitan,",
+			"16": "<span>16</span> Adlaw sa trompeta ug sa pagpagubok, batok sa mga kinutaang ciudad, ug batok sa hatag-as nga mga salipdanan.",
+			"17": "<span>17</span> Ug akong pagadad-on ang kasakitan ibabaw sa mga tawo, aron sila managlakaw sama sa mga buta nga tawo, tungod kay sila nakasala batok kang Jehova; ug ang ilang dugo paga-ulaon ingon sa abug, ug ang ilang unod igasalibay ingon sa kinalibang.",
+			"18": "<span>18</span> Ang ilang salapi ug ang ilang bulawan dili makaluwas kanila sa adlaw sa kaligutgut ni Jehova; apan ang tibook nga yuta pagalamyon sa kalayo sa iyang pagpangabugho; kay tibawason niya, oo, tapuson niya sa makalilisang gayud silang tanan nga nanagpuyo sa yuta."
+		},
+		"2": {
+			"1": "<span>1</span> Panagtigum kamo sa inyong kaugalingon, oo, panagtigum kamo, Oh nasud nga walay kaulaw;",
+			"2": "<span>2</span> Sa dili pa ikapahayag ang paghukom, sa dili pa moagi ang adlaw maingon sa tahop, sa dili pa modangat kaninyo ang mabangis nga kasuko ni Jehova, sa dili pa modangat kaninyo ang adlaw sa kasuko ni Jehova.",
+			"3": "<span>3</span> Pangitaa ninyo si Jehova, kamong tanan nga mga maaghup sa yuta, ug nanagtuman sa iyang mga tulomanon; pangitaa ang pagkamatarung, pangitaa ang pagkamaaghup; tingali kamo pagatagoan sa adlaw sa kasuko ni Jehova.",
+			"4": "<span>4</span> Kay ang Gaza pagatalikdan, ug ang Ascalon himoon nga biniyaan; sa kaudtohon ilang papahawaon ang Asdod, ug ang Ecron pagalukahon.",
+			"5": "<span>5</span> Alaut ang mga pumoluyo sa kabaybayonan sa dagat, ang nasud sa mga Cheretihanon! Ang pulong ni Jehova batok kaninyo, Oh Canaan, ang yuta sa mga Filistehanon, ikaw pagalaglagon ko, aron nga wala nay pumopuyo.",
+			"6": "<span>6</span> Ug ang kabaybayonan sa dagat mahimong mga sibsibanan, uban ang mga payag alang sa mga magbalantay sa mga carnero ug mga toril alang sa mga panon sa carnero.",
+			"7": "<span>7</span> Ug ang baybayon mahimong alang sa mga salin sa balay sa Juda; ilang pasibsibon ang ilang mga panon didto; sa mga balay sa Ascalon sila manghigda sa kagabhion; kay si Jehova nga ilang Dios moduaw kanila, ug magabakwi sa ilang pagkabinihag.",
+			"8": "<span>8</span> Nadungog ko ang pagtamay sa Moab, ug ang mga pagbiaybiay sa mga anak sa Ammon, nga ilang gitamay sa akong katawohan, ug nanagpadaku sa ilang kaugalingon batok sa ilang utlanan.",
+			"9": "<span>9</span> Busa ingon nga ako buhi, nagaingon si Jehova sa mga panon, ang Dios sa Israel: Sa pagkamatuod ang Moab maingon sa Sodoma, ug ang mga anak sa Ammon maingon sa Gomorra, usa ka katigayonan sa mga kadyapa ug sa mga gahong sa asin ug sa walay-katapusan nga pagkabiniyaan; ang mahabilin sa akong katawohan mangahimong tukbonon nila, ug ang salin sa akong nasud magapanunod kanila.",
+			"10": "<span>10</span> Kini maoy maangkon nila alang sa ilang garbo, tungod kay ilang gitamay ug nagpadaku sila sa ilang kaugalingon batok sa katawohan ni Jehova sa mga panon.",
+			"11": "<span>11</span> Si Jehova magmakalilisang alang kanila; tungod kay iyang pagalaglagon ang tanang mga dios sa yuta; ug ang mga tawo managsimba kaniya, ang tagsatagsa gikan sa iyang puloy-anan, bisan ang tanang mga kapupud-an sa mga nasud.",
+			"12": "<span>12</span> Kamo usab nga mga Etiopiahanon, kamo pagapatyon pinaagi sa akong espada.",
+			"13": "<span>13</span> ug iyang pagatuy-oron ang iyang kamot batok sa amihanan, ug pagalaglagon ang Asiria, ug pagahimoon nga biniyaan ang Ninive, ug mamala ingon sa kamingawan.",
+			"14": "<span>14</span> Ug ang mga panon sa kahayupan managlubog sa kinataliwad-an niya, ang tanang mga mananap sa mga nasud; lakip ang pelicano ug ang baboy nga tunokon magapuyo sa mga kaulohang ciudad; ang ilang tingog manag-awit diha sa mga tamboanan; ang pagkabiniyaan anaa sa mga tukmaan sa pultahan; kay iyang gihuboan ang kasangkapan nga cedro.",
+			"15": "<span>15</span> Mao kini ang malipayong ciudad nga nagapuyo sa walay pagtagad, nga nag-ingon sa iyang kasingkasing: Ako mao man, ug walay lain gawas kanako; naunsa ang iyang pagkahimong biniyaan, usa ka dapit nga pagalubgan sa mga mananap! ang tagsatagsa nga molabay kaniya mosutsut sa pagbiaybiay, ug magamira-mira sa iyang kamot."
+		},
+		"3": {
+			"1": "<span>1</span> Alaut siya nga masukihon ug mahugaw! sa malupigong ciudad!",
+			"2": "<span>2</span> Siya wala magtuman sa tingog; wala dawata niya ang pagsaway; siya wala sumalig kang Jehova; siya wala mopahaduol sa iyang Dios.",
+			"3": "<span>3</span> Ang iyang mga principe sa kinataliwad-an niya maoy mga leon nga nagangulob; ang iyang mga maghuhukom mga lobo sa kagabhion; sila walay igabilin hangtud sa kaugmaon.",
+			"4": "<span>4</span> Ang iyang mga manalagna mga maluya ug mga mabudhion nga tawo; ang iyang mga sacerdote nanagpasipala sa balaang puloy-anan, gituis nila ang Kasugoan.",
+			"5": "<span>5</span> Si Jehova sa iyang kinataliwad-an matarung man; siya dili magabuhat sa kasal-anan; sa matag-buntag iyang gipahayag ang justicia, siya dili mapakyas: apan ang dili matarung wala moila sa kaulaw.",
+			"6": "<span>6</span> Giputol ko ang mga nasud; ang ilang mga salipdanan gihimo ko nga biniyaan; ang ilang kadalanan gihimo ko nga mga gun-ob aron nga walay makaagi; ang ilang mga ciudad nangalumpag aron mawalay tawo, aron nga walay pumoyuyo.",
+			"7": "<span>7</span> Ako miingon: Mahadlok ka lamang kanako; dawata ang pagsaway, aron ang iyang puloy-anan dili pagaputlon sumala sa tanan nga akong gitudlo mahatungod kaniya: apan sila namangon pagsayo, ug gidaut hinoon ang tanan nilang mga buhat.",
+			"8": "<span>8</span> Busa paghulat kamo kanako, nagaingon si Jehova, hangtud sa adlaw nga ako motindog alang sa tukbonon; kay ang akong hugot nga tinguha mao ang pagtigum sa mga nasud, aron pagatigumon ko ang mga gingharian, aron ibubo ko sa ibabaw nila ang akong kayugot, bisan ang tanan nakong mabangis nga kasuko; kay ang tibook nga yuta pagalumpagon pinaagi sa kalayo sa akong pagpangabugho.",
+			"9": "<span>9</span> Kay unya ulian ko ang katawohan sa ulay nga pinulongan, aron silang tanan magtawag sa ngalan ni Jehova, sa pag-alagad kaniya uban ang ulosahon nga pag-uyon;",
+			"10": "<span>10</span> Gikan sa unahang mga suba sa Etiopia ang akong mga magpapangamuyo, bisan ang mga anak nga babaye sa akong mga pinatlaag managdala sa akong halad.",
+			"11": "<span>11</span> Niadtong adlawa ikaw dili mahamutang sa kaulawan tungod sa tanan mong mga buhat, diin ikaw nakalapas batok kanako; kay unya akong pagakuhaon gikan sa imong kinataliwad-an ang imong mga tawo nga sa mapahitas-on nanagpalabilabi, ug ikaw dili na mapalabi-labihon diha sa akong bukid nga balaan.",
+			"12": "<span>12</span> Apan ipabilin ko sa imong kinataliwad-an ang sinakit ug ang alaut nga katawohan, ug sila modangup sa ngalan ni Jehova.",
+			"13": "<span>13</span> Ang salin sa Israel dili magbuhat sa kasal-anan, ni mosulti ug mga bakak; ni ang malimbongon nga dila hikaplagan pa diha sa ilang baba: tungod kay sila pagapakan-on ug mohigda, ug walay bisan kinsa nga maghadlok kanila.",
+			"14": "<span>14</span> Pag-awit, Oh anak nga babaye sa Sion; suminggit ka; Oh Israel; pagmalipayon ug pagmaya uban ang tibook nga kasingkasing, Oh anak nga babaye sa Jerusalem.",
+			"15": "<span>15</span> Gikuha ni Jehova ang mga paghukom kanimo, iyang gipapahawa ang imong kaaway: ang Hari sa Israel, bisan si Jehova, anaa sa imong kinataliwad-an; dili na ikaw mahadlok sa kadautan.",
+			"16": "<span>16</span> Niadtong adlawa igaingon sa Jerusalem: Dili ka mahadlok; oh Sion, ayaw pagpaluyaha ang imong mga kamot.",
+			"17": "<span>17</span> Si Jehova nga imong Dios anaa sa imong kinataliwad-an, usa nga makagagahum nga magaluwas; siya magamaya tungod kanimo uban ang kalipay; siya mopahilum diha sa iyang gugma; siya magamalipayon tungod kanimo uban ang pag-awit.",
+			"18": "<span>18</span> Akong pagatigumon sila nga nagasubo tungod sa maligdong nga pagkatigum, nga anaa kanimo: kang kinsa ang lulan ibabaw kaniya maoy usa ka pagtamay.",
+			"19": "<span>19</span> Ania karon, niadtong adlawa ako magahusay uban kanila nga nanagsakit kanimo; ug akong pagaluwason kadtong napiang, ug pagatigumon ko kadtong gipapahawa; ug sila himoon ko nga usa ka pagdayeg ug usa ka ngalan, kansang kaulaw diha kaniadto sa tibook nga yuta.",
+			"20": "<span>20</span> Niadtong adlawa pasudlon ko kamo, ug niadtong panahona tigumon ko kamo; kay kamo himoon ko nga usa ka ngalan ug usa ka pagdayeg taliwala sa tanang mga katawohan sa yuta, sa diha nga bakwion ko ang inyong pagkabinihag sa atubangan sa inyong mga mata, nagaingon si Jehova."
+		}
+	}
+};
+module.exports = book;

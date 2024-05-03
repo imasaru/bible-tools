@@ -1,0 +1,276 @@
+$FIRST	1	၁
+$SECOND	2	၂
+$THIRD	3	၃
+$FOURTH	4	၄
+$FIFTH	5	၅
+$AB	[ကခ]
+$AND	and
+$CHAPTER	တၢ်မၤလိ
+$FF	ff
+$TITLE	kar
+$TRANS	kswc
+$TO	-
+$VERSE	အဆၢ	း
+$UNICODE_BLOCK	Myanmar	Latin
+
+Gen	လံာ်တၢ်ကဲထီၣ်အခီၣ်ထံး	$FIRST ?မိၤၡ့	လံၥ်စီၤမိၤၡ့အခီၣ်ထံးတဘ့ၣ်	$FIST မိၤ
+Exod	လံာ်တၢ်ဟးထီၣ်ကွံာ်	$SECOND ?မိၤၡ့	လံၥ်စီၤမိၤၡ့ခံဘ့ၣ်တဘ့ၣ်	$SECOND မိၤ
+Lev	လံာ်တၢ်ဘူၣ်ထီၣ်ဘါထီၣ်	$THIRD ?မိၤၡ့	လံၥ်စီၤမိၤၡ့သၢဘ့ၣ်တဘ့ၣ်	$THIRD မိၤ
+Num	လံာ်တၢ်ဂံၢ်	$FOURTH ?မိၤၡ့	လံၥ်စီၤမိၤၡ့လွံၢ်ဘ့ၣ်တဘ့ၣ်	$FOURTH မိၤ
+Deut	လံာ်သိၣ်လီၤသီလီၤတၢ်	$FIFTH ?မိၤၡ့ လံၥ်စီၤမိၤၡ့ယဲၢ်ဘ့ၣ်တဘ့ၣ်	$FIFTH မိၤ
+Josh	လံာ်စီၤယိၤၡူ	ယိၤၡူ	လံၥ်ယိၤၡူ	ၡူ
+Judg	လံာ်ပှၤစံၣ်ညီၣ်ကွီၢ်	လံၥ်ၦၤစံၣ်ညီၣ်ကွီၢ်	စံၣ်ညီၣ်
+Ruth	လံာ်နီၢ်ရူၤသး	လံၥ်နီၢ်ရူၤသး	ရူၤ
+1Sam	လံာ်စီၤၡမူၤအ့လးအခီၣ်ထံးတဘ့ၣ်	1ၡမူၤအ့လး	လံၥ်ၡမူၤအ့လးအခီၣ်ထံးတဘ့ၣ်	$FIRST မူၤ
+2Sam	လံာ်စီၤၡမူၤအ့လးခံဘ့ၣ်တဘ့ၣ်	2ၡမူၤအ့လး	လံၥ်ၡမူၤအ့လးခံဘ့ၣ်တဘ့ၣ်	$SECOND မူၤ
+1Kgs	လံာ်စီၤပၤအခီၣ်ထံးတဘ့ၣ်	လံၥ်စီၤပၤအခီၣ်ထံးတဘ့ၣ်	$FIRST စီၤပၤ
+2Kgs	လံာ်စီၤပၤခံဘ့ၣ်တဘ့ၣ်	လံၥ်စီၤပၤခံဘ့ၣ်တဘ့ၣ်	$SECOND စီၤပၤ
+1Chr	လံာ်ကွဲးနီၣ်တၢ်အခီၣ်ထံးတဘ့ၣ်	$FIRST ကွဲးနီၣ်တၢ်	လံၥ်ကွဲးနီၣ်တၢ်အခီၣ်ထံးတဘ့ၣ်	$FIRST ကွဲး
+2Chr	လံာ်ကွဲးနီၣ်တၢ်ခံဘ့ၣ်တဘ့ၣ်	$SECOND ကွဲးနီၣ်တၢ်	လံၥ်ကွဲးနီၣ်တၢ်ခံဘ့ၣ်တဘ့ၣ်	$SECOND ကွဲး
+Ezra	လံာ်စီၤဧ့စြၤ	လံၥ်ဧ့စြၤ	ဧ့
+Neh	လံာ်စီၤနဃ့မယၤ	လံၥ်နဃ့မယၤ	ဃ့
+Esth	လံာ်နီၢ်အ့ၤစတၢ်	လံၥ်နီၢ်အ့ၤစတၢ်	အ့ၤ
+Job	လံာ်စီၤယိၤဘး	ယိၤဘး	လံၥ်ယိၤဘး	ဘး
+Ps	စံးထီၣ်ပတြၢၤ	လံၥ်စံးထီၣ်ပတြၢၤ	စံး
+Prov	လံာ်တၢ်ကူၣ်သ့အတၢ်ကတိၤ	ကတိၤဒိ	လံၥ်တၢ်ကတိၤဒိ	ကတိၤ
+Eccl	လံာ်ပှၤစံၣ်တဲၤတဲလီၤတၢ်	လံၥ်ၦၤစံၣ်တဲၤတဲလီၤတၢ်	စံၣ်
+Song	လံာ်တၢ်သးဝံၣ်တဖၣ်အတၢ်သးဝံၣ်	လံၥ်တၢ်သးဝံၣ်တဖၣ်အတၢ်သးဝံၣ်	တၢ်
+Isa	လံာ်ယၡါယၤ	ယၡါယၤ	လံၥ်ယၡါယၤ	ၡါ
+Jer	လံာ်ယံးရမံယၤ	ယံးရမံယၤ	လံၥ်ယံးရမံယၤ	ယံး
+Lam	လံာ်သးသယုၢ်တၢ်	လံၥ်သးသယုၢ်တၢ်	သး
+Ezek	လံာ်ယဃ့းစက့လး	ယဃ့းစက့လး	လံၥ်ယဃ့းစက့လး	ဃ့း
+Dan	လံာ်ဒၤနံးယ့လး	ဒၤနံးယ့လး	လံၥ်ဒၤနံးယ့လး	ဒၤ
+Hos	လံာ်ဟိၤၡ့	ဟိၤၡ့	လံၥ်ဟိၤၡ့	ဟိၤ
+Joel	လံာ်ယိၤအ့လး	လံၥ်ယိၤအ့လး	အ့
+Amos	လံာ်ဧၤမိၣ်	လံၥ်ဧၤမိၣ်	ဧၤ
+Obad	လံာ်ဧိၤဘါဒယၤ	လံၥ်ဧိၤဘါဒယၤ	ဧိၤ
+Jonah	လံာ်ယိၤနါ	လံၥ်ယိၤနါ	နါ
+Mic	လံာ်မံကၤ	လံၥ်မံကၤ	မံ
+Nah	လံာ်နၤဃူၣ်	လံၥ်နၤဃူၣ်	နၤ
+Hab	လံာ်ဃဘးကူာ်	ဃဘးကူၥ်	ဃံၥ်ဃဘးကူၥ်	ဃဘး
+Zeph	လံာ်စဖါနယၤ	လံၥ်စဖါနယၤ	ဖါ
+Hag	လံာ်ဃးကဲ	လံၥ်ဃးကဲ	ဃး
+Zech	လံာ်စကၤရယၤ	စကၤရယၤ	လံၥ်စကၤရယၤ	ကၤ
+Mal	လံာ်မၤလကံ	လံၥ်မၤလကံ	မၤ
+Matt	လံာ်မးသဲ	မးသဲ	မသဲ	မး
+Mark	လံာ်မၢ်ကူး	မၢ်ကူး	မၢ်
+Luke	လံာ်လူၤကၣ်	လူၤကၣ်	လူၤကၣ်	လူၤ
+John	လံာ်ယိၤဟၣ်	ယိၤဟၣ်	ယိၤဟၣ်	ယိၤ
+Acts	မၤတၢ်	တၢ်မၢဖိမၤတၢ်	မၤတၢ်
+Rom	ရိမ့ၤ	ရိမ့ၤ	ရိ
+1Cor	$FIRST ကရံၣ်သူး	$FIRST ကရံၣ်သူး	$FIRST ကရံၣ်
+2Cor	$SECOND ကရံၣ်သူး	$SECOND ကရံၣ်သူး	$SECOND ကရံၣ်
+Gal	ကလၤတံ	ကလၤတံ	ကလၤ
+Eph	အ့းဖ့းစူး	အ့းဖ့းစူး	အ့း
+Phil	ဖံလံးပံၤ	ဖံလံးပံၤ	ဖံလံး
+Col	ကလီးစဲ	ကလီးစဲ	ကလီး
+1Thess	$FIRST သ့းစၤလနံ	$FIRST သ့းစၤလနံ	$FIRST သ့း
+2Thess	$SECOND သ့းစၤလနံ	$SECOND သ့းစၤလနံ	$SECOND သ့း
+1Tim	$FIRST တံၤမသ့း	$FIRST တံၤမသ့း	$FIRST တံၤ
+2Tim	$SECOND တံၤမသ့း	$SECOND တံၤမသ့း	$SECOND တံၤ
+Titus	တံတူး	တံတူး	တံ
+Phlm	ဖံၤလ့မိၣ်	ဖံၤလ့မိၣ်	ဖံၤ
+Heb	ဧ့ၤဘြံၤ	ဧ့ၤဘြံၤ	ဧ့ၤ
+Jas	ယၤကိာ်	ယၤကိၥ်	ယၤ
+1Pet	$FIRST ပ့းတရူး	$FIRST ပ့းတရူး	$FIRST ပ့း
+2Pet	$SECOND ပ့းတရူး	$SECOND ပ့းတရူး	$SECOND ပ့း
+1John	$FIRST ယိၤဟၣ်	$FIRST ယိၥ်ဟၣ်သိၣ်တၢ်	$FIRST ယိၤ
+2John	$SECOND ယိၤဟၣ်	$SECOND ယိၥ်ဟၣ်သိၣ်တၢ်	$SECOND ယိၤ
+3John	$THIRD ယိၤဟၣ်	$THIRD ယိၤဟၣ်သိၣ်တၢ်	$THIRD ယိၤ
+Jude	ယူဒၤ	ယူဒၤ	ယူ
+Rev	လံာ်လီၣ်ဖျါ	တၢ်လီၣ်ဖျါ	လီၣ်
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

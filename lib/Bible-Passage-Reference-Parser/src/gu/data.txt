@@ -1,0 +1,275 @@
+$FIRST	1
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	અને
+$CHAPTER	પ્રકરણ
+$FF	ff
+$TITLE	title
+$TRANS	gu2017
+$TO	થી
+$VERSE	શ્લોક
+$UNICODE_BLOCK	Latin
+
+Gen	ઉત્પત્તિ	ઉત્ત	ઉત્પાતિ
+Exod	નિર્ગમન	નિર્ગ	નિર્ગમન
+Lev	લેવીય	લેવી
+Num	ગણના	ગણ
+Deut	પુનર્નિયમ	પૂન	પુન.	પુનર્નિયમ
+Josh	યહોશુઆ	યહો	જોશુઆ
+Judg	ન્યાયાધીશો	ન્યાયા
+Ruth	રૂથ	રૂથ
+1Sam	૧ શમુએલ	૧ શમું	1 શમૂએલ
+2Sam	૨ શમુએલ	૨શમું	2 શમૂએલ
+1Kgs	૧ રાજાઓ	૧ રાજા
+2Kgs	૨ રાજાઓ	૨ રાજા
+1Chr	૧ કાળવૃત્તાંત	૧ કાળ	૧ કાળ.	૧ કાળવૃત્તાંત
+2Chr	૨ કાળવૃત્તાંત	૨ કાળ
+Ezra	એઝરા	એઝ
+Neh	નહેમ્યા	નેહે
+Esth	એસ્તેર	એસ્ત
+Job	અયૂબ	અયુ
+Ps	ગીતશાસ્‍ત્ર	ગી.શા	ગીતશાસ્ત્ર	ગીત.	ગીતશાસ્ત્ર
+Prov	નીતિવચનો	નીતિ
+Eccl	સભાશિક્ષક	સભા	જુઓ.
+Song	ગીતોનું ગીત	ગી.ગી
+Isa	યશાયા	યશા	યશાયાહ
+Jer	યર્મિયા	યર્મિ
+Lam	યર્મિયાનો વિલાપ	ય. વિ
+Ezek	હઝકિયેલ	હઝ	હઝકીએલ	હઝકી	હઝકી.
+Dan	દાનિયેલ	દાની	દાનીયેલ
+Hos	હોશિયા	હોશિ
+Joel	યોએલ	યોએ
+Amos	આમોસ	આમો
+Obad	ઓબાદ્યા	ઓબા
+Jonah	યૂના	યૂના
+Mic	મીખાહ	મિખા
+Nah	નાહૂમ	નાહુ
+Hab	હબાકુક	હબા
+Zeph	સફાન્યા	સફા
+Hag	હાગ્ગાય	હાગા	હાગ્ગાય
+Zech	ઝખાર્યા	ઝખા
+Mal	માલાખી	માલા
+Matt	માથ્થી	માથ્	માત્થી
+Mark	માર્ક	માર્ક
+Luke	લૂક	લૂક	લુક
+John	યોહાન	યોહ	યોહન	યોહાન
+Acts	પ્રેરિતોનાં કૃત્યો	પ્રેકૃ	પ્રેરિતોનાં કૃત્યો
+Rom	રોમનોને પત્ર	રોમ	રોમન	રૂમી.
+1Cor	કરિંથીઓને પહેલો પત્ર	૧કોરી	1 કોરીંથી	૧ કોરીં.
+2Cor	કરિંથીઓને બીજો પત્ર	૨કોરી	2 કોરીંથી
+Gal	ગલાતીઓને પત્ર	ગલા	ગલાતી
+Eph	એફેસીઓને પત્ર	એફે	એફેસી
+Phil	ફિલિપીઓને પત્ર	ફિલિ	ફિલીપી
+Col	કલોસીઓને પત્ર	કૉલો	ક્લોસી.	કલોસ્સી
+1Thess	થેસ્સાલોનિકીઓને પહેલો પત્ર	૧થેસા	1 થેસ્સાલોનીકી	1 થેસ્સા.
+2Thess	થેસ્સાલોનિકીઓને બીજો પત્ર	૨થેસા
+1Tim	તિમોથીને પહેલો પત્ર	૧તીમો	1 તીમોથી
+2Tim	તિમોથીને બીજો પત્ર	૨તીમો
+Titus	તિતસને પત્ર	તીત
+Phlm	ફિલેમોનને પાઉલ પ્રેરિતનો પત્ર	ફિલે
+Heb	હિબ્રૂઓને પત્ર	હીબ્રુ	હેબ્રી.	હેબ્રી	હિબ્રૂ	હિબ્રૂ.
+Jas	યાકૂબનો પત્ર	યાકુ	યાકૂબ
+1Pet	પિતરનો પહેલો પત્ર	૧પીત્ત	1 પિતર	1 પીત્તર	1. પીત્તર
+2Pet	પિતરનો બીજો પત્ર	૨પિત્ત	2 પિતર
+1John	યોહાનનો પહેલો પત્ર	૧યોહ	1 યોહાન	1યોહાન	૧ યોહાન
+2John	યોહાનનો બીજો પત્ર	૨યોહ
+3John	યોહાનનો ત્રીજો પત્ર	૩યોહ
+Jude	યહૂદાનો પત્ર	યહુ	યહુદા
+Rev	પ્રકટીકરણ	પ્રકટી
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

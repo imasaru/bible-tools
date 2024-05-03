@@ -276,6 +276,8 @@
 1John	I Jánov
 1John	1John
 1John	1 Jn
+1John	1Jan
+1John	1Ján
 1John	1 J
 1Kgs	Tretia kniha Kralov
 1Kgs	Tretia kniha Kraľov
@@ -882,6 +884,8 @@
 2John	2 Jánov
 2John	2John
 2John	2 Jn
+2John	2Jan
+2John	2Ján
 2John	2 J
 2Kgs	Stvrta kniha Kralov
 2Kgs	Stvrta kniha Kraľov
@@ -1264,6 +1268,8 @@
 3John	3 Jánov
 3John	3John
 3John	3 Jn
+3John	3Jan
+3John	3Ján
 3John	3 J
 3Macc	Tretia kniha Machabejcov
 3Macc	Tretia Machabejcov
@@ -1353,6 +1359,7 @@ Deut	V Mojzisova
 Deut	V Mojzišova
 Deut	V Mojžisova
 Deut	V Mojžišova
+Deut	5Moj
 Deut	Deut
 Deut	5 M
 Deut	Dt
@@ -1442,6 +1449,7 @@ Exod	2 Mojzišova
 Exod	2 Mojžisova
 Exod	2 Mojžišova
 Exod	Exodus
+Exod	2Moj
 Exod	Exod
 Exod	2 M
 Exod	Ex
@@ -1528,6 +1536,7 @@ Gen	K. pôvodu
 Gen	K povodu
 Gen	K pôvodu
 Gen	Genezis
+Gen	1Moj
 Gen	1 M
 Gen	Gen
 Gen	Gn
@@ -1631,7 +1640,9 @@ Jude	Judov List
 Jude	Júdov List
 Jude	Judov
 Jude	Júdov
+Jude	Juda
 Jude	Jude
+Jude	Júda
 Jude	Jud
 Jude	Júd
 Judg	K. sudcov
@@ -1715,6 +1726,7 @@ Lev	3 Mojzišova
 Lev	3 Mojžisova
 Lev	3 Mojžišova
 Lev	Levitikus
+Lev	3Moj
 Lev	3 M
 Lev	Lev
 Lev	Lv
@@ -1746,6 +1758,7 @@ Mark	Evanjelium Podľa Marka
 Mark	Marek
 Mark	Marka
 Mark	Mark
+Mark	Mar
 Mark	Mk
 Matt	Evanjelium Podla Matusa
 Matt	Evanjelium Podla Matuša
@@ -1764,6 +1777,7 @@ Matt	Matuš
 Matt	Matús
 Matt	Matúš
 Matt	Matt
+Matt	Mat
 Matt	Mt
 Mic	Micheas
 Mic	Micheaš
@@ -1836,6 +1850,7 @@ Num	4 Mojzišova
 Num	4 Mojžisova
 Num	4 Mojžišova
 Num	Numeri
+Num	4Moj
 Num	4 M
 Num	Num
 Num	Nm
@@ -1858,6 +1873,7 @@ Phil	Filipanom
 Phil	Filipskym
 Phil	Filipským
 Phil	Phil
+Phil	Fil
 Phil	Flp
 Phlm	List Filemonovi
 Phlm	List Filemónovi
@@ -1886,6 +1902,8 @@ Prov	K príslovi
 Prov	K prísloví
 Prov	Prislovia
 Prov	Príslovia
+Prov	Prisl
+Prov	Prísl
 Prov	Pris
 Prov	Prov
 Prov	Prís

@@ -75,7 +75,7 @@ bcv_parser::regexps.get_books = (include_apocrypha, case_sensitive) ->
 	,
 		osis: ["Num"]
 		regexp: ///(^|#{bcv_parser::regexps.pre_book})(
-		(?:N(?:a[\s\xa0]*Kedra[\s\xa0]*I[\s\xa0]*Wiliwili|um))
+		(?:N(?:a[\s\xa0]*Kedra[\s\xa0]*I[\s\xa0]*Wiliwili|um)|T\/Lekutu)
 			)(?:(?=[\d\s\xa0.:,;\x1e\x1f&\(\)\uff08\uff09\[\]/"'\*=~\-\u2013\u2014])|$)///gi
 	,
 		osis: ["Sir"]

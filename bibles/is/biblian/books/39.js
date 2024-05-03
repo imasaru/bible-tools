@@ -1,0 +1,68 @@
+var book = {
+	"name": "Malakí",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Spádómur frá Guði. Orð Drottins til Ísraels fyrir munn Malakí.",
+			"2": "<sup>2</sup> Ég elska ykkur, segir Drottinn. En þið spyrjið: „Hvernig hefur þú sýnt okkur kærleika þinn?“ Er Esaú ekki bróðir Jakobs? spyr Drottinn.",
+			"3": "<sup>3</sup> Samt elska ég Jakob og hata Esaú. Ég geri fjalllendi hans að auðn og fæ sjakölum eyðimerkurinnar erfðaland hans.",
+			"4": "<sup>4</sup> Segi Edómítar: „Við höfum orðið fyrir eyðingu en við munum endurreisa rústirnar,“ þá segir Drottinn hersveitanna: Byggi þeir mun ég niður rífa uns þeir verða kenndir við land ranglætisins og nefndir þjóðin sem Drottinn er ævinlega reiður.",
+			"5": "<sup>5</sup> Þið munuð sjá það með eigin augum og segja: „Drottinn er mikill, máttur hans nær langt út fyrir land Ísraels.“",
+			"6": "<sup>6</sup> Sonur heiðrar föður sinn og þjónn húsbónda sinn. Ef ég er faðir, hvar er þá virðingin sem mér ber? Ef ég er húsbóndi, hvar er þá lotningin sem mér ber? Svo segir Drottinn hersveitanna við ykkur, prestar, sem vanvirðið nafn mitt. En þið spyrjið: „Með hverju vanvirðum við nafn þitt?“",
+			"7": "<sup>7</sup> Þið berið fram óhreina fæðu á altari mitt og segið: „Hvernig óhreinkum við þig?“ Með því að þið segið: „Borð Drottins getum við vanvirt.“",
+			"8": "<sup>8</sup> Ef þið fórnið blindri skepnu, er það ekki rangt? Og þegar þið færið halta eða sjúka skepnu að sláturfórn, er það ekki rangt? Færðu landstjóra þínum slíka skepnu. Ætli hann verði þá ánægður með þig eða velviljaður þér? segir Drottinn hersveitanna.",
+			"9": "<sup>9</sup> Reynið að milda Guð svo að hann verði okkur náðugur. Sökin er ykkar. Hvernig getur hann tekið nokkrum ykkar vel? spyr Drottinn hersveitanna.",
+			"10": "<sup>10</sup> Óskandi væri að einhver ykkar lokaði musterisdyrunum svo að þið kveikið ekki eld á altari mínu til einskis. Ég hef enga velþóknun á ykkur, segir Drottinn hersveitanna, og kæri mig ekki um fórnargjöf úr hendi ykkar.",
+			"11": "<sup>11</sup> Því að frá sólarupprás til sólarlags er nafn mitt mikilsvirt meðal þjóðanna, nafni mínu er alls staðar færð reykelsisfórn og hrein fórnargjöf. Því að nafn mitt er mikið meðal þjóðanna, segir Drottinn hersveitanna.",
+			"12": "<sup>12</sup> En þið vanhelgið það með því að segja: „Borð Drottins er óhreint og fæðuna á því má vanvirða.“",
+			"13": "<sup>13</sup> Þið segið: „Lítið á, hvílík fyrirhöfn,“ og þið blásið í eldinn, segir Drottinn hersveitanna. Þið berið stolið, halt og sýkt fram til fórnar. Á ég að gleðjast yfir þvílíku úr hendi ykkar? spyr Drottinn hersveitanna.",
+			"14": "<sup>14</sup> Bölvaður sé svikarinn sem heitir Drottni karldýri úr hjörð sinni en fórnar Drottni síðan gallagrip. Því að ég er mikill konungur, segir Drottinn hersveitanna, og nafn mitt er mikilsvirt meðal þjóðanna."
+		},
+		"2": {
+			"1": "<sup>1</sup> Prestar, takið þetta til ykkar:",
+			"2": "<sup>2</sup> Ef þið hlustið ekki og látið ykkur ekki umhugað um að halda nafn mitt í heiðri, segir Drottinn hersveitanna, sendi ég bölvunina yfir ykkur og sný blessun ykkar í bölvun. Já, ég sný henni í bölvun því að þið hafið ekki gætt þessa heils hugar.",
+			"3": "<sup>3</sup> Sjá, ég ógna uppskeru ykkar og eys ásjónur ykkar auri, saurnum frá hátíðum ykkar, og varpa ykkur á haugana frá þeim.",
+			"4": "<sup>4</sup> Þá skuluð þið játa að ég hef skipað ykkur þetta svo að sáttmáli minn við Leví fengi staðist, segir Drottinn hersveitanna.",
+			"5": "<sup>5</sup> Sáttmáli minn var honum líf og heill, hvort tveggja gaf ég honum og guðsótta að auki. Hann átti að óttast mig og sýna nafni mínu lotningu.",
+			"6": "<sup>6</sup> Sönn kenning var í munni hans og svik fundust ekki á vörum hans. Hann fylgdi mér í friði og heils hugar og sneri mörgum frá syndugu líferni.",
+			"7": "<sup>7</sup> Því að varir prestsins varðveita þekkingu og menn leita lögmálsfræðslu af munni hans því að hann er boðberi Drottins hersveitanna.",
+			"8": "<sup>8</sup> En þið hafið vikið af veginum og fellt marga með leiðsögn ykkar. Þið hafið spillt sáttmálanum við Leví, segir Drottinn hersveitanna.",
+			"9": "<sup>9</sup> Ég geri ykkur fyrirlitlega og niðurlægi ykkur frammi fyrir öllu fólkinu af því að þið fylgið ekki mínum vegum og eruð hlutdrægir þegar þið leiðbeinið.",
+			"10": "<sup>10</sup> Eigum við ekki öll sama föður? Hefur einn og sami Guð ekki skapað okkur? Hvers vegna erum við þá svikul hvert við annað og vanhelgum sáttmála feðra okkar?",
+			"11": "<sup>11</sup> Júda hefur svikið og svívirða er drýgð í Ísrael og Jerúsalem því að Júda hefur vanhelgað helgidóm Drottins sem hann elskar. Hann hefur tekið sér dóttur framandi guðs fyrir konu.",
+			"12": "<sup>12</sup> Drottinn svipti þann sem slíkt gerir bæði verjanda og sækjanda í tjöldum Jakobs og svipti hann einnig þeim sem færir Drottni hersveitanna fórnargjafir.",
+			"13": "<sup>13</sup> Að auki gerið þið þetta: Þið hyljið altari Drottins með tárum, með gráti og kveini, því að hann lítur ekki lengur við fórnargjöfunum, þiggur þær ekki framar með gleði úr höndum ykkar.",
+			"14": "<sup>14</sup> „Hvers vegna?“ spyrjið þið. Það er sökum þess að Drottinn var vottur að hjúskaparsáttmála þínum og konunnar sem þú eignaðist í æsku en þú hefur svikið, þótt hún sé förunautur þinn og eiginkona.",
+			"15": "<sup>15</sup> Hefur Drottinn ekki gert þau eitt, eina lifandi veru? Til hvers var þessi eining? Að eignast börn frá Guði. Gætið ykkar þess vegna svo lengi sem þið lifið. Svíktu ekki konuna sem þú eignaðist í æsku.",
+			"16": "<sup>16</sup> Hafi einhver andúð á konu sinni og sendi hana frá sér, segir Drottinn, Guð Ísraels, þá flekkar hann klæði sín með ranglæti, segir Drottinn hersveitanna. Gætið ykkar því á meðan þið lifið og bregðið ekki trúnaði.",
+			"17": "<sup>17</sup> Þið þreytið Drottin með orðum ykkar. Þið spyrjið: „Með hverju þreytum við hann?“ Með því að segja: „Sérhver illvirki er góður í augum Drottins, honum þykir vænt um slíka menn,“ eða: „Hvar er Guð sem dæmir?“"
+		},
+		"3": {
+			"1": "<sup>1</sup> Sjá, ég sendi sendiboða minn, hann á að ryðja mér braut. Drottinn, sem þið leitið, kemur skyndilega til musteris síns og boðberi sáttmálans, sem þið þráið, hann kemur, segir Drottinn hersveitanna.",
+			"2": "<sup>2</sup> Hver getur afborið daginn þegar hann kemur, hver fær staðist þegar hann birtist? Hann er eins og eldur í bræðsluofni, eins og lútur sem bleikir þvott.",
+			"3": "<sup>3</sup> Hann sest til að bræða silfrið og hreinsa það, hann hreinsar syni Leví, hann gerir þá sem hreint silfur og skíragull. Þá munu þeir færa Drottni fórnargjafir á réttan hátt.",
+			"4": "<sup>4</sup> Þá verða fórnir Júdamanna og Jerúsal- embúa þóknanlegar eins og forðum daga og á löngu liðnum árum.",
+			"5": "<sup>5</sup> Ég mun koma til ykkar og halda dómþing. Ég kem brátt og vitna gegn galdramönnum, hórkörlum og meinsærismönnum, gegn öllum sem halda launum fyrir daglaunamönnum, kúga ekkjur og munaðarleysingja og þjaka aðkomumenn og óttast mig ekki, segir Drottinn hersveitanna.",
+			"6": "<sup>6</sup> Því að ég, Drottinn, er ekki breyttur og þið ekki hættir að vera synir Jakobs.",
+			"7": "<sup>7</sup> Allt frá dögum forfeðra ykkar hafið þið vikið frá lögum mínum, þið hélduð þau ekki. Snúið aftur til mín, þá sný ég aftur til ykkar, segir Drottinn hersveitanna. En þið spyrjið: „Hvernig getum við snúið aftur?“ Getur maðurinn prettað Guð? Samt svíkið þið mig.",
+			"8": "<sup>8</sup> En þið spyrjið: „Með hverju höfum við svikið þig?“ Með tíundum og afgjöldum.",
+			"9": "<sup>9</sup> Bölvun hvílir á ykkur því að þið svíkið mig, þjóðin öll.",
+			"10": "<sup>10</sup> Færið tíundina alla í forðabúrið svo að matföng séu til í húsi mínu. Reynið mig með þessu, segir Drottinn hersveitanna, og sjáið hvort ég lýk ekki upp flóðgáttum himins og helli yfir ykkur óþrjótandi blessun.",
+			"11": "<sup>11</sup> Ég mun reka burt átvarginn fyrir ykkur svo að hann eyði ekki afrakstri jarðar og vínuppskeran bregðist ekki í landinu, segir Drottinn hersveitanna.",
+			"12": "<sup>12</sup> Þá munu allar aðrar þjóðir telja ykkur sæla því að þið eigið dýrindis land, segir Drottinn hersveitanna.",
+			"13": "<sup>13</sup> Þið farið hörðum orðum um mig, segir Drottinn. Þið spyrjið: „Hvað höfum við sagt um þig?“",
+			"14": "<sup>14</sup> Þið segið: „Það er til einskis að þjóna Guði. Hvaða ávinning höfum við af að hlýða boðum hans og ganga í sorgarklæðum frammi fyrir Drottni hersveitanna?",
+			"15": "<sup>15</sup> Við teljum hrokagikkina sæla, óguðlegum vegnar vel. Þeir freista Guðs en sleppa við hegningu.“",
+			"16": "<sup>16</sup> Um þetta töluðu þeir hver við annan, sem óttuðust Drottin, og Drottinn hlýddi á með athygli. Frammi fyrir honum var skrifuð bók til að minna á alla sem óttast Drottin og virða nafn hans.",
+			"17": "<sup>17</sup> Þeir skulu verða mín eign, segir Drottinn hersveitanna, á þeim degi sem ég hefst handa. Ég mun vægja þeim eins og maður vægir syni sínum sem þjónar honum.",
+			"18": "<sup>18</sup> Þá munuð þið enn einu sinni sjá muninn á réttlátum og ranglátum, á þeim sem þjóna Guði og þeim sem þjóna honum ekki.",
+			"19": "<sup>19</sup> Sjá, dagurinn kemur, logandi sem eldstó. Þá verða allir hrokagikkir og óguðlegir að hálmi og dagurinn sem kemur mun kveikja í þeim, segir Drottinn hersveitanna, svo að hvorki verður eftir af þeim rót né grein.",
+			"20": "<sup>20</sup> En sól réttlætisins mun rísa yfir ykkur, sem virðið nafn mitt, og vængir hennar færa lækningu. Þá munuð þið koma út, stökkva eins og kálfar sem hleypt er úr fjósi.",
+			"21": "<sup>21</sup> Þið munuð traðka óguðlega niður svo að þeir verða að ryki undir iljum ykkar daginn sem ég hefst handa, segir Drottinn hersveitanna.",
+			"22": "<sup>22</sup> Hafið lögmál Móse, þjóns míns, hugfast. Vegna alls Ísraels fékk ég honum það á Hóreb, með boðum þess og ákvæðum.",
+			"23": "<sup>23</sup> Sjá, ég sendi Elía spámann til ykkar áður en hinn mikli og ógurlegi dagur Drottins kemur.",
+			"24": "<sup>24</sup> Hann mun sætta feður við syni og syni við feður svo að ég verði ekki að helga landið banni þegar ég kem."
+		}
+	}
+};
+module.exports = book;

@@ -19,11 +19,11 @@ $TO	až	-
 $VERSE	veršov
 $UNICODE_BLOCK	Latin
 
-Gen	Genezis	$FIRST Mojžišova	Gen	Gn	$BOOK pôvodu	$BOOK stvorenia	1 M
-Exod	Exodus	$SECOND Mojžišova	Ex	2 M
-Lev	Levitikus	$THIRD Mojžišova	Lv	3 M
-Num	Numeri	$FOURTH Mojžišova	Nm	4 M
-Deut	Deuteronómium	$FIFTH Mojžišova	Dt	5 M
+Gen	Genezis	$FIRST Mojžišova	Gen	Gn	$BOOK pôvodu	$BOOK stvorenia	1 M	1Moj
+Exod	Exodus	$SECOND Mojžišova	Ex	2 M	2Moj
+Lev	Levitikus	$THIRD Mojžišova	Lv	3 M	3Moj
+Num	Numeri	$FOURTH Mojžišova	Nm	4 M	4Moj
+Deut	Deuteronómium	$FIFTH Mojžišova	Dt	5 M	5Moj
 Josh	Jozua	Jozue	Józua	Joz	Józuova	Jošuova	Jošua	Iosua
 Judg	Sudcov	Sudcovia	Sdc	K. sudcov	Sud
 Ruth	Rút
@@ -38,7 +38,7 @@ Neh	Nehemiáš	Neh
 Esth	Ester	Est
 Job	Jób	$BOOK Jóbova
 Ps	Žalmy	Ž	$BOOK žalmov	Žaltár	Žalm
-Prov	Príslovia	Prís	$BOOK prísloví	Pr
+Prov	Príslovia	Prís	$BOOK prísloví	Pr	Prísl
 Eccl	Kohelet — Kazateľ	Kazateľ	Kaz	Ekleziastes	$BOOK kazateľova	Kohelet	Koh
 Song	Veľpieseň	Pieseň piesní	Pieseň	Pies	Veľpieseň Šalamúnova	Pieseň Šalamúnova	Veľp	Vľp	PŠ`
 Isa	Izaiáš	Iz	Izajáš
@@ -58,8 +58,8 @@ Zeph	Sofoniáš	Sof
 Hag	Aggeus	Haggeus	Ag	Ageus
 Zech	Zachariáš	Zach
 Mal	Malachiáš	Mal
-Matt	Evanjelium Podľa Matúša	Matúš	Matúša	Mt
-Mark	Evanjelium Podľa Marka	Marek	Marka	Mk
+Matt	Evanjelium Podľa Matúša	Matúš	Matúša	Mt	Mat
+Mark	Evanjelium Podľa Marka	Marek	Marka	Mk	Mar
 Luke	Evanjelium Podľa Lukáša	Lukáš	Lukáša	Lk
 John	Evanjelium Podľa Jána	Ján	Jána	Jn
 Acts	Skutky apoštolov	Skutky	Sk
@@ -68,7 +68,7 @@ Rom	List Rimanom	Rimanom	Rim	Rímskym
 2Cor	$SECOND Korinťanom	$SECOND Korintským	2 Kor
 Gal	List Galaťanom	Galaťanom	Galatským	Gal	Ga
 Eph	List Efezanom	Efezanom	Efezským	Ef
-Phil	List Filipanom	Filipanom	Filipským	Flp
+Phil	List Filipanom	Filipanom	Filipským	Flp	Fil
 Col	List Kolosanom	Kolosanom	Kolosenským	Kol
 1Thess	$FIRST Solúnčanom	$FIRST Tesaloničanom	$FIRST Tesalonickým	1 Sol	$FIRST Solúnskym	1 Tes
 2Thess	$SECOND Solúnčanom	$SECOND Tesaloničanom	$SECOND Tesalonickým	2 Sol	$SECOND Solúnskym	2 Tes
@@ -80,10 +80,10 @@ Heb	List Hebrejom	Hebrejom	Židom	Hebr	Žid	Heb
 Jas	Jakubov List	Jakubov	Jak	Jk
 1Pet	Prvý Petrov list	$FIRST Petrov	1 Pt
 2Pet	Druhý Petrov list	$SECOND Petrov	2 Pt
-1John	Prvý Jánov list	$FIRST Jánov	1 Jn	1 J
-2John	Druhý Jánov list	$SECOND Jánov	2 Jn	2 J
-3John	Tretí Jánov list	$THIRD Jánov	3 Jn	3 J
-Jude	Júdov List	Júdov	Júd
+1John	Prvý Jánov list	$FIRST Jánov	1 Jn	1 J	1Ján
+2John	Druhý Jánov list	$SECOND Jánov	2 Jn	2 J	2Ján
+3John	Tretí Jánov list	$THIRD Jánov	3 Jn	3 J	3Ján
+Jude	Júdov List	Júdov	Júd	Júda
 Rev	Zjavenie Apoštola Jána	Zjavenie Jána	Zjavenie	Zjv	Zjavenie svätého Jána	Apokalypsa	Zjav	Zj
 Tob	Tobiáš	Tob
 Jdt	Judita	Jdt	$BOOK Juditina	Judit

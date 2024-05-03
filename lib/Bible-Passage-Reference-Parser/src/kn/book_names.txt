@@ -1,0 +1,336 @@
+1Chr	1 ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ
+1Chr	1 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ
+1Chr	೧ ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ
+1Chr	1. ಪೂ.ವೃ.ಕಾ
+1Chr	1 ಪೂ.ವೃ.ಕಾ
+1Chr	1. ಪೂ.ವೃಕಾ
+1Chr	1. ಪೂವೃ.ಕಾ
+1Chr	೧ ಪೂ.ವೃ.ಕಾ
+1Chr	1 ಪೂ.ವೃಕಾ
+1Chr	1 ಪೂವೃ.ಕಾ
+1Chr	1. ಪೂವೃಕಾ
+1Chr	೧ ಪೂ.ವೃಕಾ
+1Chr	೧ ಪೂವೃ.ಕಾ
+1Chr	1 ಪೂವೃಕಾ
+1Chr	೧ ಪೂವೃಕಾ
+1Chr	1 ಪೂರ್ವ
+1Chr	1Chr
+1Cor	1 ಕೊರಿಂಥದವರಿಗೆ
+1Cor	1 ಕೊರಿಂಥಿಯರಿಗೆ
+1Cor	೧ ಕೊರಿಂಥಿಯರಿಗೆ
+1Cor	1. ಕೊರಿಂಥ
+1Cor	1 ಕೊರಿಂಥ
+1Cor	೧ ಕೊರಿಂಥ
+1Cor	1 ಕೊರಿ
+1Cor	1Cor
+1Esd	1Esd
+1John	1 ಯೊವಾನ್ನನು
+1John	೧ ಯೊವಾನ್ನನು
+1John	1 ಯೋಹಾನನು
+1John	1. ಯೋಹಾನ
+1John	1 ಯೋಹಾನ
+1John	೧ ಯೋಹಾನ
+1John	1 ಯೋಹಾ
+1John	1John
+1Kgs	1 ಅರಸುಗಳು
+1Kgs	೧ ಅರಸುಗಳು
+1Kgs	1 ಅರಸು
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 ಪೇತ್ರನು
+1Pet	೧ ಪೇತ್ರನು
+1Pet	1 ಪೇತ್ರ
+1Pet	1Pet
+1Sam	1 ಸಮುವೇಲನು
+1Sam	೧ ಸಮುವೇಲನು
+1Sam	1 ಸಮುವೇಲ
+1Sam	1 ಸಮು
+1Sam	1Sam
+1Thess	1 ಥೆಸಲೋನಿಕದವರಿಗೆ
+1Thess	1 ಥೆಸಲೋನಿಯರಿಗೆ
+1Thess	೧ ಥೆಸಲೋನಿಯರಿಗೆ
+1Thess	1Thess
+1Thess	1 ಥೆಸ
+1Tim	1 ತಿಮೊಥೆಯನಿಗೆ
+1Tim	1 ತಿಮೊಥೇಯನಿಗೆ
+1Tim	೧ ತಿಮೊಥೇಯನಿಗೆ
+1Tim	1. ತಿಮೊಥಿ
+1Tim	1 ತಿಮೊಥಿ
+1Tim	೧ ತಿಮೊಥಿ
+1Tim	1 ತಿಮೊ
+1Tim	1Tim
+2Chr	2 ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ
+2Chr	2 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ
+2Chr	೨ ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ
+2Chr	2. ಪೂ.ವೃ.ಕಾ
+2Chr	2 ಪೂ.ವೃ.ಕಾ
+2Chr	2. ಪೂ.ವೃಕಾ
+2Chr	2. ಪೂವೃ.ಕಾ
+2Chr	೨ ಪೂ.ವೃ.ಕಾ
+2Chr	2 ಪೂ.ವೃಕಾ
+2Chr	2 ಪೂವೃ.ಕಾ
+2Chr	2. ಪೂವೃಕಾ
+2Chr	೨ ಪೂ.ವೃಕಾ
+2Chr	೨ ಪೂವೃ.ಕಾ
+2Chr	2 ಪೂವೃಕಾ
+2Chr	೨ ಪೂವೃಕಾ
+2Chr	2 ಪೂರ್ವ
+2Chr	2Chr
+2Cor	2 ಕೊರಿಂಥದವರಿಗೆ
+2Cor	2 ಕೊರಿಂಥಿಯರಿಗೆ
+2Cor	೨ ಕೊರಿಂಥಿಯರಿಗೆ
+2Cor	2. ಕೊರಿಂಥ
+2Cor	2 ಕೊರಿಂಥ
+2Cor	೨ ಕೊರಿಂಥ
+2Cor	2 ಕೊರಿ
+2Cor	2Cor
+2Esd	2Esd
+2John	2 ಯೊವಾನ್ನನು
+2John	೨ ಯೊವಾನ್ನನು
+2John	2 ಯೋಹಾನನು
+2John	2. ಯೋಹಾನ
+2John	2 ಯೋಹಾನ
+2John	೨ ಯೋಹಾನ
+2John	2 ಯೋಹಾ
+2John	2John
+2Kgs	2 ಅರಸುಗಳು
+2Kgs	೨ ಅರಸುಗಳು
+2Kgs	2 ಅರಸು
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 ಪೇತ್ರನು
+2Pet	೨ ಪೇತ್ರನು
+2Pet	2 ಪೇತ್ರ
+2Pet	2Pet
+2Sam	2 ಸಮುವೇಲನು
+2Sam	೨ ಸಮುವೇಲನು
+2Sam	2 ಸಮುವೇಲ
+2Sam	2 ಸಮು
+2Sam	2Sam
+2Thess	2 ಥೆಸಲೋನಿಕದವರಿಗೆ
+2Thess	2 ಥೆಸಲೋನಿಯರಿಗೆ
+2Thess	೨ ಥೆಸಲೋನಿಯರಿಗೆ
+2Thess	2Thess
+2Thess	2 ಥೆಸ
+2Tim	2 ತಿಮೊಥೆಯನಿಗೆ
+2Tim	2 ತಿಮೊಥೇಯನಿಗೆ
+2Tim	೨ ತಿಮೊಥೇಯನಿಗೆ
+2Tim	2. ತಿಮೊಥಿ
+2Tim	2 ತಿಮೊಥಿ
+2Tim	೨ ತಿಮೊಥಿ
+2Tim	2 ತಿಮೊ
+2Tim	2Tim
+3John	3 ಯೊವಾನ್ನನು
+3John	೩ ಯೊವಾನ್ನನು
+3John	3 ಯೋಹಾನನು
+3John	3. ಯೋಹಾನ
+3John	3 ಯೋಹಾನ
+3John	೩ ಯೋಹಾನ
+3John	3 ಯೋಹಾ
+3John	3John
+3Macc	3Macc
+4Macc	4Macc
+Acts	ಪ್ರೇಷಿತರ ಕಾರ್ಯಕಲಾಪಗಳು
+Acts	ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು
+Acts	ಅ. ಕೃ
+Acts	Acts
+Acts	ಅ ಕೃ
+Amos	ಪ್ರವಾದಿ ಆಮೋಸನ ಗ್ರಂಥ
+Amos	Amos
+Amos	ಆಮೋಸ
+Amos	ಆಮೋ
+Bar	Bar
+Bel	Bel
+Col	ಕೊಲೊಸ್ಸೆಯವರಿಗೆ
+Col	ಕೊಲೊಸ್ಸೆಯರಿಗೆ
+Col	ಕೊಲೊ
+Col	Col
+Dan	ಪ್ರವಾದಿ ದಾನಿಯೇಲನ ಗ್ರಂಥ
+Dan	ದಾನಿಯೇಲನು
+Dan	ದಾನಿ
+Dan	Dan
+Deut	ಧರ್ಮೋಪದೇಶಕಾಂಡ
+Deut	ಧ.ಕಾಂಡ
+Deut	ಧಕಾಂಡ
+Deut	ಧರ್ಮೋ
+Deut	Deut
+Deut	ಧ.ಕಾ
+Deut	ಧಕಾ
+Eccl	ಪ್ರಸಂಗಿ
+Eccl	Eccl
+Eccl	ಪ್ರಸ
+EpJer	EpJer
+Eph	ಎಫೆಸದವರಿಗೆ
+Eph	ಎಫೆಸಿಯರಿಗೆ
+Eph	ಎಫೆಸ
+Eph	Eph
+Eph	ಎಫೆ
+Esth	ಎಸ್ತೇರಳು
+Esth	ಎಸ್ತೇ
+Esth	Esth
+Exod	ವಿಮೋಚನಕಾಂಡ
+Exod	ವಿ.ಕಾಂಡ
+Exod	ವಿಕಾಂಡ
+Exod	ವಿ.ಕಾ
+Exod	Exod
+Exod	ವಿಕಾ
+Exod	ವಿಮೋ
+Ezek	ಪ್ರವಾದಿ ಯೆಜೆಕಿಯೇಲನ ಗ್ರಂಥ
+Ezek	ಯೆಹೆಜ್ಕೇಲ
+Ezek	Ezek
+Ezek	ಯೆಹೆ
+Ezra	ಎಜ್ರನು
+Ezra	Ezra
+Ezra	ಎಜ್ರ
+Gal	ಗಲಾತ್ಯದವರಿಗೆ
+Gal	ಗಲಾತ್ಯರಿಗೆ
+Gal	ಗಲಾತ್ಯ
+Gal	Gal
+Gal	ಗಲಾ
+Gen	ಆದಿಕಾಂಡ
+Gen	ಆ.ಕಾಂಡ
+Gen	ಆಕಾಂಡ
+Gen	ಆ.ಕಾ
+Gen	Gen
+Gen	ಆಕಾ
+Gen	ಆದಿ
+GkEsth	GkEsth
+Hab	ಪ್ರವಾದಿ ಹಬಕ್ಕೂಕನ ಗ್ರಂಥ
+Hab	ಹಬಕ್ಕೂಕ
+Hab	Hab
+Hab	ಹಬ
+Hag	ಪ್ರವಾದಿ ಹಗ್ಗಾಯನ ಗ್ರಂಥ
+Hag	ಹಗ್ಗಾಯ
+Hag	ಹಗ್ಗಾ
+Hag	Hag
+Heb	ಹಿಬ್ರಿಯರಿಗೆ
+Heb	ಇಬ್ರಿಯರಿಗೆ
+Heb	ಇಬ್ರಿಯ
+Heb	ಇಬ್ರಿ
+Heb	Heb
+Hos	ಪ್ರವಾದಿ ಹೋಶೇಯನ ಗ್ರಂಥ
+Hos	ಹೋಶೇಯ
+Hos	ಹೋಶೇ
+Hos	Hos
+Isa	ಪ್ರವಾದಿ ಯೆಶಾಯನ ಗ್ರಂಥ
+Isa	ಯೆಶಾಯ
+Isa	ಯೆಶಾ
+Isa	Isa
+Jas	ಯಾಕೋಬನು
+Jas	ಯಾಕೋ
+Jas	Jas
+Jdt	Jdt
+Jer	ಪ್ರವಾದಿ ಯೆರೆಮೀಯನ ಗ್ರಂಥ
+Jer	ಯೆರೆಮೀಯ
+Jer	ಯೆರೆ
+Jer	Jer
+Job	ಯೋಬನು ಗ್ರಂಥ
+Job	ಯೋಬನು
+Job	Job
+Job	ಯೋಬ
+Joel	ಪ್ರವಾದಿ ಯೋವೇಲನ ಗ್ರಂಥ
+Joel	ಯೋವೇಲ
+Joel	Joel
+Joel	ಯೋವೇ
+John	ಯೊವಾನ್ನ
+John	ಯೋಹಾನ
+John	John
+John	ಯೋಹಾ
+Jonah	ಪ್ರವಾದಿ ಯೋನನ ಗ್ರಂಥ
+Jonah	Jonah
+Jonah	ಯೋನ
+Josh	ಯೆಹೋಶುವ
+Josh	Josh
+Josh	ಯೆಹೋ
+Jude	ಯೂದನು
+Jude	Jude
+Jude	ಯೂದ
+Judg	ನ್ಯಾಯಸ್ಥಾಪಕರು
+Judg	ನ್ಯಾಯ
+Judg	Judg
+Lam	ಪ್ರಲಾಪಗಳು
+Lam	ಪ್ರಲಾ
+Lam	Lam
+Lev	ಯಾಜಕಕಾಂಡ
+Lev	Lev
+Lev	ಯಾಜ
+Luke	Luke
+Luke	ಲೂಕ
+Mal	ಪ್ರವಾದಿ ಮಲಾಕಿಯನ ಗ್ರಂಥ
+Mal	ಮಲಾಕಿಯ
+Mal	Mal
+Mal	ಮಲಾ
+Mark	ಮಾರ್ಕ
+Mark	Mark
+Matt	ಮತ್ತಾಯ
+Matt	ಮತ್ತಾ
+Matt	Matt
+Mic	ಪ್ರವಾದಿ ಮೀಕನ ಗ್ರಂಥ
+Mic	Mic
+Mic	ಮೀಕ
+Nah	ಪ್ರವಾದಿ ನಹೂಮನ ಗ್ರಂಥ
+Nah	ನಹೂಮ
+Nah	Nah
+Nah	ನಹೂ
+Neh	ನೆಹೆಮೀಯ
+Neh	ನೆಹೆ
+Neh	Neh
+Num	ಸಂಖ್ಯಾಕಾಂಡ
+Num	ಅರಣ್ಯಕಾಂಡ
+Num	ಯಾಕಾಂಡ
+Num	ಅರಣ್ಯ
+Num	Num
+Obad	ಪ್ರವಾದಿ ಓಬದ್ಯನ ಗ್ರಂಥ
+Obad	ಓಬದ್ಯ
+Obad	Obad
+Obad	ಓಬ
+Phil	ಫಿಲಿಪ್ಪಿಯವರಿಗೆ
+Phil	ಫಿಲಿಪ್ಪಿಯರಿಗೆ
+Phil	ಫಿಲಿಪ್ಪಿ
+Phil	Phil
+Phil	ಫಿಲಿ
+Phlm	ಫಿಲೆಮೋನನಿಗೆ
+Phlm	Phlm
+Phlm	ಫಿಲೆ
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	ಜ್ಞಾನೋಕ್ತಿಗಳು
+Prov	ಜ್ಞಾನೋ
+Prov	Prov
+Prov	ಜ್ಞಾ
+Ps	ಕೀರ್ತನೆಗಳು
+Ps	ಕೀರ್ತನೆ
+Ps	ಕೀರ್ತ
+Ps	Ps
+Rev	ಪ್ರಕಟನೆ
+Rev	ಪ್ರಕ
+Rev	Rev
+Rom	ರೋಮಾಪುರದವರಿಗೆ
+Rom	ರೋಮನರಿಗೆ
+Rom	ರೋಮಾ
+Rom	Rom
+Rom	ರೋಮ
+Ruth	ರೂತಳು
+Ruth	Ruth
+Ruth	ರೂತ
+SgThree	SgThree
+Sir	Sir
+Song	ಪರಮಗೀತೆ
+Song	ಪರಮಗೀತ
+Song	Song
+Song	ಪ.ಗೀ
+Song	ಪಗೀ
+Sus	Sus
+Titus	ತೀತನಿಗೆ
+Titus	Titus
+Titus	ತೀತ
+Tob	Tob
+Wis	Wis
+Zech	ಪ್ರವಾದಿ ಜೆಕರ್ಯನ ಗ್ರಂಥ
+Zech	ಜೆಕರ್ಯ
+Zech	Zech
+Zech	ಜೆಕ
+Zeph	ಪ್ರವಾದಿ ಜೆಫನ್ಯನ ಗ್ರಂಥ
+Zeph	ಚೆಫನ್ಯ
+Zeph	Zeph
+Zeph	ಚೆಫ

@@ -1,0 +1,278 @@
+1Chr	1 કાળવૃત્તાંત
+1Chr	૧ કાળવૃત્તાંત
+1Chr	1 કાળ
+1Chr	૧ કાળ
+1Chr	1Chr
+1Cor	કરિંથીઓને પહેલો પત્ર
+1Cor	1 કોરીંથી
+1Cor	1 કોરીં
+1Cor	૧ કોરીં
+1Cor	1કોરી
+1Cor	૧કોરી
+1Cor	1Cor
+1Esd	1Esd
+1John	યોહાનનો પહેલો પત્ર
+1John	1 યોહાન
+1John	૧ યોહાન
+1John	1યોહાન
+1John	1John
+1John	1યોહ
+1John	૧યોહ
+1Kgs	1 રાજાઓ
+1Kgs	૧ રાજાઓ
+1Kgs	1 રાજા
+1Kgs	૧ રાજા
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	પિતરનો પહેલો પત્ર
+1Pet	1. પીત્તર
+1Pet	1 પીત્તર
+1Pet	1 પિતર
+1Pet	1પીત્ત
+1Pet	૧પીત્ત
+1Pet	1Pet
+1Sam	1 શમુએલ
+1Sam	1 શમૂએલ
+1Sam	૧ શમુએલ
+1Sam	1 શમું
+1Sam	૧ શમું
+1Sam	1Sam
+1Thess	થેસ્સાલોનિકીઓને પહેલો પત્ર
+1Thess	1 થેસ્સાલોનીકી
+1Thess	1 થેસ્સા
+1Thess	1Thess
+1Thess	1થેસા
+1Thess	૧થેસા
+1Tim	તિમોથીને પહેલો પત્ર
+1Tim	1 તીમોથી
+1Tim	1તીમો
+1Tim	૧તીમો
+1Tim	1Tim
+2Chr	2 કાળવૃત્તાંત
+2Chr	૨ કાળવૃત્તાંત
+2Chr	2 કાળ
+2Chr	૨ કાળ
+2Chr	2Chr
+2Cor	કરિંથીઓને બીજો પત્ર
+2Cor	2 કોરીંથી
+2Cor	2કોરી
+2Cor	૨કોરી
+2Cor	2Cor
+2Esd	2Esd
+2John	યોહાનનો બીજો પત્ર
+2John	2John
+2John	2યોહ
+2John	૨યોહ
+2Kgs	2 રાજાઓ
+2Kgs	૨ રાજાઓ
+2Kgs	2 રાજા
+2Kgs	૨ રાજા
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	પિતરનો બીજો પત્ર
+2Pet	2 પિતર
+2Pet	2પિત્ત
+2Pet	૨પિત્ત
+2Pet	2Pet
+2Sam	2 શમુએલ
+2Sam	2 શમૂએલ
+2Sam	૨ શમુએલ
+2Sam	2શમું
+2Sam	૨શમું
+2Sam	2Sam
+2Thess	થેસ્સાલોનિકીઓને બીજો પત્ર
+2Thess	2Thess
+2Thess	2થેસા
+2Thess	૨થેસા
+2Tim	તિમોથીને બીજો પત્ર
+2Tim	2તીમો
+2Tim	૨તીમો
+2Tim	2Tim
+3John	યોહાનનો ત્રીજો પત્ર
+3John	3John
+3John	3યોહ
+3John	૩યોહ
+3Macc	3Macc
+4Macc	4Macc
+Acts	પ્રેરિતોનાં કૃત્યો
+Acts	પ્રેકૃ
+Acts	Acts
+Amos	Amos
+Amos	આમોસ
+Amos	આમો
+Bar	Bar
+Bel	Bel
+Col	કલોસીઓને પત્ર
+Col	કલોસ્સી
+Col	ક્લોસી
+Col	કૉલો
+Col	Col
+Dan	દાનિયેલ
+Dan	દાનીયેલ
+Dan	દાની
+Dan	Dan
+Deut	પુનર્નિયમ
+Deut	Deut
+Deut	પુન
+Deut	પૂન
+Eccl	સભાશિક્ષક
+Eccl	Eccl
+Eccl	જુઓ
+Eccl	સભા
+EpJer	EpJer
+Eph	એફેસીઓને પત્ર
+Eph	એફેસી
+Eph	Eph
+Eph	એફે
+Esth	એસ્તેર
+Esth	Esth
+Esth	એસ્ત
+Exod	નિર્ગમન
+Exod	નિર્ગ
+Exod	Exod
+Ezek	હઝકિયેલ
+Ezek	હઝકીએલ
+Ezek	Ezek
+Ezek	હઝકી
+Ezek	હઝ
+Ezra	Ezra
+Ezra	એઝરા
+Ezra	એઝ
+Gal	ગલાતીઓને પત્ર
+Gal	ગલાતી
+Gal	Gal
+Gal	ગલા
+Gen	ઉત્પત્તિ
+Gen	ઉત્પાતિ
+Gen	ઉત્ત
+Gen	Gen
+GkEsth	GkEsth
+Hab	હબાકુક
+Hab	Hab
+Hab	હબા
+Hag	હાગ્ગાય
+Hag	હાગા
+Hag	Hag
+Heb	હિબ્રૂઓને પત્ર
+Heb	હિબ્રૂ
+Heb	હીબ્રુ
+Heb	હેબ્રી
+Heb	Heb
+Hos	હોશિયા
+Hos	હોશિ
+Hos	Hos
+Isa	યશાયાહ
+Isa	યશાયા
+Isa	Isa
+Isa	યશા
+Jas	યાકૂબનો પત્ર
+Jas	યાકૂબ
+Jas	યાકુ
+Jas	Jas
+Jdt	Jdt
+Jer	યર્મિયા
+Jer	યર્મિ
+Jer	Jer
+Job	અયૂબ
+Job	Job
+Job	અયુ
+Joel	Joel
+Joel	યોએલ
+Joel	યોએ
+John	યોહાન
+John	John
+John	યોહન
+John	યોહ
+Jonah	Jonah
+Jonah	યૂના
+Josh	યહોશુઆ
+Josh	જોશુઆ
+Josh	Josh
+Josh	યહો
+Jude	યહૂદાનો પત્ર
+Jude	યહુદા
+Jude	Jude
+Jude	યહુ
+Judg	ન્યાયાધીશો
+Judg	ન્યાયા
+Judg	Judg
+Lam	યર્મિયાનો વિલાપ
+Lam	ય. વિ
+Lam	ય વિ
+Lam	Lam
+Lev	લેવીય
+Lev	લેવી
+Lev	Lev
+Luke	Luke
+Luke	લુક
+Luke	લૂક
+Mal	માલાખી
+Mal	માલા
+Mal	Mal
+Mark	માર્ક
+Mark	Mark
+Matt	માત્થી
+Matt	માથ્થી
+Matt	Matt
+Matt	માથ્
+Mic	મીખાહ
+Mic	મિખા
+Mic	Mic
+Nah	નાહૂમ
+Nah	નાહુ
+Nah	Nah
+Neh	નહેમ્યા
+Neh	નેહે
+Neh	Neh
+Num	ગણના
+Num	Num
+Num	ગણ
+Obad	ઓબાદ્યા
+Obad	Obad
+Obad	ઓબા
+Phil	ફિલિપીઓને પત્ર
+Phil	ફિલીપી
+Phil	Phil
+Phil	ફિલિ
+Phlm	ફિલેમોનને પાઉલ પ્રેરિતનો પત્ર
+Phlm	Phlm
+Phlm	ફિલે
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	નીતિવચનો
+Prov	Prov
+Prov	નીતિ
+Ps	ગીતશાસ્‍ત્ર
+Ps	ગીતશાસ્ત્ર
+Ps	ગી.શા
+Ps	ગીશા
+Ps	ગીત
+Ps	Ps
+Rev	પ્રકટીકરણ
+Rev	પ્રકટી
+Rev	Rev
+Rom	રોમનોને પત્ર
+Rom	રૂમી
+Rom	રોમન
+Rom	Rom
+Rom	રોમ
+Ruth	Ruth
+Ruth	રૂથ
+SgThree	SgThree
+Sir	Sir
+Song	ગીતોનું ગીત
+Song	ગી.ગી
+Song	Song
+Song	ગીગી
+Sus	Sus
+Titus	તિતસને પત્ર
+Titus	Titus
+Titus	તીત
+Tob	Tob
+Wis	Wis
+Zech	ઝખાર્યા
+Zech	Zech
+Zech	ઝખા
+Zeph	સફાન્યા
+Zeph	Zeph
+Zeph	સફા

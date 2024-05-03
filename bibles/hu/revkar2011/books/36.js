@@ -1,0 +1,66 @@
+var book = {
+  "name": "Sofóniás",
+  "numChapters": 3,
+  "chapters": {
+    "1": {
+      "1": "<span>1</span> Ez az ÚR szava, amelyet Zofóniásnak, Kúsi fiának mondott, aki Gedaljá fia, aki Amarjá fia, aki Hizkijjá fia volt, Jósiásnak, Ámón fiának, Júda királyának az idejében.",
+      "2": "<span>2</span> Elveszítek, mindent elveszítek e föld színéről – ezt mondja az ÚR.",
+      "3": "<span>3</span> Elveszítek embert és állatot. Elveszítem az ég madarait, a tenger halait és a botránkoztatás eszközeit a gonoszokkal együtt. Az embert is kiirtom a föld színéről – ezt mondja az ÚR.",
+      "4": "<span>4</span> Kinyújtom kezemet Júda ellen és Jeruzsálem minden lakója ellen, és kiirtom e helyről a Baal maradékát, a bálványpapok nevét a papokkal együtt,",
+      "5": "<span>5</span> azokat, akik az ég serege előtt hajlonganak a háztetőkön, és azokat is, akik leborulnak, s az ÚRra esküsznek, de esküsznek a Molokjukra is.",
+      "6": "<span>6</span> Kiirtom azokat is, akik elfordultak az ÚR követésétől, és nem keresik az URat, és nem tudakozódnak felőle.",
+      "7": "<span>7</span> Hallgass az ÚR, az én Istenem arca előtt, mert közel van az ÚR napja, amikor áldozatot készíttet az ÚR, és megszenteli meghívottait.",
+      "8": "<span>8</span> Az ÚR áldozatának napján megbüntetem a fejedelmeket és a királyok fiait és mindazokat, akik idegen öltözetbe öltöznek.",
+      "9": "<span>9</span> Azon a napon megbüntetem mindazokat, akik átugrálnak a küszöbön, s akik erőszakkal és csalárdsággal töltik meg uruk palotáját.",
+      "10": "<span>10</span> Azon a napon – ezt mondja az ÚR – kiáltás hangzik a Hal-kapu felől, jajgatás az Újvárosból és nagy pusztulás robaja a halmok felől.",
+      "11": "<span>11</span> Jajgassatok, ti, akik a völgyben laktok, mert elpusztul az egész kereskedő nép, kiirtják mindazokat, aki ezüstöt mérnek!",
+      "12": "<span>12</span> Abban az időben lámpással kutatom át Jeruzsálemet, és megbüntetem azokat, akik olyanok, mint a bor sepreje, s akik azt mondják szívükben: Nem cselekszik az ÚR sem jót, sem rosszat.",
+      "13": "<span>13</span> Gazdagságuk prédává lesz, házaik pedig pusztává. Ha házakat építenek is, nem laknak bennük, s ha szőlőt ültetnek is, nem isszák annak borát.",
+      "14": "<span>14</span> Közel van az ÚR nagy napja, közel van, és igen hamar itt lesz. Keserves hang szól az ÚR napján, kiáltozik akkor a hős is.",
+      "15": "<span>15</span> Harag napja az a nap, szorongattatás és nyomorúság napja, pusztítás és pusztulás napja, sötétség és homály napja, felhő és ború napja.",
+      "16": "<span>16</span> Kürt és riadó napja a megerősített városok ellen és a büszke tornyok ellen!",
+      "17": "<span>17</span> Ínséget hozott az emberekre, és úgy járnak, mint a vakok, mert vétkeztek az ÚR ellen. Kiömlik a vérük, mint a por, és belső részük olyan lesz, mint a szemét.",
+      "18": "<span>18</span> Sem ezüstjük, sem aranyuk nem szabadíthatja meg őket az ÚR haragjának napján, amikor az ő féltő szeretetének tüze megemészti az egész földet. Mert végez, bizony hamarjában végez a föld minden lakójával."
+    },
+    "2": {
+      "1": "<span>1</span> Szedd össze magadat, és eszmélj föl, te arcátlan nemzet,",
+      "2": "<span>2</span> mielőtt bekövetkezik a végzés – mint a polyva, úgy száll tova az a nap –, amíg rátok nem tör az ÚR haragjának tüze, amíg rátok nem tör az ÚR haragjának napja!",
+      "3": "<span>3</span> Keressétek az URat mind, akik alázatosak vagytok e földön, akik az ő törvénye szerint cselekedtek. Keressétek az igazságot, keressétek az alázatosságot, talán oltalmat találtok az ÚR haragjának napján!",
+      "4": "<span>4</span> Mert elhagyottá lesz Gáza, Askelón pedig pusztasággá. Az asdódiakat délidőben űzik el, Ekrónt pedig kiirtják.",
+      "5": "<span>5</span> Jaj a tenger partvidékén lakóknak, a kereteusok nemzetének! Ez az ÚR szava ellened, Kánaán, filiszteusok földje: Elpusztítalak, lakatlanná leszel!",
+      "6": "<span>6</span> A tenger partvidéke pedig legelővé, pásztorok tanyájává és juhok aklává lesz.",
+      "7": "<span>7</span> Ez a vidék Júda házának maradékáé lesz, ők legeltetnek azon. Estére Askelón házaiban heverésznek, mert az ÚR, az ő Istenük gondozza őket, és jóra fordítja sorsukat.",
+      "8": "<span>8</span> Hallottam Móáb gyalázkodását és Ammón fiainak szidalmait, amelyekkel gyalázták népemet, és fölfuvalkodva tekintettek az ő határukra.",
+      "9": "<span>9</span> Azért, élek én – ezt mondja a Seregek URa, Izráel Istene –, hogy Móáb olyan lesz, mint Sodoma, Ammón fiai pedig, mint Gomora: gyomot termő föld, sógödör és pusztaság örökre. Kifosztja őket népem maradéka, és nemzetem maradékának tulajdonába kerülnek.",
+      "10": "<span>10</span> Ez esik meg rajtuk kevélységük miatt, amiért gyalázkodtak és fölfuvalkodtak a Seregek URának népe ellen.",
+      "11": "<span>11</span> Rettenetes lesz az ÚR velük, mert éhhalállal sújtja a föld minden istenét, és akkor neki hódol majd mindenki a maga lakhelyén, a népek minden szigete.",
+      "12": "<span>12</span> Ti is, kúsiak! Fegyverem sebez meg benneteket.",
+      "13": "<span>13</span> Kinyújtja kezét észak felé, és elveszíti Asszíriát, Ninivét pusztasággá teszi, kietlenné, mint egy sivatag.",
+      "14": "<span>14</span> Nyájak heverésznek a közepén, mindenféle állatok serege: pelikán és bagoly alszik oszlopain, az ablakban hallatszik a hanguk. Omladék borítja a küszöböket, mert lefoszlott a cédrusburkolat!",
+      "15": "<span>15</span> Ez lett a víg város, a biztonságban lakozó, amely azt mondta szívében: Én vagyok, és rajtam kívül nincs más! Milyen pusztasággá lett, vadak tanyájává: aki csak keresztülmegy rajta, mind fölszisszen, és a kezével int."
+    },
+    "3": {
+      "1": "<span>1</span> Jaj az ellenszegülő, szennyes és erőszakos városnak!",
+      "2": "<span>2</span> Nem hallgatott a szóra, nem fogadta el a fenyítést, nem bízott az ÚRban, nem közeledett Istenéhez.",
+      "3": "<span>3</span> Olyanok benne fejedelmei, mint az ordító oroszlánok, bírái, mint az este járó farkasok, egy csontot sem hagynak reggelre.",
+      "4": "<span>4</span> Prófétái becstelenek, hitető férfiak, papjai beszennyezik a szentet, és erőszakot tesznek a törvényen.",
+      "5": "<span>5</span> Ám igaz közöttük az ÚR, ő nem cselekszik hamisságot, ítéletét minden reggel napfényre hozza, nem mulasztja el. De a gonosz nem ismeri a szégyent!",
+      "6": "<span>6</span> Nemzeteket irtottam ki, elpusztultak bástyáik. Földúltam utcáikat, nincs, aki keresztülmenjen rajtuk. Rommá lettek városaik, egy ember sincs bennük, nincsen lakosuk!",
+      "7": "<span>7</span> Azt gondoltam: Csak félni fog engem, megfogadja az intést! Akkor nem pusztul el lakóhelye aszerint, amint végeztem felőle. De egyre gonoszabbra fordították minden cselekedetüket.",
+      "8": "<span>8</span> Ezért hát várjatok rám – ezt mondja az ÚR –, míg fölkelek, hogy ítéletet tegyek. Mert elvégeztem, hogy egybegyűjtöm a népeket, összegyűjtöm az országokat, hogy kiöntsem rájuk fölindulásomat, haragom egész hevét. Bizony, féltékeny haragom tüzében elpusztul az egész föld!",
+      "9": "<span>9</span> Akkor majd tisztává változtatom a népek ajkát, hogy mindnyájan az ÚR nevét hívják segítségül, és őt szolgálják egy akarattal.",
+      "10": "<span>10</span> Kús folyóvizein túlról hozzák nekem az áldozatot imádóim, szétszórt népem leányai.",
+      "11": "<span>11</span> Azon a napon nem kell szégyenkezned egyetlen cselekedeted miatt sem, amellyel vétkeztél ellenem. Mert akkor eltávolítom körödből azokat, akik kérkedve vigadoznak, és nem fogsz többé kevélykedni szent hegyemen.",
+      "12": "<span>12</span> De meghagyom közöttetek a nyomorult és szegény népet, amely az ÚR nevében keres menedéket.",
+      "13": "<span>13</span> Izráel maradéka nem cselekszik hamisságot, nem szól hazugságot, és nem találtatik szájában álnok nyelv, hanem legelésznek, lenyugszanak, és nem lesz, aki megrettentse őket.",
+      "14": "<span>14</span> Ujjongj, Sion leánya, harsogj, Izráel, örvendj és vigadj teljes szívedből, Jeruzsálem leánya!",
+      "15": "<span>15</span> Elfordította rólad az ÚR az ítéletedet, eltérítette ellenségedet. Izráel királya! Veled van az ÚR, nem kell többé veszedelemtől félned!",
+      "16": "<span>16</span> Azon a napon azt mondják Jeruzsálemnek: Ne félj, Sion, ne lankadjon a kezed!",
+      "17": "<span>17</span> Veled van az ÚR, a te Istened, ő erős és megment. Nagy örömmel örül neked, megújít szeretetével, ujjongással örvendezik neked.",
+      "18": "<span>18</span> Az ünnep miatt bánkódókat egybegyűjtöm, akik bár közületek valók, de gyalázat terhe van rajtuk.",
+      "19": "<span>19</span> Íme, elbánok minden nyomorgatóddal abban az időben, és a sántát megsegítem, a szétszóródottakat összeszedem, híressé és hírnevessé teszem őket gyalázatuk földjén.",
+      "20": "<span>20</span> Abban az időben elhozlak titeket, akkor majd összeszedlek titeket. Bizony, hírnevessé és híressé teszlek titeket a föld minden népe között, amikor jóra fordítom sorsotokat a szemetek láttára – ezt mondja az ÚR."
+    }
+  }
+};
+module.exports = book;

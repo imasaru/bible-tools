@@ -1,0 +1,276 @@
+$FIRST	1	၁
+$SECOND	2	၂
+$THIRD	3	၃
+$FOURTH	4	၄
+$FIFTH	5	၅
+$AB	[ကခ]
+$AND	and
+$CHAPTER	တၢ်မၤလိ
+$FF	ff
+$TITLE	kjp
+$TRANS	pwokyn
+$TO	-
+$VERSE	အဆၢ	း
+$UNICODE_BLOCK	Myanmar	Latin
+
+Gen	ၥ မိစ့ၭ	ၥ မိ
+Exod	၂ မိစ့ၭ	၂ မိ
+Lev	၃ မိစ့ၭ	၃ မိ
+Num	၄ မိစ့ၭ	၄ မိ
+Deut	၅ မိစ့ၭ	၅ မိ
+Josh	ယီရှုၫအ့ၫ.	ရှုၫ.
+Judg	စ့ၩရၫ့	စ့ၩ
+Ruth	ရုၥၭ	ရု
+1Sam	ၥ စၫမုၫအ့လၭ	ၥ စၫ
+2Sam	၂ စၫမုၫအ့လၭ	၂ စၫ
+1Kgs	ၥ စဎွၩ	ၥ ဎွၩ
+2Kgs	၂ စဎွၩ	၂ ဎွၩ
+1Chr	၁ ကွ့ၭနဲၪ့ဆၧ	၁ ကွ့ၭ
+2Chr	၂ ကွ့ၭနဲၪ့ဆၧ	၂ ကွ့ၭ
+Ezra	အ့ဇရၫ	ရၫ
+Neh	နံၫဟမဲအၫ	နံၫ
+Esth	အ့စတၧၫ	တၧၫ
+Job	ယိဘၭ	ဘၭ
+Ps	အၪ့အူၭ	အၪ့
+Prov	ချဲၩ့ဒီၩ့လၩ့	ဒီၩ့
+Eccl	လီၩလၩ့ဆၧ	လီၩ
+Song	စီလမၧၫ့အထၭခိၪ	ထၭ
+Isa	အဲၫစ့ယၫ	အဲၫ
+Jer	ယ့ၫရမဲအၫ	မဲအၫ
+Lam	ဂၪ့ဆၧယၧၩ့ဆၧ	ဂၪ့ဆၧ
+Ezek	အဇံၫခအ့လၭ	ဇံၫ
+Dan	ဒၫ့နအ့လၭ	ဒၫ့
+Hos	ဟိၫစံအၫ	ဟိၫ
+Joel	ယိၫအ့လၭ	ယိၫ
+Amos	အၫမူၭ	မူၭ
+Obad	အိၫဘဒဲအၫ	အိၫ
+Jonah	ယိနၫ	နၫ
+Mic	မဲကၫ	မဲ
+Nah	နၫဟၧၫ့	ဟၧၫ့
+Hab	ဟဘၭကၧၭ	ကၧၭ
+Zeph	ဇ့ၭဖနဲအၫ	ဖနဲ
+Hag	ဟၭဂဲၫ	ဟၭ
+Zech	ဇ့ၭခရဲအၫ	ရဲ
+Mal	မၪလခဲၫ	ခဲၫ
+Matt	မၭၥုၫ	မၭ
+Mark	မၫကၧၭ	မၫ
+Luke	လုကၭ	လု
+John	ယီဟၫ့	ယီ
+Acts	ၦဆၧ	ဆၧ
+Rom	ရိမၫ	ရိ
+1Cor	၁ ကီရံၫ့	၁ ကီ
+2Cor	၂ ကီရံၫ့	၂ ကီ
+Gal	ဂလ့ၡၫ	လ့
+Eph	အ့ဖစၧၭ	အ့
+Phil	ဖလံဖံၫ	ဖံၫ
+Col	ကလီစံၫ	လီ
+1Thess	၁ ၥ့ၭစလနဲကၫ	၁ ၥ့ၭ
+2Thess	၂ ၥ့ၭစလနဲကၫ	၂ ၥ့ၭ
+1Tim	၁ ထံမၥံၫ	၁ ထံ
+2Tim	၂ ထံမၥံၫ	၂ ထံ
+Titus	တဲတၧၭ	တဲ
+Phlm	ဖလံမၧၫ့	လံမၧၫ့
+Heb	ဟံဘြႃၫ	ဟံ
+Jas	ယ့မံၭ	ယ့
+1Pet	၁ ပံတၧၫ	၁ ပံ
+2Pet	၂ ပံတၧၫ	၂ ပံ
+1John	၁ ယီဟၫ့	၁ ယီ
+2John	၂ ယီဟၫ့	၂ ယီ
+3John	၃ ယီဟၫ့	၃ ယီ
+Jude	ယုဒၭ	ဒၭ
+Rev	နဲၪဖျီၪ	နဲၪ
+Tob	
+Jdt	
+GkEsth	
+Wis	
+Sir	
+Bar	
+PrAzar	
+Sus	
+Bel	
+SgThree	
+EpJer	
+1Macc	
+2Macc	
+3Macc	
+4Macc	
+1Esd	
+2Esd	
+PrMan	
+
+Jonah,Job,Josh,Joel	
+Judg,Jude	
+Phil,Phlm	
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen	
+*Exod	
+*Lev	
+*Num	
+*Deut	
+*Josh	
+*Judg	
+*Ruth	
+*1Sam	
+*2Sam	
+*1Kgs	
+*2Kgs	
+*1Chr	
+*2Chr	
+*Ezra	
+*Neh	
+*Esth	
+*Job	
+*Ps	
+*Prov	
+*Eccl	
+*Song	
+*Isa	
+*Jer	
+*Lam	
+*Ezek	
+*Dan	
+*Hos	
+*Joel	
+*Amos	
+*Obad	
+*Jonah	
+*Mic	
+*Nah	
+*Hab	
+*Zeph	
+*Hag	
+*Zech	
+*Mal	
+*Matt	
+*Mark	
+*Luke	
+*John	
+*Acts	
+*Rom	
+*1Cor	
+*2Cor	
+*Gal	
+*Eph	
+*Phil	
+*Col	
+*1Thess	
+*2Thess	
+*1Tim	
+*2Tim	
+*Titus	
+*Phlm	
+*Heb	
+*Jas	
+*1Pet	
+*2Pet	
+*1John	
+*2John	
+*3John	
+*Jude	
+*Rev	
+*Tob	
+*Jdt	
+*GkEsth	
+*Wis	
+*Sir	
+*Bar	
+*PrAzar	
+*Sus	
+*Bel	
+*SgThree	
+*EpJer	
+*1Macc	
+*2Macc	
+*3Macc	
+*4Macc	
+*1Esd	
+*2Esd	
+*PrMan	

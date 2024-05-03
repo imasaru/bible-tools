@@ -476,9 +476,11 @@ describe "Localized book Ps (fa)", ->
 	it "should handle book: Ps (fa)", ->
 		`
 		expect(p.parse("مزامیر 1:1").osis()).toEqual("Ps.1.1")
+		expect(p.parse("مزمور 1:1").osis()).toEqual("Ps.1.1")
 		expect(p.parse("Ps 1:1").osis()).toEqual("Ps.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("مزامیر 1:1").osis()).toEqual("Ps.1.1")
+		expect(p.parse("مزمور 1:1").osis()).toEqual("Ps.1.1")
 		expect(p.parse("PS 1:1").osis()).toEqual("Ps.1.1")
 		`
 		true
@@ -913,10 +915,12 @@ describe "Localized book Acts (fa)", ->
 		`
 		expect(p.parse("کارهای رسولان 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("اعمال رسولان 1:1").osis()).toEqual("Acts.1.1")
+		expect(p.parse("اعمال 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("Acts 1:1").osis()).toEqual("Acts.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("کارهای رسولان 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("اعمال رسولان 1:1").osis()).toEqual("Acts.1.1")
+		expect(p.parse("اعمال 1:1").osis()).toEqual("Acts.1.1")
 		expect(p.parse("ACTS 1:1").osis()).toEqual("Acts.1.1")
 		`
 		true
@@ -992,10 +996,12 @@ describe "Localized book Eph (fa)", ->
 		p.include_apocrypha true
 	it "should handle book: Eph (fa)", ->
 		`
+		expect(p.parse("افسسسیان 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("افسسیان 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("افسیان 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("Eph 1:1").osis()).toEqual("Eph.1.1")
 		p.include_apocrypha(false)
+		expect(p.parse("افسسسیان 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("افسسیان 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("افسیان 1:1").osis()).toEqual("Eph.1.1")
 		expect(p.parse("EPH 1:1").osis()).toEqual("Eph.1.1")
@@ -1114,10 +1120,12 @@ describe "Localized book Titus (fa)", ->
 		expect(p.parse("Titus 1:1").osis()).toEqual("Titus.1.1")
 		expect(p.parse("تیطوس 1:1").osis()).toEqual("Titus.1.1")
 		expect(p.parse("تیطُس 1:1").osis()).toEqual("Titus.1.1")
+		expect(p.parse("تیطس 1:1").osis()).toEqual("Titus.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("TITUS 1:1").osis()).toEqual("Titus.1.1")
 		expect(p.parse("تیطوس 1:1").osis()).toEqual("Titus.1.1")
 		expect(p.parse("تیطُس 1:1").osis()).toEqual("Titus.1.1")
+		expect(p.parse("تیطس 1:1").osis()).toEqual("Titus.1.1")
 		`
 		true
 describe "Localized book Phlm (fa)", ->

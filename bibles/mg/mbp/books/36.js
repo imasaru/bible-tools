@@ -1,0 +1,66 @@
+var book = {
+	"name": "Zefania",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> NY tenin’i Jehovah, izay tonga tamin’i Zefania, zanak’i Kosy, zanak’i Gedalia, zanak’i Amaria, zanak’i Hezekia, tamin’ny andro nanjakan’i Josia, zanak’i Amona, mpanjakan’ny Joda.",
+			"2": "<sup>2</sup> HAKIFAKO tokoa ny zavatra rehetra tsy ho eny ambonin’ny tany, hoy Jehovah;",
+			"3": "<sup>3</sup> Eny, hakifako ny olona sy ny biby; Hakifako ny vorona eny amin’ny habakabaka sy ny hazandrano any an-dranomasina Ary ny zavatra mahatafintohina mbamin’ny ratsy fanahy; Haringako tsy ho amin’ny tany ny olona, hoy Jehovah.",
+			"4": "<sup>4</sup> Ary hahinjitro ny tànako hamely ny Joda Sy ny mponina rehetra any Jerosalema; Dia haringako tsy ho eo amin’ity tany ity ny sisa amin’i Bala, Sy ny anaran’ny mpisorona amin’ny andriamani-tsi-izy mbamin’ny tena mpisorona,",
+			"5": "<sup>5</sup> Sy izay mivavaka any an-tampon-trano amin’izay eny amin’ny lanitra, Ary izay miankohoka sy mianiana ho an’i Jehovah Sady mianiana amin’i Malkama,",
+			"6": "<sup>6</sup> Ary izay nihemotra niala tamin’i Jehovah, Sy izay tsy nitady an’i Jehovah na nanontany taminy.",
+			"7": "<sup>7</sup> Mangìna eo anatrehan’i Jehovah Tompo! Fa efa antomotra ny andron’i Jehovah; Fa Jehovah efa niomana hamono zavatra hatao fanatitra ka efa nanamasina ny olona nasainy.",
+			"8": "<sup>8</sup> Ary raha mby amin’ny andro hamonoan’i Jehovah zavatra hatao fanatitra, Dia hovaliako ny lehibe sy ny zanak’andriana Mbamin’izay rehetra mitafy ny fitafin’ny firenena hafa.",
+			"9": "<sup>9</sup> Ary amin’izany andro izany dia hovaliako izay rehetra miezaka mihoatra ny tokonana, Dia ireo mameno loza sy fitaka ny tranon’ny tompony.",
+			"10": "<sup>10</sup> Ary amin’izany andro izany, hoy Jehovah, Dia hisy feo re mitaraina any am-bavahadin-kazandrano, Sy fidradradradrana ao amin’ny tanàna ambany, Ary fidarabohana miezinezina any amin’ny havoana.",
+			"11": "<sup>11</sup> Midradradradrà, hianareo mponina ao Maktesy; Fa ringana avokoa ny mpandranto rehetra, Eny, lany ringana izay rehetra nivesatra volafotsy.",
+			"12": "<sup>12</sup> Ary amin’izany andro izany dia hotsiloviko amin’ny jiro Jerosalema, Ka hovaliako ny olona izay efa lefy ao amin’ny faikany, Dia izay manao anakampo hoe: Sady tsy hanao soa Jehovah no tsy hanao ratsy.",
+			"13": "<sup>13</sup> Ka dia ho tonga babo ny fananan’ireny, Ary ho lao ny tranony; Dia hanao trano izy, nefa tsy hitoetra ao; Hamboly voaloboka izy, nefa tsy hisotro ny divay avy aminy.",
+			"14": "<sup>14</sup> Efa antomotra ny andro lehiben’i Jehovah; Eny, efa antomotra sady mihafaingana indrindra– Injay! feon’ny andron’i Jehovah! Ny lehilahy mahery dia mitomany mafy any.",
+			"15": "<sup>15</sup> Andro fahatezerana izany andro izany, Andro fahoriana sy fahalahelovana, Andro fandravana sy fanafoanana, Andro maizina sy manjombona, Andro mandrahona sy maizim-pito.",
+			"16": "<sup>16</sup> Andro fahaveloman’ny anjomara sy ny akora, Hamelezana ny tanàna mimanda sy ny tilikambo avo eny amin’ny zorony.",
+			"17": "<sup>17</sup> Ary hampahory ny olona Aho, Handehanany toy ny jamba, Satria efa nanota tamin’i Jehovah izy; Ny rany dia haidina toy ny vovoka, Ary ny nofony ho toy ny zezika.",
+			"18": "<sup>18</sup> Na ny volafotsiny na ny volamenany dia samy tsy hahavonjy azy amin’ny andro fahatezeran’i Jehovah, Fa holevonin’ny afon’ny fahasaro-piarony ny tany rehetra; Fa fahafonganana, eny, fahafonganana tampoka tokoa no hataony amin’ny mponina amin’ny tany."
+		},
+		"2": {
+			"1": "<sup>1</sup> MIANGÒNA, eny, mivoria hianareo Ry firenena tsy manan-kenatra,",
+			"2": "<sup>2</sup> Dieny tsy mbola mihatra ny didy (Mihelina toy ny akofa ny andro!), Dieny tsy mbola tonga aminareo ny fahatezerana mafin’i Jehovah, Eny, dieny tsy mbola tonga aminareo ny andro firehetan’ny fahatezeran’i Jehovah.",
+			"3": "<sup>3</sup> Mitadiava an’i Jehovah, hianareo mpandefitra rehetra amin’ny tany, Izay efa nanaraka ny fitsipiny: Tadiavo ny fahamarinana, Tadiavo ny fandeferana; Angamba ho voafina hianareo amin’ny andro fahatezeran’i Jehovah.",
+			"4": "<sup>4</sup> Fa hafoy Gaza, Ary ho lao Askelona; Horoahiny mitataovovonana Asdoda, Ary hofongorana Ekrona.",
+			"5": "<sup>5</sup> Lozan’ny mponina any amoron-tsiraka, Dia ny firenen’ny Keretita! Mihatra aminareo ny tenin’i Jehovah, Ry Kanana, tanin’ny Filistina! Haringako tsy hisy mponina eo aminao,",
+			"6": "<sup>6</sup> Ary ny any amoron-tsiraka dia ho tonga tany fiandrasana ondry, izay misy zohy fialofan’ ny mpiandry ondry, Sy ho valan’ondry aman-osy,",
+			"7": "<sup>7</sup> Ary ho tanin’ny sisa amin’ny taranak’i Joda izany, Ka any no hiandrasany ondry; Ny tranon’i Askelona no handriany amin’ny hariva; Fa Jehovah Andriamaniny no hamangy azy Ka hampody azy avy amin’ny fahababoany.",
+			"8": "<sup>8</sup> Efa reko ny fandatsàn’i Moaba Sy ny fanaratsian’ny taranak’i Amona, Izay nandatsany ny oloko Sy nireharehany teny amin’ny sisin-taniny.",
+			"9": "<sup>9</sup> Koa raha velona koa Aho, hoy Jehovah, Tompon’ny maro, Andriamanitry ny Isiraely, Dia ho tahaka an’i Sodoma tokoa Moaba, Ary ny taranak’i Amona ho tahaka an’i Gomora, Dia ho alan’amiana sy lava-tsira ary tany lao mandrakizay; Ny sisa amin’ny oloko no hamabo azy, ary ny sisa amin’ny oloko no hahalasa azy.",
+			"10": "<sup>10</sup> Izany no ho valin’ny avonavony, Satria nandatsa ny olon’i Jehovah, Tompon’ny maro, sy nirehareha taminy izy.",
+			"11": "<sup>11</sup> Hahatsiravina azy Jehovah, Satria hahamosarena ireo andriamanitra rehetra ambonin’ny tany Izy, Mba hiankohofan’ny any amoron-tsiraky ny jentilisa rehetra eo anatrehan’i Jehovah, Samy any amin’ny fitoerany avy.",
+			"12": "<sup>12</sup> Hianareo Etiopiana koa,– Ho voatrabaky ny sabatro hianareo.",
+			"13": "<sup>13</sup> Ary haninjitra ny tànany hamely ny avaratra Izy Ka handringana an’i Asyria; Ary hahalao an’i Ninive ho karankaina tahaka ny efitra Izy.",
+			"14": "<sup>14</sup> Ary hisy andiany handry ao aminy, Dia fivorian’ny karazam-biby samy hafa, Ny sama sy ny sokina hitoetra ao amin’ny kapitaliny; Feo mikiririoka no ho re ao am-baravarankely, Ary fandravana no ho eo an-tokonana, Fa hendahany ny rafitra sedera.",
+			"15": "<sup>15</sup> Izany no tanàna niravoravo sady nandry fahizay, Izay nanao anakampo hoe: Izaho no izy, ary tsy misy hafa; Endrey! efa tonga lao izy, eny, fandrian’ny biby! Izay rehetra mandalo azy dia hisitrisitra sy hanondro tànana."
+		},
+		"3": {
+			"1": "<sup>1</sup> Lozan’ny tanàna miodina sady voaloto, Dia ilay mampahory!",
+			"2": "<sup>2</sup> Tsy nihaino ny feo izy, Na nino anatra; Jehovah tsy nitokiany, Andriamaniny tsy nohatoniny.",
+			"3": "<sup>3</sup> Liona mierona ao aminy ireo lehibeny; Amboadia hariva ny mpitsarany Ka tsy mamela ho tra-maraina.",
+			"4": "<sup>4</sup> Vavana sady mpamitaka ny mpaminaniny; Mandoto izay masina ny mpisorony, Eny, mamadika ny lalàna izy.",
+			"5": "<sup>5</sup> Jehovah no marina ao afovoany, Tsy manao izay tsy marina Izy; Isa-maraina isa-maraina no amoahany ny fitsarany ho amin’ny mazava, ka tsy diso izany; Fa ny tsy marina tsy mba mahalala henatra.",
+			"6": "<sup>6</sup> Efa nahafongana firenena Aho, Rava ny tilikambo eny amin’ny zorony; Nosimbako ny làlany tsy hisy mpandeha; Rava ny tanànany, ka tsy misy olona, Eny, tsy misy mponina.",
+			"7": "<sup>7</sup> Hoy Izaho: Hatahotra Ahy tokoa hianao ka hino anatra, Dia tsy ho rava ny fonenanao, Araka izay rehetra voatendriko hamelezana anao; Kanefa nifoha maraina koa izy ka nanao izay ratsy rehetra.",
+			"8": "<sup>8</sup> Koa miandrasa Ahy hianareo, hoy Jehovah, Ambara-pihavin’ny andro hitsanganako haka babo; Fa izao no kasaiko hatao: Hamory firenena sy hanangona fanjakana Aho, Hanidinako ny fahatezerako amin’ireo, dia ny firehetan’ny fahatezerako rehetra, Ka ho levon’ny afon’ny fahasaro-piaroko ny tany rehetra.",
+			"9": "<sup>9</sup> FA amin’izany dia hovako ho madio ny molotry ny firenena, Hiantsoan’izy rehetra ny anaran’i Jehovah, hanompoany Azy amin’ny firaisan-kina.",
+			"10": "<sup>10</sup> Avy any an-dafin’ny onin’i Etiopia no hitondrana ny mpivavaka amiko, Dia ny zanakavavin’izay naeliko, ho fanatitra ho Ahy.",
+			"11": "<sup>11</sup> Amin’izany andro izany dia tsy ho menatra hianao tamin’izay nataonao rehetra, Izay nanotanao tamiko; Ka dia hesoriko aminao ireo mibitaka amim-pireharehana, Ary tsy hiavonavona eo an-tendrombohitro masina intsony hianao.",
+			"12": "<sup>12</sup> Nefa hamelako olona ory sy malahelo ihany ao aminao, Ary ny anaran’i Jehovah no hialofany,",
+			"13": "<sup>13</sup> Ny sisa amin’ny Isiraely dia tsy hanao meloka na handainga, Ary tsy hisy lela mamitaka eo am-bavany; Fa hihinana sy handry izy, ka tsy hisy hanaitaitra azy.",
+			"14": "<sup>14</sup> Mihobia, ry Ziona zanakavavy; Manaova feo fifaliana, ry Isiraely; Mifalia sy miravoravoa amin’ny fonao rehetra, ry Jerosalema zanakavavy.",
+			"15": "<sup>15</sup> Jehovah efa nampitsahatra ny fitsarana anao ka nandroaka ny fahavalonao; Jehovah, Mpanjakan’ny Isiraely, no ao aminao; Tsy hahita loza intsony hianao.",
+			"16": "<sup>16</sup> Amin’izany andro izany dia holazaina amin’i Jerosalema hoe: Aza matahotra Ary aza miraviravy tànana, ry Ziona.",
+			"17": "<sup>17</sup> Jehovah Andriamanitrao no ao aminao, Mahery Izy ka hamonjy; Hiravoravo anao amin’ny fifaliana Izy; Ho sondriana amin’ny fitiavany Izy; Hifaly anao amin’ny fihobiana Izy.",
+			"18": "<sup>18</sup> Hangoniko izay manina ny fotoam-pivavahana; Avy aminao ihany ireny, Ary itambesaran’ny latsa izy.",
+			"19": "<sup>19</sup> Indro, hasiako amin’izany andro izany izay rehetra nampahory anao; Hovonjeko ny mandringa, ary hovoriko ny noroahina, Eny, hataoko ho fiderana sy ho anarana ireny izay efa nitondra henatra tany amin’ny tany rehetra.",
+			"20": "<sup>20</sup> Amin’izany andro izany no hitondrako anareo miditra, Eny, amin’izany andro izany no hanangonako anareo; Fa hataoko ho anarana sy ho fiderana any amin’ny firenena rehetra amin’ny tany hianareo, Raha hampodiko avy amin’ny fahababoana hianareo, ka ho hitan’ny masonareo izany, hoy Jehovah."
+		}
+	}
+};
+module.exports = book;

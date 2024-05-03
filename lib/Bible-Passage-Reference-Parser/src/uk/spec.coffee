@@ -5305,6 +5305,7 @@ describe "Localized book Phlm (uk)", ->
 		expect(p.parse("Филимон 1:1").osis()).toEqual("Phlm.1.1")
 		expect(p.parse("Филим 1:1").osis()).toEqual("Phlm.1.1")
 		expect(p.parse("Phlm 1:1").osis()).toEqual("Phlm.1.1")
+		expect(p.parse("Филм 1:1").osis()).toEqual("Phlm.1.1")
 		expect(p.parse("Флм 1:1").osis()).toEqual("Phlm.1.1")
 		p.include_apocrypha(false)
 		expect(p.parse("ПОСЛАННЯ СВ. АПОСТОЛА ПАВЛА ДО ФИЛИМОНА 1:1").osis()).toEqual("Phlm.1.1")
@@ -5319,6 +5320,7 @@ describe "Localized book Phlm (uk)", ->
 		expect(p.parse("ФИЛИМОН 1:1").osis()).toEqual("Phlm.1.1")
 		expect(p.parse("ФИЛИМ 1:1").osis()).toEqual("Phlm.1.1")
 		expect(p.parse("PHLM 1:1").osis()).toEqual("Phlm.1.1")
+		expect(p.parse("ФИЛМ 1:1").osis()).toEqual("Phlm.1.1")
 		expect(p.parse("ФЛМ 1:1").osis()).toEqual("Phlm.1.1")
 		`
 		true

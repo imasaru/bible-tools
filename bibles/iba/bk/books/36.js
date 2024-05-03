@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sepaniah",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Tu pesan ti diberi TUHAN ngagai Sepaniah lebuh Josiah anak Amon nyadi raja menua Judah. (Sepaniah datai ari peturun Raja Hesekiah, nengah Amariah, Gedaliah, enggau Kusi.)",
+			"2": "<sup>2</sup> Ku TUHAN bejaku, “Aku deka ngerusak semua utai di dunya,",
+			"3": "<sup>3</sup> semua mensia enggau jelu, burung enggau ikan. Aku deka ngalahka orang ke jai. Aku deka ngerusak semua mensia, lalu nadai siku sida agi idup. Aku ti TUHAN, udah bejaku.",
+			"4": "<sup>4</sup> “Aku deka ngukum orang Jerusalem enggau semua orang di menua Judah. Aku deka ngerusak semua pengawa ti besembahka Baal ba endur nya, lalu orang nadai agi ingatka bala imam ke bekereja ke Baal.",
+			"5": "<sup>5</sup> Aku deka ngerusak semua orang ke niki ngagai perabung rumah lalu nyembah mata hari, bulan, enggau bintang. Aku deka mega ngerusak orang ke nyembah Aku madahka diri deka taluk ngagai Aku, tang udah nya besumpah ngena nama petara Molek.",
+			"6": "<sup>6</sup> Aku deka ngerusak sida ke nikal lalu enda agi nitihka Aku, sida ke enda datai ngagai Aku tauka enda minta iring Aku.”",
+			"7": "<sup>7</sup> Hari nyau semak alai TUHAN deka ngakim. Nya alai anang engkeretik di mua Iya. TUHAN sedia deka ngaga bala nembiak Iya nyadika piring, lalu Iya udah ngasuh bala munsuh datai lalu ngerumpak menua Judah.",
+			"8": "<sup>8</sup> “Ba hari sida disayat,” ku TUHAN bejaku, “Aku deka ngukum bala pemesai, bala anak lelaki raja, enggau semua orang ke nitihka adat asal orang bansa bukai.",
+			"9": "<sup>9</sup> Aku deka ngukum semua orang ke besembah baka orang bansa bukai, ke ngenchuri sereta bebunuhka orang laban sida ingin deka ngisi rumah tuan sida enggau perapasan.",
+			"10": "<sup>10</sup> “Ba hari nya ila,” ku TUHAN bejaku, “kita deka ninga munyi nyawa orang ke nyabak ba Pintu Ikan di Jerusalem. Kita deka ninga munyi orang ke nyabak ba endur ti baru digaga di Jerusalem, enggau munyi utai ti merentum ba sebelah bukit.",
+			"11": "<sup>11</sup> Nyabak duie-duie meh kita lebuh kita ninga nya, kita ke diau ba endur ti baruh di nengeri nya, laban semua orang dagang kita mati magang!",
+			"12": "<sup>12</sup> “Lebuh maya nya ila Aku deka mai lampu, lalu begigaka orang di serata nengeri Jerusalem, lalu Aku deka ngukum orang ke puas ati enggau diri empu, sereta arapka diri empu, ke bejaku dalam ati diri, ‘TUHAN enda ngereja utai ti manah tauka utai ti jai.’",
+			"13": "<sup>13</sup> Pengaya sida deka dirumpak, lalu rumah sida dirusak. Sida enda agi diau dalam rumah ti digaga sida empu, tauka ngirup wain ari kebun anggur ti ditanam sida empu.”",
+			"14": "<sup>14</sup> Hari TUHAN nyau semak - semak amat lalu deka datai enggau jampat! Hari nya deka balat ngenakutka datai ke soldadu ke pemadu berani deh deka nyabak tusah ati!",
+			"15": "<sup>15</sup> Hari nya deka nyadi hari alai ngeransi, hari penusah enggau pemerinsa, hari pengerusak, hari ti petang, hari ti petang laban mua hari,",
+			"16": "<sup>16</sup> hari ti penuh laban munyi terumpit orang ke beperang, enggau munyi panjung bala soldadu ke nyerang nengeri ti bekuta, enggau menara ti tinggi.",
+			"17": "<sup>17</sup> Ku TUHAN bejaku, “Aku deka ngasuh penusah ti besai ninggang semua mensia, datai ke semua orang deka begama bejalai baka orang ke buta. Sida udah bedosa ngelaban Aku, lalu diatu darah sida deka dibubuhka baka ai, lalu bangkai sida deka betegaring but ba tanah.”",
+			"18": "<sup>18</sup> Lebuh TUHAN ngeransi, indah semua pirak enggau emas sida deh enda ulih ngelepaska sida. Semua dunya deka dirusak api pengeringat TUHAN. Iya deka ngenyit ngeluska semua mensia ti diau di dunya."
+		},
+		"2": {
+			"1": "<sup>1</sup> Kita bansa ti enda nemu malu, begempuru kita. Begempuru,",
+			"2": "<sup>2</sup> sebedau kita dibuai kebukai baka ampa ti dikebuka ribut, sebedau pengeringat TUHAN ninggang kita, sebedau hari alai Iya ngayanka Diri ngeransi.",
+			"3": "<sup>3</sup> Kuingka diri ngagai TUHAN, semua kita ke baruh ati, ti diau di menua tu, ke ngasika pesan Iya. Kereja utai ti ngena, lalu diau enggau ati ti baruh di mua TUHAN. Nyangka ukur kita enda diukum lebuh TUHAN ngayanka pengeringat Iya.",
+			"4": "<sup>4</sup> Orang di Gasa nadai agi idup. Askelon nadai agi diuan mensia. Dalam setengah hari aja semua orang di nengeri Asdot deka abis diburu, lalu orang ke diau di Ekron deka diburu ari nengeri sida.",
+			"5": "<sup>5</sup> Tulah meh kita orang Pilistin ke diau ba sebelah tebing tasik. TUHAN udah ngeletak ukum atas kita. Iya deka ngerusak kita, lalu nadai siku kita deka idup.",
+			"6": "<sup>6</sup> Menua kita ke ba tebing tasik, deka nyadi padang, lalu langkau bala pengibun bedus enggau kandang bedus deka bisi dia.",
+			"7": "<sup>7</sup> Orang Judah ti agi idup, deka nguan menua kita. Sida deka ngasuh jelu bedus sida ngulam dia, lalu sida deka tinduk dalam rumah orang di Askelon. TUHAN Allah Taala sida deka begulai enggau sida, lalu ngasuh sida nyadi kaya-raja baru.",
+			"8": "<sup>8</sup> Ku TUHAN ti Pemadu Bekuasa bejaku, “Aku udah ninga orang Moap enggau orang Amon mechat sereta ngeleseka nembiak Aku, lalu temegah madahka diri deka ngerampas menua sida.",
+			"9": "<sup>9</sup> Dalam nama Aku TUHAN ti idup, ti Allah Taala ke disembah orang Israel, Aku besumpah madahka Moap enggau Amon deka dirusak baka Sodom enggau Gomorah. Menua dua bengkah nya deka nyadi endur alai lubang garam, nyadi tembawai belama iya, dibap rumput. Bala nembiak Aku ti agi idup, deka ngerumpak sida lalu ngambi menua sida.”",
+			"10": "<sup>10</sup> Nya meh jalai orang Moap enggau orang Amon deka diukum ketegal sida sumbung, tinggi ati, lalu mechat bala nembiak TUHAN ti Pemadu Bekuasa.",
+			"11": "<sup>11</sup> TUHAN deka ngemba sida. Iya deka ngerusak semua petara dunya. Nya baru semua bansa deka nyembah TUHAN di menua sida empu.",
+			"12": "<sup>12</sup> TUHAN deka mega munuh orang Etiopia.",
+			"13": "<sup>13</sup> TUHAN deka ngerusak menua Asiria ngena kuasa Iya. Iya deka ngaga nengeri Nineweh nyadi tembawai ti nadai diuan mensia, nyadi menua puang ti nadai ai.",
+			"14": "<sup>14</sup> Nineweh deka nyadi endur alai raban bedus, enggau semua macham jelu bukai gali. Burung puk deka diau ba tembawai nengeri nya, lalu bemunyi ari lubang jenila. Burung kak deka bemunyi ari tangga. Kayu sidar ti dikena ngaga rumah di nengeri nya deka diambi orang.",
+			"15": "<sup>15</sup> Nya meh utai ti deka nyadi ba nengeri nya, ti balat temegahka kuasa diri lalu ngumbai diri likun. Orang ke diau di nengeri nya ngumbai nengeri sida nengeri ti pemadu besai di dunya tu. Tang iya deka nyadi endur ti enda agi diuan mensia, lalu nyadi endur alai jelu belelak! Semua orang ke mansa deka geli ke iya lalu nyurutka diri."
+		},
+		"3": {
+			"1": "<sup>1</sup> Tulah meh nengeri Jerusalem ti jai, ti angkat ngelaban, ti nekanka pengidup bala nembiak iya.",
+			"2": "<sup>2</sup> Iya enda mendingka TUHAN, tauka nerima disiplin ari Iya. Iya enda manggaika pengarap iya ba TUHAN, tauka minta saup ari Iya.",
+			"3": "<sup>3</sup> Bala pemesai iya baka singa ti negung. Bala hakim iya baka ukui kampung ti lapar, kelalu bam lalu enggai ngelengkaka tulang nyentuk ngagai pagi.",
+			"4": "<sup>4</sup> Bala nabi enda nemu betanggungjawap; sida aum-juak. Bala imam ngamahka utai ti kudus, lalu nyarutka Adat Allah Taala kena sida ngambi ulih ba orang.",
+			"5": "<sup>5</sup> Tang TUHAN agi di nengeri nya. Iya ngereja utai ti lurus, lalu nadai kala ngereja utai ti salah. Enda kala ngelaung sepagi, Iya mai atur ti lurus ngagai nembiak Iya. Tang taja pia, orang ke enda lurus di nengeri nya majak ngereja utai ti salah, lalu enda nemu malu.",
+			"6": "<sup>6</sup> Ku TUHAN bejaku, “Aku udah ngeluska mayuh bengkah bansa. Aku udah ngerusak nengeri sida lalu ngaga kuta enggau menara sida nyadi tembawai. Semua nengeri nadai agi diuan mensia. Jalai raya nadai agi orang nengah. Nadai siku orang ke agi idup.",
+			"7": "<sup>7</sup> Ku pikir Aku, nya baru bala nembiak Aku deka bebasaka Aku, lalu nerima disiplin ari Aku, lalu sida deka seruran ingatka pelajar ti udah diajar Aku ngagai sida. Tang enda lama udah bekau nya, sida lalu ngereja penyai baka selama.",
+			"8": "<sup>8</sup> “Anti aja,” ku TUHAN bejaku. “Anti aja hari Aku angkat besalah semua bansa. Aku udah mutuska runding deka ngempuruka semua bansa enggau menua ngambika sida ngasaika pengeringat Aku. Semua dunya tu deka dirusak api pengeringat Aku.",
+			"9": "<sup>9</sup> “Udah nya Aku deka ngubah jaku semua mensia ari semua bansa, lalu sida deka besampi ngagai Aku siku aja, ukai besampi ngagai petara bukai. Semua sida deka ngasika Aku magang.",
+			"10": "<sup>10</sup> Indah bala nembiak Aku ke ngachir di menua Etiopia ti jauh deh deka datai mai pemeri ngagai Aku.",
+			"11": "<sup>11</sup> Lebuh maya nya ila, kita ke nembiak Aku, enda ibuh malu ke diri ti udah angkat ngelaban Aku. Aku deka muai semua orang ke sumbung sereta tinggi ati, lalu kita enda agi angkat ngelaban Aku ba Bukit Aku ti kudus.",
+			"12": "<sup>12</sup> Aku deka nejuka orang ke baruh ati, ke baruh pendiau, ti deka datai ngagai Aku minta saup, diau dia.",
+			"13": "<sup>13</sup> Orang Israel ti agi idup enda ngereja utai ti salah ngagai orang, enda nusui utai ti bula, tauka nguji nipu orang. Sida deka nyadi kaya-raja sereta diau likun, nadai takutka orang.”",
+			"14": "<sup>14</sup> Belagu lalu manjung gaga ati meh kita orang Israel! Rami gaga ati enggau pengabis ati, meh nuan Jerusalem!",
+			"15": "<sup>15</sup> TUHAN udah badu ngukum nuan. Iya udah muai semua munsuh nuan. TUHAN ti Raja orang Israel, bisi enggau nuan. Nuan nadai agi kebuah takut.",
+			"16": "<sup>16</sup> Maya deka datai alai orang deka nyebut ngagai Jerusalem, “Anang takut, O Sion! Anang lembut tulang!",
+			"17": "<sup>17</sup> TUHAN Allah Taala nuan bisi enggau nuan. Kuasa Iya ngasuh nuan menang. TUHAN deka gaga ati ke nuan, lalu ulih pengerindu Iya, Iya deka meri nuan pengidup ti baru. Iya deka belagu, lalu gaga ati ke nuan,",
+			"18": "<sup>18</sup> baka orang ke rami gaga lebuh maya gawai.” Ku TUHAN bejaku, “Aku udah badu ngemba madahka Diri deka ngukum nuan lalu udah muai pemalu nuan.",
+			"19": "<sup>19</sup> Maya deka datai alai Aku deka ngukum orang ke udah nekanka pengidup nuan. Aku deka ngelepaska semua orang ke enda ulih bejalai lalu mai pulai baru semua orang ke udah dibuai ngagai menua bukai. Aku deka ngalihka pemalu sida nyadi basa, lalu semua dunya deka muji sida.",
+			"20": "<sup>20</sup> Maya deka datai alai Aku deka mai bala nembiak nuan ke pambar pendiau pulai baru. Aku deka ngasuh nuan tampak nama di serata dunya lalu ngasuh nuan nyadi kaya-raja baru.” TUHAN udah bejaku."
+		}
+	}
+};
+module.exports = book;

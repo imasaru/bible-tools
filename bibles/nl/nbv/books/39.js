@@ -1,0 +1,76 @@
+var book = {
+	"name": "Maleachi",
+	"numChapters": 4,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Maleachi Profetie. De woorden die de HEER tot Isra&euml;l heeft gesproken bij monde van Maleachi. ",
+			"2": "<sup>2</sup> Ik heb jullie lief –&nbsp;zegt de HEER&nbsp;–, en jullie zeggen: ‘Waaruit blijkt die liefde dan?’ Zijn Jakob en Esau geen broers? –&nbsp;spreekt de HEER. Toch heb ik Jakob liefgehad",
+			"3": "<sup>3</sup> en Esau gehaat. Van Esaus bergland maakte ik een wildernis, Edoms grondgebied heb ik aan de jakhalzen van de woestijn gegeven.",
+			"4": "<sup>4</sup> Edom kan zeggen: ‘Al zijn we verslagen, we bouwen de puinhopen weer op,’ maar dit zegt de HEER van de hemelse machten: Ze kunnen bouwen zo veel ze willen, ik zal het weer afbreken. ‘Goddeloos land’ zal men het noemen, en ook: ‘Het volk waarop de HEER voor eeuwig verbolgen is’.",
+			"5": "<sup>5</sup> Met eigen ogen zullen jullie het zien, en dan zullen jullie zeggen: ‘De HEER toont zijn macht in Isra&euml;l!’ ",
+			"6": "<sup>6</sup> Een zoon eert zijn vader, een dienaar zijn heer. Als ik jullie vader ben, waar is dan je eerbied voor mij; als ik jullie heer ben –&nbsp;zegt de HEER van de hemelse machten&nbsp;–, waar is dan je ontzag voor mij? Jullie, priesters, minachten mijn naam, en zeggen dan: ‘Hoezo minachten wij uw naam?’",
+			"7": "<sup>7</sup> Jullie brengen verwerpelijk voedsel naar mijn tafel, en zeggen dan: ‘Hoezo hebben wij u verworpen?’ Door te beweren dat mijn altaar de moeite niet waard is!",
+			"8": "<sup>8</sup> Als jullie met een blind offerdier aankomen, zeggen jullie: ‘Wat geeft dat nu?’ En ook als jullie met een kreupel of ziek dier aankomen, zeggen jullie: ‘Dat geeft toch niets?’ Bied de gouverneur zo’n dier maar eens aan en zie of hij er tevreden mee is en jullie goedgezind zal blijven –&nbsp;zegt de HEER van de hemelse machten.",
+			"9": "<sup>9</sup> Zo zullen jullie God wel gunstig stemmen, zo zal hij zijn volk wel gunstig gezind zijn! Dit alles gebeurt door jullie toedoen; zou hij zijn volk dan nu goedgezind zijn?",
+			"10": "<sup>10</sup> Het zou beter zijn als een van jullie de tempeldeuren zou sluiten en jullie het vuur op mijn altaar niet langer zouden aansteken, want dat is toch zinloos. Ik wijs jullie af –&nbsp;zegt de HEER van de hemelse machten&nbsp;– en de offers die jullie brengen aanvaard ik niet.",
+			"11": "<sup>11</sup> Van waar de zon opgaat tot waar ze ondergaat staat mijn naam bij alle volken in aanzien, overal brengt men mij reukoffers en reine offergaven. Mijn naam staat bij alle volken in aanzien –&nbsp;zegt de HEER van de hemelse machten&nbsp;–,",
+			"12": "<sup>12</sup> maar jullie ontwijden hem door te beweren dat mijn altaar verontreinigd mag worden, door te denken dat je er minderwaardig voedsel heen kunt brengen.",
+			"13": "<sup>13</sup> Jullie halen je neus op voor de dienst aan mijn altaar –&nbsp;zegt de HEER van de hemelse machten&nbsp;–, jullie zeggen: ‘Dit alles kost ons te veel moeite.’ Jullie brengen mij gestolen dieren, en kreupele en zieke dieren –&nbsp;zegt de HEER&nbsp;–, dat is wat jullie mij als offergave aanbieden, en ik moet dat aanvaarden?",
+			"14": "<sup>14</sup> Vervloekt de bedrieger, die de Heer een ongeschonden mannelijk dier uit zijn kudde belooft maar hem een geschonden beest offert! Ik ben een groot koning –&nbsp;zegt de HEER van de hemelse machten&nbsp;–, en alle volken zijn vervuld van ontzag voor mijn naam!"
+		},
+		"2": {
+			"1": "<sup>1</sup> Wat volgt, priesters, is mijn besluit.",
+			"2": "<sup>2</sup> Als jullie niet luisteren, en als jullie niet ter harte nemen dat je mijn naam in ere moet houden –&nbsp;zegt de HEER van de hemelse machten&nbsp;–, dan zal ik jullie met mijn vloek treffen en vervloek ik alles waarmee jullie gezegend zijn; ik zal jullie z&eacute;ker vervloeken, want jullie nemen het toch niet ter harte.",
+			"3": "<sup>3</sup> Ik zal jullie nageslacht treffen en jullie de mest van de offerdieren in het gezicht gooien. Jullie zullen uiteindelijk zelf op de mesthoop belanden!",
+			"4": "<sup>4</sup> Weet dat ik dit besloten heb op grond van mijn verbond met Levi –&nbsp;zegt de HEER van de hemelse machten.",
+			"5": "<sup>5</sup> Ik beloofde Levi leven en vrede, en die heb ik hem gegeven; van Levi verwachtte ik eerbied, en hij, vervuld van diep ontzag voor mijn naam, eerde mij.",
+			"6": "<sup>6</sup> Alles wat hij onderwees bevatte waarheid, en er kwam niets verkeerds over zijn lippen. Hij was rechtschapen en hij leefde in vrede met mij; velen hield hij af van het kwaad.",
+			"7": "<sup>7</sup> Kennis ligt op de lippen van de priester en waarheid zoekt men in wat hij zegt, want hij is een bode van de HEER van de hemelse machten.",
+			"8": "<sup>8</sup> Maar jullie zijn afgeweken van de weg die ik je wees, veel mensen zijn gestruikeld door wat jullie hun leerden. Jullie hebben mijn verbond met Levi geschonden –&nbsp;zegt de HEER van de hemelse machten.",
+			"9": "<sup>9</sup> Daarom zal ik ervoor zorgen dat heel het volk jullie minacht en op je neerkijkt, want jullie volgen de weg niet die ik je wijs en jullie hechten geen waarde aan mijn wetten. ",
+			"10": "<sup>10</sup> Hebben wij niet allemaal dezelfde vader, heeft niet een en dezelfde God ons geschapen? Waarom behandelen wij elkaar dan zo trouweloos en schenden wij het verbond dat hij met onze voorouders sloot?",
+			"11": "<sup>11</sup> Juda heeft trouweloos gehandeld, en in Isra&euml;l en Jeruzalem heeft men zich gruwelijk misdragen. Juda heeft ontwijd wat de HEER heilig is en wat hij liefheeft; Juda is getrouwd met een vrouw die een vreemde god vereert.",
+			"12": "<sup>12</sup> Moge de HEER iedereen uit het volk van Jakob stoten die iemand beschermt die zoiets doet, iedereen die het voor zo iemand opneemt of voor hem offert aan de HEER van de hemelse machten.",
+			"13": "<sup>13</sup> En verder: jullie storten hete tranen op het altaar van de HEER, jullie jammeren en kreunen omdat hij niet naar je offers omziet en ze niet uit jullie handen aanvaardt.",
+			"14": "<sup>14</sup> En jullie vragen je af: Waarom toch? Omdat je de vrouw met wie je je leven deelde trouweloos behandeld hebt, de vrouw met wie je in je jeugd een verbintenis bent aangegaan, waarvan de HEER getuige is geweest.",
+			"15": "<sup>15</sup> Wie ook maar een beetje verstand heeft doet zoiets niet, want iedereen wil toch een nageslacht dat door God gewild is? Speel niet met je leven en behandel de vrouw van je jeugd niet trouweloos.",
+			"16": "<sup>16</sup> Want de HEER, de God van Isra&euml;l, zegt dat hij het verafschuwt wanneer een man zijn vrouw wegstuurt. Wie zoiets doet besmeurt zichzelf met onrecht –&nbsp;zegt de HEER van de hemelse machten. Speel niet met je leven en gedraag je niet langer trouweloos. ",
+			"17": "<sup>17</sup> Met jullie gepraat vallen jullie de HEER lastig, en dan vragen jullie: ‘Hoezo vallen wij hem lastig?’ Door te zeggen: ‘Iedereen die kwaad doet, doet wat goed is in de ogen van de HEER, zulke mensen bevallen hem.’ Of: ‘Waar is nu de God die rechtspreekt?’"
+		},
+		"3": {
+			"1": "<sup>1</sup> Let op, ik zal mijn bode zenden; hij zal de weg voor mij effenen. Opeens zal hij naar zijn tempel komen, de Heer naar wie jullie uitzien, de engel van het verbond naar wie jullie verlangen. Komen zal hij –&nbsp;zegt de HEER van de hemelse machten.",
+			"2": "<sup>2</sup> Wie zal die dag kunnen doorstaan? Wie zal overeind blijven wanneer hij verschijnt? Hij is als het vuur van een smid, als het loog van een wolwasser.",
+			"3": "<sup>3</sup> Hij zal zitting houden als iemand die zilver smelt en het zuivert; de zonen van Levi zal hij zuiveren en zeven als goud en zilver, en dan zullen ze op de juiste wijze offeren aan de HEER.",
+			"4": "<sup>4</sup> De offers van Juda en Jeruzalem zullen de HEER met vreugde vervullen, zoals in vroeger jaren, zoals in de dagen van weleer.",
+			"5": "<sup>5</sup> Ik zal naar jullie toe komen om recht te spreken, en ik zal niet aarzelen te getuigen tegen tovenaars en echtbrekers, tegen mensen die meineed plegen en mensen die hun dagloners uitbuiten, en tegen allen die weduwen en wezen onderdrukken en vreemdelingen geen plaats gunnen, want geen van allen hebben zij ontzag voor mij –&nbsp;zegt de HEER van de hemelse machten. ",
+			"6": "<sup>6</sup> Ik, de HEER, ben niet veranderd, en jullie gedragen je nog altijd als nakomelingen van Jakob.",
+			"7": "<sup>7</sup> Jullie voorouders hielden zich al niet aan mijn geboden, en ook jullie doen dat niet. Keer terug naar mij –&nbsp;zegt de HEER van de hemelse machten&nbsp;–, dan zal ik naar jullie terugkeren; en jullie zeggen: ‘Hoezo moeten we terugkeren?’",
+			"8": "<sup>8</sup> Vinden jullie dat een mens God mag bestelen? Toch bestelen jullie mij, en zeggen dan: ‘Hoezo bestelen we u?’ Door de tienden en de heffingen achter te houden!",
+			"9": "<sup>9</sup> Jullie zijn vervloekt en nogmaals vervloekt, en toch blijft het hele volk mij bestelen.",
+			"10": "<sup>10</sup> Stel mij maar eens op de proef –&nbsp;zegt de HEER van de hemelse machten. Breng alle tienden naar mijn voorraadkamer, zodat er voedsel in mijn tempel is, en zie dan of ik niet de sluizen van de hemel voor jullie open en zegen in overvloed op jullie land laat neerdalen.",
+			"11": "<sup>11</sup> Ik zal de sprinkhaan onschadelijk maken zodat hij de opbrengst van de aarde niet meer kan verwoesten, en de druiventros zal niet meer verdorren in de wijngaarden –&nbsp;zegt de HEER van de hemelse machten.",
+			"12": "<sup>12</sup> Alle volken zullen jullie gelukkig prijzen, want jullie zullen wonen in een heerlijk land –&nbsp;zegt de HEER van de hemelse machten. ",
+			"13": "<sup>13</sup> Jullie hebben tegen elkaar harde woorden over mij gesproken –&nbsp;zegt de HEER&nbsp;–, en jullie vragen: ‘Wat hebben we dan over u gezegd?’",
+			"14": "<sup>14</sup> Jullie hebben gezegd: ‘Wat heeft het voor nut om God te dienen, wat hebben we eraan dat we zijn voorschriften in acht nemen en ons in een boetekleed hullen voor de HEER van de hemelse machten?",
+			"15": "<sup>15</sup> We moeten de hoogmoedigen wel gelukkig prijzen, want wie zich goddeloos gedraagt gaat het voor de wind, en wie God beproeft komt er goed vanaf!’",
+			"16": "<sup>16</sup> Zo spraken de mensen die ontzag voor de HEER hadden tegen elkaar, en de HEER hoorde het en luisterde aandachtig. In zijn bijzijn werden in een boek de namen van de mensen opgetekend die ontzag voor de HEER hadden, die zijn naam hoogachtten.",
+			"17": "<sup>17</sup> Op de dag die ik voorbereid –&nbsp;zegt de HEER van de hemelse machten&nbsp;– zullen zij mijn eigendom zijn. Ik zal hen sparen zoals je een kind spaart dat je gehoorzaam is.",
+			"18": "<sup>18</sup> Dan zullen jullie het verschil weer zien tussen rechtvaardigen en wettelozen, tussen mensen die God gehoorzamen en wie dat niet doen.",
+			"19": "<sup>19</sup> Die dag zal zeker komen, brandend als een oven. Wie hoogmoedig zijn of wie zich goddeloos gedragen, zullen dan slechts stoppels zijn die door de hitte van die dag worden verschroeid –&nbsp;zegt de HEER van de hemelse machten. Geen wortel of tak zal er van hen overblijven.",
+			"20": "<sup>20</sup> Maar voor jullie die ontzag voor mijn naam hebben zal de zon stralend opgaan, de zon die gerechtigheid brengt en genezing in haar vleugels draagt. Huppelend als kalveren die op stal hebben gestaan zullen jullie naar buiten komen.",
+			"21": "<sup>21</sup> Dan vertrappen jullie de wettelozen; op de dag die ik voorbereid, zullen zij niet meer zijn dan stof onder jullie voeten –&nbsp;zegt de HEER van de hemelse machten. ",
+			"22": "<sup>22</sup> Houd je aan het onderricht van Mozes, mijn dienaar, aan wie ik op de Horeb regels en wetten heb gegeven die gelden voor heel Isra&euml;l.",
+			"23": "<sup>23</sup> Voordat de dag van de HEER aanbreekt, die groot is en ontzagwekkend, stuur ik jullie de profeet Elia,",
+			"24": "<sup>24</sup> en hij zal ervoor zorgen dat ouders zich verzoenen met hun kinderen en kinderen zich verzoenen met hun ouders. Anders zou ik het land volledig moeten vernietigen."
+		},
+		"4": {
+			"1": "<sup>1</sup> Die dag zal zeker komen, brandend als een oven. Wie hoogmoedig zijn of wie zich goddeloos gedragen, zullen dan slechts stoppels zijn die door de hitte van die dag worden verschroeid –&nbsp;zegt de HEER van de hemelse machten. Geen wortel of tak zal er van hen overblijven.",
+			"2": "<sup>2</sup> Maar voor jullie die ontzag voor mijn naam hebben zal de zon stralend opgaan, de zon die gerechtigheid brengt en genezing in haar vleugels draagt. Huppelend als kalveren die op stal hebben gestaan zullen jullie naar buiten komen.",
+			"3": "<sup>3</sup> Dan vertrappen jullie de wettelozen; op de dag die ik voorbereid, zullen zij niet meer zijn dan stof onder jullie voeten –&nbsp;zegt de HEER van de hemelse machten. ",
+			"4": "<sup>4</sup> Houd je aan het onderricht van Mozes, mijn dienaar, aan wie ik op de Horeb regels en wetten heb gegeven die gelden voor heel Isra&euml;l.",
+			"5": "<sup>5</sup> Voordat de dag van de HEER aanbreekt, die groot is en ontzagwekkend, stuur ik jullie de profeet Elia,",
+			"6": "<sup>6</sup> en hij zal ervoor zorgen dat ouders zich verzoenen met hun kinderen en kinderen zich verzoenen met hun ouders. Anders zou ik het land volledig moeten vernietigen."
+		}
+	}
+};
+module.exports = book;

@@ -1,0 +1,416 @@
+1Chr	Metrasciu pirma knyga
+1Chr	Metrascių pirma knyga
+1Chr	Metrasčiu pirma knyga
+1Chr	Metrasčių pirma knyga
+1Chr	Metrašciu pirma knyga
+1Chr	Metrašcių pirma knyga
+1Chr	Metraščiu pirma knyga
+1Chr	Metraščių pirma knyga
+1Chr	1 Metrasciu
+1Chr	1 Metrascių
+1Chr	1 Metrasčiu
+1Chr	1 Metrasčių
+1Chr	1 Metrašciu
+1Chr	1 Metrašcių
+1Chr	1 Metraščiu
+1Chr	1 Metraščių
+1Chr	1 Met
+1Chr	1Chr
+1Cor	Pirmas laiskas korintieciams
+1Cor	Pirmas laiskas korintiečiams
+1Cor	Pirmas laiškas korintieciams
+1Cor	Pirmas laiškas korintiečiams
+1Cor	1 Korintieciams
+1Cor	1 Korintiečiams
+1Cor	1 Kor
+1Cor	1Cor
+1Esd	1Esd
+1John	Jono pirmas laiskas
+1John	Jono pirmas laiškas
+1John	1 Jono
+1John	1John
+1John	1 Jn
+1Kgs	Karaliu pirma knyga
+1Kgs	Karalių pirma knyga
+1Kgs	1 Karaliu
+1Kgs	1 Karalių
+1Kgs	1 Kar
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	Petro pirmas laiskas
+1Pet	Petro pirmas laiškas
+1Pet	1 Petro
+1Pet	1 Pt
+1Pet	1Pet
+1Sam	Samuelio pirma knyga
+1Sam	1 Samuelio
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	Pirmas laiskas tesalonikieciams
+1Thess	Pirmas laiskas tesalonikiečiams
+1Thess	Pirmas laiškas tesalonikieciams
+1Thess	Pirmas laiškas tesalonikiečiams
+1Thess	1 Tesalonikieciams
+1Thess	1 Tesalonikiečiams
+1Thess	1Thess
+1Thess	1 Tes
+1Tim	Pirmas laiskas Timotiejui
+1Tim	Pirmas laiškas Timotiejui
+1Tim	1 Timotiejui
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	Metrasciu antra knyga
+2Chr	Metrascių antra knyga
+2Chr	Metrasčiu antra knyga
+2Chr	Metrasčių antra knyga
+2Chr	Metrašciu antra knyga
+2Chr	Metrašcių antra knyga
+2Chr	Metraščiu antra knyga
+2Chr	Metraščių antra knyga
+2Chr	2 Metrasciu
+2Chr	2 Metrascių
+2Chr	2 Metrasčiu
+2Chr	2 Metrasčių
+2Chr	2 Metrašciu
+2Chr	2 Metrašcių
+2Chr	2 Metraščiu
+2Chr	2 Metraščių
+2Chr	2 Met
+2Chr	2Chr
+2Cor	Antras laiskas korintieciams
+2Cor	Antras laiskas korintiečiams
+2Cor	Antras laiškas korintieciams
+2Cor	Antras laiškas korintiečiams
+2Cor	2 Korintieciams
+2Cor	2 Korintiečiams
+2Cor	2 Kor
+2Cor	2Cor
+2Esd	2Esd
+2John	Jono antras laiskas
+2John	Jono antras laiškas
+2John	2 Jono
+2John	2John
+2John	2 Jn
+2Kgs	Karaliu antra knyga
+2Kgs	Karalių antra knyga
+2Kgs	2 Karaliu
+2Kgs	2 Karalių
+2Kgs	2 Kar
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	Petro antras laiskas
+2Pet	Petro antras laiškas
+2Pet	2 Petro
+2Pet	2 Pt
+2Pet	2Pet
+2Sam	Samuelio antra knyga
+2Sam	2 Samuelio
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	Antras laiskas tesalonikieciams
+2Thess	Antras laiskas tesalonikiečiams
+2Thess	Antras laiškas tesalonikieciams
+2Thess	Antras laiškas tesalonikiečiams
+2Thess	2 Tesalonikieciams
+2Thess	2 Tesalonikiečiams
+2Thess	2Thess
+2Thess	2 Tes
+2Tim	Antras laiskas Timotiejui
+2Tim	Antras laiškas Timotiejui
+2Tim	2 Timotiejui
+2Tim	2 Tim
+2Tim	2Tim
+3John	Jono trecias laiskas
+3John	Jono trecias laiškas
+3John	Jono trečias laiskas
+3John	Jono trečias laiškas
+3John	3 Jono
+3John	3John
+3John	3 Jn
+3Macc	3Macc
+4Macc	4Macc
+Acts	Apastalu darbai
+Acts	Apastalų darbai
+Acts	Apaštalu darbai
+Acts	Apaštalų darbai
+Acts	Apastalu darbu
+Acts	Apastalu darbų
+Acts	Apastalų darbu
+Acts	Apastalų darbų
+Acts	Apaštalu darbu
+Acts	Apaštalu darbų
+Acts	Apaštalų darbu
+Acts	Apaštalų darbų
+Acts	Acts
+Acts	Apd
+Amos	Amoso knyga
+Amos	Amoso
+Amos	Amos
+Amos	Am
+Bar	Bar
+Bel	Bel
+Col	Laiskas kolosieciams
+Col	Laiskas kolosiečiams
+Col	Laiškas kolosieciams
+Col	Laiškas kolosiečiams
+Col	Kolosieciams
+Col	Kolosiečiams
+Col	Col
+Col	Kol
+Dan	Danieliaus knyga
+Dan	Danieliaus
+Dan	Dan
+Deut	Pakartoto Istatymo knyga
+Deut	Pakartoto Įstatymo knyga
+Deut	Pakartoto Istatymo
+Deut	Pakartoto Įstatymo
+Deut	Deut
+Deut	Ist
+Deut	Įst
+Eccl	Mokytojo knyga
+Eccl	Mokytojo
+Eccl	Eccl
+Eccl	Mok
+EpJer	EpJer
+Eph	Laiskas efezieciams
+Eph	Laiskas efeziečiams
+Eph	Laiškas efezieciams
+Eph	Laiškas efeziečiams
+Eph	Efezieciams
+Eph	Efeziečiams
+Eph	Eph
+Eph	Ef
+Esth	Esteros knyga
+Esth	Esteros
+Esth	Esth
+Esth	Est
+Exod	Isejimo knyga
+Exod	Isėjimo knyga
+Exod	Išejimo knyga
+Exod	Išėjimo knyga
+Exod	Isejimo
+Exod	Isėjimo
+Exod	Išejimo
+Exod	Išėjimo
+Exod	Exod
+Exod	Is
+Exod	Iš
+Ezek	Ezechielio knyga
+Ezek	Ezechielio
+Ezek	Ezek
+Ezek	Ez
+Ezra	Ezros knyga
+Ezra	Ezros
+Ezra	Ezra
+Ezra	Ezr
+Gal	Laiskas galatams
+Gal	Laiškas galatams
+Gal	Galatams
+Gal	Gal
+Gen	Pradzios knyga
+Gen	Pradžios knyga
+Gen	Pradzios
+Gen	Pradžios
+Gen	Gen
+Gen	Pr
+GkEsth	GkEsth
+Hab	Habakuko knyga
+Hab	Habakuko
+Hab	Hab
+Hag	Agejo knyga
+Hag	Agėjo knyga
+Hag	Agejo
+Hag	Agėjo
+Hag	Hag
+Hag	Ag
+Heb	Laiskas hebrajams
+Heb	Laiškas hebrajams
+Heb	Hebrajams
+Heb	Hbr
+Heb	Heb
+Hos	Ozejo knyga
+Hos	Ozėjo knyga
+Hos	Ozejo
+Hos	Ozėjo
+Hos	Hos
+Hos	Oz
+Isa	Izaijo knyga
+Isa	Izaijo
+Isa	Isa
+Isa	Iz
+Jas	Jokubo laiskas
+Jas	Jokubo laiškas
+Jas	Jokūbo laiskas
+Jas	Jokūbo laiškas
+Jas	Jokubo
+Jas	Jokūbo
+Jas	Jas
+Jas	Jok
+Jdt	Jdt
+Jer	Jeremijo knyga
+Jer	Jeremijo
+Jer	Jer
+Job	Jobo knyga
+Job	Jobo
+Job	Job
+Joel	Joelio knyga
+Joel	Joelio
+Joel	Joel
+Joel	Jl
+John	Evangelija pagal Jona
+John	Evangelija pagal Joną
+John	John
+John	Jono
+John	Jn
+Jonah	Jonos knyga
+Jonah	Jonah
+Jonah	Jonos
+Jonah	Jon
+Josh	Jozues knyga
+Josh	Jozuės knyga
+Josh	Jozues
+Josh	Jozuės
+Josh	Josh
+Josh	Joz
+Jude	Judo laiskas
+Jude	Judo laiškas
+Jude	Jude
+Jude	Judo
+Jude	Jud
+Judg	Teiseju knyga
+Judg	Teisejų knyga
+Judg	Teisėju knyga
+Judg	Teisėjų knyga
+Judg	Teiseju
+Judg	Teisejų
+Judg	Teisėju
+Judg	Teisėjų
+Judg	Judg
+Judg	Ts
+Lam	Raudu knyga
+Lam	Raudų knyga
+Lam	Raudu
+Lam	Raudų
+Lam	Lam
+Lam	Rd
+Lev	Kunigu knyga
+Lev	Kunigų knyga
+Lev	Kunigu
+Lev	Kunigų
+Lev	Kun
+Lev	Lev
+Luke	Evangelija pagal Luka
+Luke	Evangelija pagal Luką
+Luke	Luke
+Luke	Luko
+Luke	Lk
+Mal	Malachijo knyga
+Mal	Malachijo
+Mal	Mal
+Mark	Evangelija pagal Morku
+Mark	Evangelija pagal Morkų
+Mark	Morkaus
+Mark	Mark
+Mark	Mk
+Matt	Evangelija pagal Mata
+Matt	Evangelija pagal Matą
+Matt	Mato
+Matt	Matt
+Matt	Mt
+Mic	Michejo knyga
+Mic	Michėjo knyga
+Mic	Michejo
+Mic	Michėjo
+Mic	Mch
+Mic	Mic
+Nah	Nahumo knyga
+Nah	Nahumo
+Nah	Nah
+Neh	Nehemijo knyga
+Neh	Nehemijo
+Neh	Neh
+Num	Skaiciu knyga
+Num	Skaicių knyga
+Num	Skaičiu knyga
+Num	Skaičių knyga
+Num	Skaiciu
+Num	Skaicių
+Num	Skaičiu
+Num	Skaičių
+Num	Num
+Num	Sk
+Obad	Abdijo knyga
+Obad	Abdijo
+Obad	Obad
+Obad	Abd
+Phil	Laiskas filipieciams
+Phil	Laiskas filipiečiams
+Phil	Laiškas filipieciams
+Phil	Laiškas filipiečiams
+Phil	Filipieciams
+Phil	Filipiečiams
+Phil	Phil
+Phil	Fil
+Phlm	Laiskas Filemonui
+Phlm	Laiškas Filemonui
+Phlm	Filemonui
+Phlm	Phlm
+Phlm	Fm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Patarliu knyga
+Prov	Patarlių knyga
+Prov	Patarliu
+Prov	Patarlių
+Prov	Prov
+Prov	Pat
+Ps	Psalmynas
+Ps	Ps
+Rev	Apreiskimas Jonui
+Rev	Apreiškimas Jonui
+Rev	Apreiskimo Jonui
+Rev	Apreiškimo Jonui
+Rev	Apr
+Rev	Rev
+Rom	Laiskas romieciams
+Rom	Laiskas romiečiams
+Rom	Laiškas romieciams
+Rom	Laiškas romiečiams
+Rom	Romieciams
+Rom	Romiečiams
+Rom	Rom
+Ruth	Rutos knyga
+Ruth	Rūtos knyga
+Ruth	Rutos
+Ruth	Rūtos
+Ruth	Ruth
+Ruth	Rut
+Ruth	Rūt
+SgThree	SgThree
+Sir	Sir
+Song	Giesmiu giesmes knyga
+Song	Giesmiu giesmės knyga
+Song	Giesmių giesmes knyga
+Song	Giesmių giesmės knyga
+Song	Giesmiu giesmes
+Song	Giesmiu giesmės
+Song	Giesmių giesmes
+Song	Giesmių giesmės
+Song	Song
+Song	Gg
+Sus	Sus
+Titus	Laiskas Titui
+Titus	Laiškas Titui
+Titus	Titui
+Titus	Titus
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Zacharijo knyga
+Zech	Zacharijo
+Zech	Zech
+Zech	Zch
+Zeph	Sofonijo knyga
+Zeph	Sofonijo
+Zeph	Zeph
+Zeph	Sof

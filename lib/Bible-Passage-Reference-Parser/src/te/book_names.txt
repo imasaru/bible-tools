@@ -1,0 +1,292 @@
+1Chr	1 దినవృత్తాంతములు
+1Chr	1 దినవృత్తాంతాలు
+1Chr	1దినవృత్తా
+1Chr	1 దిన
+1Chr	1Chr
+1Chr	1దిన
+1Cor	కొరింతీయులకు రాసిన మొదటి పత్రిక
+1Cor	1 కొరింతీ పత్రిక
+1Cor	1 కొరింథీయులకు
+1Cor	1కొరింతీ
+1Cor	1కొరింథి
+1Cor	1Cor
+1Esd	1Esd
+1John	యోహాను రాసిన మొదటి పత్రిక
+1John	1 యోహాను పత్రిక
+1John	1 యోహాను
+1John	1John
+1John	1యోహా
+1Kgs	1 రాజులు
+1Kgs	1రాజులు
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	పేతురు రాసిన మొదటి పత్రిక
+1Pet	1 పేతురు పత్రిక
+1Pet	1 పేతురు
+1Pet	1పేతురు
+1Pet	1పేతు
+1Pet	1Pet
+1Sam	1 సమూయేలు
+1Sam	1 సమూ
+1Sam	1Sam
+1Sam	1సమూ
+1Thess	తెస్సలోనికయులకు రాసిన మొదటి పత్రిక
+1Thess	1 తెస్సలోనిక పత్రిక
+1Thess	1 థెస్సలొనీకయులకు
+1Thess	1థెస్సలో
+1Thess	1Thess
+1Thess	1తెస్స
+1Tim	తిమోతికి రాసిన మొదటి పత్రిక
+1Tim	1 తిమోతి పత్రిక
+1Tim	1 తిమోతికి
+1Tim	1తిమోతి
+1Tim	1తిమో
+1Tim	1Tim
+2Chr	2 దినవృత్తాంతములు
+2Chr	2 దినవృత్తాంతాలు
+2Chr	2దినవృత్తా
+2Chr	2 దిన
+2Chr	2Chr
+2Chr	2దిన
+2Cor	కొరింతీయులకు రాసిన రెండవ పత్రిక
+2Cor	2 కొరింతీ పత్రిక
+2Cor	2 కొరింథీయులకు
+2Cor	2కొరింతీ
+2Cor	2కొరింథి
+2Cor	2Cor
+2Esd	2Esd
+2John	యోహాను రాసిన రెండవ పత్రిక
+2John	2 యోహాను పత్రిక
+2John	2 యోహాను
+2John	2John
+2John	2యోహా
+2Kgs	2 రాజులు
+2Kgs	2రాజులు
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	పేతురు రాసిన రెండవ పత్రిక
+2Pet	2 పేతురు పత్రిక
+2Pet	2 పేతురు
+2Pet	2పేతురు
+2Pet	2పేతు
+2Pet	2Pet
+2Sam	2 సమూయేలు
+2Sam	2 సమూ
+2Sam	2Sam
+2Sam	2సమూ
+2Thess	తెస్సలోనికయులకు రాసిన రెండవ పత్రిక
+2Thess	2 తెస్సలోనిక పత్రిక
+2Thess	2 థెస్సలొనీకయులకు
+2Thess	2థెస్సలో
+2Thess	2Thess
+2Thess	2తెస్స
+2Tim	తిమోతికి రాసిన రెండవ పత్రిక
+2Tim	2 తిమోతి పత్రిక
+2Tim	2 తిమోతికి
+2Tim	2తిమోతి
+2Tim	2తిమో
+2Tim	2Tim
+3John	యోహాను రాసిన మూడవ పత్రిక
+3John	3 యోహాను పత్రిక
+3John	3 యోహాను
+3John	3John
+3John	3యోహా
+3Macc	3Macc
+4Macc	4Macc
+Acts	అపొస్తలుల కార్యములు
+Acts	అపొ.కా
+Acts	అపొకా
+Acts	Acts
+Amos	ఆమోసు
+Amos	Amos
+Amos	ఆమో
+Bar	Bar
+Bel	Bel
+Col	కొలస్సయులకు రాసిన పత్రిక
+Col	కొలస్సీ పత్రిక
+Col	కొలొస్సయులకు
+Col	కొలస్సీ
+Col	కొలస్స
+Col	Col
+Dan	దానియేలు
+Dan	దాని
+Dan	Dan
+Deut	ద్వితీయోపదేశ కాండము
+Deut	ద్వితీయోపదేశకాండము
+Deut	ద్వితి
+Deut	ద్వితీ
+Deut	Deut
+Eccl	ప్రసంగి
+Eccl	Eccl
+Eccl	ప్రస
+EpJer	EpJer
+Eph	ఎఫెసీయులకు రాసిన పత్రిక
+Eph	ఎఫెసీ పత్రిక
+Eph	ఎఫెసీయులకు
+Eph	ఎఫెసి
+Eph	ఎఫెసీ
+Eph	Eph
+Esth	ఎస్తేరు
+Esth	ఎస్తే
+Esth	Esth
+Exod	నిర్గమకాండము
+Exod	నిర్గమకాండం
+Exod	నిర్గమ
+Exod	నిర్గ
+Exod	Exod
+Ezek	యెహెజ్కేలు
+Ezek	Ezek
+Ezek	యెహె
+Ezra	ఎజ్రా
+Ezra	Ezra
+Gal	గలతీయులకు రాసిన పత్రిక
+Gal	గలతీ పత్రిక
+Gal	గలతీయులకు
+Gal	గలతి
+Gal	గలతీ
+Gal	Gal
+Gen	ఆదికాండము
+Gen	ఆదికాండం
+Gen	Gen
+Gen	ఆది
+GkEsth	GkEsth
+Hab	హబక్కూకు
+Hab	Hab
+Hab	హబ
+Hag	హగ్గయి
+Hag	హగ్గ
+Hag	Hag
+Heb	హెబ్రీయులకు రాసిన పత్రిక
+Heb	హెబ్రీ పత్రిక
+Heb	హెబ్రీయులకు
+Heb	హెబ్రి
+Heb	హెబ్రీ
+Heb	Heb
+Hos	హోషేయ
+Hos	హోషే
+Hos	Hos
+Isa	యెషయా
+Isa	Isa
+Isa	యెష
+Jas	యాకోబు రాసిన పత్రిక
+Jas	యాకోబు పత్రిక
+Jas	యాకోబు
+Jas	యాకో
+Jas	Jas
+Jdt	Jdt
+Jer	యిర్మియా
+Jer	యిర్మీయా
+Jer	యిర్మి
+Jer	యిర్మీ
+Jer	Jer
+Job	యోబు
+Job	Job
+Joel	యోవేలు
+Joel	Joel
+Joel	యోవే
+John	యోహాను రాసిన సువార్త
+John	యోహాను
+John	John
+John	యోహా
+Jonah	Jonah
+Jonah	యోనా
+Josh	యెహోషువ
+Josh	Josh
+Josh	యెహో
+Jude	యూదా రాసిన పత్రిక
+Jude	యూదా పత్రిక
+Jude	Jude
+Jude	యూదా
+Judg	న్యాయాధిపతులు
+Judg	న్యాయాధి
+Judg	న్యాయా
+Judg	Judg
+Lam	విలాపవాక్యములు
+Lam	విలాపవాక్యాలు
+Lam	విలాప
+Lam	Lam
+Lev	లేవీయకాండము
+Lev	లేవీకాండం
+Lev	లేవి
+Lev	లేవీ
+Lev	Lev
+Luke	లూకా రాసిన సువార్త
+Luke	Luke
+Luke	లూకా
+Mal	మలాకి
+Mal	మలాకీ
+Mal	Mal
+Mal	మలా
+Mark	మార్కు రాసిన సువార్త
+Mark	మార్కు
+Mark	Mark
+Matt	మత్తయి రాసిన సువార్త
+Matt	మత్తయి
+Matt	Matt
+Matt	మత్త
+Mic	మీకా
+Mic	Mic
+Nah	నహూము
+Nah	Nah
+Nah	నహూ
+Neh	నెహెమ్యా
+Neh	నెహె
+Neh	Neh
+Num	సంఖ్యాకాండము
+Num	సంఖ్యాకాండం
+Num	సంఖ్యా
+Num	Num
+Obad	ఓబద్యా
+Obad	Obad
+Phil	ఫిలిప్పీయులకు రాసిన పత్రిక
+Phil	ఫిలిప్పీ పత్రిక
+Phil	ఫిలిప్పీయులకు
+Phil	ఫిలిప్పి
+Phil	ఫిలిప్పీ
+Phil	Phil
+Phlm	ఫిలేమోనుకు రాసిన పత్రిక
+Phlm	ఫిలేమోను పత్రిక
+Phlm	ఫిలేమోనుకు
+Phlm	Phlm
+Phlm	ఫిలే
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	సామెతలు
+Prov	సామెత
+Prov	Prov
+Prov	సామె
+Ps	కీర్తనలు
+Ps	కీర్తన
+Ps	కీర్త
+Ps	Ps
+Rev	యోహాను రాసిన ప్రకటన గ్రంథం
+Rev	ప్రకటన గ్రంథం
+Rev	ప్రకటన
+Rev	ప్రక
+Rev	Rev
+Rom	రోమీయులకు రాసిన పత్రిక
+Rom	రోమా పత్రిక
+Rom	రోమా
+Rom	Rom
+Ruth	Ruth
+Ruth	రూతు
+SgThree	SgThree
+Sir	Sir
+Song	పరమగీతము
+Song	పరమగీతం
+Song	Song
+Song	పరమ
+Sus	Sus
+Titus	తీతుకు రాసిన పత్రిక
+Titus	తీతు పత్రిక
+Titus	తీతుకు
+Titus	Titus
+Titus	తీతు
+Tob	Tob
+Wis	Wis
+Zech	జెకర్యా
+Zech	Zech
+Zech	జెక
+Zeph	జెఫన్యా
+Zeph	Zeph
+Zeph	జెఫ

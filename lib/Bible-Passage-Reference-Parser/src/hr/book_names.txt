@@ -48,7 +48,12 @@
 1John	1John
 1John	1 Iv
 1Kgs	Prva knjiga o Kraljevima
+1Kgs	Prva O Kraljevima
+1Kgs	1. O Kraljevima
+1Kgs	I. O Kraljevima
 1Kgs	Prva Kraljevima
+1Kgs	1 O Kraljevima
+1Kgs	I O Kraljevima
 1Kgs	1. Kraljevima
 1Kgs	I. Kraljevima
 1Kgs	1 Kraljevima
@@ -158,7 +163,12 @@
 2John	2John
 2John	2 Iv
 2Kgs	Druga knjiga o Kraljevima
+2Kgs	Druga O Kraljevima
 2Kgs	Druga Kraljevima
+2Kgs	II. O Kraljevima
+2Kgs	2. O Kraljevima
+2Kgs	II O Kraljevima
+2Kgs	2 O Kraljevima
 2Kgs	II. Kraljevima
 2Kgs	2. Kraljevima
 2Kgs	II Kraljevima
@@ -244,6 +254,7 @@
 4Macc	4 Mak
 4Macc	4Macc
 Acts	Djela apostolska
+Acts	Djela
 Acts	Acts
 Acts	Dj
 Amos	Amos
@@ -354,6 +365,7 @@ Josh	Jš
 Jude	Poslanica Jude apostola
 Jude	Judina poslanica
 Jude	Judina
+Jude	Juda
 Jude	Jude
 Jude	Jd
 Judg	Knjiga o Sucima
@@ -418,6 +430,7 @@ PrAzar	PrAzar
 PrMan	PrMan
 Prov	Mudre izreke
 Prov	Poslovice
+Prov	Izreke
 Prov	Prov
 Prov	Izr
 Ps	Psalam

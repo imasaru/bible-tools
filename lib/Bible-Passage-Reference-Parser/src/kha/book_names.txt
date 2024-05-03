@@ -1,0 +1,255 @@
+1Chr	1 Ki Khronikl
+1Chr	1 Khronikl
+1Chr	1Khronikl
+1Chr	1 Khro
+1Chr	1Khro
+1Chr	1Chr
+1Cor	1 Sha Ki Nong Korinth
+1Cor	1 Korinth
+1Cor	1Korinth
+1Cor	1 Kor
+1Cor	1Cor
+1Cor	1Kor
+1Esd	1Esd
+1John	1 Ioannis
+1John	1 Ïoannis
+1John	1Ioannis
+1John	1Ïoannis
+1John	1John
+1John	1 Io
+1John	1Io
+1Kgs	1 Ki Syiem
+1Kgs	1 Syiem
+1Kgs	1Syiem
+1Kgs	1Kgs
+1Macc	1Macc
+1Pet	1 U Petros
+1Pet	1 Petros
+1Pet	1 Pet
+1Pet	1Pet
+1Sam	1 Samuel
+1Sam	1Samuel
+1Sam	1 Sam
+1Sam	1Sam
+1Thess	1 Sha Ki Thessaloni
+1Thess	1 Thessaloni
+1Thess	1 Thes
+1Thess	1Thess
+1Tim	1 Sha U Timothi
+1Tim	1 Timothi
+1Tim	1Timothi
+1Tim	1 Tim
+1Tim	1Tim
+2Chr	2 Ki Khronikl
+2Chr	2 Khronikl
+2Chr	2Khronikl
+2Chr	2 Khro
+2Chr	2Khro
+2Chr	2Chr
+2Cor	2 Sha Ki Nong Korinth
+2Cor	2 Korinth
+2Cor	2Korinth
+2Cor	2 kor
+2Cor	2Cor
+2Cor	2kor
+2Esd	2Esd
+2John	2 Ioannis
+2John	2 Ïoannis
+2John	2Ioannis
+2John	2Ïoannis
+2John	2John
+2John	2 Io
+2John	2Io
+2Kgs	2 Ki Syiem
+2Kgs	2 Syiem
+2Kgs	2Syiem
+2Kgs	2Kgs
+2Macc	2Macc
+2Pet	2 U Petros
+2Pet	2 Petros
+2Pet	2 Pet
+2Pet	2Pet
+2Sam	2 Samuel
+2Sam	2Samuel
+2Sam	2 Sam
+2Sam	2Sam
+2Thess	2 Sha Ki Thessaloni
+2Thess	2 Thessaloni
+2Thess	2 Thes
+2Thess	2Thess
+2Tim	2 Sha U Timothi
+2Tim	2 Timothi
+2Tim	2Timothi
+2Tim	2 Tim
+2Tim	2Tim
+3John	3 Ioannis
+3John	3 Ïoannis
+3John	3Ioannis
+3John	3Ïoannis
+3John	3John
+3John	3 Io
+3John	3Io
+3Macc	3Macc
+4Macc	4Macc
+Acts	Ki Kam Ki Apostol
+Acts	Ki Kam
+Acts	Acts
+Amos	Amos
+Bar	Bar
+Bel	Bel
+Col	Sha Ki Kolosai
+Col	Kolossai
+Col	Kolosai
+Col	Col
+Col	Kol
+Dan	Daniel
+Dan	Dan
+Deut	Deuteronomi
+Deut	Deut
+Eccl	U Eklesiastis
+Eccl	Ekklesiastis
+Eccl	Eccl
+Eccl	Ekle
+EpJer	EpJer
+Eph	Sha Ki Ephesos
+Eph	Ephesos
+Eph	Eph
+Esth	Esther
+Esth	Esth
+Exod	Eksodos
+Exod	Eksod
+Exod	Exod
+Ezek	Esekiel
+Ezek	Ezek
+Ezra	Esra
+Ezra	Ezra
+Gal	Sha ki Galatia
+Gal	Galatia
+Gal	Gal
+Gen	Genesis
+Gen	Jenesis
+Gen	Gen
+Gen	Jen
+GkEsth	GkEsth
+Hab	Habakkuk
+Hab	Habakuk
+Hab	Hab
+Hag	Haggai
+Hag	Hag
+Heb	Sha Ki Hebru
+Heb	Hebru
+Heb	Heb
+Hos	Hosea
+Hos	Hosia
+Hos	Hos
+Isa	Isaiah
+Isa	Isaïah
+Isa	Isa
+Jas	U Jakob
+Jas	Jakob
+Jas	Jas
+Jas	Jkb
+Jdt	Jdt
+Jer	Jeremaiah
+Jer	Jeremaïah
+Jer	Jeremiah
+Jer	Jer
+Job	Job
+Joel	Joel
+John	Ioannis
+John	Ïoannis
+John	Ioanis
+John	John
+John	Io
+Jonah	Jonah
+Jonah	Jon
+Josh	Joshua
+Josh	Josh
+Jude	U Judah
+Jude	Judah
+Jude	Juda
+Jude	Jude
+Judg	Ki Nongbishar
+Judg	Nongbishar
+Judg	Nongb
+Judg	Judg
+Lam	Ka JIngrwai Sngewsynei
+Lam	Sngewsynei
+Lam	Lam
+Lev	Lebitikos
+Lev	Leb
+Lev	Lev
+Luke	Loukas
+Luke	Lukas
+Luke	Luke
+Luke	Lk
+Mal	Malakhi
+Mal	Mal
+Mark	Markos
+Mark	Mark
+Mark	Mk
+Matt	Mathaios
+Matt	Mathaïos
+Matt	Matt
+Matt	Mt
+Mic	Mikah
+Mic	Mic
+Mic	Mik
+Nah	Nahum
+Nah	Nah
+Neh	Nehemaiah
+Neh	Nehemaïah
+Neh	Nehe
+Neh	Neh
+Num	Jingkhein
+Num	Jingkheiñ
+Num	Jingk
+Num	Num
+Obad	Obadaiah
+Obad	Obadaïah
+Obad	Obad
+Phil	Sha Ki Philipi
+Phil	Philippi
+Phil	Phil
+Phlm	Sha U Philemon
+Phlm	Philemon
+Phlm	Phile
+Phlm	Phlm
+PrAzar	PrAzar
+PrMan	PrMan
+Prov	Ki Proberb
+Prov	Proberb
+Prov	Prob
+Prov	Prov
+Ps	Ki Salm
+Ps	Salm
+Ps	Ps
+Rev	Ka Jingpynpaw
+Rev	Jingpynpaw
+Rev	Jpw
+Rev	Rev
+Rom	Ka Shithi Sha Ki Nongrom
+Rom	Rom
+Ruth	Ruth
+SgThree	SgThree
+Sir	Sir
+Song	Ka Jingrwai U Solomon
+Song	Jingrwai Solomon
+Song	Jingrwai
+Song	Song
+Sus	Sus
+Titus	Sha U Titos
+Titus	Titos
+Titus	Titus
+Titus	Tit
+Tob	Tob
+Wis	Wis
+Zech	Sekharaiah
+Zech	Sekharaïah
+Zech	Sekhariah
+Zech	Sekh
+Zech	Zech
+Zeph	Sephanaiah
+Zeph	Sephanaïah
+Zeph	Seph
+Zeph	Zeph
