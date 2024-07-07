@@ -1,0 +1,66 @@
+var book = {
+	"name": "Sofoniáš",
+	"numChapters": 3,
+	"chapters": {
+		"1": {
+			"1": "<sup>1</sup> Slovo JeHoVaHovo, ktoré sa stalo k Sofoniášovi, synovi Kúšiho, syna Gedaliášovho, syna Amariáša, syna Ezechiášovho, za dní Joziáša, syna Amonovho, judského kráľa.",
+			"2": "<sup>2</sup> Odpratať, áno, odpracem všetko s povrchu zeme, hovorí JeHoVaH.",
+			"3": "<sup>3</sup> Odpracem človeka i hovädo, odpracem nebeské vtáctvo i morské ryby i pohoršenia spolu s bezbožníkmi a vyplienim človeka s povrchu zeme, hovorí JeHoVaH.",
+			"4": "<sup>4</sup> A vystriem svoju ruku Júdu i na všetkých obyvateľov Jeruzalema a vyplienim z tohoto miesta ostatok Bála, meno kňazov slnka s <i>inými</i> kňazmi,",
+			"5": "<sup>5</sup> i tých, ktorí a klaňajú na postrešiach nebeskému vojsku, i tých, ktorí sa klaňajú JeHoVaHovi, ktorí prisahajú na neho, a ktorí prisahajú na svojho kráľa, <i>Molocha</i>,",
+			"6": "<sup>6</sup> i tých, ktorí odchádzajú zpät, aby nenasledovali JeHoVaHa, a ktorí nehľadajú JeHoVaHa ani sa nepýtajú po ňom.",
+			"7": "<sup>7</sup> Mlč pred tvárou Pána JeHoVaHa, lebo je blízko deň JeHoVaHov, lebo JeHoVaH pripravil bitnú obeť, posvätil svojich povolaných.",
+			"8": "<sup>8</sup> A stane sa v deň bitnej obeti JeHoVaHovej, že navštívim <i>neprávosť</i> na kniežatách i na synoch kráľových i na všetkých tých, ktorí <i>si</i> obliekajú rúcho cudzozemca.",
+			"9": "<sup>9</sup> A navštívim <i>neprávosť</i> na každom, kto vyskakuje na prah, toho dňa, <i>na tých</i>, ktorí naplňujú dom svojich pánov ukrutnosťou a lsťou.",
+			"10": "<sup>10</sup> A povstane toho dňa, hovorí JeHoVaH, hlas kriku od Rybnej brány a kvílenie od druhej <i>strany</i>, a <i>bude</i> veľké skrúšenie od brehov.",
+			"11": "<sup>11</sup> Kvíľte, obyvatelia mažiara, lebo <i>bude zničený a tak</i> zamĺkne všetok ľud kramára; vyplienení budú všetci obtiažení striebrom.",
+			"12": "<sup>12</sup> A stane sa toho času, <i>že</i> prehľadám Jeruzalem s lampášami a navštívim <i>neprávosť</i> na mužoch, ktorí sedia skrčení na svojich kvasniciach, ktorí hovoria vo svojom srdci: JeHoVaH ne<i>u</i>činí <i>ani</i> dobrého ani ne<i>u</i>činí zlého.",
+			"13": "<sup>13</sup> Ale ich majetok bude na rozchvat a ich domy <i>budú obrátené</i> na strašnú púšť. Lebo staväjú domy, ale nebudú bývať <i>v nich</i>, a sadia vinice, ale nebudú piť ich vína.",
+			"14": "<sup>14</sup> Blízko je deň JeHoVaHov, veľký, blízko a <i>prijde</i> veľmi rýchle. <i>Čujte</i>, hlas dňa JeHoVaHovho! Horko tam bude kričať hrdina.",
+			"15": "<sup>15</sup> Ten deň <i>bude</i> dňom prchkého hnevu, dňom úzkosti a súženia, dňom búrky a pustošenia, dňom tmy a hustého mraku, dňom oblaku a mrákavy,",
+			"16": "<sup>16</sup> dňom trúby a surmy proti ohradeným mestám a proti vysokým uhlom.",
+			"17": "<sup>17</sup> A sovriem človeka úzkosťou, a budú chodiť ako slepí, pretože hrešili <i>proti</i> JeHoVaHovi, a ich krv bude vyliata jako prach, a ich telá <i>budú</i> jako lajná.",
+			"18": "<sup>18</sup> Ani ich striebro ani ich zlato nebude ich môcť vytrhnúť v deň prhkého hnevu JeHoVaHovho, a ohňom jeho žiarlivosti bude strávená celá zem, pretože koniec, ale hrozný, učiní všetkým obyvateľom zeme."
+		},
+		"2": {
+			"1": "<sup>1</sup> Zoberte sa <i>a vstúpte so seba</i>, národe, ktorý nemá studu,",
+			"2": "<sup>2</sup> prv ako porodí <i>to</i>, <i>čo je</i> ustanovené, pominie deň ako pleva; prv ako prijde na vás páľa hnevu JeHoVaHovho, prv ako prijde na vás deň hnevu JeHoVaHovho.",
+			"3": "<sup>3</sup> Hľadajte JeHoVaHa, všetci pokorní zeme, ktorí konáte jeho súd! Hľadajte spravedlivosť, hľadajte pokoru, snáď sa <i>nejako</i> ukryjete v deň hnevu JeHoVaHovho.",
+			"4": "<sup>4</sup> Lebo Azza azúba, <i>Gaza bude opustená</i>, a Aškalon <i>bude obrátený</i> na pustinu; Ašdód, na poludnie ho zaženú, a Ekron teakér, <i>Ekron bude vykorenený</i>.",
+			"5": "<sup>5</sup> Beda tým, ktorí bývajú na pomorí, národu Keréťanov! Slovo JeHoVaHovo proti vám, Kanaáne, zem Filištínov! A zahubím ťa <i>natoľko</i>, že nebude obyvateľa.",
+			"6": "<sup>6</sup> A tak bude pomorie pastviskami, <i>plné</i> jám pastierov a košiarov drobného stáda.",
+			"7": "<sup>7</sup> A bude údelom ostatku domu Júdovho; na nich budú pásť; v domoch Aškalona sa budú klásť večer <i>na odpočinok</i>, lebo ich navštívi JeHoVaH, ich Bôh, a dovedie zpät ich zajatých.",
+			"8": "<sup>8</sup> Počul som potupu Moábovu a rúhania synov Ammonových, ktorí potupovali môj ľud a honosili sa proti ich územiu.",
+			"9": "<sup>9</sup> Preto <i>jako že</i> ja žijem, hovorí JeHoVaH Zástupov, Bôh Izraelov, že Moáb bude jako Sodoma a synovia Ammonovi jako Gomora, vlastníctvom tŕnia a dolom soli a pustinou až na veky. Ostatok môjho ľudu, <i>tí</i> ich vylúpia, a zbytok môjho národa, <i>tí</i> ich zdedia.",
+			"10": "<sup>10</sup> Toto im <i>bude</i> za ich pýchu, pretože potupovali a <i>vypínajúc sa</i> honosili sa proti ľudu JeHoVaHa Zástupov.",
+			"11": "<sup>11</sup> Strašný <i>bude</i> JeHoVaH na nich, lebo vyničí všetkých bohov zeme, a budú sa mu klaňať každý zo svojho miesta, všetky ostrovy národov.",
+			"12": "<sup>12</sup> Aj vy, Ethiopovia, budete pobití mojím mečom.",
+			"13": "<sup>13</sup> A vystrie svoju ruku na sever, zaubí Assúra a obráti Nivive na pustinu, vypráhlu jako púšť.",
+			"14": "<sup>14</sup> A budú sa prostred neho rozkladať stáda, všelijaké šelmy národa, i pelikán i jež; budú nocovať na jeho hlaviciach; hlas speváka v obloku, spustošenie na prahu, lebo obnaží jeho cedrinu.",
+			"15": "<sup>15</sup> Toto je to plesajúce mesto, ktoré býva<i>lo</i> bezpečne, ktoré hovorilo vo svojom srdci: Ja a niktoré viacej! <i>Oj</i>, ako je obrátené na púšť, pelechom <i>je</i> divej zveri; každý, kto pojde popri ňom, zapískne <i>a</i> mávne svojou rukou."
+		},
+		"3": {
+			"1": "<sup>1</sup> Beda tomu odbojnému, poškvrnenému a utiskujúcemu mestu!",
+			"2": "<sup>2</sup> Nepočúvalo na hlas, neprijalo kázne, nedúfalo v JeHoVaHa, nepriblížilo sa k svojmu Bohu.",
+			"3": "<sup>3</sup> Jeho kniežatá v jeho strede <i>sú</i> revúcimi ľvami, jeho sudcovia vlkmi večera, <i>hltaví súc</i> neponechajú <i>ani</i> kosti do rána.",
+			"4": "<sup>4</sup> Jeho proroci sú ľahkomyseľní, mužovia vierolomných <i>žien</i>, jeho kňazi poškvrňujú svätyňu, násilie robia zákonu.",
+			"5": "<sup>5</sup> JeHoVaH <i>je</i> spravedlivý v jeho strede, neučiní neprávosti, ráno jako ráno vynáša svoj súd na svetlo; nevystane; ale nešľachetník nezná hanby.",
+			"6": "<sup>6</sup> Vyplienil som národy, spustly ich uhly, vypustošil som ich ulice, takže nie je toho, kto by išiel nimi; ich mestá sú spustošené, takže nieto človeka, niet obyvateľa.",
+			"7": "<sup>7</sup> Povedal som: Istotne sa ma budeš báť, prijmeš kázeň. A <i>reku</i> nebude vyplienený jej príbytok všetkým tým, čím ju <i>ináče</i> navštívim. Ale <i>oni</i> hneď ako vstanú, od skorého rána robia porušene, <i>a také</i> sú <i>aj</i> všetky ich skutky.",
+			"8": "<sup>8</sup> Preto očakávajte na mňa, hovori JeHoVaH, na deň, <i>ktorého</i> povstanem na lúpež; lebo môj súd <i>je</i> spratať národy, aby som shromaždil kráľovstvá nato, aby som vylial na nich svoj zúrivý hnev, všetku páľu svojho hnevu, pretože ohňom mojej žiarlivosti strávená bude celá zem.",
+			"9": "<sup>9</sup> Lebo vtedy národom čisté rty, aby všetci vzývali meno JeHoVaHovo, aby mu slúžili <i>jako</i> jedno plece.",
+			"10": "<sup>10</sup> Zpoza riek Ethiopie, moji modlitebníci, <i>modlitebníci</i> dcéry mojich rozptýlených, donesú môj obetný dar obilný.",
+			"11": "<sup>11</sup> Toho dňa sa <i>už</i> nebudeš hanbiť za niktoré svoje skutky, ktorými si sa dopúšťala prestúpenia proti mne; lebo vtedy odstránim z tvojho stredu tých, ktorí plesajú <i>v</i> tvojej pýche, a nebudeš sa už viac povyšovať na vrchu mojej svätosti.",
+			"12": "<sup>12</sup> A zanechám v tvojom strede ostatok, chudobný ľud a núdzny, a budú sa nadejať na meno JeHoVaHovo.",
+			"13": "<sup>13</sup> Ostatok Izraela neučinia neprávosti ani nebudú hovoriť lži, ani sa nenajde v ich ústach jazyk ľsti; ale oni sa budú pásť a kladúc sa budú odpočívať, a nebude toho, kto by prestrašil.",
+			"14": "<sup>14</sup> Vyspevuj, dcéro Siona! Pokrikuj radostne, Izraelu! Raduj sa a plesaj celým srdcom, dcéro Jeruzalema!",
+			"15": "<sup>15</sup> JeHoVaH odstránil tvoje súdy, odpratal tvojho nepriateľa; kráľ Izraelov, JeHoVaH, <i>je</i> v tvojom strede; nebudeš sa už viacej báť zlého.",
+			"16": "<sup>16</sup> Toho dňa sa povie Jeruzalemu: Neboj sa! Sionu: Nech nezomdlievajú tvoje ruky!",
+			"17": "<sup>17</sup> JeHoVaH, tvoj Bôh <i>je</i> v tvojom strede, <i>udatný</i> hrdina, <i>ktorý</i> zachráni. Veseliť sa bude nad tebou radosťou, mlčať bude vo svojej láske, bude plesať nad tebou s prespevovaním.",
+			"18": "<sup>18</sup> Smutných pre slávnosť odpracem; z teba sú, bremenom, preto potupou.",
+			"19": "<sup>19</sup> Hľa, budem konať so všetkými tými, ktorí ťa trápia, toho času, a zachránim kulhavú a zahnanú shromaždím a učiním to, že budú na chválu a na <i>slávne</i> meno po všetkej zemi, kde <i>niesli</i> svoju hanbu.",
+			"20": "<sup>20</sup> Toho času vás dovediem, a <i>to</i> času, <i>ktorého</i> vás shromaždím, lebo vás dám na <i>slávne</i> meno a na chválu medzi všetkými národami zeme, keď navrátim zpät vašich zajatých pred vašimi očami, hovorí JeHoVaH."
+		}
+	}
+};
+module.exports = book;
